@@ -1,0 +1,31 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Source media (too large, not needed for site)
+source_media/
+
+# Root level clips/data (old project, not needed)
+/clips/
+/data.json
+/segments.json
+
+# Temporarily exclude most nier sections for faster test upload
+nier/01_*/
+nier/02_*/
+nier/03_*/
+nier/04_*/
+nier/05_*/
+nier/06_*/
+nier/07_*/
+nier/08_*/
+nier/09_*/
+nier/1*/
+nier/2*/
