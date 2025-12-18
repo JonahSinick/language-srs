@@ -1,15 +1,31 @@
 [
   {
-    "start": "00:01",
+    "start": "00:00",
     "end": "00:05",
     "text": "Capítulo 3 / Escapar / El granero era muy grande.",
     "audio_file": "clip_000.mp3",
     "translation": "Chapter 3 / Escape / The barn was very large.",
     "vocabulary": [
-      {"word": "el capítulo", "reading": "", "meaning": "chapter"},
-      {"word": "escapar", "reading": "", "meaning": "to escape"},
-      {"word": "el granero", "reading": "", "meaning": "barn"},
-      {"word": "grande", "reading": "", "meaning": "large, big"}
+      {
+        "word": "el capítulo",
+        "reading": "",
+        "meaning": "chapter"
+      },
+      {
+        "word": "escapar",
+        "reading": "",
+        "meaning": "to escape"
+      },
+      {
+        "word": "el granero",
+        "reading": "",
+        "meaning": "barn"
+      },
+      {
+        "word": "grande",
+        "reading": "",
+        "meaning": "large, big"
+      }
     ],
     "grammar": "Era (imperfect of ser) used for descriptions in the past"
   },
@@ -20,13 +36,41 @@
     "audio_file": "clip_001.mp3",
     "translation": "It was very old. / It smelled of hay and it smelled of manure. / It smelled of the sweat of tired horses.",
     "vocabulary": [
-      {"word": "viejo", "reading": "", "meaning": "old"},
-      {"word": "oler (a)", "reading": "", "meaning": "to smell (of) - olía is imperfect"},
-      {"word": "el heno", "reading": "", "meaning": "hay"},
-      {"word": "el estiércol", "reading": "", "meaning": "manure, dung"},
-      {"word": "el sudor", "reading": "", "meaning": "sweat"},
-      {"word": "el caballo", "reading": "", "meaning": "horse"},
-      {"word": "cansado", "reading": "", "meaning": "tired"}
+      {
+        "word": "viejo",
+        "reading": "",
+        "meaning": "old"
+      },
+      {
+        "word": "oler (a)",
+        "reading": "",
+        "meaning": "to smell (of) - olía is imperfect"
+      },
+      {
+        "word": "el heno",
+        "reading": "",
+        "meaning": "hay"
+      },
+      {
+        "word": "el estiércol",
+        "reading": "",
+        "meaning": "manure, dung"
+      },
+      {
+        "word": "el sudor",
+        "reading": "",
+        "meaning": "sweat"
+      },
+      {
+        "word": "el caballo",
+        "reading": "",
+        "meaning": "horse"
+      },
+      {
+        "word": "cansado",
+        "reading": "",
+        "meaning": "tired"
+      }
     ],
     "grammar": "Oler a = to smell of/like something"
   },
@@ -37,15 +81,51 @@
     "audio_file": "clip_002.mp3",
     "translation": "And the wonderful sweet breath of the patient. / Cows often had a kind of peaceful smell.",
     "vocabulary": [
-      {"word": "maravilloso", "reading": "", "meaning": "wonderful, marvelous"},
-      {"word": "dulce", "reading": "", "meaning": "sweet"},
-      {"word": "el aliento", "reading": "", "meaning": "breath"},
-      {"word": "paciente", "reading": "", "meaning": "patient"},
-      {"word": "la vaca", "reading": "", "meaning": "cow"},
-      {"word": "a menudo", "reading": "", "meaning": "often"},
-      {"word": "una especie de", "reading": "", "meaning": "a kind of, a type of"},
-      {"word": "el olor", "reading": "", "meaning": "smell, odor"},
-      {"word": "apacible", "reading": "", "meaning": "peaceful, gentle, mild"}
+      {
+        "word": "maravilloso",
+        "reading": "",
+        "meaning": "wonderful, marvelous"
+      },
+      {
+        "word": "dulce",
+        "reading": "",
+        "meaning": "sweet"
+      },
+      {
+        "word": "el aliento",
+        "reading": "",
+        "meaning": "breath"
+      },
+      {
+        "word": "paciente",
+        "reading": "",
+        "meaning": "patient"
+      },
+      {
+        "word": "la vaca",
+        "reading": "",
+        "meaning": "cow"
+      },
+      {
+        "word": "a menudo",
+        "reading": "",
+        "meaning": "often"
+      },
+      {
+        "word": "una especie de",
+        "reading": "",
+        "meaning": "a kind of, a type of"
+      },
+      {
+        "word": "el olor",
+        "reading": "",
+        "meaning": "smell, odor"
+      },
+      {
+        "word": "apacible",
+        "reading": "",
+        "meaning": "peaceful, gentle, mild"
+      }
     ],
     "grammar": null
   },
@@ -56,73 +136,181 @@
     "audio_file": "clip_003.mp3",
     "translation": "As if. / Nothing bad could ever happen again in the world.",
     "vocabulary": [
-      {"word": "como si", "reading": "", "meaning": "as if"},
-      {"word": "nada", "reading": "", "meaning": "nothing"},
-      {"word": "malo", "reading": "", "meaning": "bad"},
-      {"word": "suceder", "reading": "", "meaning": "to happen, occur"},
-      {"word": "nunca más", "reading": "", "meaning": "never again"},
-      {"word": "el mundo", "reading": "", "meaning": "world"}
+      {
+        "word": "como si",
+        "reading": "",
+        "meaning": "as if"
+      },
+      {
+        "word": "nada",
+        "reading": "",
+        "meaning": "nothing"
+      },
+      {
+        "word": "malo",
+        "reading": "",
+        "meaning": "bad"
+      },
+      {
+        "word": "suceder",
+        "reading": "",
+        "meaning": "to happen, occur"
+      },
+      {
+        "word": "nunca más",
+        "reading": "",
+        "meaning": "never again"
+      },
+      {
+        "word": "el mundo",
+        "reading": "",
+        "meaning": "world"
+      }
     ],
     "grammar": "Podría (conditional of poder) - could/would be able to"
   },
   {
-    "start": "00:26",
-    "end": "00:31",
+    "start": "00:25",
+    "end": "00:32",
     "text": "Olía a grano y vestidor de arnés y de eje. / Grasa y de botas de caucho y de cuerda nueva.",
     "audio_file": "clip_004.mp3",
     "translation": "It smelled of grain and harness dressing and of axle. / Grease and of rubber boots and of new rope.",
     "vocabulary": [
-      {"word": "el grano", "reading": "", "meaning": "grain"},
-      {"word": "el arnés", "reading": "", "meaning": "harness"},
-      {"word": "el eje", "reading": "", "meaning": "axle"},
-      {"word": "la grasa", "reading": "", "meaning": "grease, fat"},
-      {"word": "la bota", "reading": "", "meaning": "boot"},
-      {"word": "el caucho", "reading": "", "meaning": "rubber"},
-      {"word": "la cuerda", "reading": "", "meaning": "rope"},
-      {"word": "nuevo", "reading": "", "meaning": "new"}
+      {
+        "word": "el grano",
+        "reading": "",
+        "meaning": "grain"
+      },
+      {
+        "word": "el arnés",
+        "reading": "",
+        "meaning": "harness"
+      },
+      {
+        "word": "el eje",
+        "reading": "",
+        "meaning": "axle"
+      },
+      {
+        "word": "la grasa",
+        "reading": "",
+        "meaning": "grease, fat"
+      },
+      {
+        "word": "la bota",
+        "reading": "",
+        "meaning": "boot"
+      },
+      {
+        "word": "el caucho",
+        "reading": "",
+        "meaning": "rubber"
+      },
+      {
+        "word": "la cuerda",
+        "reading": "",
+        "meaning": "rope"
+      },
+      {
+        "word": "nuevo",
+        "reading": "",
+        "meaning": "new"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "00:33",
+    "start": "00:32",
     "end": "00:36",
     "text": "Cada vez que el gato era dado una cabeza de pescado para comer.",
     "audio_file": "clip_005.mp3",
     "translation": "Every time the cat was given a fish head to eat.",
     "vocabulary": [
-      {"word": "cada vez que", "reading": "", "meaning": "every time that, whenever"},
-      {"word": "el gato", "reading": "", "meaning": "cat"},
-      {"word": "la cabeza", "reading": "", "meaning": "head"},
-      {"word": "el pescado", "reading": "", "meaning": "fish"},
-      {"word": "comer", "reading": "", "meaning": "to eat"}
+      {
+        "word": "cada vez que",
+        "reading": "",
+        "meaning": "every time that, whenever"
+      },
+      {
+        "word": "el gato",
+        "reading": "",
+        "meaning": "cat"
+      },
+      {
+        "word": "la cabeza",
+        "reading": "",
+        "meaning": "head"
+      },
+      {
+        "word": "el pescado",
+        "reading": "",
+        "meaning": "fish"
+      },
+      {
+        "word": "comer",
+        "reading": "",
+        "meaning": "to eat"
+      }
     ],
     "grammar": "Era dado - passive voice (was given)"
   },
   {
     "start": "00:37",
-    "end": "00:41",
+    "end": "00:42",
     "text": "El granero. / Olía a pescado. / Pero sobre todo olía a heno.",
     "audio_file": "clip_006.mp3",
     "translation": "The barn. / It smelled of fish. / But above all it smelled of hay.",
     "vocabulary": [
-      {"word": "pero", "reading": "", "meaning": "but"},
-      {"word": "sobre todo", "reading": "", "meaning": "above all, especially"}
+      {
+        "word": "pero",
+        "reading": "",
+        "meaning": "but"
+      },
+      {
+        "word": "sobre todo",
+        "reading": "",
+        "meaning": "above all, especially"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "00:43",
+    "start": "00:42",
     "end": "00:51",
     "text": "Siempre había heno en el gran loft arriba. / Y había siempre el heno que era lanzado abajo al. / Vacas y los caballos y las ovejas.",
     "audio_file": "clip_007.mp3",
     "translation": "There was always hay in the big loft above. / And there was always the hay that was thrown down to the. / Cows and the horses and the sheep.",
     "vocabulary": [
-      {"word": "siempre", "reading": "", "meaning": "always"},
-      {"word": "había", "reading": "", "meaning": "there was/were (imperfect of haber)"},
-      {"word": "arriba", "reading": "", "meaning": "above, up"},
-      {"word": "lanzar", "reading": "", "meaning": "to throw"},
-      {"word": "abajo", "reading": "", "meaning": "down, below"},
-      {"word": "la oveja", "reading": "", "meaning": "sheep"}
+      {
+        "word": "siempre",
+        "reading": "",
+        "meaning": "always"
+      },
+      {
+        "word": "había",
+        "reading": "",
+        "meaning": "there was/were (imperfect of haber)"
+      },
+      {
+        "word": "arriba",
+        "reading": "",
+        "meaning": "above, up"
+      },
+      {
+        "word": "lanzar",
+        "reading": "",
+        "meaning": "to throw"
+      },
+      {
+        "word": "abajo",
+        "reading": "",
+        "meaning": "down, below"
+      },
+      {
+        "word": "la oveja",
+        "reading": "",
+        "meaning": "sheep"
+      }
     ],
     "grammar": "Había - imperfect existential 'there was/were'"
   },
@@ -133,16 +321,56 @@
     "audio_file": "clip_008.mp3",
     "translation": "The barn was pleasantly warm in winter when the. / Animals spent most of their time cool in summer when the big doors were open to the breeze.",
     "vocabulary": [
-      {"word": "agradablemente", "reading": "", "meaning": "pleasantly"},
-      {"word": "cálido", "reading": "", "meaning": "warm"},
-      {"word": "el invierno", "reading": "", "meaning": "winter"},
-      {"word": "el animal", "reading": "", "meaning": "animal"},
-      {"word": "pasar", "reading": "", "meaning": "to spend (time)"},
-      {"word": "la mayor parte", "reading": "", "meaning": "most of, the majority"},
-      {"word": "fresco", "reading": "", "meaning": "cool, fresh"},
-      {"word": "el verano", "reading": "", "meaning": "summer"},
-      {"word": "la puerta", "reading": "", "meaning": "door"},
-      {"word": "la brisa", "reading": "", "meaning": "breeze"}
+      {
+        "word": "agradablemente",
+        "reading": "",
+        "meaning": "pleasantly"
+      },
+      {
+        "word": "cálido",
+        "reading": "",
+        "meaning": "warm"
+      },
+      {
+        "word": "el invierno",
+        "reading": "",
+        "meaning": "winter"
+      },
+      {
+        "word": "el animal",
+        "reading": "",
+        "meaning": "animal"
+      },
+      {
+        "word": "pasar",
+        "reading": "",
+        "meaning": "to spend (time)"
+      },
+      {
+        "word": "la mayor parte",
+        "reading": "",
+        "meaning": "most of, the majority"
+      },
+      {
+        "word": "fresco",
+        "reading": "",
+        "meaning": "cool, fresh"
+      },
+      {
+        "word": "el verano",
+        "reading": "",
+        "meaning": "summer"
+      },
+      {
+        "word": "la puerta",
+        "reading": "",
+        "meaning": "door"
+      },
+      {
+        "word": "la brisa",
+        "reading": "",
+        "meaning": "breeze"
+      }
     ],
     "grammar": null
   },
@@ -153,10 +381,26 @@
     "audio_file": "clip_009.mp3",
     "translation": "The barn had stalls on the main floor for the work horses.",
     "vocabulary": [
-      {"word": "el puesto", "reading": "", "meaning": "stall, stand, position"},
-      {"word": "el piso", "reading": "", "meaning": "floor"},
-      {"word": "principal", "reading": "", "meaning": "main, principal"},
-      {"word": "el trabajo", "reading": "", "meaning": "work"}
+      {
+        "word": "el puesto",
+        "reading": "",
+        "meaning": "stall, stand, position"
+      },
+      {
+        "word": "el piso",
+        "reading": "",
+        "meaning": "floor"
+      },
+      {
+        "word": "principal",
+        "reading": "",
+        "meaning": "main, principal"
+      },
+      {
+        "word": "el trabajo",
+        "reading": "",
+        "meaning": "work"
+      }
     ],
     "grammar": "Tenía - imperfect of tener (had)"
   },
@@ -167,58 +411,146 @@
     "audio_file": "clip_010.mp3",
     "translation": "Tie-ups on the floor for the cows. / A sheep pen below for sheep. / A pigpen below for Wilbur.",
     "vocabulary": [
-      {"word": "el suelo", "reading": "", "meaning": "floor, ground"},
-      {"word": "el cerdito", "reading": "", "meaning": "piglet, little pig"}
+      {
+        "word": "el suelo",
+        "reading": "",
+        "meaning": "floor, ground"
+      },
+      {
+        "word": "el cerdito",
+        "reading": "",
+        "meaning": "piglet, little pig"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "01:20",
+    "start": "01:19",
     "end": "01:25",
     "text": "Y fue llena de todos los hijos de las cosas que hayas en los graneros, escaleras, muelas,",
     "audio_file": "clip_011.mp3",
     "translation": "And it was full of all the sorts of things that you find in barns, ladders, grindstones,",
     "vocabulary": [
-      {"word": "lleno/a", "reading": "", "meaning": "full"},
-      {"word": "la cosa", "reading": "", "meaning": "thing"},
-      {"word": "la escalera", "reading": "", "meaning": "ladder, stairs"},
-      {"word": "la muela", "reading": "", "meaning": "grindstone, molar"}
+      {
+        "word": "lleno/a",
+        "reading": "",
+        "meaning": "full"
+      },
+      {
+        "word": "la cosa",
+        "reading": "",
+        "meaning": "thing"
+      },
+      {
+        "word": "la escalera",
+        "reading": "",
+        "meaning": "ladder, stairs"
+      },
+      {
+        "word": "la muela",
+        "reading": "",
+        "meaning": "grindstone, molar"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "01:26",
+    "start": "01:25",
     "end": "01:33",
     "text": "horquillas, llaves de monos, guadañas, cortadoras de césped, palas de nieve,",
     "audio_file": "clip_012.mp3",
     "translation": "pitchforks, monkey wrenches, scythes, lawn mowers, snow shovels,",
     "vocabulary": [
-      {"word": "la horquilla", "reading": "", "meaning": "pitchfork, hairpin"},
-      {"word": "la llave de mono", "reading": "", "meaning": "monkey wrench"},
-      {"word": "la guadaña", "reading": "", "meaning": "scythe"},
-      {"word": "la cortadora de césped", "reading": "", "meaning": "lawn mower"},
-      {"word": "la pala", "reading": "", "meaning": "shovel"},
-      {"word": "la nieve", "reading": "", "meaning": "snow"}
+      {
+        "word": "la horquilla",
+        "reading": "",
+        "meaning": "pitchfork, hairpin"
+      },
+      {
+        "word": "la llave de mono",
+        "reading": "",
+        "meaning": "monkey wrench"
+      },
+      {
+        "word": "la guadaña",
+        "reading": "",
+        "meaning": "scythe"
+      },
+      {
+        "word": "la cortadora de césped",
+        "reading": "",
+        "meaning": "lawn mower"
+      },
+      {
+        "word": "la pala",
+        "reading": "",
+        "meaning": "shovel"
+      },
+      {
+        "word": "la nieve",
+        "reading": "",
+        "meaning": "snow"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "01:34",
+    "start": "01:33",
     "end": "01:41",
     "text": "mangos de hacha, cubos de leche, cubos de agua, sacos de grano vacíos y trampas de rata oxidadas.",
     "audio_file": "clip_013.mp3",
     "translation": "axe handles, milk pails, water buckets, empty grain sacks and rusty rat traps.",
     "vocabulary": [
-      {"word": "el mango", "reading": "", "meaning": "handle"},
-      {"word": "el hacha", "reading": "", "meaning": "axe (feminine: el hacha)"},
-      {"word": "el cubo", "reading": "", "meaning": "bucket, pail"},
-      {"word": "la leche", "reading": "", "meaning": "milk"},
-      {"word": "el agua", "reading": "", "meaning": "water (feminine: el agua)"},
-      {"word": "el saco", "reading": "", "meaning": "sack, bag"},
-      {"word": "vacío", "reading": "", "meaning": "empty"},
-      {"word": "la trampa", "reading": "", "meaning": "trap"},
-      {"word": "la rata", "reading": "", "meaning": "rat"},
-      {"word": "oxidado", "reading": "", "meaning": "rusty"}
+      {
+        "word": "el mango",
+        "reading": "",
+        "meaning": "handle"
+      },
+      {
+        "word": "el hacha",
+        "reading": "",
+        "meaning": "axe (feminine: el hacha)"
+      },
+      {
+        "word": "el cubo",
+        "reading": "",
+        "meaning": "bucket, pail"
+      },
+      {
+        "word": "la leche",
+        "reading": "",
+        "meaning": "milk"
+      },
+      {
+        "word": "el agua",
+        "reading": "",
+        "meaning": "water (feminine: el agua)"
+      },
+      {
+        "word": "el saco",
+        "reading": "",
+        "meaning": "sack, bag"
+      },
+      {
+        "word": "vacío",
+        "reading": "",
+        "meaning": "empty"
+      },
+      {
+        "word": "la trampa",
+        "reading": "",
+        "meaning": "trap"
+      },
+      {
+        "word": "la rata",
+        "reading": "",
+        "meaning": "rat"
+      },
+      {
+        "word": "oxidado",
+        "reading": "",
+        "meaning": "rusty"
+      }
     ],
     "grammar": null
   },
@@ -229,51 +561,151 @@
     "audio_file": "clip_014.mp3",
     "translation": "It was the kind of barn that swallows like to build their... / It was the kind of barn that children like.",
     "vocabulary": [
-      {"word": "el tipo", "reading": "", "meaning": "type, kind"},
-      {"word": "la golondrina", "reading": "", "meaning": "swallow (bird)"},
-      {"word": "construir", "reading": "", "meaning": "to build"},
-      {"word": "el niño", "reading": "", "meaning": "child"},
-      {"word": "gustar", "reading": "", "meaning": "to like, to please"}
+      {
+        "word": "el tipo",
+        "reading": "",
+        "meaning": "type, kind"
+      },
+      {
+        "word": "la golondrina",
+        "reading": "",
+        "meaning": "swallow (bird)"
+      },
+      {
+        "word": "construir",
+        "reading": "",
+        "meaning": "to build"
+      },
+      {
+        "word": "el niño",
+        "reading": "",
+        "meaning": "child"
+      },
+      {
+        "word": "gustar",
+        "reading": "",
+        "meaning": "to like, to please"
+      }
     ],
     "grammar": "A los niños les gusta - indirect object construction for 'gustar'"
   },
   {
-    "start": "01:51",
+    "start": "01:50",
     "end": "01:55",
     "text": "Y todo era propiedad de Fern. / El señor Horner L.",
     "audio_file": "clip_015.mp3",
     "translation": "And it all belonged to Fern's. / Mr. Homer L.",
     "vocabulary": [
-      {"word": "todo", "reading": "", "meaning": "all, everything"},
-      {"word": "la propiedad", "reading": "", "meaning": "property"},
-      {"word": "el señor", "reading": "", "meaning": "Mr., sir, gentleman"}
+      {
+        "word": "todo",
+        "reading": "",
+        "meaning": "all, everything"
+      },
+      {
+        "word": "la propiedad",
+        "reading": "",
+        "meaning": "property"
+      },
+      {
+        "word": "el señor",
+        "reading": "",
+        "meaning": "Mr., sir, gentleman"
+      }
     ],
     "grammar": null
   },
   {
     "start": "01:56",
-    "end": "02:20",
+    "end": "02:19",
     "text": "Sucorman. El nuevo hogar de Wilbur estaba en la parte inferior. Granero. Directamente debajo de las vacas. Señor. Sucorman. Sabía que una pila de estiércol es un buen lugar para mantener a un joven. Cerdo. Los cerdos necesitan calor. Y era cálido y confonable. Allá abajo en el sótano del granero en el sur.",
     "audio_file": "clip_016.mp3",
     "translation": "Zuckerman. Wilbur's new home was in the lower part. Barn. Directly beneath the cows. Mr. Zuckerman. Knew that a manure pile is a good place to keep a young. Pig. Pigs need warmth. And it was warm and comfortable. Down there in the cellar of the barn on the south.",
     "vocabulary": [
-      {"word": "nuevo", "reading": "", "meaning": "new"},
-      {"word": "el hogar", "reading": "", "meaning": "home"},
-      {"word": "la parte inferior", "reading": "", "meaning": "lower part"},
-      {"word": "directamente", "reading": "", "meaning": "directly"},
-      {"word": "debajo de", "reading": "", "meaning": "beneath, under"},
-      {"word": "saber", "reading": "", "meaning": "to know"},
-      {"word": "la pila", "reading": "", "meaning": "pile, stack"},
-      {"word": "el lugar", "reading": "", "meaning": "place"},
-      {"word": "mantener", "reading": "", "meaning": "to keep, maintain"},
-      {"word": "joven", "reading": "", "meaning": "young"},
-      {"word": "el cerdo", "reading": "", "meaning": "pig"},
-      {"word": "necesitar", "reading": "", "meaning": "to need"},
-      {"word": "el calor", "reading": "", "meaning": "warmth, heat"},
-      {"word": "cómodo/confortable", "reading": "", "meaning": "comfortable"},
-      {"word": "allá", "reading": "", "meaning": "there (far)"},
-      {"word": "el sótano", "reading": "", "meaning": "cellar, basement"},
-      {"word": "el sur", "reading": "", "meaning": "south"}
+      {
+        "word": "nuevo",
+        "reading": "",
+        "meaning": "new"
+      },
+      {
+        "word": "el hogar",
+        "reading": "",
+        "meaning": "home"
+      },
+      {
+        "word": "la parte inferior",
+        "reading": "",
+        "meaning": "lower part"
+      },
+      {
+        "word": "directamente",
+        "reading": "",
+        "meaning": "directly"
+      },
+      {
+        "word": "debajo de",
+        "reading": "",
+        "meaning": "beneath, under"
+      },
+      {
+        "word": "saber",
+        "reading": "",
+        "meaning": "to know"
+      },
+      {
+        "word": "la pila",
+        "reading": "",
+        "meaning": "pile, stack"
+      },
+      {
+        "word": "el lugar",
+        "reading": "",
+        "meaning": "place"
+      },
+      {
+        "word": "mantener",
+        "reading": "",
+        "meaning": "to keep, maintain"
+      },
+      {
+        "word": "joven",
+        "reading": "",
+        "meaning": "young"
+      },
+      {
+        "word": "el cerdo",
+        "reading": "",
+        "meaning": "pig"
+      },
+      {
+        "word": "necesitar",
+        "reading": "",
+        "meaning": "to need"
+      },
+      {
+        "word": "el calor",
+        "reading": "",
+        "meaning": "warmth, heat"
+      },
+      {
+        "word": "cómodo/confortable",
+        "reading": "",
+        "meaning": "comfortable"
+      },
+      {
+        "word": "allá",
+        "reading": "",
+        "meaning": "there (far)"
+      },
+      {
+        "word": "el sótano",
+        "reading": "",
+        "meaning": "cellar, basement"
+      },
+      {
+        "word": "el sur",
+        "reading": "",
+        "meaning": "south"
+      }
     ],
     "grammar": null
   },
@@ -284,25 +716,101 @@
     "audio_file": "clip_017.mp3",
     "translation": "Fern came almost every day to visit him. She found. Escapes. An old milking stool that had been discarded. And she. Placed the stool in the pen next to Wilbur's pen. There she sat quietly during the long afternoons. Thinking and listening and watching Wilbur.",
     "vocabulary": [
-      {"word": "venir", "reading": "", "meaning": "to come (venía - imperfect)"},
-      {"word": "casi", "reading": "", "meaning": "almost"},
-      {"word": "todos los días", "reading": "", "meaning": "every day"},
-      {"word": "visitar", "reading": "", "meaning": "to visit"},
-      {"word": "encontrar", "reading": "", "meaning": "to find"},
-      {"word": "el ordeñador", "reading": "", "meaning": "milking stool/milker"},
-      {"word": "desechado", "reading": "", "meaning": "discarded"},
-      {"word": "colocar", "reading": "", "meaning": "to place, put"},
-      {"word": "el taburete", "reading": "", "meaning": "stool"},
-      {"word": "el redil", "reading": "", "meaning": "sheep pen, fold"},
-      {"word": "junto a", "reading": "", "meaning": "next to"},
-      {"word": "la pluma", "reading": "", "meaning": "pen (for animals), feather"},
-      {"word": "sentarse", "reading": "", "meaning": "to sit down"},
-      {"word": "el silencio", "reading": "", "meaning": "silence"},
-      {"word": "durante", "reading": "", "meaning": "during"},
-      {"word": "largo", "reading": "", "meaning": "long"},
-      {"word": "la tarde", "reading": "", "meaning": "afternoon, evening"},
-      {"word": "pensar", "reading": "", "meaning": "to think"},
-      {"word": "escuchar", "reading": "", "meaning": "to listen"}
+      {
+        "word": "venir",
+        "reading": "",
+        "meaning": "to come (venía - imperfect)"
+      },
+      {
+        "word": "casi",
+        "reading": "",
+        "meaning": "almost"
+      },
+      {
+        "word": "todos los días",
+        "reading": "",
+        "meaning": "every day"
+      },
+      {
+        "word": "visitar",
+        "reading": "",
+        "meaning": "to visit"
+      },
+      {
+        "word": "encontrar",
+        "reading": "",
+        "meaning": "to find"
+      },
+      {
+        "word": "el ordeñador",
+        "reading": "",
+        "meaning": "milking stool/milker"
+      },
+      {
+        "word": "desechado",
+        "reading": "",
+        "meaning": "discarded"
+      },
+      {
+        "word": "colocar",
+        "reading": "",
+        "meaning": "to place, put"
+      },
+      {
+        "word": "el taburete",
+        "reading": "",
+        "meaning": "stool"
+      },
+      {
+        "word": "el redil",
+        "reading": "",
+        "meaning": "sheep pen, fold"
+      },
+      {
+        "word": "junto a",
+        "reading": "",
+        "meaning": "next to"
+      },
+      {
+        "word": "la pluma",
+        "reading": "",
+        "meaning": "pen (for animals), feather"
+      },
+      {
+        "word": "sentarse",
+        "reading": "",
+        "meaning": "to sit down"
+      },
+      {
+        "word": "el silencio",
+        "reading": "",
+        "meaning": "silence"
+      },
+      {
+        "word": "durante",
+        "reading": "",
+        "meaning": "during"
+      },
+      {
+        "word": "largo",
+        "reading": "",
+        "meaning": "long"
+      },
+      {
+        "word": "la tarde",
+        "reading": "",
+        "meaning": "afternoon, evening"
+      },
+      {
+        "word": "pensar",
+        "reading": "",
+        "meaning": "to think"
+      },
+      {
+        "word": "escuchar",
+        "reading": "",
+        "meaning": "to listen"
+      }
     ],
     "grammar": "Había sido - past perfect (had been)"
   },
@@ -313,18 +821,66 @@
     "audio_file": "clip_018.mp3",
     "translation": "The sheep soon came to know her and trust her. So did the geese who lived with the sheep. All the animals trusted. Her, she was so quiet and gentle. Mr. Zuckerman did. Not allow her to take Wilbur out and did not allow Charlotte's web, her, to enter the Big Pen.",
     "vocabulary": [
-      {"word": "pronto", "reading": "", "meaning": "soon"},
-      {"word": "llegar a", "reading": "", "meaning": "to come to, to get to"},
-      {"word": "conocer", "reading": "", "meaning": "to know (a person), to meet"},
-      {"word": "confiar en", "reading": "", "meaning": "to trust"},
-      {"word": "también", "reading": "", "meaning": "also, too"},
-      {"word": "el ganso", "reading": "", "meaning": "goose"},
-      {"word": "vivir", "reading": "", "meaning": "to live"},
-      {"word": "tranquilo", "reading": "", "meaning": "quiet, calm"},
-      {"word": "amable", "reading": "", "meaning": "kind, gentle"},
-      {"word": "permitir", "reading": "", "meaning": "to allow, permit"},
-      {"word": "sacar", "reading": "", "meaning": "to take out"},
-      {"word": "entrar", "reading": "", "meaning": "to enter"}
+      {
+        "word": "pronto",
+        "reading": "",
+        "meaning": "soon"
+      },
+      {
+        "word": "llegar a",
+        "reading": "",
+        "meaning": "to come to, to get to"
+      },
+      {
+        "word": "conocer",
+        "reading": "",
+        "meaning": "to know (a person), to meet"
+      },
+      {
+        "word": "confiar en",
+        "reading": "",
+        "meaning": "to trust"
+      },
+      {
+        "word": "también",
+        "reading": "",
+        "meaning": "also, too"
+      },
+      {
+        "word": "el ganso",
+        "reading": "",
+        "meaning": "goose"
+      },
+      {
+        "word": "vivir",
+        "reading": "",
+        "meaning": "to live"
+      },
+      {
+        "word": "tranquilo",
+        "reading": "",
+        "meaning": "quiet, calm"
+      },
+      {
+        "word": "amable",
+        "reading": "",
+        "meaning": "kind, gentle"
+      },
+      {
+        "word": "permitir",
+        "reading": "",
+        "meaning": "to allow, permit"
+      },
+      {
+        "word": "sacar",
+        "reading": "",
+        "meaning": "to take out"
+      },
+      {
+        "word": "entrar",
+        "reading": "",
+        "meaning": "to enter"
+      }
     ],
     "grammar": "Llegar a + infinitive = to come to (do something)"
   },
@@ -335,30 +891,86 @@
     "audio_file": "clip_019.mp3",
     "translation": "But he told Fern that she could sit on the stool and watch Wilbur as long as she wanted. / It made her happy to be near the pig.",
     "vocabulary": [
-      {"word": "decir", "reading": "", "meaning": "to say, tell (dijo - preterite)"},
-      {"word": "poder", "reading": "", "meaning": "to be able (podía - imperfect)"},
-      {"word": "mientras", "reading": "", "meaning": "while, as long as"},
-      {"word": "querer", "reading": "", "meaning": "to want (quería - imperfect)"},
-      {"word": "hacer feliz", "reading": "", "meaning": "to make happy"},
-      {"word": "estar cerca de", "reading": "", "meaning": "to be near"}
+      {
+        "word": "decir",
+        "reading": "",
+        "meaning": "to say, tell (dijo - preterite)"
+      },
+      {
+        "word": "poder",
+        "reading": "",
+        "meaning": "to be able (podía - imperfect)"
+      },
+      {
+        "word": "mientras",
+        "reading": "",
+        "meaning": "while, as long as"
+      },
+      {
+        "word": "querer",
+        "reading": "",
+        "meaning": "to want (quería - imperfect)"
+      },
+      {
+        "word": "hacer feliz",
+        "reading": "",
+        "meaning": "to make happy"
+      },
+      {
+        "word": "estar cerca de",
+        "reading": "",
+        "meaning": "to be near"
+      }
     ],
     "grammar": "Le hacía feliz - indirect object + imperfect 'it made her happy'"
   },
   {
-    "start": "03:20",
+    "start": "03:19",
     "end": "03:28",
     "text": "Y Wilbur estaba feliz de saber que estaba sentada allí, justo fuera de su pluma. / Pero él nunca tuvo ningún fono.",
     "audio_file": "clip_020.mp3",
     "translation": "And Wilbur was happy to know she was sitting there, just outside his pen. / But he never had any fun.",
     "vocabulary": [
-      {"word": "feliz", "reading": "", "meaning": "happy"},
-      {"word": "saber", "reading": "", "meaning": "to know"},
-      {"word": "sentado/a", "reading": "", "meaning": "seated, sitting"},
-      {"word": "allí", "reading": "", "meaning": "there"},
-      {"word": "justo", "reading": "", "meaning": "just, right"},
-      {"word": "fuera de", "reading": "", "meaning": "outside of"},
-      {"word": "nunca", "reading": "", "meaning": "never"},
-      {"word": "ningún", "reading": "", "meaning": "no, none"}
+      {
+        "word": "feliz",
+        "reading": "",
+        "meaning": "happy"
+      },
+      {
+        "word": "saber",
+        "reading": "",
+        "meaning": "to know"
+      },
+      {
+        "word": "sentado/a",
+        "reading": "",
+        "meaning": "seated, sitting"
+      },
+      {
+        "word": "allí",
+        "reading": "",
+        "meaning": "there"
+      },
+      {
+        "word": "justo",
+        "reading": "",
+        "meaning": "just, right"
+      },
+      {
+        "word": "fuera de",
+        "reading": "",
+        "meaning": "outside of"
+      },
+      {
+        "word": "nunca",
+        "reading": "",
+        "meaning": "never"
+      },
+      {
+        "word": "ningún",
+        "reading": "",
+        "meaning": "no, none"
+      }
     ],
     "grammar": null
   },
@@ -369,10 +981,26 @@
     "audio_file": "clip_021.mp3",
     "translation": "Walks. / No walks. / No nothing. / One afternoon in June, when Wilbur was almost two months old,",
     "vocabulary": [
-      {"word": "el paseo", "reading": "", "meaning": "walk, stroll"},
-      {"word": "junio", "reading": "", "meaning": "June"},
-      {"word": "el mes", "reading": "", "meaning": "month"},
-      {"word": "la edad", "reading": "", "meaning": "age"}
+      {
+        "word": "el paseo",
+        "reading": "",
+        "meaning": "walk, stroll"
+      },
+      {
+        "word": "junio",
+        "reading": "",
+        "meaning": "June"
+      },
+      {
+        "word": "el mes",
+        "reading": "",
+        "meaning": "month"
+      },
+      {
+        "word": "la edad",
+        "reading": "",
+        "meaning": "age"
+      }
     ],
     "grammar": "Dos meses de edad - two months old"
   },
@@ -383,38 +1011,126 @@
     "audio_file": "clip_022.mp3",
     "translation": "He wandered into his small yard. Outside the barn. Fern had not arrived for her usual visit. Wilbur stood in the sun feeling lonely and bored. 'There is never anything to do around here,' he thought. He walked slowly to his trough and sniffed to see if anything had been overlooked at lunch.",
     "vocabulary": [
-      {"word": "vagar", "reading": "", "meaning": "to wander"},
-      {"word": "pequeño", "reading": "", "meaning": "small"},
-      {"word": "el patio", "reading": "", "meaning": "yard, patio"},
-      {"word": "habitual", "reading": "", "meaning": "usual, habitual"},
-      {"word": "la visita", "reading": "", "meaning": "visit"},
-      {"word": "parado", "reading": "", "meaning": "standing"},
-      {"word": "el sol", "reading": "", "meaning": "sun"},
-      {"word": "sentirse", "reading": "", "meaning": "to feel"},
-      {"word": "solo", "reading": "", "meaning": "alone, lonely"},
-      {"word": "aburrido", "reading": "", "meaning": "bored"},
-      {"word": "por aquí", "reading": "", "meaning": "around here"},
-      {"word": "el pensamiento", "reading": "", "meaning": "thought"},
-      {"word": "caminar", "reading": "", "meaning": "to walk"},
-      {"word": "despacio", "reading": "", "meaning": "slowly"},
-      {"word": "el comedero", "reading": "", "meaning": "trough, feeding dish"},
-      {"word": "olisquear", "reading": "", "meaning": "to sniff"},
-      {"word": "pasar por alto", "reading": "", "meaning": "to overlook"},
-      {"word": "el almuerzo", "reading": "", "meaning": "lunch"}
+      {
+        "word": "vagar",
+        "reading": "",
+        "meaning": "to wander"
+      },
+      {
+        "word": "pequeño",
+        "reading": "",
+        "meaning": "small"
+      },
+      {
+        "word": "el patio",
+        "reading": "",
+        "meaning": "yard, patio"
+      },
+      {
+        "word": "habitual",
+        "reading": "",
+        "meaning": "usual, habitual"
+      },
+      {
+        "word": "la visita",
+        "reading": "",
+        "meaning": "visit"
+      },
+      {
+        "word": "parado",
+        "reading": "",
+        "meaning": "standing"
+      },
+      {
+        "word": "el sol",
+        "reading": "",
+        "meaning": "sun"
+      },
+      {
+        "word": "sentirse",
+        "reading": "",
+        "meaning": "to feel"
+      },
+      {
+        "word": "solo",
+        "reading": "",
+        "meaning": "alone, lonely"
+      },
+      {
+        "word": "aburrido",
+        "reading": "",
+        "meaning": "bored"
+      },
+      {
+        "word": "por aquí",
+        "reading": "",
+        "meaning": "around here"
+      },
+      {
+        "word": "el pensamiento",
+        "reading": "",
+        "meaning": "thought"
+      },
+      {
+        "word": "caminar",
+        "reading": "",
+        "meaning": "to walk"
+      },
+      {
+        "word": "despacio",
+        "reading": "",
+        "meaning": "slowly"
+      },
+      {
+        "word": "el comedero",
+        "reading": "",
+        "meaning": "trough, feeding dish"
+      },
+      {
+        "word": "olisquear",
+        "reading": "",
+        "meaning": "to sniff"
+      },
+      {
+        "word": "pasar por alto",
+        "reading": "",
+        "meaning": "to overlook"
+      },
+      {
+        "word": "el almuerzo",
+        "reading": "",
+        "meaning": "lunch"
+      }
     ],
     "grammar": "Había llegado - past perfect (had arrived)"
   },
   {
-    "start": "04:03",
+    "start": "04:02",
     "end": "04:06",
     "text": "Encontró una pequeña tira de piel de patata y la comió.",
     "audio_file": "clip_023.mp3",
     "translation": "He found a small strip of potato skin and ate it.",
     "vocabulary": [
-      {"word": "encontrar", "reading": "", "meaning": "to find"},
-      {"word": "la tira", "reading": "", "meaning": "strip"},
-      {"word": "la piel", "reading": "", "meaning": "skin"},
-      {"word": "la patata", "reading": "", "meaning": "potato"}
+      {
+        "word": "encontrar",
+        "reading": "",
+        "meaning": "to find"
+      },
+      {
+        "word": "la tira",
+        "reading": "",
+        "meaning": "strip"
+      },
+      {
+        "word": "la piel",
+        "reading": "",
+        "meaning": "skin"
+      },
+      {
+        "word": "la patata",
+        "reading": "",
+        "meaning": "potato"
+      }
     ],
     "grammar": "La comió - direct object pronoun 'la' referring to 'tira'"
   },
@@ -425,16 +1141,56 @@
     "audio_file": "clip_024.mp3",
     "translation": "His back itched. / So he leaned against the fence and rubbed against the boards. / When he tired of this, he walked inside.",
     "vocabulary": [
-      {"word": "doler", "reading": "", "meaning": "to hurt, ache"},
-      {"word": "la espalda", "reading": "", "meaning": "back"},
-      {"word": "así que", "reading": "", "meaning": "so, therefore"},
-      {"word": "apoyarse", "reading": "", "meaning": "to lean"},
-      {"word": "contra", "reading": "", "meaning": "against"},
-      {"word": "la valla", "reading": "", "meaning": "fence"},
-      {"word": "frotar", "reading": "", "meaning": "to rub"},
-      {"word": "la tabla", "reading": "", "meaning": "board, plank"},
-      {"word": "cansarse de", "reading": "", "meaning": "to get tired of"},
-      {"word": "el interior", "reading": "", "meaning": "inside"}
+      {
+        "word": "doler",
+        "reading": "",
+        "meaning": "to hurt, ache"
+      },
+      {
+        "word": "la espalda",
+        "reading": "",
+        "meaning": "back"
+      },
+      {
+        "word": "así que",
+        "reading": "",
+        "meaning": "so, therefore"
+      },
+      {
+        "word": "apoyarse",
+        "reading": "",
+        "meaning": "to lean"
+      },
+      {
+        "word": "contra",
+        "reading": "",
+        "meaning": "against"
+      },
+      {
+        "word": "la valla",
+        "reading": "",
+        "meaning": "fence"
+      },
+      {
+        "word": "frotar",
+        "reading": "",
+        "meaning": "to rub"
+      },
+      {
+        "word": "la tabla",
+        "reading": "",
+        "meaning": "board, plank"
+      },
+      {
+        "word": "cansarse de",
+        "reading": "",
+        "meaning": "to get tired of"
+      },
+      {
+        "word": "el interior",
+        "reading": "",
+        "meaning": "inside"
+      }
     ],
     "grammar": "Le dolía - indirect object construction for 'doler'"
   },
@@ -445,10 +1201,26 @@
     "audio_file": "clip_025.mp3",
     "translation": "He climbed to the top of the manure pile. / And sat down. / He didn't feel like going to sleep.",
     "vocabulary": [
-      {"word": "subir", "reading": "", "meaning": "to climb, go up"},
-      {"word": "la parte superior", "reading": "", "meaning": "top part"},
-      {"word": "tener ganas de", "reading": "", "meaning": "to feel like (doing)"},
-      {"word": "dormir", "reading": "", "meaning": "to sleep"}
+      {
+        "word": "subir",
+        "reading": "",
+        "meaning": "to climb, go up"
+      },
+      {
+        "word": "la parte superior",
+        "reading": "",
+        "meaning": "top part"
+      },
+      {
+        "word": "tener ganas de",
+        "reading": "",
+        "meaning": "to feel like (doing)"
+      },
+      {
+        "word": "dormir",
+        "reading": "",
+        "meaning": "to sleep"
+      }
     ],
     "grammar": "Tener ganas de + infinitive = to feel like doing something"
   },
@@ -459,34 +1231,66 @@
     "audio_file": "clip_026.mp3",
     "translation": "He didn't feel like digging. / He was tired of standing. / Tired of lying down, I'm less than two months old and... / I'm tired of living.",
     "vocabulary": [
-      {"word": "cavar", "reading": "", "meaning": "to dig"},
-      {"word": "pararse", "reading": "", "meaning": "to stand up"},
-      {"word": "acostarse", "reading": "", "meaning": "to lie down"},
-      {"word": "menos de", "reading": "", "meaning": "less than"},
-      {"word": "vivir", "reading": "", "meaning": "to live"}
+      {
+        "word": "cavar",
+        "reading": "",
+        "meaning": "to dig"
+      },
+      {
+        "word": "pararse",
+        "reading": "",
+        "meaning": "to stand up"
+      },
+      {
+        "word": "acostarse",
+        "reading": "",
+        "meaning": "to lie down"
+      },
+      {
+        "word": "menos de",
+        "reading": "",
+        "meaning": "less than"
+      },
+      {
+        "word": "vivir",
+        "reading": "",
+        "meaning": "to live"
+      }
     ],
     "grammar": "Cansado de + infinitive = tired of doing something"
   },
   {
-    "start": "04:37",
+    "start": "04:36",
     "end": "04:38",
     "text": "Salió al patio.",
     "audio_file": "clip_027.mp3",
     "translation": "He went out to the yard.",
     "vocabulary": [
-      {"word": "salir", "reading": "", "meaning": "to go out, leave"}
+      {
+        "word": "salir",
+        "reading": "",
+        "meaning": "to go out, leave"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "04:40",
+    "start": "04:39",
     "end": "04:44",
     "text": "Cuando estoy aquí afuera. / No hay lugar para...",
     "audio_file": "clip_028.mp3",
     "translation": "When I'm out here. / There's no place to go but...",
     "vocabulary": [
-      {"word": "aquí", "reading": "", "meaning": "here"},
-      {"word": "afuera", "reading": "", "meaning": "outside"}
+      {
+        "word": "aquí",
+        "reading": "",
+        "meaning": "here"
+      },
+      {
+        "word": "afuera",
+        "reading": "",
+        "meaning": "outside"
+      }
     ],
     "grammar": null
   },
@@ -497,8 +1301,16 @@
     "audio_file": "clip_029.mp3",
     "translation": "But when I'm inside. / There's no place to go but...",
     "vocabulary": [
-      {"word": "dentro", "reading": "", "meaning": "inside"},
-      {"word": "ir", "reading": "", "meaning": "to go"}
+      {
+        "word": "dentro",
+        "reading": "",
+        "meaning": "inside"
+      },
+      {
+        "word": "ir",
+        "reading": "",
+        "meaning": "to go"
+      }
     ],
     "grammar": null
   },
@@ -509,21 +1321,41 @@
     "audio_file": "clip_030.mp3",
     "translation": "In the yard. / That's where you're wrong.",
     "vocabulary": [
-      {"word": "ahí", "reading": "", "meaning": "there"},
-      {"word": "equivocarse", "reading": "", "meaning": "to be wrong, make a mistake"}
+      {
+        "word": "ahí",
+        "reading": "",
+        "meaning": "there"
+      },
+      {
+        "word": "equivocarse",
+        "reading": "",
+        "meaning": "to be wrong, make a mistake"
+      }
     ],
     "grammar": "Te equivocas - reflexive verb in present tense"
   },
   {
-    "start": "04:54",
+    "start": "04:53",
     "end": "04:57",
     "text": "Amigo mío. / Amigo mío. / Dijo una voz.",
     "audio_file": "clip_031.mp3",
     "translation": "My friend. / My friend. / Said a voice.",
     "vocabulary": [
-      {"word": "el amigo", "reading": "", "meaning": "friend"},
-      {"word": "mío", "reading": "", "meaning": "mine, my"},
-      {"word": "la voz", "reading": "", "meaning": "voice"}
+      {
+        "word": "el amigo",
+        "reading": "",
+        "meaning": "friend"
+      },
+      {
+        "word": "mío",
+        "reading": "",
+        "meaning": "mine, my"
+      },
+      {
+        "word": "la voz",
+        "reading": "",
+        "meaning": "voice"
+      }
     ],
     "grammar": null
   },
@@ -534,25 +1366,61 @@
     "audio_file": "clip_032.mp3",
     "translation": "Wilbur looked through the fence and saw the goose. / Standing there. / You don't have to stay in that dirty little.",
     "vocabulary": [
-      {"word": "mirar", "reading": "", "meaning": "to look"},
-      {"word": "a través de", "reading": "", "meaning": "through"},
-      {"word": "ver", "reading": "", "meaning": "to see (vio - preterite)"},
-      {"word": "de pie", "reading": "", "meaning": "standing"},
-      {"word": "quedarse", "reading": "", "meaning": "to stay, remain"},
-      {"word": "sucio", "reading": "", "meaning": "dirty"}
+      {
+        "word": "mirar",
+        "reading": "",
+        "meaning": "to look"
+      },
+      {
+        "word": "a través de",
+        "reading": "",
+        "meaning": "through"
+      },
+      {
+        "word": "ver",
+        "reading": "",
+        "meaning": "to see (vio - preterite)"
+      },
+      {
+        "word": "de pie",
+        "reading": "",
+        "meaning": "standing"
+      },
+      {
+        "word": "quedarse",
+        "reading": "",
+        "meaning": "to stay, remain"
+      },
+      {
+        "word": "sucio",
+        "reading": "",
+        "meaning": "dirty"
+      }
     ],
     "grammar": "No tienes que - you don't have to"
   },
   {
-    "start": "05:06",
+    "start": "05:05",
     "end": "05:11",
     "text": "Pequeño y sucio patio. / Dijo el ganso. / Que habló. / Bastante rápido.",
     "audio_file": "clip_033.mp3",
     "translation": "Small and dirty yard. / Said the goose. / Who spoke. / Rather fast.",
     "vocabulary": [
-      {"word": "hablar", "reading": "", "meaning": "to speak"},
-      {"word": "bastante", "reading": "", "meaning": "rather, quite"},
-      {"word": "rápido", "reading": "", "meaning": "fast, quick"}
+      {
+        "word": "hablar",
+        "reading": "",
+        "meaning": "to speak"
+      },
+      {
+        "word": "bastante",
+        "reading": "",
+        "meaning": "rather, quite"
+      },
+      {
+        "word": "rápido",
+        "reading": "",
+        "meaning": "fast, quick"
+      }
     ],
     "grammar": null
   },
@@ -563,21 +1431,41 @@
     "audio_file": "clip_034.mp3",
     "translation": "One of the boards is loose. / Push on it.",
     "vocabulary": [
-      {"word": "el tablero", "reading": "", "meaning": "board, plank"},
-      {"word": "suelto", "reading": "", "meaning": "loose"},
-      {"word": "presionar", "reading": "", "meaning": "to press, push"}
+      {
+        "word": "el tablero",
+        "reading": "",
+        "meaning": "board, plank"
+      },
+      {
+        "word": "suelto",
+        "reading": "",
+        "meaning": "loose"
+      },
+      {
+        "word": "presionar",
+        "reading": "",
+        "meaning": "to press, push"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "05:17",
+    "start": "05:16",
     "end": "05:20",
     "text": "Empuje, empuje, empuje en él. / Y salga hacia afuera.",
     "audio_file": "clip_035.mp3",
     "translation": "Push, push, push on it. / And go outside.",
     "vocabulary": [
-      {"word": "empujar", "reading": "", "meaning": "to push (empuje - command form)"},
-      {"word": "hacia", "reading": "", "meaning": "toward"}
+      {
+        "word": "empujar",
+        "reading": "",
+        "meaning": "to push (empuje - command form)"
+      },
+      {
+        "word": "hacia",
+        "reading": "",
+        "meaning": "toward"
+      }
     ],
     "grammar": "Empuje, salga - formal command forms"
   },
@@ -588,21 +1476,41 @@
     "audio_file": "clip_036.mp3",
     "translation": "What? Said Wilbur. / Say it more slowly. / At the risk of repeating myself.",
     "vocabulary": [
-      {"word": "qué", "reading": "", "meaning": "what"},
-      {"word": "el riesgo", "reading": "", "meaning": "risk"},
-      {"word": "repetir", "reading": "", "meaning": "to repeat"}
+      {
+        "word": "qué",
+        "reading": "",
+        "meaning": "what"
+      },
+      {
+        "word": "el riesgo",
+        "reading": "",
+        "meaning": "risk"
+      },
+      {
+        "word": "repetir",
+        "reading": "",
+        "meaning": "to repeat"
+      }
     ],
     "grammar": "Dilo - informal command of decir + lo"
   },
   {
-    "start": "05:30",
+    "start": "05:29",
     "end": "05:33",
     "text": "Te sugiero que salgas. / Es maravilloso.",
     "audio_file": "clip_037.mp3",
     "translation": "I suggest you get out. / It's wonderful.",
     "vocabulary": [
-      {"word": "sugerir", "reading": "", "meaning": "to suggest"},
-      {"word": "salir", "reading": "", "meaning": "to go out, leave (salgas - subjunctive)"}
+      {
+        "word": "sugerir",
+        "reading": "",
+        "meaning": "to suggest"
+      },
+      {
+        "word": "salir",
+        "reading": "",
+        "meaning": "to go out, leave (salgas - subjunctive)"
+      }
     ],
     "grammar": "Te sugiero que + subjunctive - I suggest that you..."
   },
@@ -613,7 +1521,11 @@
     "audio_file": "clip_038.mp3",
     "translation": "Out here. / You said a board was loose.",
     "vocabulary": [
-      {"word": "el tablón", "reading": "", "meaning": "plank, board"}
+      {
+        "word": "el tablón",
+        "reading": "",
+        "meaning": "plank, board"
+      }
     ],
     "grammar": null
   },
@@ -624,34 +1536,66 @@
     "audio_file": "clip_039.mp3",
     "translation": "I did. / I did, said the goose.",
     "vocabulary": [
-      {"word": "hacer", "reading": "", "meaning": "to do, make (hice - preterite)"}
+      {
+        "word": "hacer",
+        "reading": "",
+        "meaning": "to do, make (hice - preterite)"
+      }
     ],
     "grammar": "Lo hice - I did it (lo as direct object pronoun)"
   },
   {
-    "start": "05:43",
+    "start": "05:42",
     "end": "05:49",
     "text": "Wilbur se acercó a la cerca y vio que el. / Ganso tenía razón, una junta estaba suelta.",
     "audio_file": "clip_040.mp3",
     "translation": "Wilbur walked up to the fence and saw that the. / Goose was right, a board was loose.",
     "vocabulary": [
-      {"word": "acercarse a", "reading": "", "meaning": "to approach, get close to"},
-      {"word": "la cerca", "reading": "", "meaning": "fence"},
-      {"word": "tener razón", "reading": "", "meaning": "to be right"},
-      {"word": "la junta", "reading": "", "meaning": "board, joint"}
+      {
+        "word": "acercarse a",
+        "reading": "",
+        "meaning": "to approach, get close to"
+      },
+      {
+        "word": "la cerca",
+        "reading": "",
+        "meaning": "fence"
+      },
+      {
+        "word": "tener razón",
+        "reading": "",
+        "meaning": "to be right"
+      },
+      {
+        "word": "la junta",
+        "reading": "",
+        "meaning": "board, joint"
+      }
     ],
     "grammar": "Tener razón - to be right (idiomatic expression)"
   },
   {
-    "start": "05:50",
-    "end": "05:54",
+    "start": "05:49",
+    "end": "05:53",
     "text": "Él puso su cabeza. / Abajo. / Cerró los ojos y empujó.",
     "audio_file": "clip_041.mp3",
     "translation": "He put his head. / Down. / Closed his eyes and pushed.",
     "vocabulary": [
-      {"word": "poner", "reading": "", "meaning": "to put (puso - preterite)"},
-      {"word": "cerrar", "reading": "", "meaning": "to close (cerró - preterite)"},
-      {"word": "el ojo", "reading": "", "meaning": "eye"}
+      {
+        "word": "poner",
+        "reading": "",
+        "meaning": "to put (puso - preterite)"
+      },
+      {
+        "word": "cerrar",
+        "reading": "",
+        "meaning": "to close (cerró - preterite)"
+      },
+      {
+        "word": "el ojo",
+        "reading": "",
+        "meaning": "eye"
+      }
     ],
     "grammar": null
   },
@@ -662,19 +1606,71 @@
     "audio_file": "clip_042.mp3",
     "translation": "The board gave way. In a minute he had passed through the fence and was standing in the long grass outside his yard. The goose laughed. How does it feel to be free? she asked. I like it, said Wilbur. That is. I suppose I like it. Actually, Wilbur felt strange being outside his fence. With nothing between him and the big world. Where do you think would be best for me to go?",
     "vocabulary": [
-      {"word": "darse", "reading": "", "meaning": "to give way, yield"},
-      {"word": "el minuto", "reading": "", "meaning": "minute"},
-      {"word": "pasar por", "reading": "", "meaning": "to pass through"},
-      {"word": "la hierba", "reading": "", "meaning": "grass"},
-      {"word": "reírse", "reading": "", "meaning": "to laugh"},
-      {"word": "libre", "reading": "", "meaning": "free"},
-      {"word": "preguntar", "reading": "", "meaning": "to ask"},
-      {"word": "suponer", "reading": "", "meaning": "to suppose"},
-      {"word": "en realidad", "reading": "", "meaning": "actually, in reality"},
-      {"word": "raro", "reading": "", "meaning": "strange, weird"},
-      {"word": "sin", "reading": "", "meaning": "without"},
-      {"word": "entre", "reading": "", "meaning": "between"},
-      {"word": "creer", "reading": "", "meaning": "to believe, think"}
+      {
+        "word": "darse",
+        "reading": "",
+        "meaning": "to give way, yield"
+      },
+      {
+        "word": "el minuto",
+        "reading": "",
+        "meaning": "minute"
+      },
+      {
+        "word": "pasar por",
+        "reading": "",
+        "meaning": "to pass through"
+      },
+      {
+        "word": "la hierba",
+        "reading": "",
+        "meaning": "grass"
+      },
+      {
+        "word": "reírse",
+        "reading": "",
+        "meaning": "to laugh"
+      },
+      {
+        "word": "libre",
+        "reading": "",
+        "meaning": "free"
+      },
+      {
+        "word": "preguntar",
+        "reading": "",
+        "meaning": "to ask"
+      },
+      {
+        "word": "suponer",
+        "reading": "",
+        "meaning": "to suppose"
+      },
+      {
+        "word": "en realidad",
+        "reading": "",
+        "meaning": "actually, in reality"
+      },
+      {
+        "word": "raro",
+        "reading": "",
+        "meaning": "strange, weird"
+      },
+      {
+        "word": "sin",
+        "reading": "",
+        "meaning": "without"
+      },
+      {
+        "word": "entre",
+        "reading": "",
+        "meaning": "between"
+      },
+      {
+        "word": "creer",
+        "reading": "",
+        "meaning": "to believe, think"
+      }
     ],
     "grammar": "Había pasado - past perfect (had passed)"
   },
@@ -685,105 +1681,221 @@
     "audio_file": "clip_043.mp3",
     "translation": "Anywhere you want. / Wherever you want.",
     "vocabulary": [
-      {"word": "cualquier", "reading": "", "meaning": "any"},
-      {"word": "donde", "reading": "", "meaning": "where"}
+      {
+        "word": "cualquier",
+        "reading": "",
+        "meaning": "any"
+      },
+      {
+        "word": "donde",
+        "reading": "",
+        "meaning": "where"
+      }
     ],
     "grammar": "Donde quieras - wherever you want (subjunctive)"
   },
   {
-    "start": "06:31",
+    "start": "06:30",
     "end": "06:36",
     "text": "Bajar a través de la huerta. / La raíz de la. / Césped. / Bajar por el jardín.",
     "audio_file": "clip_044.mp3",
     "translation": "Go down through the orchard. / Root up the. / Lawn. / Go down through the garden.",
     "vocabulary": [
-      {"word": "bajar", "reading": "", "meaning": "to go down"},
-      {"word": "la huerta", "reading": "", "meaning": "orchard, vegetable garden"},
-      {"word": "la raíz", "reading": "", "meaning": "root"},
-      {"word": "el césped", "reading": "", "meaning": "lawn, grass"},
-      {"word": "el jardín", "reading": "", "meaning": "garden"}
+      {
+        "word": "bajar",
+        "reading": "",
+        "meaning": "to go down"
+      },
+      {
+        "word": "la huerta",
+        "reading": "",
+        "meaning": "orchard, vegetable garden"
+      },
+      {
+        "word": "la raíz",
+        "reading": "",
+        "meaning": "root"
+      },
+      {
+        "word": "el césped",
+        "reading": "",
+        "meaning": "lawn, grass"
+      },
+      {
+        "word": "el jardín",
+        "reading": "",
+        "meaning": "garden"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "06:37",
+    "start": "06:36",
     "end": "06:42",
     "text": "Desenterrar los rábanos. / Raíz de todo. / Come pasto. / Busque maíz. / Mira.",
     "audio_file": "clip_045.mp3",
     "translation": "Dig up the radishes. / Root up everything. / Eat grass. / Look for corn. / Look.",
     "vocabulary": [
-      {"word": "desenterrar", "reading": "", "meaning": "to dig up"},
-      {"word": "el rábano", "reading": "", "meaning": "radish"},
-      {"word": "el pasto", "reading": "", "meaning": "grass, pasture"},
-      {"word": "buscar", "reading": "", "meaning": "to look for, search"},
-      {"word": "el maíz", "reading": "", "meaning": "corn"}
+      {
+        "word": "desenterrar",
+        "reading": "",
+        "meaning": "to dig up"
+      },
+      {
+        "word": "el rábano",
+        "reading": "",
+        "meaning": "radish"
+      },
+      {
+        "word": "el pasto",
+        "reading": "",
+        "meaning": "grass, pasture"
+      },
+      {
+        "word": "buscar",
+        "reading": "",
+        "meaning": "to look for, search"
+      },
+      {
+        "word": "el maíz",
+        "reading": "",
+        "meaning": "corn"
+      }
     ],
     "grammar": "Busque - formal command of buscar"
   },
   {
-    "start": "06:43",
+    "start": "06:42",
     "end": "06:47",
     "text": "Para la avena. / Ejecutar todo. / Saltar y bailar. / Saltar y.",
     "audio_file": "clip_046.mp3",
     "translation": "For oats. / Run everywhere. / Jump and dance. / Jump and.",
     "vocabulary": [
-      {"word": "la avena", "reading": "", "meaning": "oats"},
-      {"word": "ejecutar", "reading": "", "meaning": "to execute, run"},
-      {"word": "saltar", "reading": "", "meaning": "to jump"},
-      {"word": "bailar", "reading": "", "meaning": "to dance"}
+      {
+        "word": "la avena",
+        "reading": "",
+        "meaning": "oats"
+      },
+      {
+        "word": "ejecutar",
+        "reading": "",
+        "meaning": "to execute, run"
+      },
+      {
+        "word": "saltar",
+        "reading": "",
+        "meaning": "to jump"
+      },
+      {
+        "word": "bailar",
+        "reading": "",
+        "meaning": "to dance"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "06:48",
+    "start": "06:47",
     "end": "06:57",
     "text": "Cabriola. / Bajar a través de la huerta y pasear en. / Los bosques. / El mundo es un lugar maravilloso. / ¿Cuándo eres joven? / Puedo ver eso.",
     "audio_file": "clip_047.mp3",
     "translation": "Skip. / Go down through the orchard and walk in. / The woods. / The world is a wonderful place. / When you are young? / I can see that.",
     "vocabulary": [
-      {"word": "la cabriola", "reading": "", "meaning": "skip, caper"},
-      {"word": "pasear", "reading": "", "meaning": "to walk, stroll"},
-      {"word": "el bosque", "reading": "", "meaning": "forest, woods"}
+      {
+        "word": "la cabriola",
+        "reading": "",
+        "meaning": "skip, caper"
+      },
+      {
+        "word": "pasear",
+        "reading": "",
+        "meaning": "to walk, stroll"
+      },
+      {
+        "word": "el bosque",
+        "reading": "",
+        "meaning": "forest, woods"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "06:58",
+    "start": "06:57",
     "end": "07:01",
     "text": "Respondió Wilbur. / Dio un salto en el aire.",
     "audio_file": "clip_048.mp3",
     "translation": "Replied Wilbur. / He jumped in the air.",
     "vocabulary": [
-      {"word": "responder", "reading": "", "meaning": "to reply, respond"},
-      {"word": "dar un salto", "reading": "", "meaning": "to jump, take a leap"},
-      {"word": "el aire", "reading": "", "meaning": "air"}
+      {
+        "word": "responder",
+        "reading": "",
+        "meaning": "to reply, respond"
+      },
+      {
+        "word": "dar un salto",
+        "reading": "",
+        "meaning": "to jump, take a leap"
+      },
+      {
+        "word": "el aire",
+        "reading": "",
+        "meaning": "air"
+      }
     ],
     "grammar": "Dar un salto - to take a jump (idiomatic)"
   },
   {
-    "start": "07:02",
+    "start": "07:01",
     "end": "07:07",
     "text": "Giró. / Corrió unos pasos. / Se detuvo. / Miró a todos alrededor.",
     "audio_file": "clip_049.mp3",
     "translation": "He turned. / Ran a few steps. / Stopped. / Looked all around.",
     "vocabulary": [
-      {"word": "girar", "reading": "", "meaning": "to turn"},
-      {"word": "correr", "reading": "", "meaning": "to run"},
-      {"word": "el paso", "reading": "", "meaning": "step"},
-      {"word": "detenerse", "reading": "", "meaning": "to stop"},
-      {"word": "alrededor", "reading": "", "meaning": "around"}
+      {
+        "word": "girar",
+        "reading": "",
+        "meaning": "to turn"
+      },
+      {
+        "word": "correr",
+        "reading": "",
+        "meaning": "to run"
+      },
+      {
+        "word": "el paso",
+        "reading": "",
+        "meaning": "step"
+      },
+      {
+        "word": "detenerse",
+        "reading": "",
+        "meaning": "to stop"
+      },
+      {
+        "word": "alrededor",
+        "reading": "",
+        "meaning": "around"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "07:08",
+    "start": "07:07",
     "end": "07:12",
     "text": "Olisqueó los olores de la tarde y luego fuera de caminar por el huerto.",
     "audio_file": "clip_050.mp3",
     "translation": "He sniffed the smells of the afternoon and then set off walking through the orchard.",
     "vocabulary": [
-      {"word": "luego", "reading": "", "meaning": "then, later"},
-      {"word": "el huerto", "reading": "", "meaning": "orchard"}
+      {
+        "word": "luego",
+        "reading": "",
+        "meaning": "then, later"
+      },
+      {
+        "word": "el huerto",
+        "reading": "",
+        "meaning": "orchard"
+      }
     ],
     "grammar": null
   },
@@ -794,23 +1906,51 @@
     "audio_file": "clip_051.mp3",
     "translation": "Pausing in the shade of an apple tree.",
     "vocabulary": [
-      {"word": "pausar", "reading": "", "meaning": "to pause"},
-      {"word": "la sombra", "reading": "", "meaning": "shade, shadow"},
-      {"word": "el manzano", "reading": "", "meaning": "apple tree"}
+      {
+        "word": "pausar",
+        "reading": "",
+        "meaning": "to pause"
+      },
+      {
+        "word": "la sombra",
+        "reading": "",
+        "meaning": "shade, shadow"
+      },
+      {
+        "word": "el manzano",
+        "reading": "",
+        "meaning": "apple tree"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "07:17",
+    "start": "07:16",
     "end": "07:20",
     "text": "Puso su fuerte hocico en él. / Tierra y comenzó a empujar.",
     "audio_file": "clip_052.mp3",
     "translation": "He put his strong snout into the. / Ground and began to push.",
     "vocabulary": [
-      {"word": "fuerte", "reading": "", "meaning": "strong"},
-      {"word": "el hocico", "reading": "", "meaning": "snout"},
-      {"word": "la tierra", "reading": "", "meaning": "ground, earth"},
-      {"word": "comenzar", "reading": "", "meaning": "to begin"}
+      {
+        "word": "fuerte",
+        "reading": "",
+        "meaning": "strong"
+      },
+      {
+        "word": "el hocico",
+        "reading": "",
+        "meaning": "snout"
+      },
+      {
+        "word": "la tierra",
+        "reading": "",
+        "meaning": "ground, earth"
+      },
+      {
+        "word": "comenzar",
+        "reading": "",
+        "meaning": "to begin"
+      }
     ],
     "grammar": "Comenzar a + infinitive = to begin to do something"
   },
@@ -821,29 +1961,81 @@
     "audio_file": "clip_053.mp3",
     "translation": "Dig and root.",
     "vocabulary": [
-      {"word": "enraizar", "reading": "", "meaning": "to root, take root"}
+      {
+        "word": "enraizar",
+        "reading": "",
+        "meaning": "to root, take root"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "07:23",
+    "start": "07:22",
     "end": "07:51",
     "text": "Me sentí muy feliz. Había arado un buen pedazo de tierra antes de que nadie lo notara. Señora. Sucorman. Fue el primero en verlo. Ella lo vio desde la cocina. Ventana. Y ella inmediatamente gritó por los hombres. Homero, ella lloró. Por el cerdo, Lurby. Homero, Lurby, el cerdo está fuera. Está ahí debajo de eso. Árbol de manzana.",
     "audio_file": "clip_054.mp3",
     "translation": "He felt very happy. He had plowed quite a bit of ground before anyone noticed him. Mrs. Zuckerman. Was the first to see him. She saw him from the kitchen. Window. And she immediately shouted for the men. Homer, she cried. The pig, Lurvy. Homer, Lurvy, the pig is out. He's down there under that. Apple tree.",
     "vocabulary": [
-      {"word": "arar", "reading": "", "meaning": "to plow"},
-      {"word": "el pedazo", "reading": "", "meaning": "piece, bit"},
-      {"word": "antes de que", "reading": "", "meaning": "before"},
-      {"word": "nadie", "reading": "", "meaning": "nobody"},
-      {"word": "notar", "reading": "", "meaning": "to notice"},
-      {"word": "primero", "reading": "", "meaning": "first"},
-      {"word": "la cocina", "reading": "", "meaning": "kitchen"},
-      {"word": "la ventana", "reading": "", "meaning": "window"},
-      {"word": "inmediatamente", "reading": "", "meaning": "immediately"},
-      {"word": "gritar", "reading": "", "meaning": "to shout"},
-      {"word": "el hombre", "reading": "", "meaning": "man"},
-      {"word": "llorar", "reading": "", "meaning": "to cry"}
+      {
+        "word": "arar",
+        "reading": "",
+        "meaning": "to plow"
+      },
+      {
+        "word": "el pedazo",
+        "reading": "",
+        "meaning": "piece, bit"
+      },
+      {
+        "word": "antes de que",
+        "reading": "",
+        "meaning": "before"
+      },
+      {
+        "word": "nadie",
+        "reading": "",
+        "meaning": "nobody"
+      },
+      {
+        "word": "notar",
+        "reading": "",
+        "meaning": "to notice"
+      },
+      {
+        "word": "primero",
+        "reading": "",
+        "meaning": "first"
+      },
+      {
+        "word": "la cocina",
+        "reading": "",
+        "meaning": "kitchen"
+      },
+      {
+        "word": "la ventana",
+        "reading": "",
+        "meaning": "window"
+      },
+      {
+        "word": "inmediatamente",
+        "reading": "",
+        "meaning": "immediately"
+      },
+      {
+        "word": "gritar",
+        "reading": "",
+        "meaning": "to shout"
+      },
+      {
+        "word": "el hombre",
+        "reading": "",
+        "meaning": "man"
+      },
+      {
+        "word": "llorar",
+        "reading": "",
+        "meaning": "to cry"
+      }
     ],
     "grammar": "Antes de que + subjunctive - before someone does something"
   },
@@ -854,30 +2046,86 @@
     "audio_file": "clip_055.mp3",
     "translation": "Now the trouble starts. Thought Wilbur. Now. They'll catch me. The goose heard the noise and she. Also. Started. Yelling. Run, run, run, downhill. Head for the. Woods. The woods, she yelled to Wilbur. They'll never catch you in the woods. The cocker spaniel heard the commotion and ran. Out of the barn to join the chase. Mr.",
     "vocabulary": [
-      {"word": "el problema", "reading": "", "meaning": "problem"},
-      {"word": "comenzar", "reading": "", "meaning": "to begin, start"},
-      {"word": "atrapar", "reading": "", "meaning": "to catch"},
-      {"word": "oír", "reading": "", "meaning": "to hear (oyó - preterite)"},
-      {"word": "el ruido", "reading": "", "meaning": "noise"},
-      {"word": "cuesta abajo", "reading": "", "meaning": "downhill"},
-      {"word": "nunca jamás", "reading": "", "meaning": "never ever"},
-      {"word": "el alboroto", "reading": "", "meaning": "commotion, uproar"},
-      {"word": "unirse a", "reading": "", "meaning": "to join"},
-      {"word": "la persecución", "reading": "", "meaning": "chase, pursuit"}
+      {
+        "word": "el problema",
+        "reading": "",
+        "meaning": "problem"
+      },
+      {
+        "word": "comenzar",
+        "reading": "",
+        "meaning": "to begin, start"
+      },
+      {
+        "word": "atrapar",
+        "reading": "",
+        "meaning": "to catch"
+      },
+      {
+        "word": "oír",
+        "reading": "",
+        "meaning": "to hear (oyó - preterite)"
+      },
+      {
+        "word": "el ruido",
+        "reading": "",
+        "meaning": "noise"
+      },
+      {
+        "word": "cuesta abajo",
+        "reading": "",
+        "meaning": "downhill"
+      },
+      {
+        "word": "nunca jamás",
+        "reading": "",
+        "meaning": "never ever"
+      },
+      {
+        "word": "el alboroto",
+        "reading": "",
+        "meaning": "commotion, uproar"
+      },
+      {
+        "word": "unirse a",
+        "reading": "",
+        "meaning": "to join"
+      },
+      {
+        "word": "la persecución",
+        "reading": "",
+        "meaning": "chase, pursuit"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "08:21",
+    "start": "08:20",
     "end": "08:27",
     "text": "Su corps man escuchó y salió de la máquina donde él estaba arreglando una herramienta.",
     "audio_file": "clip_056.mp3",
     "translation": "Zuckerman heard and came out of the machine shed where he was fixing a tool.",
     "vocabulary": [
-      {"word": "escuchar", "reading": "", "meaning": "to hear, listen"},
-      {"word": "la máquina", "reading": "", "meaning": "machine"},
-      {"word": "arreglar", "reading": "", "meaning": "to fix, repair"},
-      {"word": "la herramienta", "reading": "", "meaning": "tool"}
+      {
+        "word": "escuchar",
+        "reading": "",
+        "meaning": "to hear, listen"
+      },
+      {
+        "word": "la máquina",
+        "reading": "",
+        "meaning": "machine"
+      },
+      {
+        "word": "arreglar",
+        "reading": "",
+        "meaning": "to fix, repair"
+      },
+      {
+        "word": "la herramienta",
+        "reading": "",
+        "meaning": "tool"
+      }
     ],
     "grammar": null
   },
@@ -888,25 +2136,61 @@
     "audio_file": "clip_057.mp3",
     "translation": "Lurvy, the hired hand, heard the noise and emerged from the asparagus patch where he was pulling weeds. / Everyone walked toward Wilbur and Wilbur didn't know what to do.",
     "vocabulary": [
-      {"word": "el empleado", "reading": "", "meaning": "employee, hired hand"},
-      {"word": "surgir", "reading": "", "meaning": "to emerge, appear"},
-      {"word": "el parche", "reading": "", "meaning": "patch"},
-      {"word": "el espárrago", "reading": "", "meaning": "asparagus"},
-      {"word": "tirar", "reading": "", "meaning": "to pull, throw"},
-      {"word": "la maleza", "reading": "", "meaning": "weeds"},
-      {"word": "hacia", "reading": "", "meaning": "toward"}
+      {
+        "word": "el empleado",
+        "reading": "",
+        "meaning": "employee, hired hand"
+      },
+      {
+        "word": "surgir",
+        "reading": "",
+        "meaning": "to emerge, appear"
+      },
+      {
+        "word": "el parche",
+        "reading": "",
+        "meaning": "patch"
+      },
+      {
+        "word": "el espárrago",
+        "reading": "",
+        "meaning": "asparagus"
+      },
+      {
+        "word": "tirar",
+        "reading": "",
+        "meaning": "to pull, throw"
+      },
+      {
+        "word": "la maleza",
+        "reading": "",
+        "meaning": "weeds"
+      },
+      {
+        "word": "hacia",
+        "reading": "",
+        "meaning": "toward"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "08:42",
+    "start": "08:41",
     "end": "08:45",
     "text": "El bosque parecía un largo camino fuera.",
     "audio_file": "clip_058.mp3",
     "translation": "The woods seemed a long way off.",
     "vocabulary": [
-      {"word": "parecer", "reading": "", "meaning": "to seem, appear"},
-      {"word": "el camino", "reading": "", "meaning": "way, path"}
+      {
+        "word": "parecer",
+        "reading": "",
+        "meaning": "to seem, appear"
+      },
+      {
+        "word": "el camino",
+        "reading": "",
+        "meaning": "way, path"
+      }
     ],
     "grammar": null
   },
@@ -917,11 +2201,31 @@
     "audio_file": "clip_059.mp3",
     "translation": "And besides, he had never been down there in the woods and he wasn't sure he would like it. / Get behind him, Lurvy, said Mr. Zuckerman, and drive him toward the barn.",
     "vocabulary": [
-      {"word": "de todos modos", "reading": "", "meaning": "anyway, besides"},
-      {"word": "seguro", "reading": "", "meaning": "sure, certain"},
-      {"word": "volver", "reading": "", "meaning": "to return (vuelve - command)"},
-      {"word": "detrás de", "reading": "", "meaning": "behind"},
-      {"word": "conducir", "reading": "", "meaning": "to drive, lead"}
+      {
+        "word": "de todos modos",
+        "reading": "",
+        "meaning": "anyway, besides"
+      },
+      {
+        "word": "seguro",
+        "reading": "",
+        "meaning": "sure, certain"
+      },
+      {
+        "word": "volver",
+        "reading": "",
+        "meaning": "to return (vuelve - command)"
+      },
+      {
+        "word": "detrás de",
+        "reading": "",
+        "meaning": "behind"
+      },
+      {
+        "word": "conducir",
+        "reading": "",
+        "meaning": "to drive, lead"
+      }
     ],
     "grammar": null
   },
@@ -932,23 +2236,51 @@
     "audio_file": "clip_060.mp3",
     "translation": "Easy, don't push him, I'll go get a bucket of slops.",
     "vocabulary": [
-      {"word": "fácil", "reading": "", "meaning": "easy"},
-      {"word": "presionar", "reading": "", "meaning": "to push, pressure"},
-      {"word": "slops", "reading": "", "meaning": "slops (pig food)"}
+      {
+        "word": "fácil",
+        "reading": "",
+        "meaning": "easy"
+      },
+      {
+        "word": "presionar",
+        "reading": "",
+        "meaning": "to push, pressure"
+      },
+      {
+        "word": "slops",
+        "reading": "",
+        "meaning": "slops (pig food)"
+      }
     ],
     "grammar": "Voy a + infinitive - I'm going to (near future)"
   },
   {
-    "start": "09:06",
+    "start": "09:05",
     "end": "09:12",
     "text": "La noticia de la fuga de Wilbur se extendió rápidamente entre los animales en el lugar.",
     "audio_file": "clip_061.mp3",
     "translation": "The news of Wilbur's escape spread quickly among the animals on the place.",
     "vocabulary": [
-      {"word": "la noticia", "reading": "", "meaning": "news"},
-      {"word": "la fuga", "reading": "", "meaning": "escape, flight"},
-      {"word": "extenderse", "reading": "", "meaning": "to spread"},
-      {"word": "rápidamente", "reading": "", "meaning": "quickly"}
+      {
+        "word": "la noticia",
+        "reading": "",
+        "meaning": "news"
+      },
+      {
+        "word": "la fuga",
+        "reading": "",
+        "meaning": "escape, flight"
+      },
+      {
+        "word": "extenderse",
+        "reading": "",
+        "meaning": "to spread"
+      },
+      {
+        "word": "rápidamente",
+        "reading": "",
+        "meaning": "quickly"
+      }
     ],
     "grammar": null
   },
@@ -962,18 +2294,42 @@
     "grammar": null
   },
   {
-    "start": "09:39",
+    "start": "09:38",
     "end": "10:04",
     "text": "Vuelve detrás de él, Lourby dijo el señor Sucorman, y conducirlo hacia el granero. Fácil, no le presione, voy a ir a buscar un cubo de slops. Comillas. La noticia de la fuga de Wilbur se extendió rápidamente entre los animales en el lugar. Siempre que una criatura se rompiera, el evento fue de gran interés para los demás.",
     "audio_file": "clip_063.mp3",
     "translation": "Get behind him, Lurvy, said Mr. Zuckerman, and drive him toward the barn. Easy, don't push him, I'll go get a bucket of slops. The news of Wilbur's escape spread quickly among the animals on the place. Whenever a creature broke loose, the event was of great interest to the others.",
     "vocabulary": [
-      {"word": "siempre que", "reading": "", "meaning": "whenever"},
-      {"word": "la criatura", "reading": "", "meaning": "creature"},
-      {"word": "romperse", "reading": "", "meaning": "to break loose"},
-      {"word": "el evento", "reading": "", "meaning": "event"},
-      {"word": "el interés", "reading": "", "meaning": "interest"},
-      {"word": "los demás", "reading": "", "meaning": "the others"}
+      {
+        "word": "siempre que",
+        "reading": "",
+        "meaning": "whenever"
+      },
+      {
+        "word": "la criatura",
+        "reading": "",
+        "meaning": "creature"
+      },
+      {
+        "word": "romperse",
+        "reading": "",
+        "meaning": "to break loose"
+      },
+      {
+        "word": "el evento",
+        "reading": "",
+        "meaning": "event"
+      },
+      {
+        "word": "el interés",
+        "reading": "",
+        "meaning": "interest"
+      },
+      {
+        "word": "los demás",
+        "reading": "",
+        "meaning": "the others"
+      }
     ],
     "grammar": "Siempre que + subjunctive - whenever"
   },
@@ -984,20 +2340,36 @@
     "audio_file": "clip_064.mp3",
     "translation": "The goose shouted to the nearest. / Cow that Wilbur was free.",
     "vocabulary": [
-      {"word": "cercano", "reading": "", "meaning": "nearby, close"}
+      {
+        "word": "cercano",
+        "reading": "",
+        "meaning": "nearby, close"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "10:10",
+    "start": "10:09",
     "end": "10:21",
     "text": "Y pronto todas las vacas lo sabían. / Entonces una de las vacas dijo a una de las ovejas. / Y pronto. / Todas las ovejas sabían. / Los corderos aprendieron.",
     "audio_file": "clip_065.mp3",
     "translation": "And soon all the cows knew it. / Then one of the cows told one of the sheep. / And soon. / All the sheep knew. / The lambs learned.",
     "vocabulary": [
-      {"word": "entonces", "reading": "", "meaning": "then"},
-      {"word": "el cordero", "reading": "", "meaning": "lamb"},
-      {"word": "aprender", "reading": "", "meaning": "to learn"}
+      {
+        "word": "entonces",
+        "reading": "",
+        "meaning": "then"
+      },
+      {
+        "word": "el cordero",
+        "reading": "",
+        "meaning": "lamb"
+      },
+      {
+        "word": "aprender",
+        "reading": "",
+        "meaning": "to learn"
+      }
     ],
     "grammar": null
   },
@@ -1008,10 +2380,26 @@
     "audio_file": "clip_066.mp3",
     "translation": "From their mothers. / The horses. / In their stalls in the stable. / Pricked up their ears when they heard the goose yelling.",
     "vocabulary": [
-      {"word": "la madre", "reading": "", "meaning": "mother"},
-      {"word": "el establo", "reading": "", "meaning": "stable"},
-      {"word": "levantar", "reading": "", "meaning": "to raise, lift"},
-      {"word": "el oído", "reading": "", "meaning": "ear (inner ear/hearing)"}
+      {
+        "word": "la madre",
+        "reading": "",
+        "meaning": "mother"
+      },
+      {
+        "word": "el establo",
+        "reading": "",
+        "meaning": "stable"
+      },
+      {
+        "word": "levantar",
+        "reading": "",
+        "meaning": "to raise, lift"
+      },
+      {
+        "word": "el oído",
+        "reading": "",
+        "meaning": "ear (inner ear/hearing)"
+      }
     ],
     "grammar": null
   },
@@ -1022,7 +2410,11 @@
     "audio_file": "clip_067.mp3",
     "translation": "And soon the horses had caught on to what was. / Happening.",
     "vocabulary": [
-      {"word": "captar", "reading": "", "meaning": "to catch on, understand"}
+      {
+        "word": "captar",
+        "reading": "",
+        "meaning": "to catch on, understand"
+      }
     ],
     "grammar": null
   },
@@ -1033,39 +2425,91 @@
     "audio_file": "clip_068.mp3",
     "translation": "Wilbur is out. They said. Every animal stirred and lifted its head and became excited to know",
     "vocabulary": [
-      {"word": "agitar", "reading": "", "meaning": "to stir, shake"},
-      {"word": "entusiasmarse", "reading": "", "meaning": "to become excited"}
+      {
+        "word": "agitar",
+        "reading": "",
+        "meaning": "to stir, shake"
+      },
+      {
+        "word": "entusiasmarse",
+        "reading": "",
+        "meaning": "to become excited"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "10:43",
+    "start": "10:42",
     "end": "10:55",
     "text": "que uno de sus amigos se había liberado y ya no estaba encerrado o atado rápido. / Wilbur no sabía qué hacer ni qué camino tomar. Correr. Parecía que todo el mundo lo perseguía.",
     "audio_file": "clip_069.mp3",
     "translation": "that one of his friends had gotten free and was no longer penned up or tied fast. / Wilbur didn't know what to do or which way to run. It seemed as though everybody was after him.",
     "vocabulary": [
-      {"word": "liberarse", "reading": "", "meaning": "to get free"},
-      {"word": "ya no", "reading": "", "meaning": "no longer"},
-      {"word": "encerrado", "reading": "", "meaning": "locked up, penned"},
-      {"word": "atado", "reading": "", "meaning": "tied"},
-      {"word": "ni", "reading": "", "meaning": "nor"},
-      {"word": "tomar", "reading": "", "meaning": "to take"},
-      {"word": "perseguir", "reading": "", "meaning": "to chase, pursue"}
+      {
+        "word": "liberarse",
+        "reading": "",
+        "meaning": "to get free"
+      },
+      {
+        "word": "ya no",
+        "reading": "",
+        "meaning": "no longer"
+      },
+      {
+        "word": "encerrado",
+        "reading": "",
+        "meaning": "locked up, penned"
+      },
+      {
+        "word": "atado",
+        "reading": "",
+        "meaning": "tied"
+      },
+      {
+        "word": "ni",
+        "reading": "",
+        "meaning": "nor"
+      },
+      {
+        "word": "tomar",
+        "reading": "",
+        "meaning": "to take"
+      },
+      {
+        "word": "perseguir",
+        "reading": "",
+        "meaning": "to chase, pursue"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "10:56",
+    "start": "10:55",
     "end": "11:03",
     "text": "Sí. Esto es lo que es ser libre. Pensó. Creo. Prefiero quedarme encerrado en mi propio patio.",
     "audio_file": "clip_070.mp3",
     "translation": "So. This is what it's like to be free. He thought. I guess. I'd rather stay locked up in my own yard.",
     "vocabulary": [
-      {"word": "sí", "reading": "", "meaning": "so, yes"},
-      {"word": "esto", "reading": "", "meaning": "this"},
-      {"word": "preferir", "reading": "", "meaning": "to prefer"},
-      {"word": "propio", "reading": "", "meaning": "own"}
+      {
+        "word": "sí",
+        "reading": "",
+        "meaning": "so, yes"
+      },
+      {
+        "word": "esto",
+        "reading": "",
+        "meaning": "this"
+      },
+      {
+        "word": "preferir",
+        "reading": "",
+        "meaning": "to prefer"
+      },
+      {
+        "word": "propio",
+        "reading": "",
+        "meaning": "own"
+      }
     ],
     "grammar": "Prefiero + infinitive - I prefer to"
   },
@@ -1076,20 +2520,36 @@
     "audio_file": "clip_071.mp3",
     "translation": "The cocker spaniel was sneaking up on him from one.",
     "vocabulary": [
-      {"word": "seguir", "reading": "", "meaning": "to follow"},
-      {"word": "furtivamente", "reading": "", "meaning": "stealthily, sneakily"}
+      {
+        "word": "seguir",
+        "reading": "",
+        "meaning": "to follow"
+      },
+      {
+        "word": "furtivamente",
+        "reading": "",
+        "meaning": "stealthily, sneakily"
+      }
     ],
     "grammar": "Estaba siguiendo - past progressive (was following)"
   },
   {
-    "start": "11:10",
+    "start": "11:09",
     "end": "11:14",
     "text": "Lurby el hombre contratado estaba furtivamente en él. / Desde el otro lado.",
     "audio_file": "clip_072.mp3",
     "translation": "Lurvy the hired man was creeping up on him. / From the other side.",
     "vocabulary": [
-      {"word": "contratado", "reading": "", "meaning": "hired"},
-      {"word": "el otro lado", "reading": "", "meaning": "the other side"}
+      {
+        "word": "contratado",
+        "reading": "",
+        "meaning": "hired"
+      },
+      {
+        "word": "el otro lado",
+        "reading": "",
+        "meaning": "the other side"
+      }
     ],
     "grammar": null
   },
@@ -1100,9 +2560,21 @@
     "audio_file": "clip_073.mp3",
     "translation": "Mrs. Zuckerman stood ready to. / Head him off if he headed for the garden.",
     "vocabulary": [
-      {"word": "la señora", "reading": "", "meaning": "Mrs., lady"},
-      {"word": "listo", "reading": "", "meaning": "ready"},
-      {"word": "dirigirse a", "reading": "", "meaning": "to head toward"}
+      {
+        "word": "la señora",
+        "reading": "",
+        "meaning": "Mrs., lady"
+      },
+      {
+        "word": "listo",
+        "reading": "",
+        "meaning": "ready"
+      },
+      {
+        "word": "dirigirse a",
+        "reading": "",
+        "meaning": "to head toward"
+      }
     ],
     "grammar": null
   },
@@ -1113,9 +2585,21 @@
     "audio_file": "clip_074.mp3",
     "translation": "And now Mr. / Zuckerman was coming down toward him carrying a. / Bucket. / This is really awful. / Thought Wilbur.",
     "vocabulary": [
-      {"word": "llevar", "reading": "", "meaning": "to carry"},
-      {"word": "realmente", "reading": "", "meaning": "really"},
-      {"word": "horrible", "reading": "", "meaning": "horrible, awful"}
+      {
+        "word": "llevar",
+        "reading": "",
+        "meaning": "to carry"
+      },
+      {
+        "word": "realmente",
+        "reading": "",
+        "meaning": "really"
+      },
+      {
+        "word": "horrible",
+        "reading": "",
+        "meaning": "horrible, awful"
+      }
     ],
     "grammar": null
   },
@@ -1126,45 +2610,81 @@
     "audio_file": "clip_075.mp3",
     "translation": "Why? / Isn't Fern coming. / He began to cry. / The goose took command and began to give orders.",
     "vocabulary": [
-      {"word": "por qué", "reading": "", "meaning": "why"},
-      {"word": "tomar el mando", "reading": "", "meaning": "to take command"},
-      {"word": "dar órdenes", "reading": "", "meaning": "to give orders"},
-      {"word": "la orden", "reading": "", "meaning": "order, command"}
+      {
+        "word": "por qué",
+        "reading": "",
+        "meaning": "why"
+      },
+      {
+        "word": "tomar el mando",
+        "reading": "",
+        "meaning": "to take command"
+      },
+      {
+        "word": "dar órdenes",
+        "reading": "",
+        "meaning": "to give orders"
+      },
+      {
+        "word": "la orden",
+        "reading": "",
+        "meaning": "order, command"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "11:36",
+    "start": "11:35",
     "end": "11:39",
     "text": "No te quedes ahí, Wilbur. / Esquiva. / Dodge.",
     "audio_file": "clip_076.mp3",
     "translation": "Don't just stand there, Wilbur. / Dodge. / Dodge.",
     "vocabulary": [
-      {"word": "quedarse", "reading": "", "meaning": "to stay"},
-      {"word": "esquivar", "reading": "", "meaning": "to dodge"}
+      {
+        "word": "quedarse",
+        "reading": "",
+        "meaning": "to stay"
+      },
+      {
+        "word": "esquivar",
+        "reading": "",
+        "meaning": "to dodge"
+      }
     ],
     "grammar": "No te quedes - negative informal command of quedarse"
   },
   {
-    "start": "11:40",
+    "start": "11:39",
     "end": "11:45",
     "text": "Gritó el ganso, salta. / Corre. / Hacia mí. / Entrar y salir.",
     "audio_file": "clip_077.mp3",
     "translation": "Yelled the goose, jump. / Run. / Toward me. / In and out.",
     "vocabulary": [
-      {"word": "entrar", "reading": "", "meaning": "to enter"}
+      {
+        "word": "entrar",
+        "reading": "",
+        "meaning": "to enter"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "11:46",
+    "start": "11:45",
     "end": "11:55",
     "text": "Dentro y fuera. / Dentro y fuera. / Hacer para el bosque, gira y vuelve. / El perro de aguas de Cocker saltó para la pierna posterior de Wilbur.",
     "audio_file": "clip_078.mp3",
     "translation": "In and out. / In and out. / Head for the woods, turn and come back. / The cocker spaniel jumped for Wilbur's hind leg.",
     "vocabulary": [
-      {"word": "la pierna", "reading": "", "meaning": "leg"},
-      {"word": "posterior", "reading": "", "meaning": "hind, back, rear"}
+      {
+        "word": "la pierna",
+        "reading": "",
+        "meaning": "leg"
+      },
+      {
+        "word": "posterior",
+        "reading": "",
+        "meaning": "hind, back, rear"
+      }
     ],
     "grammar": null
   },
@@ -1175,9 +2695,21 @@
     "audio_file": "clip_079.mp3",
     "translation": "Wilbur jumped and ran. / Lurvy reached out and grabbed Mrs. Zuckerman, yelled at Lurvy.",
     "vocabulary": [
-      {"word": "extender", "reading": "", "meaning": "to extend, reach out"},
-      {"word": "la mano", "reading": "", "meaning": "hand"},
-      {"word": "agarrar", "reading": "", "meaning": "to grab"}
+      {
+        "word": "extender",
+        "reading": "",
+        "meaning": "to extend, reach out"
+      },
+      {
+        "word": "la mano",
+        "reading": "",
+        "meaning": "hand"
+      },
+      {
+        "word": "agarrar",
+        "reading": "",
+        "meaning": "to grab"
+      }
     ],
     "grammar": null
   },
@@ -1188,7 +2720,11 @@
     "audio_file": "clip_080.mp3",
     "translation": "The goose cheered for Wilbur. / Wilbur dodged between Lurvy's legs.",
     "vocabulary": [
-      {"word": "aplaudir", "reading": "", "meaning": "to applaud, cheer"}
+      {
+        "word": "aplaudir",
+        "reading": "",
+        "meaning": "to applaud, cheer"
+      }
     ],
     "grammar": null
   },
@@ -1199,22 +2735,46 @@
     "audio_file": "clip_081.mp3",
     "translation": "Lurvy missed Wilbur and grabbed the spaniel instead. / Well done. / Well done, cried the goose.",
     "vocabulary": [
-      {"word": "perderse", "reading": "", "meaning": "to miss"},
-      {"word": "en su lugar", "reading": "", "meaning": "instead"},
-      {"word": "bien hecho", "reading": "", "meaning": "well done"}
+      {
+        "word": "perderse",
+        "reading": "",
+        "meaning": "to miss"
+      },
+      {
+        "word": "en su lugar",
+        "reading": "",
+        "meaning": "instead"
+      },
+      {
+        "word": "bien hecho",
+        "reading": "",
+        "meaning": "well done"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "12:19",
+    "start": "12:18",
     "end": "12:24",
     "text": "Pruébelo de nuevo. / Pruébelo de nuevo. / Corra cuesta abajo, sugirió las vacas.",
     "audio_file": "clip_082.mp3",
     "translation": "Try again. / Try again. / Run downhill, suggested the cows.",
     "vocabulary": [
-      {"word": "probar", "reading": "", "meaning": "to try (pruébelo - command)"},
-      {"word": "de nuevo", "reading": "", "meaning": "again"},
-      {"word": "sugerir", "reading": "", "meaning": "to suggest"}
+      {
+        "word": "probar",
+        "reading": "",
+        "meaning": "to try (pruébelo - command)"
+      },
+      {
+        "word": "de nuevo",
+        "reading": "",
+        "meaning": "again"
+      },
+      {
+        "word": "sugerir",
+        "reading": "",
+        "meaning": "to suggest"
+      }
     ],
     "grammar": null
   },
@@ -1225,8 +2785,16 @@
     "audio_file": "clip_083.mp3",
     "translation": "Run toward me, yelled the goose. / —Run uphill —exclaimed the sheep.",
     "vocabulary": [
-      {"word": "cuesta arriba", "reading": "", "meaning": "uphill"},
-      {"word": "exclamar", "reading": "", "meaning": "to exclaim"}
+      {
+        "word": "cuesta arriba",
+        "reading": "",
+        "meaning": "uphill"
+      },
+      {
+        "word": "exclamar",
+        "reading": "",
+        "meaning": "to exclaim"
+      }
     ],
     "grammar": null
   },
@@ -1237,8 +2805,16 @@
     "audio_file": "clip_084.mp3",
     "translation": "—Turn and turn —cried the goose. / —Jump and dance —said the rooster.",
     "vocabulary": [
-      {"word": "tocar", "reading": "", "meaning": "to touch, play (here: cry out)"},
-      {"word": "el gallo", "reading": "", "meaning": "rooster"}
+      {
+        "word": "tocar",
+        "reading": "",
+        "meaning": "to touch, play (here: cry out)"
+      },
+      {
+        "word": "el gallo",
+        "reading": "",
+        "meaning": "rooster"
+      }
     ],
     "grammar": null
   },
@@ -1249,8 +2825,16 @@
     "audio_file": "clip_085.mp3",
     "translation": "—Watch out for Lurvy —called the cows. / —Watch out for Zuckerman —yelled the goose.",
     "vocabulary": [
-      {"word": "cuidado con", "reading": "", "meaning": "watch out for, be careful of"},
-      {"word": "llamar", "reading": "", "meaning": "to call"}
+      {
+        "word": "cuidado con",
+        "reading": "",
+        "meaning": "watch out for, be careful of"
+      },
+      {
+        "word": "llamar",
+        "reading": "",
+        "meaning": "to call"
+      }
     ],
     "grammar": null
   },
@@ -1261,38 +2845,66 @@
     "audio_file": "clip_086.mp3",
     "translation": "—Watch out for the dog —exclaimed the sheep.",
     "vocabulary": [
-      {"word": "el perro", "reading": "", "meaning": "dog"}
+      {
+        "word": "el perro",
+        "reading": "",
+        "meaning": "dog"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "12:46",
+    "start": "12:45",
     "end": "12:53",
     "text": "—Escúchame. / —Escúchame —gritó el ganso. / El pobre Wilbur estaba aturdido y asustado por este alboroto.",
     "audio_file": "clip_087.mp3",
     "translation": "—Listen to me. / —Listen to me —yelled the goose. / Poor Wilbur was dazed and frightened by this commotion.",
     "vocabulary": [
-      {"word": "pobre", "reading": "", "meaning": "poor"},
-      {"word": "aturdido", "reading": "", "meaning": "dazed, stunned"},
-      {"word": "asustado", "reading": "", "meaning": "frightened, scared"}
+      {
+        "word": "pobre",
+        "reading": "",
+        "meaning": "poor"
+      },
+      {
+        "word": "aturdido",
+        "reading": "",
+        "meaning": "dazed, stunned"
+      },
+      {
+        "word": "asustado",
+        "reading": "",
+        "meaning": "frightened, scared"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "12:54",
+    "start": "12:53",
     "end": "13:00",
     "text": "No le gustaba ser el centro de todo este alboroto. / Trató de seguir las instrucciones que sus amigos.",
     "audio_file": "clip_088.mp3",
     "translation": "He didn't like being the center of all this commotion. / He tried to follow the instructions that his friends.",
     "vocabulary": [
-      {"word": "el centro", "reading": "", "meaning": "center"},
-      {"word": "tratar de", "reading": "", "meaning": "to try to"},
-      {"word": "la instrucción", "reading": "", "meaning": "instruction"}
+      {
+        "word": "el centro",
+        "reading": "",
+        "meaning": "center"
+      },
+      {
+        "word": "tratar de",
+        "reading": "",
+        "meaning": "to try to"
+      },
+      {
+        "word": "la instrucción",
+        "reading": "",
+        "meaning": "instruction"
+      }
     ],
     "grammar": "No le gustaba - indirect object + imperfect (he didn't like)"
   },
   {
-    "start": "13:02",
+    "start": "13:01",
     "end": "13:05",
     "text": "Pero no podía correr cuesta abajo y cuesta arriba.",
     "audio_file": "clip_089.mp3",
@@ -1301,96 +2913,152 @@
     "grammar": null
   },
   {
-    "start": "13:06",
+    "start": "13:05",
     "end": "13:10",
     "text": "Al mismo tiempo. / Y no podía girar y girar cuando.",
     "audio_file": "clip_090.mp3",
     "translation": "At the same time. / And he couldn't turn and turn when.",
     "vocabulary": [
-      {"word": "al mismo tiempo", "reading": "", "meaning": "at the same time"}
+      {
+        "word": "al mismo tiempo",
+        "reading": "",
+        "meaning": "at the same time"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "13:11",
+    "start": "13:10",
     "end": "13:14",
     "text": "Estaba saltando y bailando. / Y lloraba tanto.",
     "audio_file": "clip_091.mp3",
     "translation": "He was jumping and dancing. / And he was crying so hard.",
     "vocabulary": [
-      {"word": "tanto", "reading": "", "meaning": "so much"}
+      {
+        "word": "tanto",
+        "reading": "",
+        "meaning": "so much"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "13:15",
+    "start": "13:14",
     "end": "13:18",
     "text": "Duro que apenas podía ver nada de lo que estaba sucediendo.",
     "audio_file": "clip_092.mp3",
     "translation": "Hard that he could hardly see anything that was happening.",
     "vocabulary": [
-      {"word": "duro", "reading": "", "meaning": "hard"},
-      {"word": "apenas", "reading": "", "meaning": "barely, hardly"}
+      {
+        "word": "duro",
+        "reading": "",
+        "meaning": "hard"
+      },
+      {
+        "word": "apenas",
+        "reading": "",
+        "meaning": "barely, hardly"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "13:19",
+    "start": "13:18",
     "end": "13:22",
     "text": "Después de todo. / Wilbur era un cerdo muy joven.",
     "audio_file": "clip_093.mp3",
     "translation": "After all. / Wilbur was a very young pig.",
     "vocabulary": [
-      {"word": "después de todo", "reading": "", "meaning": "after all"}
+      {
+        "word": "después de todo",
+        "reading": "",
+        "meaning": "after all"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "13:23",
+    "start": "13:22",
     "end": "13:26",
     "text": "No mucho. / Más que un bebé. / En realidad.",
     "audio_file": "clip_094.mp3",
     "translation": "Not much. / More than a baby. / Really.",
     "vocabulary": [
-      {"word": "el bebé", "reading": "", "meaning": "baby"}
+      {
+        "word": "el bebé",
+        "reading": "",
+        "meaning": "baby"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "13:27",
+    "start": "13:26",
     "end": "13:32",
     "text": "Deseaba que Fern estuviera allí. / Para tomarlo en sus ANNs y consolarlo.",
     "audio_file": "clip_095.mp3",
     "translation": "He wished that Fern were there. / To pick him up in her arms and console him.",
     "vocabulary": [
-      {"word": "desear", "reading": "", "meaning": "to wish"},
-      {"word": "consolar", "reading": "", "meaning": "to console, comfort"},
-      {"word": "el brazo", "reading": "", "meaning": "arm"}
+      {
+        "word": "desear",
+        "reading": "",
+        "meaning": "to wish"
+      },
+      {
+        "word": "consolar",
+        "reading": "",
+        "meaning": "to console, comfort"
+      },
+      {
+        "word": "el brazo",
+        "reading": "",
+        "meaning": "arm"
+      }
     ],
     "grammar": "Deseaba que + subjunctive (estuviera) - wished that"
   },
   {
-    "start": "13:33",
+    "start": "13:32",
     "end": "13:37",
     "text": "Cuando él. / Miró hacia arriba y vio al señor Zuckerman muy cerca.",
     "audio_file": "clip_096.mp3",
     "translation": "When he. / Looked up and saw Mr. Zuckerman very close.",
     "vocabulary": [
-      {"word": "mirar hacia arriba", "reading": "", "meaning": "to look up"},
-      {"word": "cerca", "reading": "", "meaning": "close, near"}
+      {
+        "word": "mirar hacia arriba",
+        "reading": "",
+        "meaning": "to look up"
+      },
+      {
+        "word": "cerca",
+        "reading": "",
+        "meaning": "close, near"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "13:39",
+    "start": "13:38",
     "end": "13:42",
     "text": "Sosteniendo un cubo de lechugas. / Se sintió aliviado.",
     "audio_file": "clip_097.mp3",
     "translation": "Holding a bucket of slops. / He felt relieved.",
     "vocabulary": [
-      {"word": "sostener", "reading": "", "meaning": "to hold"},
-      {"word": "la lechuga", "reading": "", "meaning": "lettuce (here: slops)"},
-      {"word": "aliviado", "reading": "", "meaning": "relieved"}
+      {
+        "word": "sostener",
+        "reading": "",
+        "meaning": "to hold"
+      },
+      {
+        "word": "la lechuga",
+        "reading": "",
+        "meaning": "lettuce (here: slops)"
+      },
+      {
+        "word": "aliviado",
+        "reading": "",
+        "meaning": "relieved"
+      }
     ],
     "grammar": null
   },
@@ -1401,8 +3069,16 @@
     "audio_file": "clip_098.mp3",
     "translation": "He lifted his nose and sniffed. / The smell was delicious. / Of warm milk.",
     "vocabulary": [
-      {"word": "la nariz", "reading": "", "meaning": "nose"},
-      {"word": "delicioso", "reading": "", "meaning": "delicious"}
+      {
+        "word": "la nariz",
+        "reading": "",
+        "meaning": "nose"
+      },
+      {
+        "word": "delicioso",
+        "reading": "",
+        "meaning": "delicious"
+      }
     ],
     "grammar": null
   },
@@ -1413,42 +3089,66 @@
     "audio_file": "clip_099.mp3",
     "translation": "Potato skins. / Wheat middlings. / Kellogg's.",
     "vocabulary": [
-      {"word": "el trigo", "reading": "", "meaning": "wheat"}
+      {
+        "word": "el trigo",
+        "reading": "",
+        "meaning": "wheat"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "13:53",
+    "start": "13:52",
     "end": "14:02",
     "text": "Home flakes. / Y un popoder izquierda de la suquenans. / Desayuno. / Vamos. / Cerdo, dijo el señor Sucorman.",
     "audio_file": "clip_100.mp3",
     "translation": "Corn flakes. / And a popover left from the Zuckermans'. / Breakfast. / Come on. / Pig, said Mr. Zuckerman.",
     "vocabulary": [
-      {"word": "el desayuno", "reading": "", "meaning": "breakfast"},
-      {"word": "vamos", "reading": "", "meaning": "come on, let's go"}
+      {
+        "word": "el desayuno",
+        "reading": "",
+        "meaning": "breakfast"
+      },
+      {
+        "word": "vamos",
+        "reading": "",
+        "meaning": "come on, let's go"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "14:03",
+    "start": "14:02",
     "end": "14:08",
     "text": "Tocando el cubo. / Venga el cerdo. / Wilbur dio un paso hacia el cubo.",
     "audio_file": "clip_101.mp3",
     "translation": "Tapping the bucket. / Come pig. / Wilbur took a step toward the bucket.",
     "vocabulary": [
-      {"word": "tocar", "reading": "", "meaning": "to touch, tap"}
+      {
+        "word": "tocar",
+        "reading": "",
+        "meaning": "to touch, tap"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "14:09",
+    "start": "14:08",
     "end": "14:12",
     "text": "No no no, dijo el ganso. / Es el viejo truco de balde.",
     "audio_file": "clip_102.mp3",
     "translation": "No no no, said the goose. / It's the old bucket trick.",
     "vocabulary": [
-      {"word": "el truco", "reading": "", "meaning": "trick"},
-      {"word": "el balde", "reading": "", "meaning": "bucket"}
+      {
+        "word": "el truco",
+        "reading": "",
+        "meaning": "trick"
+      },
+      {
+        "word": "el balde",
+        "reading": "",
+        "meaning": "bucket"
+      }
     ],
     "grammar": null
   },
@@ -1459,36 +3159,76 @@
     "audio_file": "clip_103.mp3",
     "translation": "Wilbur. / Don't fall for it. / Don't fall for it. / He's trying.",
     "vocabulary": [
-      {"word": "enamorarse de", "reading": "", "meaning": "to fall in love with, fall for"},
-      {"word": "intentar", "reading": "", "meaning": "to try"}
+      {
+        "word": "enamorarse de",
+        "reading": "",
+        "meaning": "to fall in love with, fall for"
+      },
+      {
+        "word": "intentar",
+        "reading": "",
+        "meaning": "to try"
+      }
     ],
     "grammar": "No te enamores - negative informal command"
   },
   {
-    "start": "14:20",
+    "start": "14:19",
     "end": "14:25",
     "text": "Para atraerlo de vuelta al cautiverio Ibiri. / Él es atractivo. / A tu estómago.",
     "audio_file": "clip_104.mp3",
     "translation": "To lure you back into captivity. / He's appealing. / To your stomach.",
     "vocabulary": [
-      {"word": "atraer", "reading": "", "meaning": "to attract, lure"},
-      {"word": "de vuelta", "reading": "", "meaning": "back"},
-      {"word": "el cautiverio", "reading": "", "meaning": "captivity"},
-      {"word": "atractivo", "reading": "", "meaning": "attractive, appealing"},
-      {"word": "el estómago", "reading": "", "meaning": "stomach"}
+      {
+        "word": "atraer",
+        "reading": "",
+        "meaning": "to attract, lure"
+      },
+      {
+        "word": "de vuelta",
+        "reading": "",
+        "meaning": "back"
+      },
+      {
+        "word": "el cautiverio",
+        "reading": "",
+        "meaning": "captivity"
+      },
+      {
+        "word": "atractivo",
+        "reading": "",
+        "meaning": "attractive, appealing"
+      },
+      {
+        "word": "el estómago",
+        "reading": "",
+        "meaning": "stomach"
+      }
     ],
     "grammar": null
   },
   {
     "start": "14:26",
-    "end": "14:30",
+    "end": "14:31",
     "text": "A Wilbur no le importaba. / La comida olía apetecible.",
     "audio_file": "clip_105.mp3",
     "translation": "Wilbur didn't care. / The food smelled appetizing.",
     "vocabulary": [
-      {"word": "importar", "reading": "", "meaning": "to matter, care"},
-      {"word": "la comida", "reading": "", "meaning": "food"},
-      {"word": "apetecible", "reading": "", "meaning": "appetizing"}
+      {
+        "word": "importar",
+        "reading": "",
+        "meaning": "to matter, care"
+      },
+      {
+        "word": "la comida",
+        "reading": "",
+        "meaning": "food"
+      },
+      {
+        "word": "apetecible",
+        "reading": "",
+        "meaning": "appetizing"
+      }
     ],
     "grammar": "No le importaba - indirect object construction (he didn't care)"
   },
@@ -1499,7 +3239,11 @@
     "audio_file": "clip_106.mp3",
     "translation": "He took another step toward the bucket. / Pig. / Pig, said Mr. Zuckerman in a kind voice.",
     "vocabulary": [
-      {"word": "otro", "reading": "", "meaning": "another, other"}
+      {
+        "word": "otro",
+        "reading": "",
+        "meaning": "another, other"
+      }
     ],
     "grammar": null
   },
@@ -1510,36 +3254,76 @@
     "audio_file": "clip_107.mp3",
     "translation": "Yeah. / He started to walk slowly toward the pen. / Looking. / Over him innocently. / As if he didn't know that a little.",
     "vocabulary": [
-      {"word": "lentamente", "reading": "", "meaning": "slowly"},
-      {"word": "el corral", "reading": "", "meaning": "pen, yard"},
-      {"word": "inocentemente", "reading": "", "meaning": "innocently"}
+      {
+        "word": "lentamente",
+        "reading": "",
+        "meaning": "slowly"
+      },
+      {
+        "word": "el corral",
+        "reading": "",
+        "meaning": "pen, yard"
+      },
+      {
+        "word": "inocentemente",
+        "reading": "",
+        "meaning": "innocently"
+      }
     ],
     "grammar": "Como si + subjunctive (supiera) - as if"
   },
   {
-    "start": "14:48",
+    "start": "14:47",
     "end": "14:52",
     "text": "El cerdo blanco lo seguía detrás de él. / Lo siento, lo siento, lo siento.",
     "audio_file": "clip_108.mp3",
     "translation": "White pig was following behind him. / I'm sorry, I'm sorry, I'm sorry.",
     "vocabulary": [
-      {"word": "blanco", "reading": "", "meaning": "white"},
-      {"word": "lo siento", "reading": "", "meaning": "I'm sorry"}
+      {
+        "word": "blanco",
+        "reading": "",
+        "meaning": "white"
+      },
+      {
+        "word": "lo siento",
+        "reading": "",
+        "meaning": "I'm sorry"
+      }
     ],
     "grammar": null
   },
   {
     "start": "14:53",
-    "end": "15:11",
+    "end": "15:10",
     "text": "Dijo el ganso. A Wilbert no le importaba. Siguió caminando hacia el cubo de los slopes. Echarás de menos tu libertad. Gritó el ganso. Un hora de la libertad vale un barril de slopes. Comillas. A Wilbert no le importaba.",
     "audio_file": "clip_109.mp3",
     "translation": "Said the goose. Wilbur didn't care. He kept walking toward the bucket of slops. You'll miss your freedom. Yelled the goose. An hour of freedom is worth a barrel of slops. Wilbur didn't care.",
     "vocabulary": [
-      {"word": "seguir + gerund", "reading": "", "meaning": "to keep doing"},
-      {"word": "echar de menos", "reading": "", "meaning": "to miss"},
-      {"word": "la libertad", "reading": "", "meaning": "freedom"},
-      {"word": "valer", "reading": "", "meaning": "to be worth"},
-      {"word": "el barril", "reading": "", "meaning": "barrel"}
+      {
+        "word": "seguir + gerund",
+        "reading": "",
+        "meaning": "to keep doing"
+      },
+      {
+        "word": "echar de menos",
+        "reading": "",
+        "meaning": "to miss"
+      },
+      {
+        "word": "la libertad",
+        "reading": "",
+        "meaning": "freedom"
+      },
+      {
+        "word": "valer",
+        "reading": "",
+        "meaning": "to be worth"
+      },
+      {
+        "word": "el barril",
+        "reading": "",
+        "meaning": "barrel"
+      }
     ],
     "grammar": "Echar de menos - to miss (someone/something)"
   },
@@ -1550,24 +3334,56 @@
     "audio_file": "clip_110.mp3",
     "translation": "When Mr. Zuckerman reached the pen, he climbed over the fence and poured the slops into the trough, then pushed the loose board aside from the fence, so there was a big hole for Wilbur to walk through.",
     "vocabulary": [
-      {"word": "llegar a", "reading": "", "meaning": "to reach, arrive at"},
-      {"word": "subir por", "reading": "", "meaning": "to climb over"},
-      {"word": "encima de", "reading": "", "meaning": "over, on top of"},
-      {"word": "verter", "reading": "", "meaning": "to pour"},
-      {"word": "la canal", "reading": "", "meaning": "trough, channel"},
-      {"word": "apartar", "reading": "", "meaning": "to push aside"},
-      {"word": "el agujero", "reading": "", "meaning": "hole"}
+      {
+        "word": "llegar a",
+        "reading": "",
+        "meaning": "to reach, arrive at"
+      },
+      {
+        "word": "subir por",
+        "reading": "",
+        "meaning": "to climb over"
+      },
+      {
+        "word": "encima de",
+        "reading": "",
+        "meaning": "over, on top of"
+      },
+      {
+        "word": "verter",
+        "reading": "",
+        "meaning": "to pour"
+      },
+      {
+        "word": "la canal",
+        "reading": "",
+        "meaning": "trough, channel"
+      },
+      {
+        "word": "apartar",
+        "reading": "",
+        "meaning": "to push aside"
+      },
+      {
+        "word": "el agujero",
+        "reading": "",
+        "meaning": "hole"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "15:28",
+    "start": "15:27",
     "end": "15:31",
     "text": "Reconsiderar. / Reconsiderar, gritó el ganso.",
     "audio_file": "clip_111.mp3",
     "translation": "Reconsider. / Reconsider, yelled the goose.",
     "vocabulary": [
-      {"word": "reconsiderar", "reading": "", "meaning": "to reconsider"}
+      {
+        "word": "reconsiderar",
+        "reading": "",
+        "meaning": "to reconsider"
+      }
     ],
     "grammar": null
   },
@@ -1578,19 +3394,31 @@
     "audio_file": "clip_112.mp3",
     "translation": "Wilbur paid no attention. / He walked through the fence into his yard.",
     "vocabulary": [
-      {"word": "prestar atención", "reading": "", "meaning": "to pay attention"}
+      {
+        "word": "prestar atención",
+        "reading": "",
+        "meaning": "to pay attention"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "15:41",
+    "start": "15:40",
     "end": "15:45",
     "text": "Caminó hacia el abrevadero y... / Una bebida larga de slops.",
     "audio_file": "clip_113.mp3",
     "translation": "He walked to the trough and... / A long drink of slops.",
     "vocabulary": [
-      {"word": "el abrevadero", "reading": "", "meaning": "trough, watering hole"},
-      {"word": "la bebida", "reading": "", "meaning": "drink"}
+      {
+        "word": "el abrevadero",
+        "reading": "",
+        "meaning": "trough, watering hole"
+      },
+      {
+        "word": "la bebida",
+        "reading": "",
+        "meaning": "drink"
+      }
     ],
     "grammar": null
   },
@@ -1601,39 +3429,91 @@
     "audio_file": "clip_114.mp3",
     "translation": "Sucking in the hungry milk and...",
     "vocabulary": [
-      {"word": "chupar", "reading": "", "meaning": "to suck"},
-      {"word": "el hambre", "reading": "", "meaning": "hunger (feminine: el hambre)"}
+      {
+        "word": "chupar",
+        "reading": "",
+        "meaning": "to suck"
+      },
+      {
+        "word": "el hambre",
+        "reading": "",
+        "meaning": "hunger (feminine: el hambre)"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "15:50",
+    "start": "15:49",
     "end": "16:03",
     "text": "Masticando el popover. / Fue bueno estar en casa otra vez. / Mientras Wilber comía. / Lurby buscó un martillo y... / Unas uñas de ocho peniques y clavó la tabla en su lugar.",
     "audio_file": "clip_115.mp3",
     "translation": "Chewing the popover. / It was good to be home again. / While Wilbur ate. / Lurvy found a hammer and... / Some eight-penny nails and nailed the board in place.",
     "vocabulary": [
-      {"word": "masticar", "reading": "", "meaning": "to chew"},
-      {"word": "la casa", "reading": "", "meaning": "home, house"},
-      {"word": "otra vez", "reading": "", "meaning": "again"},
-      {"word": "mientras", "reading": "", "meaning": "while"},
-      {"word": "el martillo", "reading": "", "meaning": "hammer"},
-      {"word": "la uña", "reading": "", "meaning": "nail (here: hardware nail)"},
-      {"word": "clavar", "reading": "", "meaning": "to nail"}
+      {
+        "word": "masticar",
+        "reading": "",
+        "meaning": "to chew"
+      },
+      {
+        "word": "la casa",
+        "reading": "",
+        "meaning": "home, house"
+      },
+      {
+        "word": "otra vez",
+        "reading": "",
+        "meaning": "again"
+      },
+      {
+        "word": "mientras",
+        "reading": "",
+        "meaning": "while"
+      },
+      {
+        "word": "el martillo",
+        "reading": "",
+        "meaning": "hammer"
+      },
+      {
+        "word": "la uña",
+        "reading": "",
+        "meaning": "nail (here: hardware nail)"
+      },
+      {
+        "word": "clavar",
+        "reading": "",
+        "meaning": "to nail"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "16:04",
-    "end": "16:16",
+    "start": "16:03",
+    "end": "16:15",
     "text": "Entonces... / Él y el señor... / Superman se inclinaron perezosamente sobre la valla y... / El señor Suckerman rascó la espalda de Wilbur con un palo. / «Es muy cerdo», dijo Lourby.",
     "audio_file": "clip_116.mp3",
     "translation": "Then... / He and Mr... / Zuckerman leaned lazily on the fence and... / Mr. Zuckerman scratched Wilbur's back with a stick. / 'He's some pig,' said Lurvy.",
     "vocabulary": [
-      {"word": "inclinarse", "reading": "", "meaning": "to lean"},
-      {"word": "perezosamente", "reading": "", "meaning": "lazily"},
-      {"word": "rascar", "reading": "", "meaning": "to scratch"},
-      {"word": "el palo", "reading": "", "meaning": "stick"}
+      {
+        "word": "inclinarse",
+        "reading": "",
+        "meaning": "to lean"
+      },
+      {
+        "word": "perezosamente",
+        "reading": "",
+        "meaning": "lazily"
+      },
+      {
+        "word": "rascar",
+        "reading": "",
+        "meaning": "to scratch"
+      },
+      {
+        "word": "el palo",
+        "reading": "",
+        "meaning": "stick"
+      }
     ],
     "grammar": null
   },
@@ -1644,9 +3524,21 @@
     "audio_file": "clip_117.mp3",
     "translation": "'Yes, he'll make a good pig,' said Mr. Zuckerman. / Wilbur heard the words of praise.",
     "vocabulary": [
-      {"word": "será", "reading": "", "meaning": "will be (future of ser)"},
-      {"word": "la palabra", "reading": "", "meaning": "word"},
-      {"word": "la alabanza", "reading": "", "meaning": "praise"}
+      {
+        "word": "será",
+        "reading": "",
+        "meaning": "will be (future of ser)"
+      },
+      {
+        "word": "la palabra",
+        "reading": "",
+        "meaning": "word"
+      },
+      {
+        "word": "la alabanza",
+        "reading": "",
+        "meaning": "praise"
+      }
     ],
     "grammar": null
   },
@@ -1657,7 +3549,11 @@
     "audio_file": "clip_118.mp3",
     "translation": "He felt the warmth. / Of the milk inside his stomach.",
     "vocabulary": [
-      {"word": "sentir", "reading": "", "meaning": "to feel (sentía - imperfect)"}
+      {
+        "word": "sentir",
+        "reading": "",
+        "meaning": "to feel (sentía - imperfect)"
+      }
     ],
     "grammar": null
   },
@@ -1668,10 +3564,26 @@
     "audio_file": "clip_119.mp3",
     "translation": "He felt the pleasant rubbing. / Of the stick along his itchy back. / He felt peaceful and.",
     "vocabulary": [
-      {"word": "agradable", "reading": "", "meaning": "pleasant"},
-      {"word": "el frotamiento", "reading": "", "meaning": "rubbing"},
-      {"word": "a lo largo de", "reading": "", "meaning": "along"},
-      {"word": "la picazón", "reading": "", "meaning": "itch"}
+      {
+        "word": "agradable",
+        "reading": "",
+        "meaning": "pleasant"
+      },
+      {
+        "word": "el frotamiento",
+        "reading": "",
+        "meaning": "rubbing"
+      },
+      {
+        "word": "a lo largo de",
+        "reading": "",
+        "meaning": "along"
+      },
+      {
+        "word": "la picazón",
+        "reading": "",
+        "meaning": "itch"
+      }
     ],
     "grammar": null
   },
@@ -1682,21 +3594,41 @@
     "audio_file": "clip_120.mp3",
     "translation": "Happy and sleepy. / It had been a tiring afternoon.",
     "vocabulary": [
-      {"word": "el sueño", "reading": "", "meaning": "sleep, sleepiness"},
-      {"word": "con sueño", "reading": "", "meaning": "sleepy"},
-      {"word": "agotador", "reading": "", "meaning": "exhausting, tiring"}
+      {
+        "word": "el sueño",
+        "reading": "",
+        "meaning": "sleep, sleepiness"
+      },
+      {
+        "word": "con sueño",
+        "reading": "",
+        "meaning": "sleepy"
+      },
+      {
+        "word": "agotador",
+        "reading": "",
+        "meaning": "exhausting, tiring"
+      }
     ],
     "grammar": null
   },
   {
-    "start": "16:40",
+    "start": "16:39",
     "end": "16:44",
     "text": "Era solo alrededor de las 4. / Pero Wilbur estaba listo.",
     "audio_file": "clip_121.mp3",
     "translation": "It was only about 4 o'clock. / But Wilbur was ready.",
     "vocabulary": [
-      {"word": "solo", "reading": "", "meaning": "only"},
-      {"word": "alrededor de", "reading": "", "meaning": "around, about"}
+      {
+        "word": "solo",
+        "reading": "",
+        "meaning": "only"
+      },
+      {
+        "word": "alrededor de",
+        "reading": "",
+        "meaning": "around, about"
+      }
     ],
     "grammar": null
   },
@@ -1707,7 +3639,11 @@
     "audio_file": "clip_122.mp3",
     "translation": "For bed. / I'm too young to go out into the world.",
     "vocabulary": [
-      {"word": "la cama", "reading": "", "meaning": "bed"}
+      {
+        "word": "la cama",
+        "reading": "",
+        "meaning": "bed"
+      }
     ],
     "grammar": "Demasiado/muy + adjective + para - too + adjective + to"
   },
@@ -1718,7 +3654,11 @@
     "audio_file": "clip_123.mp3",
     "translation": "Alone. / He thought as he lay down.",
     "vocabulary": [
-      {"word": "acostarse", "reading": "", "meaning": "to lie down, go to bed"}
+      {
+        "word": "acostarse",
+        "reading": "",
+        "meaning": "to lie down, go to bed"
+      }
     ],
     "grammar": null
   },
