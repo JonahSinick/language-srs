@@ -254,8 +254,40 @@
             font-size: 13px;
         }
 
+        /* Swipe indicator overlay */
+        .swipe-indicator {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 80px;
+            color: rgba(93, 109, 126, 0.8);
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.1s;
+            z-index: 1000;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        }
+        .swipe-indicator.visible {
+            opacity: 1;
+        }
+
+        /* Card change highlight animation */
+        @keyframes cardHighlight {
+            0% { box-shadow: 0 2px 8px rgba(0,0,0,0.1), 0 0 0 3px rgba(93, 109, 126, 0.5); }
+            100% { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        }
+        .card.highlight {
+            animation: cardHighlight 0.4s ease-out;
+        }
+
         /* Mobile-specific styles */
         @media (max-width: 768px) {
+            .progress-info {
+                font-size: 20px;
+                font-weight: 600;
+                color: #333;
+            }
             .replay-btn {
                 display: block;
             }
@@ -336,6 +368,8 @@
     <div class="swipe-hints" id="swipeHints" style="display: none;">
         Swipe: ← Prev &nbsp;|&nbsp; ↓ Reveal &nbsp;|&nbsp; Next →
     </div>
+
+    <div class="swipe-indicator" id="swipeIndicator"></div>
 
     <script>
         let data = [];
@@ -450,6 +484,12 @@
                 if (grammarSection) grammarSection.classList.add('revealed');
             }
 
+            // Add highlight animation
+            const cardEl = document.querySelector('.card');
+            if (cardEl) {
+                cardEl.classList.add('highlight');
+            }
+
             setTimeout(() => {
                 document.getElementById('cardAudio').play().catch(() => {});
             }, 200);
@@ -508,15 +548,47 @@
         let touchEndX = 0;
         let touchEndY = 0;
         const minSwipeDistance = 50;
+        const swipeIndicator = document.getElementById('swipeIndicator');
 
         document.addEventListener('touchstart', (e) => {
             touchStartX = e.changedTouches[0].screenX;
             touchStartY = e.changedTouches[0].screenY;
         }, { passive: true });
 
+        document.addEventListener('touchmove', (e) => {
+            const currentX = e.changedTouches[0].screenX;
+            const currentY = e.changedTouches[0].screenY;
+            const deltaX = currentX - touchStartX;
+            const deltaY = currentY - touchStartY;
+            const absDeltaX = Math.abs(deltaX);
+            const absDeltaY = Math.abs(deltaY);
+
+            // Show indicator if swipe is significant enough
+            if (Math.max(absDeltaX, absDeltaY) >= 30) {
+                let arrow = '';
+                if (absDeltaY > absDeltaX) {
+                    // Vertical
+                    arrow = deltaY > 0 ? '↓' : '';
+                } else {
+                    // Horizontal
+                    arrow = deltaX > 0 ? '←' : '→';
+                }
+
+                if (arrow) {
+                    swipeIndicator.textContent = arrow;
+                    swipeIndicator.classList.add('visible');
+                } else {
+                    swipeIndicator.classList.remove('visible');
+                }
+            } else {
+                swipeIndicator.classList.remove('visible');
+            }
+        }, { passive: true });
+
         document.addEventListener('touchend', (e) => {
             touchEndX = e.changedTouches[0].screenX;
             touchEndY = e.changedTouches[0].screenY;
+            swipeIndicator.classList.remove('visible');
             handleSwipe();
         }, { passive: true });
 
