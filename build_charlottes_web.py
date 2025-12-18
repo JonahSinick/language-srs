@@ -21,12 +21,15 @@ MIN_SEGMENT_DURATION = 3.0
 MAX_GAP_TO_MERGE = 1.5
 MAX_MERGED_DURATION = 15.0  # Slightly higher for narration
 
-# Audio endpoint detection settings
-MIN_EXTENSION = 0.3  # Always extend by at least this much before looking for silence
-SEARCH_WINDOW = 2.0  # Search for silence within this window after MIN_EXTENSION
-SILENCE_THRESHOLD = 0.12  # RMS threshold for "silence" (0-1 scale)
-MIN_SILENCE_DURATION = 0.12  # Minimum silence duration in seconds
-FALLBACK_BUFFER = 0.5  # Buffer to add if no silence found
+# Audio endpoint detection settings (matched to NieR settings)
+MIN_EXTENSION = 0.5  # Minimum extension past transcript end before searching for silence
+SEARCH_WINDOW = 2.0  # Search for silence within this window
+SILENCE_THRESHOLD = 0.10  # Lower = more conservative (less likely to cut speech)
+MIN_SILENCE_DURATION = 0.15  # Require longer silence to be sure it's actually silence
+FALLBACK_BUFFER = 0.7  # Buffer to add if no silence found
+END_BUFFER = 0.20  # Buffer after detected silence at end
+START_BUFFER = 0.10  # Buffer before detected silence at start
+START_SEARCH_WINDOW = 1.0  # How far back to search for start silence
 
 # Segments to DROP (too short/filler)
 DROP_TEXTS = {
@@ -182,13 +185,13 @@ def finalize_segment(current):
         'text': ' / '.join(current['texts'])
     }
 
-def find_silence_after(audio, sr, start_time, max_search_time, next_start_time=None):
+def find_silence_after(audio, sr, start_time, max_search_time, next_start_time=None, global_rms_max=None):
     """
-    Find the first silence after start_time within the search window.
-    Returns the time (in seconds) where silence begins.
+    Find where speech ends by looking for silence after the transcript endpoint.
+    Uses global_rms_max for normalization so background music doesn't confuse detection.
     """
-    search_start_time = start_time + MIN_EXTENSION
-
+    # Start searching from transcript end to catch speech that extends slightly
+    search_start_time = start_time
     start_sample = int(search_start_time * sr)
     end_sample = int((search_start_time + max_search_time) * sr)
 
@@ -198,45 +201,128 @@ def find_silence_after(audio, sr, start_time, max_search_time, next_start_time=N
 
     end_sample = min(end_sample, len(audio))
 
+    # Fallback when we can't find silence
+    if next_start_time is not None:
+        fallback_end = next_start_time - 0.05  # Extend to just before next segment
+    else:
+        fallback_end = start_time + FALLBACK_BUFFER
+
     if start_sample >= end_sample:
-        return start_time + FALLBACK_BUFFER
+        return fallback_end
 
     search_audio = audio[start_sample:end_sample]
 
     if len(search_audio) < int(MIN_SILENCE_DURATION * sr):
-        return start_time + FALLBACK_BUFFER
+        return fallback_end
 
     frame_length = int(0.025 * sr)
     hop_length = int(0.010 * sr)
 
     rms = librosa.feature.rms(y=search_audio, frame_length=frame_length, hop_length=hop_length)[0]
 
-    if rms.max() > 0:
+    # Normalize against global max (whole audio) instead of local max
+    # This way background music doesn't look like "loud" relative to itself
+    if global_rms_max is not None and global_rms_max > 0:
+        rms_norm = rms / global_rms_max
+    elif rms.max() > 0:
         rms_norm = rms / rms.max()
     else:
-        return start_time + FALLBACK_BUFFER
+        return fallback_end
 
     min_silence_frames = int(MIN_SILENCE_DURATION * sr / hop_length)
 
+    # Find where speech drops to silence (speech-to-silence transition)
     for i in range(len(rms_norm) - min_silence_frames):
         if np.all(rms_norm[i:i+min_silence_frames] < SILENCE_THRESHOLD):
             silence_start_sample = i * hop_length
-            return search_start_time + (silence_start_sample / sr) + 0.03
+            result = search_start_time + (silence_start_sample / sr) + END_BUFFER
+            # Ensure we extend at least MIN_EXTENSION past transcript end
+            result = max(result, start_time + MIN_EXTENSION)
+            return result
 
-    return start_time + FALLBACK_BUFFER
+    return fallback_end
+
+def find_silence_before(audio, sr, start_time, prev_end_time=None, global_rms_max=None):
+    """Search backward from transcript start to find where speech actually begins."""
+    # Don't search earlier than the previous segment's end (or 0)
+    earliest_time = 0.0
+    if prev_end_time is not None:
+        earliest_time = prev_end_time + 0.05
+
+    search_start = max(earliest_time, start_time - START_SEARCH_WINDOW)
+    search_end = start_time
+
+    start_sample = int(search_start * sr)
+    end_sample = int(search_end * sr)
+
+    if start_sample >= end_sample or start_sample < 0:
+        return start_time
+
+    search_audio = audio[start_sample:end_sample]
+
+    if len(search_audio) < int(MIN_SILENCE_DURATION * sr):
+        return start_time
+
+    frame_length = int(0.025 * sr)
+    hop_length = int(0.010 * sr)
+
+    rms = librosa.feature.rms(y=search_audio, frame_length=frame_length, hop_length=hop_length)[0]
+
+    # Normalize against global max for consistency
+    if global_rms_max is not None and global_rms_max > 0:
+        rms_norm = rms / global_rms_max
+    elif rms.max() > 0:
+        rms_norm = rms / rms.max()
+    else:
+        return start_time
+
+    min_silence_frames = int(MIN_SILENCE_DURATION * sr / hop_length)
+
+    # Search backward from end of search region to find last silence before speech
+    # We want to find where speech STARTS (end of silence)
+    for i in range(len(rms_norm) - 1, min_silence_frames - 1, -1):
+        # Check if this position is the END of a silence region
+        if i >= min_silence_frames:
+            silence_region = rms_norm[i - min_silence_frames:i]
+            current_loud = rms_norm[i] >= SILENCE_THRESHOLD
+            silence_before = np.all(silence_region < SILENCE_THRESHOLD)
+
+            if current_loud and silence_before:
+                # Found transition from silence to speech
+                speech_start_sample = i * hop_length
+                new_start = search_start + (speech_start_sample / sr) - START_BUFFER
+                return max(earliest_time, new_start)
+
+    # No clear silence-to-speech transition found, use original with small buffer
+    return max(earliest_time, start_time - 0.15)
 
 def adjust_endpoints_with_audio(segments, audio, sr):
     """Adjust segment endpoints using audio analysis."""
     print("   Analyzing audio for natural speech endpoints...")
 
-    for i, seg in enumerate(segments):
-        transcript_end = seg['end_sec']
+    # Compute global RMS max for normalization
+    # This ensures background music doesn't confuse silence detection
+    frame_length = int(0.025 * sr)
+    hop_length = int(0.010 * sr)
+    global_rms = librosa.feature.rms(y=audio, frame_length=frame_length, hop_length=hop_length)[0]
+    global_rms_max = global_rms.max()
+    print(f"   Global RMS max: {global_rms_max:.4f}")
 
+    for i, seg in enumerate(segments):
+        # Adjust START time (search backward for silence-to-speech transition)
+        transcript_start = seg['start_sec']
+        prev_end = None
+        if i > 0:
+            prev_end = segments[i - 1]['end_sec']
+        new_start = find_silence_before(audio, sr, transcript_start, prev_end, global_rms_max)
+        seg['start_sec'] = new_start
+
+        # Adjust END time (search forward for speech-to-silence transition)
+        transcript_end = seg['end_sec']
         next_start = None
         if i < len(segments) - 1:
             next_start = segments[i + 1]['start_sec']
-
-        new_end = find_silence_after(audio, sr, transcript_end, SEARCH_WINDOW, next_start)
+        new_end = find_silence_after(audio, sr, transcript_end, SEARCH_WINDOW, next_start, global_rms_max)
         seg['end_sec'] = new_end
 
     return segments
@@ -257,7 +343,7 @@ def split_audio_ffmpeg(segments):
             'ffmpeg', '-y', '-i', AUDIO_PATH,
             '-ss', start_time,
             '-to', end_time,
-            '-acodec', 'libmp3lame', '-q:a', '2',
+            '-c:a', 'libmp3lame', '-q:a', '2',
             clip_path
         ]
 

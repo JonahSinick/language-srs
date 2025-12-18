@@ -1,0 +1,272 @@
+[
+  {
+    "start": "01:17",
+    "end": "01:25",
+    "text": "ああああああ",
+    "audio_file": "clip_000.mp3",
+    "translation": "(Screaming/crying sound)",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "01:26",
+    "end": "01:29",
+    "text": "お兄ちゃんこのカッキーあげる",
+    "audio_file": "clip_001.mp3",
+    "translation": "Big brother, I'll give you this cookie.",
+    "vocabulary": [
+      {"word": "お兄ちゃん", "reading": "おにいちゃん", "meaning": "big brother (affectionate/childish form)"},
+      {"word": "この", "reading": "この", "meaning": "this"},
+      {"word": "カッキー", "reading": "カッキー", "meaning": "cookie (childish mispronunciation of クッキー)"},
+      {"word": "あげる", "reading": "あげる", "meaning": "to give (to someone else)"}
+    ],
+    "grammar": "カッキー is a childish mispronunciation of クッキー (cookie), showing Yonah's young age. The verb あげる indicates giving to someone other than the speaker."
+  },
+  {
+    "start": "01:30",
+    "end": "01:38",
+    "text": "兄ちゃんはもう食べたからいらないよ お兄ちゃん / 昨日もそう言ってた",
+    "audio_file": "clip_002.mp3",
+    "translation": "Big brother already ate, so I don't need it. / Big brother, you said that yesterday too.",
+    "vocabulary": [
+      {"word": "兄ちゃん", "reading": "にいちゃん", "meaning": "big brother (casual, slightly rougher than お兄ちゃん)"},
+      {"word": "もう", "reading": "もう", "meaning": "already"},
+      {"word": "食べた", "reading": "たべた", "meaning": "ate (past tense of 食べる)"},
+      {"word": "から", "reading": "から", "meaning": "because, so"},
+      {"word": "いらない", "reading": "いらない", "meaning": "don't need, don't want"},
+      {"word": "昨日", "reading": "きのう", "meaning": "yesterday"},
+      {"word": "そう", "reading": "そう", "meaning": "like that, so"},
+      {"word": "言ってた", "reading": "いってた", "meaning": "was saying (casual past progressive)"}
+    ],
+    "grammar": "言ってた is a casual contraction of 言っていた (was saying). Note the brother uses 兄ちゃん (without お) when referring to himself, which is more casual/masculine."
+  },
+  {
+    "start": "01:39",
+    "end": "01:43",
+    "text": "本当は1回も食べてないのに",
+    "audio_file": "clip_003.mp3",
+    "translation": "Even though you really haven't eaten even once...",
+    "vocabulary": [
+      {"word": "本当は", "reading": "ほんとうは", "meaning": "actually, really, in truth"},
+      {"word": "1回", "reading": "いっかい", "meaning": "one time, once"},
+      {"word": "1回も", "reading": "いっかいも", "meaning": "even once (with negative = not even once)"},
+      {"word": "食べてない", "reading": "たべてない", "meaning": "haven't eaten (casual negative progressive)"},
+      {"word": "のに", "reading": "のに", "meaning": "even though, despite, although"}
+    ],
+    "grammar": "〜のに expresses contrast or disappointment - 'even though X, (implied Y)'. 食べてない is casual contraction of 食べていない. 1回も + negative means 'not even once'."
+  },
+  {
+    "start": "01:47",
+    "end": "01:52",
+    "text": "はい ちゃんと半ばんこだよ",
+    "audio_file": "clip_004.mp3",
+    "translation": "Here. It's properly split in half.",
+    "vocabulary": [
+      {"word": "はい", "reading": "はい", "meaning": "here (when handing something over)"},
+      {"word": "ちゃんと", "reading": "ちゃんと", "meaning": "properly, correctly, neatly"},
+      {"word": "半ばんこ", "reading": "はんばんこ", "meaning": "split in half, going halves (childish/casual word)"},
+      {"word": "だよ", "reading": "だよ", "meaning": "casual copula with emphasis"}
+    ],
+    "grammar": "半ばんこ (also written 半分こ) is a childish/casual word for splitting something in half to share equally. It comes from 半分 (はんぶん, half)."
+  },
+  {
+    "start": "01:56",
+    "end": "01:58",
+    "text": "ありがとう / 好",
+    "audio_file": "clip_005.mp3",
+    "translation": "Thank you. / I like...",
+    "vocabulary": [
+      {"word": "ありがとう", "reading": "ありがとう", "meaning": "thank you"},
+      {"word": "好き", "reading": "すき", "meaning": "like, love (appears cut off as 好)"}
+    ],
+    "grammar": "The word 好 appears to be 好き cut off mid-sentence, suggesting an incomplete confession or statement of affection."
+  },
+  {
+    "start": "02:29",
+    "end": "02:31",
+    "text": "お兄ちゃん",
+    "audio_file": "clip_006.mp3",
+    "translation": "Big brother...",
+    "vocabulary": [
+      {"word": "お兄ちゃん", "reading": "おにいちゃん", "meaning": "big brother (affectionate)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:48",
+    "end": "02:53",
+    "text": "ずっと一緒にいてくれてありがとう",
+    "audio_file": "clip_007.mp3",
+    "translation": "Thank you for always being with me.",
+    "vocabulary": [
+      {"word": "ずっと", "reading": "ずっと", "meaning": "always, the whole time, continuously, forever"},
+      {"word": "一緒に", "reading": "いっしょに", "meaning": "together, with"},
+      {"word": "いて", "reading": "いて", "meaning": "being (te-form of いる)"},
+      {"word": "くれて", "reading": "くれて", "meaning": "doing for me (te-form of くれる)"},
+      {"word": "ありがとう", "reading": "ありがとう", "meaning": "thank you"}
+    ],
+    "grammar": "〜てくれてありがとう is a heartfelt pattern meaning 'thank you for doing X for me'. The auxiliary くれる indicates the action was done for the speaker's benefit, adding emotional warmth to the gratitude."
+  },
+  {
+    "start": "02:54",
+    "end": "02:57",
+    "text": "はい お兄ちゃんの分",
+    "audio_file": "clip_008.mp3",
+    "translation": "Here, big brother's share.",
+    "vocabulary": [
+      {"word": "はい", "reading": "はい", "meaning": "here (when handing something over)"},
+      {"word": "お兄ちゃん", "reading": "おにいちゃん", "meaning": "big brother (affectionate)"},
+      {"word": "の", "reading": "の", "meaning": "possessive particle"},
+      {"word": "分", "reading": "ぶん", "meaning": "share, portion, part, amount"}
+    ],
+    "grammar": "Xの分 means 'X's share/portion'. This is commonly used when dividing things among people."
+  },
+  {
+    "start": "02:58",
+    "end": "02:59",
+    "text": "与那",
+    "audio_file": "clip_009.mp3",
+    "translation": "Yonah...",
+    "vocabulary": [
+      {"word": "ヨナ", "reading": "ヨナ", "meaning": "Yonah (character name, the protagonist's sister)"}
+    ],
+    "grammar": "与那 is an alternate kanji rendering of the name ヨナ (Yonah). The trailing off suggests emotional weight to this moment."
+  },
+  {
+    "start": "03:30",
+    "end": "03:35",
+    "text": "なんだかえらく飛ばされちゃったみたいですね",
+    "audio_file": "clip_010.mp3",
+    "translation": "It seems like I was blown away quite far, huh.",
+    "vocabulary": [
+      {"word": "なんだか", "reading": "なんだか", "meaning": "somehow, for some reason, kind of"},
+      {"word": "えらく", "reading": "えらく", "meaning": "terribly, awfully, really (colloquial intensifier)"},
+      {"word": "飛ばす", "reading": "とばす", "meaning": "to blow away, to skip, to send flying"},
+      {"word": "飛ばされ", "reading": "とばされ", "meaning": "was blown away (passive form)"},
+      {"word": "ちゃった", "reading": "ちゃった", "meaning": "ended up doing (casual てしまった)"},
+      {"word": "みたい", "reading": "みたい", "meaning": "it seems like, apparently"}
+    ],
+    "grammar": "〜ちゃった is a casual contraction of 〜てしまった, expressing completion often with a nuance of regret or surprise. 〜みたいですね seeks gentle confirmation while expressing uncertainty. The passive 飛ばされる means 'to be blown away (by something)'."
+  },
+  {
+    "start": "03:35",
+    "end": "03:40",
+    "text": "でもさすがお姉さんの体 / 死んでも死なない頑丈さです",
+    "audio_file": "clip_011.mp3",
+    "translation": "But as expected of big sister's body - it's so sturdy it won't die even if it dies.",
+    "vocabulary": [
+      {"word": "でも", "reading": "でも", "meaning": "but, however"},
+      {"word": "さすが", "reading": "さすが", "meaning": "as expected, indeed, truly"},
+      {"word": "お姉さん", "reading": "おねえさん", "meaning": "big sister, older woman (referring to Kaine)"},
+      {"word": "体", "reading": "からだ", "meaning": "body"},
+      {"word": "死ぬ", "reading": "しぬ", "meaning": "to die"},
+      {"word": "死んでも", "reading": "しんでも", "meaning": "even if (one) dies"},
+      {"word": "死なない", "reading": "しなない", "meaning": "won't die, doesn't die"},
+      {"word": "頑丈", "reading": "がんじょう", "meaning": "sturdy, solid, durable, robust"},
+      {"word": "頑丈さ", "reading": "がんじょうさ", "meaning": "sturdiness, robustness (noun form)"}
+    ],
+    "grammar": "〜ても expresses 'even if X'. Adding さ to a na-adjective stem creates a noun expressing that quality (頑丈 'sturdy' becomes 頑丈さ 'sturdiness'). さすが expresses admiration for something living up to its reputation."
+  },
+  {
+    "start": "03:40",
+    "end": "03:44",
+    "text": "よいしょ / ちょっと動きにくいですね",
+    "audio_file": "clip_012.mp3",
+    "translation": "Heave-ho... It's a bit hard to move, isn't it.",
+    "vocabulary": [
+      {"word": "よいしょ", "reading": "よいしょ", "meaning": "heave-ho (interjection when exerting physical effort)"},
+      {"word": "ちょっと", "reading": "ちょっと", "meaning": "a little, somewhat, slightly"},
+      {"word": "動く", "reading": "うごく", "meaning": "to move"},
+      {"word": "動き", "reading": "うごき", "meaning": "movement (noun); also verb stem of 動く"},
+      {"word": "にくい", "reading": "にくい", "meaning": "difficult to, hard to (suffix)"}
+    ],
+    "grammar": "Verb stem + にくい means 'difficult to do X'. Here 動き (stem of 動く 'to move') + にくい = 動きにくい 'hard to move'. よいしょ is a common interjection used when exerting effort, like when lifting something heavy."
+  },
+  {
+    "start": "03:45",
+    "end": "03:49",
+    "text": "頭だけというのは / 皆さんどこにいるんだろう",
+    "audio_file": "clip_013.mp3",
+    "translation": "Being just a head is... I wonder where everyone is.",
+    "vocabulary": [
+      {"word": "頭", "reading": "あたま", "meaning": "head"},
+      {"word": "だけ", "reading": "だけ", "meaning": "only, just"},
+      {"word": "というのは", "reading": "というのは", "meaning": "the thing called, speaking of, being that"},
+      {"word": "皆さん", "reading": "みなさん", "meaning": "everyone (polite form)"},
+      {"word": "どこ", "reading": "どこ", "meaning": "where"},
+      {"word": "いる", "reading": "いる", "meaning": "to be, to exist (for living things)"},
+      {"word": "んだろう", "reading": "んだろう", "meaning": "I wonder (explanatory + conjecture)"}
+    ],
+    "grammar": "〜んだろう expresses wondering or speculation about something. というのは introduces a topic for comment or consideration - here Emil trails off after mentioning being 'just a head'. 皆さん is the polite form of 皆 (everyone)."
+  },
+  {
+    "start": "03:49",
+    "end": "03:59",
+    "text": "早く会いたいです / みんなと会う前に / 身だし並みを整えないといけませんね / いや身だし並み以前に体をなんとかしなきゃ",
+    "audio_file": "clip_014.mp3",
+    "translation": "I want to meet them soon. / Before meeting everyone, I need to tidy up my appearance. / No wait, before appearance I need to do something about my body.",
+    "vocabulary": [
+      {"word": "早く", "reading": "はやく", "meaning": "quickly, soon, early"},
+      {"word": "会う", "reading": "あう", "meaning": "to meet"},
+      {"word": "会いたい", "reading": "あいたい", "meaning": "want to meet"},
+      {"word": "みんな", "reading": "みんな", "meaning": "everyone (casual)"},
+      {"word": "前に", "reading": "まえに", "meaning": "before"},
+      {"word": "身だしなみ", "reading": "みだしなみ", "meaning": "personal appearance, grooming, presentability"},
+      {"word": "整える", "reading": "ととのえる", "meaning": "to arrange, to tidy up, to prepare"},
+      {"word": "ないといけません", "reading": "ないといけません", "meaning": "must do, have to (polite)"},
+      {"word": "いや", "reading": "いや", "meaning": "no, wait, actually (self-correction)"},
+      {"word": "以前に", "reading": "いぜんに", "meaning": "before, prior to, beyond"},
+      {"word": "体", "reading": "からだ", "meaning": "body"},
+      {"word": "なんとか", "reading": "なんとか", "meaning": "somehow, one way or another, something"},
+      {"word": "しなきゃ", "reading": "しなきゃ", "meaning": "have to do (casual contraction)"}
+    ],
+    "grammar": "〜ないといけません is a polite form of 'must do' (from 〜なければいけない). しなきゃ is a casual contraction of しなければ(ならない), meaning 'must do'. Note: The transcription shows 身だし並み but the correct word is 身だしなみ. いや is used for self-correction mid-thought. X以前に means 'before X (even comes into consideration)'."
+  },
+  {
+    "start": "04:02",
+    "end": "04:06",
+    "text": "カイネさんとシロさん / 喧嘩してないといいな",
+    "audio_file": "clip_015.mp3",
+    "translation": "I hope Kaine and Shiro aren't fighting.",
+    "vocabulary": [
+      {"word": "カイネ", "reading": "カイネ", "meaning": "Kaine (character name)"},
+      {"word": "シロ", "reading": "シロ", "meaning": "Shiro/Weiss (character name, nickname meaning 'white')"},
+      {"word": "さん", "reading": "さん", "meaning": "Mr./Ms. (polite honorific)"},
+      {"word": "と", "reading": "と", "meaning": "and, with"},
+      {"word": "喧嘩", "reading": "けんか", "meaning": "fight, quarrel, argument"},
+      {"word": "してない", "reading": "してない", "meaning": "not doing (casual negative progressive)"},
+      {"word": "といいな", "reading": "といいな", "meaning": "I hope that, it would be good if"}
+    ],
+    "grammar": "〜といいな expresses hope or a wish that something is the case. してない is casual for していない. シロ (Shiro, 'white') is Emil's affectionate nickname for Grimoire Weiss - 'Weiss' means 'white' in German."
+  },
+  {
+    "start": "04:07",
+    "end": "04:10",
+    "text": "あの二人は僕がいないと本当にダメなんだから",
+    "audio_file": "clip_016.mp3",
+    "translation": "Those two are really hopeless without me.",
+    "vocabulary": [
+      {"word": "あの", "reading": "あの", "meaning": "that, those (over there)"},
+      {"word": "二人", "reading": "ふたり", "meaning": "two people"},
+      {"word": "僕", "reading": "ぼく", "meaning": "I, me (masculine, somewhat boyish)"},
+      {"word": "いない", "reading": "いない", "meaning": "not there, not present"},
+      {"word": "いないと", "reading": "いないと", "meaning": "if not there, without"},
+      {"word": "本当に", "reading": "ほんとうに", "meaning": "really, truly, genuinely"},
+      {"word": "ダメ", "reading": "ダメ", "meaning": "no good, hopeless, useless"},
+      {"word": "なんだから", "reading": "なんだから", "meaning": "because it is (explanatory + emphasis)"}
+    ],
+    "grammar": "〜んだから adds explanatory emphasis, often with a tone of exasperation, affection, or complaint. It implies 'because (as you should know)...'. いないと is a conditional meaning 'if (I'm) not there' or 'without (me)'. This line shows Emil's affectionate but slightly exasperated view of Kaine and Weiss's constant bickering."
+  },
+  {
+    "start": "04:10",
+    "end": "04:12",
+    "text": "2人の…",
+    "audio_file": "clip_017.mp3",
+    "translation": "The two of them...",
+    "vocabulary": [
+      {"word": "2人", "reading": "ふたり", "meaning": "two people"},
+      {"word": "の", "reading": "の", "meaning": "possessive/descriptive particle"}
+    ],
+    "grammar": "The sentence trails off with の..., implying an unfinished thought about Kaine and Shiro. This creates suspense and suggests Emil is about to say something significant about the two of them."
+  }
+]

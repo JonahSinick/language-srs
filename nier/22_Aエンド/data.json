@@ -1,0 +1,1214 @@
+[
+  {
+    "start": "01:36",
+    "end": "01:37",
+    "text": "이끄수",
+    "audio_file": "clip_000.mp3",
+    "translation": "(Transcription error - Korean text)",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "01:57",
+    "end": "02:02",
+    "text": "Субтитры создавал DimaTorzok",
+    "audio_file": "clip_001.mp3",
+    "translation": "(Transcription error - Russian text 'Subtitles created by DimaTorzok')",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "02:30",
+    "end": "03:16",
+    "text": "尤雯",
+    "audio_file": "clip_002.mp3",
+    "translation": "(Transcription error - Chinese text)",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "03:17",
+    "end": "03:25",
+    "text": "アデリーの撃ちかませる",
+    "audio_file": "clip_003.mp3",
+    "translation": "(Distorted audio - battle sequence)",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "03:26",
+    "end": "03:30",
+    "text": "行け!",
+    "audio_file": "clip_004.mp3",
+    "translation": "Go!",
+    "vocabulary": [
+      {"word": "行く", "reading": "いく", "meaning": "to go"},
+      {"word": "行け", "reading": "いけ", "meaning": "Go! (imperative form)"}
+    ],
+    "grammar": "行け is the imperative form of 行く, used as a forceful command. This harsh imperative is typically masculine."
+  },
+  {
+    "start": "03:31",
+    "end": "03:35",
+    "text": "ドーグロ分際で 我らが王に歯向かうとは?",
+    "audio_file": "clip_005.mp3",
+    "translation": "A mere vessel dares to defy our king?",
+    "vocabulary": [
+      {"word": "分際", "reading": "ぶんざい", "meaning": "social standing, status (derogatory: 'mere')"},
+      {"word": "我ら", "reading": "われら", "meaning": "we, us (archaic/literary)"},
+      {"word": "王", "reading": "おう", "meaning": "king"},
+      {"word": "歯向かう", "reading": "はむかう", "meaning": "to defy, to oppose, to rebel against"}
+    ],
+    "grammar": "～分際で is a contemptuous expression meaning 'despite being mere/only a ~'. ～とは expresses surprise or indignation at an action. 我ら is archaic for 'we' (modern: 私たち)."
+  },
+  {
+    "start": "03:36",
+    "end": "03:56",
+    "text": "愚か者! / 我らではない! 我とお前は違う! / 一括りにするな!",
+    "audio_file": "clip_006.mp3",
+    "translation": "Fool! / Not 'we'! You and I are different! / Don't lump us together!",
+    "vocabulary": [
+      {"word": "愚か者", "reading": "おろかもの", "meaning": "fool, idiot"},
+      {"word": "我", "reading": "われ", "meaning": "I, me (archaic/literary)"},
+      {"word": "違う", "reading": "ちがう", "meaning": "to be different, to differ"},
+      {"word": "一括り", "reading": "ひとくくり", "meaning": "lumping together, grouping as one"},
+      {"word": "するな", "reading": "するな", "meaning": "don't do (negative imperative)"}
+    ],
+    "grammar": "我 (われ) is Weiss's archaic first-person pronoun, contrasting with the more common 私 or 俺. ～な after a verb stem is a negative imperative (don't ~). 一括りにする means 'to lump together/treat as the same'."
+  },
+  {
+    "start": "03:57",
+    "end": "04:23",
+    "text": "お前の心の中に 実に面白さ進化した",
+    "audio_file": "clip_007.mp3",
+    "translation": "Inside your heart... it has evolved in such an interesting way.",
+    "vocabulary": [
+      {"word": "心", "reading": "こころ", "meaning": "heart, mind, spirit"},
+      {"word": "中", "reading": "なか", "meaning": "inside, within"},
+      {"word": "実に", "reading": "じつに", "meaning": "truly, indeed, really"},
+      {"word": "面白い", "reading": "おもしろい", "meaning": "interesting, amusing"},
+      {"word": "進化", "reading": "しんか", "meaning": "evolution, progress"}
+    ],
+    "grammar": "実に is an adverb meaning 'truly/indeed' and adds emphasis. The transcription appears incomplete but conveys the Shadowlord observing psychological change."
+  },
+  {
+    "start": "04:24",
+    "end": "04:42",
+    "text": "このような",
+    "audio_file": "clip_008.mp3",
+    "translation": "Like this...",
+    "vocabulary": [
+      {"word": "このような", "reading": "このような", "meaning": "like this, of this kind"}
+    ],
+    "grammar": "このような is a formal/literary way to say 'like this' (casual: こんな)."
+  },
+  {
+    "start": "04:43",
+    "end": "04:50",
+    "text": "私は知っている。私は汚れている。私は間違っている。私は呪われている。",
+    "audio_file": "clip_009.mp3",
+    "translation": "I know. I am tainted. I am wrong. I am cursed.",
+    "vocabulary": [
+      {"word": "知る", "reading": "しる", "meaning": "to know"},
+      {"word": "汚れる", "reading": "よごれる", "meaning": "to become dirty, to be tainted"},
+      {"word": "間違う", "reading": "まちがう", "meaning": "to be mistaken, to be wrong"},
+      {"word": "呪う", "reading": "のろう", "meaning": "to curse"},
+      {"word": "呪われている", "reading": "のろわれている", "meaning": "to be cursed (passive state)"}
+    ],
+    "grammar": "The repeated ～ている pattern shows continuous states. 呪われている is passive voice (のろう -> のろわれる) + ている, indicating an ongoing cursed state. This is Kaine's internal monologue about her possessed condition."
+  },
+  {
+    "start": "04:51",
+    "end": "04:56",
+    "text": "あいつはそんな私を受け入れてくれた。許してくれた。",
+    "audio_file": "clip_010.mp3",
+    "translation": "He accepted me as I am. He forgave me.",
+    "vocabulary": [
+      {"word": "あいつ", "reading": "あいつ", "meaning": "that guy, him (casual/rough)"},
+      {"word": "そんな", "reading": "そんな", "meaning": "such, like that"},
+      {"word": "受け入れる", "reading": "うけいれる", "meaning": "to accept, to take in"},
+      {"word": "許す", "reading": "ゆるす", "meaning": "to forgive, to pardon"},
+      {"word": "くれる", "reading": "くれる", "meaning": "to give (to me), to do for me"}
+    ],
+    "grammar": "～てくれた indicates someone did something beneficial for the speaker. あいつ is a rough/informal way to refer to someone (here, Nier). そんな私 means 'me being like that' - referring to her tainted self."
+  },
+  {
+    "start": "04:57",
+    "end": "05:19",
+    "text": "あいつのためにか。 / この狂った世界で過ごす時間がまだ少しでもあるのなら、奴の刃になって死んでやる。",
+    "audio_file": "clip_011.mp3",
+    "translation": "For him? / If I still have even a little time left in this mad world, I'll die as his blade.",
+    "vocabulary": [
+      {"word": "ため", "reading": "ため", "meaning": "for the sake of, because of"},
+      {"word": "狂う", "reading": "くるう", "meaning": "to go mad, to go crazy"},
+      {"word": "世界", "reading": "せかい", "meaning": "world"},
+      {"word": "過ごす", "reading": "すごす", "meaning": "to spend (time), to pass"},
+      {"word": "少しでも", "reading": "すこしでも", "meaning": "even a little, even slightly"},
+      {"word": "奴", "reading": "やつ", "meaning": "that guy, fellow (rough)"},
+      {"word": "刃", "reading": "やいば", "meaning": "blade, sword"}
+    ],
+    "grammar": "～のなら is a conditional meaning 'if it is the case that'. ～てやる expresses doing something with determination or spite, here showing Kaine's resolve to sacrifice herself. 少しでも emphasizes 'even if just a little'."
+  },
+  {
+    "start": "05:20",
+    "end": "05:50",
+    "text": "シロ、大丈夫か?",
+    "audio_file": "clip_012.mp3",
+    "translation": "Weiss, are you okay?",
+    "vocabulary": [
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "okay, alright, fine"}
+    ],
+    "grammar": "シロ is the nickname for Grimoire Weiss (白の書 -> シロ). か at the end makes it a question."
+  },
+  {
+    "start": "05:51",
+    "end": "05:51",
+    "text": "やめて",
+    "audio_file": "clip_013.mp3",
+    "translation": "Stop...",
+    "vocabulary": [
+      {"word": "やめる", "reading": "やめる", "meaning": "to stop, to quit, to cease"},
+      {"word": "やめて", "reading": "やめて", "meaning": "stop! (te-form request)"}
+    ],
+    "grammar": "やめて is the te-form used as a request/plea to stop. More polite than the imperative やめろ."
+  },
+  {
+    "start": "06:14",
+    "end": "06:16",
+    "text": "お兄ちゃん",
+    "audio_file": "clip_014.mp3",
+    "translation": "Big brother...",
+    "vocabulary": [
+      {"word": "お兄ちゃん", "reading": "おにいちゃん", "meaning": "big brother (affectionate, childish)"}
+    ],
+    "grammar": "お兄ちゃん is an affectionate/childish way to say 'older brother'. More formal: お兄さん, most formal: 兄."
+  },
+  {
+    "start": "06:17",
+    "end": "06:19",
+    "text": "ヨナ",
+    "audio_file": "clip_015.mp3",
+    "translation": "Yonah...",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:37",
+    "end": "06:40",
+    "text": "やめよう / お兄ちゃん",
+    "audio_file": "clip_016.mp3",
+    "translation": "Let's stop. / Big brother...",
+    "vocabulary": [
+      {"word": "やめる", "reading": "やめる", "meaning": "to stop"},
+      {"word": "やめよう", "reading": "やめよう", "meaning": "let's stop (volitional form)"}
+    ],
+    "grammar": "やめよう is the volitional form suggesting 'let's stop' or expressing the speaker's intention to stop."
+  },
+  {
+    "start": "06:41",
+    "end": "06:45",
+    "text": "ヨナ / もういいの",
+    "audio_file": "clip_017.mp3",
+    "translation": "Yonah... / It's okay now.",
+    "vocabulary": [
+      {"word": "もう", "reading": "もう", "meaning": "already, now, anymore"},
+      {"word": "いい", "reading": "いい", "meaning": "good, okay, fine"}
+    ],
+    "grammar": "もういい means 'it's fine now' or 'that's enough'. The の at the end adds a soft, explanatory or reassuring tone (feminine speech)."
+  },
+  {
+    "start": "06:47",
+    "end": "06:49",
+    "text": "他の人の体",
+    "audio_file": "clip_018.mp3",
+    "translation": "Someone else's body...",
+    "vocabulary": [
+      {"word": "他", "reading": "ほか", "meaning": "other, another"},
+      {"word": "人", "reading": "ひと", "meaning": "person"},
+      {"word": "体", "reading": "からだ", "meaning": "body"}
+    ],
+    "grammar": "他の人 means 'another person' or 'someone else'. The possessive の connects to 体 (body)."
+  },
+  {
+    "start": "06:50",
+    "end": "06:53",
+    "text": "いらない / 欲しくない",
+    "audio_file": "clip_019.mp3",
+    "translation": "I don't need it. / I don't want it.",
+    "vocabulary": [
+      {"word": "いらない", "reading": "いらない", "meaning": "don't need, unnecessary"},
+      {"word": "欲しい", "reading": "ほしい", "meaning": "to want, to desire"},
+      {"word": "欲しくない", "reading": "ほしくない", "meaning": "don't want (negative form)"}
+    ],
+    "grammar": "いらない is the negative of いる (to need). 欲しくない is the negative of the i-adjective 欲しい. Yonah (Gestalt) is rejecting the Replicant body."
+  },
+  {
+    "start": "06:57",
+    "end": "07:02",
+    "text": "この体の中にはもう / 別の女の子がいるよ",
+    "audio_file": "clip_020.mp3",
+    "translation": "Inside this body now... / there's another girl.",
+    "vocabulary": [
+      {"word": "中", "reading": "なか", "meaning": "inside"},
+      {"word": "もう", "reading": "もう", "meaning": "already, now"},
+      {"word": "別", "reading": "べつ", "meaning": "different, separate, another"},
+      {"word": "女の子", "reading": "おんなのこ", "meaning": "girl"},
+      {"word": "いる", "reading": "いる", "meaning": "to exist, to be (for living things)"}
+    ],
+    "grammar": "～の中には establishes location 'inside of ~'. もう emphasizes 'already/now'. This reveals Yonah's understanding that the Replicant has developed her own consciousness."
+  },
+  {
+    "start": "07:04",
+    "end": "07:06",
+    "text": "ずっと泣いてるの",
+    "audio_file": "clip_021.mp3",
+    "translation": "She's been crying the whole time.",
+    "vocabulary": [
+      {"word": "ずっと", "reading": "ずっと", "meaning": "the whole time, continuously, always"},
+      {"word": "泣く", "reading": "なく", "meaning": "to cry"},
+      {"word": "泣いてる", "reading": "ないてる", "meaning": "is crying (contracted ている)"}
+    ],
+    "grammar": "泣いてる is a contraction of 泣いている (continuous action). The sentence-final の adds explanation or emphasis (feminine speech). ずっと emphasizes the continuous duration."
+  },
+  {
+    "start": "07:07",
+    "end": "07:12",
+    "text": "お兄ちゃんに会いたいって / ヨナが魔物に",
+    "audio_file": "clip_022.mp3",
+    "translation": "Saying she wants to see her big brother... / While Yonah was a Shade...",
+    "vocabulary": [
+      {"word": "会う", "reading": "あう", "meaning": "to meet, to see (a person)"},
+      {"word": "会いたい", "reading": "あいたい", "meaning": "want to meet/see"},
+      {"word": "魔物", "reading": "まもの", "meaning": "demon, monster, Shade"}
+    ],
+    "grammar": "～たい expresses desire ('want to ~'). って is casual quotation (= と言って). 魔物 is how Shades are referred to in the game world."
+  },
+  {
+    "start": "07:12",
+    "end": "07:17",
+    "text": "この女の子も / お兄ちゃんが大好きみたい",
+    "audio_file": "clip_023.mp3",
+    "translation": "This girl also... / seems to love her big brother very much.",
+    "vocabulary": [
+      {"word": "女の子", "reading": "おんなのこ", "meaning": "girl"},
+      {"word": "大好き", "reading": "だいすき", "meaning": "love very much, really like"},
+      {"word": "みたい", "reading": "みたい", "meaning": "seems like, appears to be"}
+    ],
+    "grammar": "も means 'also/too'. 大好き is 大 (big) + 好き (like) = 'love/really like'. みたい at the end indicates appearance or conjecture ('it seems that')."
+  },
+  {
+    "start": "07:18",
+    "end": "07:23",
+    "text": "ヨナと一緒だよ / 会えないのかわいそう",
+    "audio_file": "clip_024.mp3",
+    "translation": "Just like Yonah. / It's sad that she can't see him.",
+    "vocabulary": [
+      {"word": "一緒", "reading": "いっしょ", "meaning": "together, same"},
+      {"word": "会える", "reading": "あえる", "meaning": "can meet (potential form)"},
+      {"word": "会えない", "reading": "あえない", "meaning": "cannot meet"},
+      {"word": "かわいそう", "reading": "かわいそう", "meaning": "pitiful, poor thing, feel sorry for"}
+    ],
+    "grammar": "～と一緒 means 'same as ~' or 'together with ~'. 会えない is the negative potential form (can't meet). かわいそう expresses sympathy."
+  },
+  {
+    "start": "07:43",
+    "end": "07:47",
+    "text": "あなたがお兄ちゃん",
+    "audio_file": "clip_025.mp3",
+    "translation": "You're her big brother.",
+    "vocabulary": [
+      {"word": "あなた", "reading": "あなた", "meaning": "you"}
+    ],
+    "grammar": "が here identifies the subject emphatically - 'YOU are the big brother'. Yonah (Gestalt) is addressing the Replicant's brother."
+  },
+  {
+    "start": "07:52",
+    "end": "07:54",
+    "text": "ああそうで",
+    "audio_file": "clip_026.mp3",
+    "translation": "Yes, that's right.",
+    "vocabulary": [
+      {"word": "ああ", "reading": "ああ", "meaning": "yes, ah (affirmative)"},
+      {"word": "そう", "reading": "そう", "meaning": "so, that's right"}
+    ],
+    "grammar": "ああ is an affirmative interjection. そうだ means 'that's right' - the で appears to be cut off (possibly そうです or incomplete)."
+  },
+  {
+    "start": "07:55",
+    "end": "09:07",
+    "text": "一緒に帰ろう",
+    "audio_file": "clip_027.mp3",
+    "translation": "Let's go home together.",
+    "vocabulary": [
+      {"word": "一緒に", "reading": "いっしょに", "meaning": "together"},
+      {"word": "帰る", "reading": "かえる", "meaning": "to return home, to go back"},
+      {"word": "帰ろう", "reading": "かえろう", "meaning": "let's go home (volitional)"}
+    ],
+    "grammar": "帰ろう is the volitional form of 帰る, expressing 'let's go home' or the speaker's intention. 一緒に means 'together'."
+  },
+  {
+    "start": "09:08",
+    "end": "09:11",
+    "text": "今だ妹についていた魔物は消えた",
+    "audio_file": "clip_028.mp3",
+    "translation": "Now! The Shade attached to your sister has disappeared!",
+    "vocabulary": [
+      {"word": "今", "reading": "いま", "meaning": "now"},
+      {"word": "妹", "reading": "いもうと", "meaning": "younger sister"},
+      {"word": "つく", "reading": "つく", "meaning": "to attach, to stick to"},
+      {"word": "ついていた", "reading": "ついていた", "meaning": "was attached (past continuous)"},
+      {"word": "魔物", "reading": "まもの", "meaning": "demon, Shade"},
+      {"word": "消える", "reading": "きえる", "meaning": "to disappear, to vanish"}
+    ],
+    "grammar": "今だ is an urgent 'Now!' (seize the moment). ～についていた means 'was attached to ~' (past continuous). 消えた is past tense of 消える."
+  },
+  {
+    "start": "09:28",
+    "end": "09:32",
+    "text": "カイネ、ヨナを頼む",
+    "audio_file": "clip_029.mp3",
+    "translation": "Kaine, I'm counting on you to watch Yonah.",
+    "vocabulary": [
+      {"word": "頼む", "reading": "たのむ", "meaning": "to ask, to request, to entrust"}
+    ],
+    "grammar": "～を頼む is a common way to entrust someone with a task. It implies 'I'm counting on you for ~' or 'Please take care of ~'."
+  },
+  {
+    "start": "09:33",
+    "end": "09:41",
+    "text": "お前の悲しみが分かるとだって / そんな都合のいいことは言わない",
+    "audio_file": "clip_030.mp3",
+    "translation": "That I understand your sadness? / I won't say something so convenient.",
+    "vocabulary": [
+      {"word": "悲しみ", "reading": "かなしみ", "meaning": "sadness, sorrow, grief"},
+      {"word": "分かる", "reading": "わかる", "meaning": "to understand"},
+      {"word": "都合", "reading": "つごう", "meaning": "convenience, circumstances"},
+      {"word": "都合のいい", "reading": "つごうのいい", "meaning": "convenient, self-serving"},
+      {"word": "言う", "reading": "いう", "meaning": "to say"}
+    ],
+    "grammar": "都合のいいこと means 'convenient thing' - something said to make oneself look good without real meaning. Nier refuses to offer empty platitudes to the Shadowlord."
+  },
+  {
+    "start": "09:42",
+    "end": "09:45",
+    "text": "俺はただ仲間と妹を守るだけだ",
+    "audio_file": "clip_031.mp3",
+    "translation": "I'm just protecting my companions and my sister.",
+    "vocabulary": [
+      {"word": "俺", "reading": "おれ", "meaning": "I (masculine, casual)"},
+      {"word": "ただ", "reading": "ただ", "meaning": "just, only, merely"},
+      {"word": "仲間", "reading": "なかま", "meaning": "companion, comrade, friend"},
+      {"word": "妹", "reading": "いもうと", "meaning": "younger sister"},
+      {"word": "守る", "reading": "まもる", "meaning": "to protect, to defend"}
+    ],
+    "grammar": "ただ～だけだ emphasizes 'just/only doing ~'. It shows Nier's single-minded purpose without complicated justifications."
+  },
+  {
+    "start": "09:46",
+    "end": "10:23",
+    "text": "彼女たちを危険にさらす者がいれば / 倒すだけだ / 来い、魔王",
+    "audio_file": "clip_032.mp3",
+    "translation": "If anyone puts them in danger... / I'll just defeat them. / Come, Shadowlord.",
+    "vocabulary": [
+      {"word": "彼女たち", "reading": "かのじょたち", "meaning": "they (feminine), them"},
+      {"word": "危険", "reading": "きけん", "meaning": "danger, peril"},
+      {"word": "さらす", "reading": "さらす", "meaning": "to expose, to put at risk"},
+      {"word": "者", "reading": "もの", "meaning": "person, one who"},
+      {"word": "倒す", "reading": "たおす", "meaning": "to defeat, to knock down"},
+      {"word": "来い", "reading": "こい", "meaning": "come! (imperative)"},
+      {"word": "魔王", "reading": "まおう", "meaning": "Demon King, Shadowlord"}
+    ],
+    "grammar": "～にさらす means 'to expose to ~'. ～者がいれば is 'if there is someone who ~' (conditional). 来い is the rough imperative of 来る. 魔王 literally means 'demon king' - the title for the main antagonist."
+  },
+  {
+    "start": "10:24",
+    "end": "11:03",
+    "text": "おやすみなさい。",
+    "audio_file": "clip_033.mp3",
+    "translation": "(Battle sounds - likely transcription error)",
+    "vocabulary": [
+      {"word": "おやすみなさい", "reading": "おやすみなさい", "meaning": "good night"}
+    ],
+    "grammar": "This appears to be a transcription error during the battle sequence. おやすみなさい is a polite 'good night' greeting."
+  },
+  {
+    "start": "11:04",
+    "end": "11:07",
+    "text": "しばし待たれよ",
+    "audio_file": "clip_034.mp3",
+    "translation": "Wait a moment.",
+    "vocabulary": [
+      {"word": "しばし", "reading": "しばし", "meaning": "for a moment, briefly (literary/archaic)"},
+      {"word": "待つ", "reading": "まつ", "meaning": "to wait"}
+    ],
+    "grammar": "待たれよ is Weiss's archaic speech. 待たれる is the passive/honorific form, and よ is an archaic imperative ending. Modern equivalent would be 待ってくれ or 待て. This reflects Weiss's old-fashioned, literary manner of speaking."
+  },
+  {
+    "start": "11:07",
+    "end": "11:14",
+    "text": "大丈夫か / 心配無用と言いたいとこだがな",
+    "audio_file": "clip_035.mp3",
+    "translation": "Are you okay? / I'd like to say there's no need to worry, but...",
+    "vocabulary": [
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "okay, alright"},
+      {"word": "心配", "reading": "しんぱい", "meaning": "worry, concern"},
+      {"word": "無用", "reading": "むよう", "meaning": "unnecessary, useless"},
+      {"word": "心配無用", "reading": "しんぱいむよう", "meaning": "no need to worry"},
+      {"word": "言いたい", "reading": "いいたい", "meaning": "want to say"},
+      {"word": "ところ", "reading": "ところ", "meaning": "point, situation"}
+    ],
+    "grammar": "心配無用 is a set phrase meaning 'no need to worry'. ～と言いたいところだが means 'I'd like to say ~ but...' indicating the speaker cannot honestly say that. The が implies a contrasting situation follows."
+  },
+  {
+    "start": "11:15",
+    "end": "11:22",
+    "text": "シロ / 痛ってって どこかの馬鹿者に乗せられて無茶をしすぎたようだ",
+    "audio_file": "clip_036.mp3",
+    "translation": "Weiss... / Ow, ow... It seems I was led by some fool and overdid it.",
+    "vocabulary": [
+      {"word": "痛い", "reading": "いたい", "meaning": "painful, ouch"},
+      {"word": "どこか", "reading": "どこか", "meaning": "somewhere, some"},
+      {"word": "馬鹿者", "reading": "ばかもの", "meaning": "fool, idiot"},
+      {"word": "乗せる", "reading": "のせる", "meaning": "to put on, to give a ride; to be manipulated/led"},
+      {"word": "乗せられる", "reading": "のせられる", "meaning": "to be led along, to be manipulated (passive)"},
+      {"word": "無茶", "reading": "むちゃ", "meaning": "reckless, unreasonable"},
+      {"word": "しすぎる", "reading": "しすぎる", "meaning": "to overdo"}
+    ],
+    "grammar": "乗せられて is passive form - 'was led/manipulated by'. 無茶をする means 'to act recklessly'. ～すぎる means 'to do too much'. ～ようだ indicates appearance/conjecture. Weiss is sarcastically blaming Nier (どこかの馬鹿者 - 'some fool')."
+  },
+  {
+    "start": "11:22",
+    "end": "11:27",
+    "text": "ただ買う骨董品は世の中にそうあるまい",
+    "audio_file": "clip_037.mp3",
+    "translation": "There aren't many antiques like me left in this world.",
+    "vocabulary": [
+      {"word": "骨董品", "reading": "こっとうひん", "meaning": "antique, curio"},
+      {"word": "世の中", "reading": "よのなか", "meaning": "the world, society"},
+      {"word": "あるまい", "reading": "あるまい", "meaning": "probably doesn't exist (archaic negative conjecture)"}
+    ],
+    "grammar": "あるまい is Weiss's archaic form meaning 'probably doesn't exist' (modern: ないだろう). そう means 'like this/that many'. Weiss is humorously calling himself a rare antique. The transcription seems to have errors but conveys Weiss's self-deprecating wit."
+  },
+  {
+    "start": "11:28",
+    "end": "11:34",
+    "text": "5年5年をねっ おいはに受けるな / をだんだ",
+    "audio_file": "clip_038.mp3",
+    "translation": "(Distorted audio - about 5 years)",
+    "vocabulary": [
+      {"word": "5年", "reading": "ごねん", "meaning": "5 years"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "11:35",
+    "end": "11:38",
+    "text": "だってさっ 立ってないでそこをどけ",
+    "audio_file": "clip_039.mp3",
+    "translation": "Enough of that! Don't just stand there, move!",
+    "vocabulary": [
+      {"word": "だって", "reading": "だって", "meaning": "but, because (casual)"},
+      {"word": "立つ", "reading": "たつ", "meaning": "to stand"},
+      {"word": "どく", "reading": "どく", "meaning": "to move aside, to get out of the way"},
+      {"word": "どけ", "reading": "どけ", "meaning": "move! get out of the way! (imperative)"}
+    ],
+    "grammar": "立ってないで means 'instead of standing' or 'don't just stand'. どけ is the imperative of どく (to move aside). This shows urgency in getting someone to act."
+  },
+  {
+    "start": "11:39",
+    "end": "11:43",
+    "text": "我には最後の大任がある",
+    "audio_file": "clip_040.mp3",
+    "translation": "I have one final duty.",
+    "vocabulary": [
+      {"word": "我", "reading": "われ", "meaning": "I (archaic, Weiss's speech)"},
+      {"word": "最後", "reading": "さいご", "meaning": "last, final"},
+      {"word": "大任", "reading": "たいにん", "meaning": "great responsibility, important duty"}
+    ],
+    "grammar": "我には is Weiss's archaic 'I have' (modern: 私には). 大任 is a formal/literary word for an important responsibility. This signals Weiss's intention to sacrifice himself."
+  },
+  {
+    "start": "11:44",
+    "end": "11:48",
+    "text": "何する気だ? / あやつの動きを止める",
+    "audio_file": "clip_041.mp3",
+    "translation": "What are you planning? / I'll stop his movements.",
+    "vocabulary": [
+      {"word": "何", "reading": "なに", "meaning": "what"},
+      {"word": "気", "reading": "き", "meaning": "intention, mind"},
+      {"word": "する気", "reading": "するき", "meaning": "intention to do"},
+      {"word": "あやつ", "reading": "あやつ", "meaning": "that fellow (archaic, derogatory)"},
+      {"word": "動き", "reading": "うごき", "meaning": "movement"},
+      {"word": "止める", "reading": "とめる", "meaning": "to stop"}
+    ],
+    "grammar": "何する気だ means 'what do you intend to do?' (～する気 = intention to do ~). あやつ is Weiss's archaic/literary word for 'that person' (modern: あいつ), often used with slight contempt."
+  },
+  {
+    "start": "11:49",
+    "end": "11:53",
+    "text": "そしてその後はお前に任せた",
+    "audio_file": "clip_042.mp3",
+    "translation": "And after that, I leave it to you.",
+    "vocabulary": [
+      {"word": "そして", "reading": "そして", "meaning": "and then, and"},
+      {"word": "その後", "reading": "そのあと", "meaning": "after that"},
+      {"word": "任せる", "reading": "まかせる", "meaning": "to entrust, to leave to"},
+      {"word": "任せた", "reading": "まかせた", "meaning": "I've entrusted (past tense as declaration)"}
+    ],
+    "grammar": "任せた in past tense is used as a firm declaration - 'I'm leaving it to you' (as good as done). This is common when entrusting something definitively."
+  },
+  {
+    "start": "11:54",
+    "end": "12:00",
+    "text": "この先はお前一人の戦いだ / しっかり頑張るのだぞ",
+    "audio_file": "clip_043.mp3",
+    "translation": "From here on, it's your fight alone. / Do your best.",
+    "vocabulary": [
+      {"word": "この先", "reading": "このさき", "meaning": "from here on, ahead"},
+      {"word": "一人", "reading": "ひとり", "meaning": "alone, one person"},
+      {"word": "戦い", "reading": "たたかい", "meaning": "battle, fight"},
+      {"word": "しっかり", "reading": "しっかり", "meaning": "firmly, properly, well"},
+      {"word": "頑張る", "reading": "がんばる", "meaning": "to do one's best, to persevere"}
+    ],
+    "grammar": "のだぞ is Weiss's archaic emphatic ending. のだ adds explanation/emphasis, ぞ is a masculine/archaic emphatic particle. Modern equivalent: 頑張れよ or 頑張ってね."
+  },
+  {
+    "start": "12:01",
+    "end": "12:05",
+    "text": "嫌だ / 嫌だ / 俺はまだ素人 / まったく",
+    "audio_file": "clip_044.mp3",
+    "translation": "No! / No! / I'm still a beginner! / Good grief.",
+    "vocabulary": [
+      {"word": "嫌", "reading": "いや", "meaning": "no, unpleasant, disagreeable"},
+      {"word": "嫌だ", "reading": "いやだ", "meaning": "I don't want to, no way"},
+      {"word": "俺", "reading": "おれ", "meaning": "I (masculine)"},
+      {"word": "まだ", "reading": "まだ", "meaning": "still, yet"},
+      {"word": "素人", "reading": "しろうと", "meaning": "amateur, novice, beginner"},
+      {"word": "まったく", "reading": "まったく", "meaning": "really, good grief, honestly"}
+    ],
+    "grammar": "嫌だ expresses strong refusal or reluctance. まったく as an interjection expresses exasperation ('good grief'). Nier refuses to accept Weiss's sacrifice."
+  },
+  {
+    "start": "12:05",
+    "end": "12:11",
+    "text": "我はお前のそういう単純なところが好きであった",
+    "audio_file": "clip_045.mp3",
+    "translation": "I liked that simple side of you.",
+    "vocabulary": [
+      {"word": "我", "reading": "われ", "meaning": "I (archaic)"},
+      {"word": "そういう", "reading": "そういう", "meaning": "that kind of, such"},
+      {"word": "単純", "reading": "たんじゅん", "meaning": "simple, uncomplicated"},
+      {"word": "ところ", "reading": "ところ", "meaning": "aspect, side, part"},
+      {"word": "好き", "reading": "すき", "meaning": "like, fond of"}
+    ],
+    "grammar": "であった is Weiss's archaic past tense of だ (modern: だった). ～ところが好き means 'I like the ~ aspect/side'. This is Weiss's affectionate farewell, appreciating Nier's straightforward nature."
+  },
+  {
+    "start": "12:12",
+    "end": "12:17",
+    "text": "楽しかった / お前といると本当に楽しかった",
+    "audio_file": "clip_046.mp3",
+    "translation": "It was fun. / Being with you was truly fun.",
+    "vocabulary": [
+      {"word": "楽しい", "reading": "たのしい", "meaning": "fun, enjoyable"},
+      {"word": "楽しかった", "reading": "たのしかった", "meaning": "was fun (past tense)"},
+      {"word": "といる", "reading": "といる", "meaning": "to be with"},
+      {"word": "本当に", "reading": "ほんとうに", "meaning": "truly, really"}
+    ],
+    "grammar": "お前といると means 'when I'm with you' or 'being with you'. The repetition of 楽しかった emphasizes Weiss's genuine feelings in this emotional farewell."
+  },
+  {
+    "start": "12:18",
+    "end": "12:22",
+    "text": "しかしここでお別れだ",
+    "audio_file": "clip_047.mp3",
+    "translation": "But this is where we part.",
+    "vocabulary": [
+      {"word": "しかし", "reading": "しかし", "meaning": "however, but"},
+      {"word": "ここ", "reading": "ここ", "meaning": "here"},
+      {"word": "お別れ", "reading": "おわかれ", "meaning": "parting, farewell, goodbye"}
+    ],
+    "grammar": "しかし is a formal/literary 'but' (casual: でも). お別れ with the honorific お makes the farewell more poignant and respectful."
+  },
+  {
+    "start": "12:22",
+    "end": "12:28",
+    "text": "シロ / そうそう / 一つ言い忘れておった",
+    "audio_file": "clip_048.mp3",
+    "translation": "Weiss! / Oh, that's right. / There was one thing I forgot to say.",
+    "vocabulary": [
+      {"word": "そうそう", "reading": "そうそう", "meaning": "oh yes, that's right (remembering something)"},
+      {"word": "一つ", "reading": "ひとつ", "meaning": "one thing"},
+      {"word": "言い忘れる", "reading": "いいわすれる", "meaning": "to forget to say"}
+    ],
+    "grammar": "言い忘れておった is Weiss's archaic form of 言い忘れていた (had forgotten to say). ておった is archaic ていた. そうそう is used when suddenly remembering something."
+  },
+  {
+    "start": "12:30",
+    "end": "12:34",
+    "text": "何 / シロというな",
+    "audio_file": "clip_049.mp3",
+    "translation": "What? / About being called 'Weiss'...",
+    "vocabulary": [
+      {"word": "何", "reading": "なに", "meaning": "what"},
+      {"word": "という", "reading": "という", "meaning": "called, named"}
+    ],
+    "grammar": "シロというな seems incomplete, likely 'シロという名' (the name Shiro/Weiss). Weiss is about to comment on the nickname Nier gave him."
+  },
+  {
+    "start": "12:34",
+    "end": "12:37",
+    "text": "本当は結構気に入っていたのだぞ",
+    "audio_file": "clip_050.mp3",
+    "translation": "I actually rather liked it.",
+    "vocabulary": [
+      {"word": "本当は", "reading": "ほんとうは", "meaning": "actually, in truth"},
+      {"word": "結構", "reading": "けっこう", "meaning": "quite, rather, fairly"},
+      {"word": "気に入る", "reading": "きにいる", "meaning": "to like, to be pleased with"},
+      {"word": "気に入っていた", "reading": "きにいっていた", "meaning": "had liked, was fond of"}
+    ],
+    "grammar": "本当は reveals a hidden truth ('actually'). のだぞ is Weiss's archaic emphatic ending (のだ + ぞ). Despite always complaining about the nickname 'Shiro', Weiss admits he actually liked it - a touching final confession."
+  },
+  {
+    "start": "12:42",
+    "end": "12:44",
+    "text": "シロ",
+    "audio_file": "clip_051.mp3",
+    "translation": "Weiss...",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "12:45",
+    "end": "12:48",
+    "text": "生意気な奴め",
+    "audio_file": "clip_052.mp3",
+    "translation": "You cheeky bastard.",
+    "vocabulary": [
+      {"word": "生意気", "reading": "なまいき", "meaning": "cheeky, impudent, cocky"},
+      {"word": "奴", "reading": "やつ", "meaning": "guy, fellow (rough)"},
+      {"word": "め", "reading": "め", "meaning": "you (derogatory suffix)"}
+    ],
+    "grammar": "奴め is a rough/affectionate way to refer to someone with the derogatory suffix め. Despite the harsh words, this is Nier's emotional response to Weiss's farewell - expressing affection through rough language."
+  },
+  {
+    "start": "13:10",
+    "end": "13:19",
+    "text": "俺には守るものがある。生きる意味がある。",
+    "audio_file": "clip_053.mp3",
+    "translation": "I have something to protect. I have a reason to live.",
+    "vocabulary": [
+      {"word": "守る", "reading": "まもる", "meaning": "to protect, to defend"},
+      {"word": "もの", "reading": "もの", "meaning": "thing (abstract)"},
+      {"word": "生きる", "reading": "いきる", "meaning": "to live"},
+      {"word": "意味", "reading": "いみ", "meaning": "meaning, significance"}
+    ],
+    "grammar": "守るもの is 'something to protect' (verb + もの = 'thing that one verbs'). 生きる意味 is 'reason/meaning to live'. These parallel structures emphasize Nier's resolve."
+  },
+  {
+    "start": "13:20",
+    "end": "13:23",
+    "text": "魔王、お前は…",
+    "audio_file": "clip_054.mp3",
+    "translation": "Shadowlord, you...",
+    "vocabulary": [
+      {"word": "魔王", "reading": "まおう", "meaning": "Demon King, Shadowlord"}
+    ],
+    "grammar": "The trailing off (…) indicates Nier is about to say something but stops, showing complex emotions toward his enemy."
+  },
+  {
+    "start": "14:41",
+    "end": "14:43",
+    "text": "ヨナの様子は",
+    "audio_file": "clip_055.mp3",
+    "translation": "How is Yonah?",
+    "vocabulary": [
+      {"word": "様子", "reading": "ようす", "meaning": "state, condition, appearance"}
+    ],
+    "grammar": "～の様子は asks about someone's condition. The は marks it as the topic, with the question implied."
+  },
+  {
+    "start": "14:49",
+    "end": "14:54",
+    "text": "そんな / 大丈夫だ",
+    "audio_file": "clip_056.mp3",
+    "translation": "Oh no... / It's okay.",
+    "vocabulary": [
+      {"word": "そんな", "reading": "そんな", "meaning": "such, that kind of (expressing shock)"},
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "okay, alright"}
+    ],
+    "grammar": "そんな alone as an exclamation expresses shock or disbelief ('No way' or 'That can't be'). Kaine is shocked but Nier reassures her."
+  },
+  {
+    "start": "15:00",
+    "end": "15:01",
+    "text": "シロ",
+    "audio_file": "clip_057.mp3",
+    "translation": "Weiss...",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "15:02",
+    "end": "15:07",
+    "text": "どこにいる / 無事なのか / 探しても無駄だ",
+    "audio_file": "clip_058.mp3",
+    "translation": "Where are you? / Are you safe? / Searching is useless.",
+    "vocabulary": [
+      {"word": "どこ", "reading": "どこ", "meaning": "where"},
+      {"word": "いる", "reading": "いる", "meaning": "to be, to exist"},
+      {"word": "無事", "reading": "ぶじ", "meaning": "safe, unharmed"},
+      {"word": "探す", "reading": "さがす", "meaning": "to search, to look for"},
+      {"word": "無駄", "reading": "むだ", "meaning": "useless, futile, waste"}
+    ],
+    "grammar": "無事なのか asks 'are you safe?' with explanatory の. 探しても無駄 means 'even if you search, it's useless' (～ても = even if)."
+  },
+  {
+    "start": "15:08",
+    "end": "15:11",
+    "text": "我はもう形を失った",
+    "audio_file": "clip_059.mp3",
+    "translation": "I have already lost my form.",
+    "vocabulary": [
+      {"word": "我", "reading": "われ", "meaning": "I (archaic, Weiss's speech)"},
+      {"word": "もう", "reading": "もう", "meaning": "already"},
+      {"word": "形", "reading": "かたち", "meaning": "form, shape"},
+      {"word": "失う", "reading": "うしなう", "meaning": "to lose"}
+    ],
+    "grammar": "我は is Weiss's archaic 'I' (topic marker). Weiss explains he has sacrificed his physical form to stop the Shadowlord."
+  },
+  {
+    "start": "15:11",
+    "end": "15:14",
+    "text": "じき / 声も失うだろう",
+    "audio_file": "clip_060.mp3",
+    "translation": "Soon... / I will lose my voice too.",
+    "vocabulary": [
+      {"word": "じき", "reading": "じき", "meaning": "soon, before long"},
+      {"word": "声", "reading": "こえ", "meaning": "voice"},
+      {"word": "失う", "reading": "うしなう", "meaning": "to lose"},
+      {"word": "だろう", "reading": "だろう", "meaning": "probably, will likely"}
+    ],
+    "grammar": "じき (soon) is somewhat literary. も means 'also' - he will lose his voice too (in addition to his form). だろう indicates probability."
+  },
+  {
+    "start": "15:15",
+    "end": "15:19",
+    "text": "故に / 今のうちに / 言っておく",
+    "audio_file": "clip_061.mp3",
+    "translation": "Therefore... / while I still can... / I will say this.",
+    "vocabulary": [
+      {"word": "故に", "reading": "ゆえに", "meaning": "therefore, for that reason (literary)"},
+      {"word": "今のうちに", "reading": "いまのうちに", "meaning": "while there's still time, while I can"},
+      {"word": "言う", "reading": "いう", "meaning": "to say"},
+      {"word": "言っておく", "reading": "いっておく", "meaning": "to say in advance, to make sure to say"}
+    ],
+    "grammar": "故に (ゆえに) is Weiss's literary/archaic 'therefore' (modern: だから). 今のうちに means 'while there's still time'. ～ておく means to do something in preparation or in advance."
+  },
+  {
+    "start": "15:20",
+    "end": "15:24",
+    "text": "よく聞け / ヨナは",
+    "audio_file": "clip_062.mp3",
+    "translation": "Listen well. / Yonah...",
+    "vocabulary": [
+      {"word": "よく", "reading": "よく", "meaning": "well, carefully"},
+      {"word": "聞く", "reading": "きく", "meaning": "to listen, to hear"},
+      {"word": "聞け", "reading": "きけ", "meaning": "listen! (imperative)"}
+    ],
+    "grammar": "聞け is the imperative form of 聞く, a direct command. よく聞け is a serious 'listen carefully' - Weiss is about to give important final instructions."
+  },
+  {
+    "start": "15:24",
+    "end": "15:32",
+    "text": "大丈夫だ / 恐れるな諦めるな 呼び戻せ",
+    "audio_file": "clip_063.mp3",
+    "translation": "...will be fine. / Don't fear, don't give up. Call her back.",
+    "vocabulary": [
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "okay, fine, alright"},
+      {"word": "恐れる", "reading": "おそれる", "meaning": "to fear, to be afraid"},
+      {"word": "諦める", "reading": "あきらめる", "meaning": "to give up, to abandon"},
+      {"word": "呼び戻す", "reading": "よびもどす", "meaning": "to call back, to summon back"}
+    ],
+    "grammar": "恐れるな and 諦めるな are negative imperatives (don't fear, don't give up) using verb stem + な. 呼び戻せ is the imperative of 呼び戻す. Three rapid commands show urgency."
+  },
+  {
+    "start": "15:32",
+    "end": "15:36",
+    "text": "ヨナを どうやって",
+    "audio_file": "clip_064.mp3",
+    "translation": "Yonah... How?",
+    "vocabulary": [
+      {"word": "どうやって", "reading": "どうやって", "meaning": "how, in what way"}
+    ],
+    "grammar": "どうやって asks 'how' or 'by what means'. Nier is asking how to call Yonah back."
+  },
+  {
+    "start": "15:36",
+    "end": "15:44",
+    "text": "ヨナの そして / お前の記憶を 思い出せ",
+    "audio_file": "clip_065.mp3",
+    "translation": "Yonah's... and... / your memories. Remember them.",
+    "vocabulary": [
+      {"word": "そして", "reading": "そして", "meaning": "and, and then"},
+      {"word": "記憶", "reading": "きおく", "meaning": "memory, memories"},
+      {"word": "思い出す", "reading": "おもいだす", "meaning": "to remember, to recall"},
+      {"word": "思い出せ", "reading": "おもいだせ", "meaning": "remember! (imperative)"}
+    ],
+    "grammar": "思い出せ is the imperative of 思い出す. Weiss instructs Nier to use their shared memories to bring Yonah back - the memories are the 'proof' of their bond."
+  },
+  {
+    "start": "15:45",
+    "end": "15:50",
+    "text": "お前たちが生きる証を 俺たちの",
+    "audio_file": "clip_066.mp3",
+    "translation": "The proof that you two are alive... our...",
+    "vocabulary": [
+      {"word": "お前たち", "reading": "おまえたち", "meaning": "you (plural)"},
+      {"word": "生きる", "reading": "いきる", "meaning": "to live, to be alive"},
+      {"word": "証", "reading": "あかし", "meaning": "proof, evidence, testament"},
+      {"word": "俺たち", "reading": "おれたち", "meaning": "we, us"}
+    ],
+    "grammar": "生きる証 means 'proof of living' - the memories that prove their existence and bonds. The incomplete sentence trails off emotionally."
+  },
+  {
+    "start": "15:55",
+    "end": "15:57",
+    "text": "証 / できる",
+    "audio_file": "clip_067.mp3",
+    "translation": "Proof... / I can do it.",
+    "vocabulary": [
+      {"word": "証", "reading": "あかし", "meaning": "proof"},
+      {"word": "できる", "reading": "できる", "meaning": "can do, to be able to"}
+    ],
+    "grammar": "Nier understands what Weiss means and affirms he can do it. できる alone as a statement means 'I can (do it)'."
+  },
+  {
+    "start": "16:03",
+    "end": "16:10",
+    "text": "ヨナの好きな食べ物は それはクッキーだよ",
+    "audio_file": "clip_068.mp3",
+    "translation": "Yonah's favorite food... That's cookies.",
+    "vocabulary": [
+      {"word": "好きな", "reading": "すきな", "meaning": "favorite, liked"},
+      {"word": "食べ物", "reading": "たべもの", "meaning": "food"},
+      {"word": "クッキー", "reading": "クッキー", "meaning": "cookies"}
+    ],
+    "grammar": "好きな食べ物 means 'favorite food'. This begins the memory sequence where Nier recalls details about Yonah to bring her back."
+  },
+  {
+    "start": "16:10",
+    "end": "16:16",
+    "text": "ヨナの好きな本の題名は それはねー",
+    "audio_file": "clip_069.mp3",
+    "translation": "Yonah's favorite book title... That's...",
+    "vocabulary": [
+      {"word": "本", "reading": "ほん", "meaning": "book"},
+      {"word": "題名", "reading": "だいめい", "meaning": "title"}
+    ],
+    "grammar": "ねー (elongated ね) shows the speaker thinking or building suspense before answering."
+  },
+  {
+    "start": "16:16",
+    "end": "16:21",
+    "text": "魔法の絵本 ヨナの好きな場所は",
+    "audio_file": "clip_070.mp3",
+    "translation": "'The Magical Picture Book.' Yonah's favorite place...",
+    "vocabulary": [
+      {"word": "魔法", "reading": "まほう", "meaning": "magic"},
+      {"word": "絵本", "reading": "えほん", "meaning": "picture book"},
+      {"word": "場所", "reading": "ばしょ", "meaning": "place, location"}
+    ],
+    "grammar": "魔法の絵本 (The Magical Picture Book) is a title. The questions continue the memory sequence."
+  },
+  {
+    "start": "16:21",
+    "end": "16:25",
+    "text": "それは お兄ちゃんがいるお家",
+    "audio_file": "clip_071.mp3",
+    "translation": "That's... the house where big brother is.",
+    "vocabulary": [
+      {"word": "お家", "reading": "おうち", "meaning": "home, house (childish/affectionate)"},
+      {"word": "いる", "reading": "いる", "meaning": "to be, to exist"}
+    ],
+    "grammar": "お兄ちゃんがいるお家 uses a relative clause - 'the house where big brother is'. お家 with お is childish/affectionate for 'home'."
+  },
+  {
+    "start": "16:26",
+    "end": "16:36",
+    "text": "ヨナの好きなお花の名前は その花は / 月の涙だよ じゃあねー",
+    "audio_file": "clip_072.mp3",
+    "translation": "Yonah's favorite flower... That flower is... / the Lunar Tear. Bye-bye.",
+    "vocabulary": [
+      {"word": "花", "reading": "はな", "meaning": "flower"},
+      {"word": "お花", "reading": "おはな", "meaning": "flower (polite/cute)"},
+      {"word": "名前", "reading": "なまえ", "meaning": "name"},
+      {"word": "月の涙", "reading": "つきのなみだ", "meaning": "Lunar Tear (lit. 'moon's tear')"},
+      {"word": "じゃあね", "reading": "じゃあね", "meaning": "bye, see you"}
+    ],
+    "grammar": "月の涙 (Lunar Tear) is an important flower in NieR lore. じゃあねー with elongation is a casual, sweet 'bye-bye' - this is Yonah's voice returning."
+  },
+  {
+    "start": "16:37",
+    "end": "16:41",
+    "text": "ヨナが一番好きな人は 絶対に",
+    "audio_file": "clip_073.mp3",
+    "translation": "The person Yonah loves most... Definitely...",
+    "vocabulary": [
+      {"word": "一番", "reading": "いちばん", "meaning": "number one, most"},
+      {"word": "好きな人", "reading": "すきなひと", "meaning": "person one likes/loves"},
+      {"word": "絶対に", "reading": "ぜったいに", "meaning": "definitely, absolutely"}
+    ],
+    "grammar": "一番好きな人 means 'the person (one) likes most'. 絶対に emphasizes certainty. The answer (big brother) is implied."
+  },
+  {
+    "start": "16:56",
+    "end": "17:01",
+    "text": "お兄ちゃん...",
+    "audio_file": "clip_074.mp3",
+    "translation": "Big brother...",
+    "vocabulary": [],
+    "grammar": "Yonah awakens and calls out to her brother."
+  },
+  {
+    "start": "17:15",
+    "end": "17:23",
+    "text": "これ、ヨナの体 / そうだよ、お前だけの体だ",
+    "audio_file": "clip_075.mp3",
+    "translation": "Is this... Yonah's body? / Yes, it's your body, yours alone.",
+    "vocabulary": [
+      {"word": "これ", "reading": "これ", "meaning": "this"},
+      {"word": "体", "reading": "からだ", "meaning": "body"},
+      {"word": "だけ", "reading": "だけ", "meaning": "only, just"}
+    ],
+    "grammar": "お前だけの体 emphasizes 'your body alone' - reassuring Yonah that this body now belongs only to her, not shared with the Gestalt."
+  },
+  {
+    "start": "17:25",
+    "end": "17:31",
+    "text": "お兄ちゃん、大きくなってる / 大人の人みたい",
+    "audio_file": "clip_076.mp3",
+    "translation": "Big brother, you've gotten bigger! / You look like an adult.",
+    "vocabulary": [
+      {"word": "大きい", "reading": "おおきい", "meaning": "big, large"},
+      {"word": "大きくなる", "reading": "おおきくなる", "meaning": "to grow bigger"},
+      {"word": "大人", "reading": "おとな", "meaning": "adult"},
+      {"word": "みたい", "reading": "みたい", "meaning": "looks like, seems like"}
+    ],
+    "grammar": "大きくなってる is contracted 大きくなっている (have become big). みたい indicates resemblance. Yonah notices the time skip - her brother has grown into an adult."
+  },
+  {
+    "start": "17:31",
+    "end": "17:35",
+    "text": "ああ、あれから少し時間が経ったんだ",
+    "audio_file": "clip_077.mp3",
+    "translation": "Yeah, some time has passed since then.",
+    "vocabulary": [
+      {"word": "あれから", "reading": "あれから", "meaning": "since then, after that"},
+      {"word": "少し", "reading": "すこし", "meaning": "a little, somewhat"},
+      {"word": "時間", "reading": "じかん", "meaning": "time"},
+      {"word": "経つ", "reading": "たつ", "meaning": "to pass (time)"}
+    ],
+    "grammar": "時間が経つ means 'time passes'. んだ adds explanatory nuance. Nier understates the 5-year timeskip with 少し (a little)."
+  },
+  {
+    "start": "17:35",
+    "end": "17:38",
+    "text": "ヨナはずっと眠っていたの?",
+    "audio_file": "clip_078.mp3",
+    "translation": "Was Yonah sleeping the whole time?",
+    "vocabulary": [
+      {"word": "ずっと", "reading": "ずっと", "meaning": "the whole time, continuously"},
+      {"word": "眠る", "reading": "ねむる", "meaning": "to sleep"},
+      {"word": "眠っていた", "reading": "ねむっていた", "meaning": "was sleeping"}
+    ],
+    "grammar": "ずっと眠っていた is 'was sleeping the whole time'. The sentence-final の makes it a soft question (feminine speech)."
+  },
+  {
+    "start": "17:42",
+    "end": "17:46",
+    "text": "物語のお姫様になったみたいね",
+    "audio_file": "clip_079.mp3",
+    "translation": "It's like I became a princess from a story.",
+    "vocabulary": [
+      {"word": "物語", "reading": "ものがたり", "meaning": "story, tale"},
+      {"word": "お姫様", "reading": "おひめさま", "meaning": "princess"},
+      {"word": "なる", "reading": "なる", "meaning": "to become"},
+      {"word": "みたい", "reading": "みたい", "meaning": "like, as if"}
+    ],
+    "grammar": "お姫様になった means 'became a princess'. みたいね is 'it's like ~, isn't it'. Yonah compares herself to Sleeping Beauty - awakened after a long sleep."
+  },
+  {
+    "start": "17:48",
+    "end": "17:53",
+    "text": "ヨナ、よかった。本当によかった",
+    "audio_file": "clip_080.mp3",
+    "translation": "Yonah... I'm so glad. I'm really glad.",
+    "vocabulary": [
+      {"word": "よかった", "reading": "よかった", "meaning": "I'm glad, that's good, what a relief"},
+      {"word": "本当に", "reading": "ほんとうに", "meaning": "really, truly"}
+    ],
+    "grammar": "よかった expresses relief and happiness. The repetition with 本当に intensifies the emotion. This is Nier's emotional release after finally saving his sister."
+  },
+  {
+    "start": "17:54",
+    "end": "17:55",
+    "text": "お兄ちゃん",
+    "audio_file": "clip_081.mp3",
+    "translation": "Big brother...",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "17:57",
+    "end": "17:59",
+    "text": "カイネ!",
+    "audio_file": "clip_082.mp3",
+    "translation": "Kaine!",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "18:01",
+    "end": "18:05",
+    "text": "妹と仲良く平和に暮らせ",
+    "audio_file": "clip_083.mp3",
+    "translation": "Live peacefully and happily with your sister.",
+    "vocabulary": [
+      {"word": "妹", "reading": "いもうと", "meaning": "younger sister"},
+      {"word": "仲良く", "reading": "なかよく", "meaning": "on good terms, harmoniously"},
+      {"word": "平和", "reading": "へいわ", "meaning": "peace, peaceful"},
+      {"word": "暮らす", "reading": "くらす", "meaning": "to live, to make a living"},
+      {"word": "暮らせ", "reading": "くらせ", "meaning": "live! (imperative)"}
+    ],
+    "grammar": "暮らせ is the imperative of 暮らす - Kaine commands/wishes Nier to live well. 仲良く and 平和に are adverbs describing how to live."
+  },
+  {
+    "start": "18:05",
+    "end": "18:11",
+    "text": "カイネはどうするんだ? / 私は...もしよかったら俺たちと",
+    "audio_file": "clip_084.mp3",
+    "translation": "What will you do, Kaine? / If you'd like, with us...",
+    "vocabulary": [
+      {"word": "どうする", "reading": "どうする", "meaning": "what will you do"},
+      {"word": "もしよかったら", "reading": "もしよかったら", "meaning": "if you'd like, if it's okay"}
+    ],
+    "grammar": "どうするんだ asks about plans/intentions. もしよかったら is a polite conditional invitation. Nier is about to invite Kaine to live with them."
+  },
+  {
+    "start": "18:13",
+    "end": "18:15",
+    "text": "遠慮しておこう",
+    "audio_file": "clip_085.mp3",
+    "translation": "I'll pass.",
+    "vocabulary": [
+      {"word": "遠慮", "reading": "えんりょ", "meaning": "reserve, restraint, declining"},
+      {"word": "遠慮する", "reading": "えんりょする", "meaning": "to decline, to hold back"},
+      {"word": "ておく", "reading": "ておく", "meaning": "to do in advance, to leave as"}
+    ],
+    "grammar": "遠慮しておこう is 'I'll (politely) decline'. ～ておく adds nuance of doing something deliberately. Kaine refuses the invitation."
+  },
+  {
+    "start": "18:16",
+    "end": "18:21",
+    "text": "私にはまだ片付けなければいけない問題があるからな",
+    "audio_file": "clip_086.mp3",
+    "translation": "I still have a problem I need to take care of.",
+    "vocabulary": [
+      {"word": "まだ", "reading": "まだ", "meaning": "still, yet"},
+      {"word": "片付ける", "reading": "かたづける", "meaning": "to clean up, to take care of, to settle"},
+      {"word": "なければいけない", "reading": "なければいけない", "meaning": "must, have to"},
+      {"word": "問題", "reading": "もんだい", "meaning": "problem, issue"}
+    ],
+    "grammar": "片付けなければいけない means 'must take care of' (obligation). This refers to the Shade Tyrann still inside Kaine."
+  },
+  {
+    "start": "18:21",
+    "end": "18:24",
+    "text": "問題? / 個人的なことだ",
+    "audio_file": "clip_087.mp3",
+    "translation": "Problem? / It's personal.",
+    "vocabulary": [
+      {"word": "個人的", "reading": "こじんてき", "meaning": "personal, private"}
+    ],
+    "grammar": "個人的なこと means 'a personal matter'. Kaine doesn't elaborate on the Shade possession issue."
+  },
+  {
+    "start": "18:26",
+    "end": "18:29",
+    "text": "では元気でな",
+    "audio_file": "clip_088.mp3",
+    "translation": "Well then, take care.",
+    "vocabulary": [
+      {"word": "では", "reading": "では", "meaning": "well then"},
+      {"word": "元気で", "reading": "げんきで", "meaning": "take care, stay well"},
+      {"word": "な", "reading": "な", "meaning": "(sentence-ending particle, masculine)"}
+    ],
+    "grammar": "元気でな is a farewell meaning 'stay well' or 'take care'. な is a masculine sentence-ending particle adding warmth. This is Kaine's goodbye."
+  },
+  {
+    "start": "18:30",
+    "end": "18:33",
+    "text": "カイネ / お兄ちゃん見て",
+    "audio_file": "clip_089.mp3",
+    "translation": "Kaine... / Big brother, look!",
+    "vocabulary": [
+      {"word": "見る", "reading": "みる", "meaning": "to look, to see"},
+      {"word": "見て", "reading": "みて", "meaning": "look! (te-form request)"}
+    ],
+    "grammar": "見て is the te-form used as a request ('look!'). Yonah excitedly points something out."
+  },
+  {
+    "start": "18:37",
+    "end": "18:39",
+    "text": "きれい",
+    "audio_file": "clip_090.mp3",
+    "translation": "Beautiful...",
+    "vocabulary": [
+      {"word": "きれい", "reading": "きれい", "meaning": "beautiful, pretty, clean"}
+    ],
+    "grammar": "きれい as a na-adjective means 'beautiful'. Used alone as an exclamation."
+  },
+  {
+    "start": "18:45",
+    "end": "18:50",
+    "text": "光を見たいって誰かがずっと叫んでた",
+    "audio_file": "clip_091.mp3",
+    "translation": "Someone was always crying out that they wanted to see the light.",
+    "vocabulary": [
+      {"word": "光", "reading": "ひかり", "meaning": "light"},
+      {"word": "見たい", "reading": "みたい", "meaning": "want to see"},
+      {"word": "誰か", "reading": "だれか", "meaning": "someone"},
+      {"word": "ずっと", "reading": "ずっと", "meaning": "the whole time, always"},
+      {"word": "叫ぶ", "reading": "さけぶ", "meaning": "to shout, to cry out"},
+      {"word": "叫んでた", "reading": "さけんでた", "meaning": "was crying out (contracted)"}
+    ],
+    "grammar": "って is casual quotation (what someone said). 叫んでた is contracted 叫んでいた. Yonah heard the Gestalt's longing while they shared the body."
+  },
+  {
+    "start": "18:52",
+    "end": "18:55",
+    "text": "やっと見られたね",
+    "audio_file": "clip_092.mp3",
+    "translation": "They can finally see it now.",
+    "vocabulary": [
+      {"word": "やっと", "reading": "やっと", "meaning": "finally, at last"},
+      {"word": "見られる", "reading": "みられる", "meaning": "can see (potential form)"},
+      {"word": "見られた", "reading": "みられた", "meaning": "was able to see"}
+    ],
+    "grammar": "見られた is the past potential form (was able to see). ね seeks agreement. Yonah acknowledges the Gestalt's wish was fulfilled."
+  },
+  {
+    "start": "19:54",
+    "end": "20:04",
+    "text": "光がいっぱい ああそうだね",
+    "audio_file": "clip_093.mp3",
+    "translation": "So much light... Yes, that's right.",
+    "vocabulary": [
+      {"word": "光", "reading": "ひかり", "meaning": "light"},
+      {"word": "いっぱい", "reading": "いっぱい", "meaning": "full of, a lot, many"},
+      {"word": "そうだね", "reading": "そうだね", "meaning": "that's right, yes"}
+    ],
+    "grammar": "光がいっぱい means 'full of light' or 'so much light'. そうだね is agreeing warmly. The ending shows peace as the siblings look at the light together."
+  }
+]

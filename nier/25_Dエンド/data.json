@@ -1,0 +1,387 @@
+[
+  {
+    "start": "00:00",
+    "end": "00:03",
+    "text": "アラー / アラー",
+    "audio_file": "clip_000.mp3",
+    "translation": "(Vocalizations/cries)",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "00:04",
+    "end": "00:05",
+    "text": "アラー",
+    "audio_file": "clip_001.mp3",
+    "translation": "(Vocalization/cry)",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "00:08",
+    "end": "00:14",
+    "text": "よくやった / お前の大切なカイネを救うには",
+    "audio_file": "clip_002.mp3",
+    "translation": "Well done. / To save your precious Kaine...",
+    "vocabulary": [
+      {"word": "よくやった", "reading": "よくやった", "meaning": "well done, good job (past tense of よくやる)"},
+      {"word": "お前", "reading": "おまえ", "meaning": "you (rough/familiar, masculine)"},
+      {"word": "大切", "reading": "たいせつ", "meaning": "precious, important, valuable"},
+      {"word": "救う", "reading": "すくう", "meaning": "to save, to rescue, to deliver"}
+    ],
+    "grammar": "~には indicates purpose when attached to a verb - 'in order to (do something)'. Here 救うには means 'in order to save'."
+  },
+  {
+    "start": "00:15",
+    "end": "00:22",
+    "text": "二つの方法がある / 一つは、カイネの胸に剣を突き立てる方法。",
+    "audio_file": "clip_003.mp3",
+    "translation": "There are two methods. / One is to thrust a sword into Kaine's chest.",
+    "vocabulary": [
+      {"word": "二つ", "reading": "ふたつ", "meaning": "two (native Japanese counter for objects)"},
+      {"word": "方法", "reading": "ほうほう", "meaning": "method, way, means"},
+      {"word": "一つ", "reading": "ひとつ", "meaning": "one (native Japanese counter for objects)"},
+      {"word": "胸", "reading": "むね", "meaning": "chest, breast, heart"},
+      {"word": "剣", "reading": "けん/つるぎ", "meaning": "sword (けん is Sino-Japanese, つるぎ is native)"},
+      {"word": "突き立てる", "reading": "つきたてる", "meaning": "to thrust into, to stab, to pierce (compound verb: 突く + 立てる)"}
+    ],
+    "grammar": "一つは...方法 presents 'one method is...' The structure ~に~を突き立てる means 'to thrust something into something'."
+  },
+  {
+    "start": "00:22",
+    "end": "00:27",
+    "text": "それはカイネの望みである、このゴークからの解放。",
+    "audio_file": "clip_004.mp3",
+    "translation": "That is Kaine's wish - liberation from this Tyrann.",
+    "vocabulary": [
+      {"word": "それ", "reading": "それ", "meaning": "that"},
+      {"word": "望み", "reading": "のぞみ", "meaning": "wish, desire, hope, aspiration"},
+      {"word": "である", "reading": "である", "meaning": "is (formal/literary copula, equivalent to だ)"},
+      {"word": "解放", "reading": "かいほう", "meaning": "liberation, release, emancipation"},
+      {"word": "ゴーク", "reading": "ゴーク", "meaning": "Tyrann (the Shade/demon possessing Kaine)"}
+    ],
+    "grammar": "である is the formal/written copula, more literary than だ. ~からの解放 means 'liberation/freedom from ~'. Note: ゴーク is the Japanese name for Tyrann, the Shade who has possessed Kaine since childhood."
+  },
+  {
+    "start": "00:28",
+    "end": "00:34",
+    "text": "もう一つは? / もう一つは、カイネを元の人間に戻す方法。",
+    "audio_file": "clip_005.mp3",
+    "translation": "And the other? / The other is to return Kaine to being a normal human.",
+    "vocabulary": [
+      {"word": "もう一つ", "reading": "もうひとつ", "meaning": "one more, another one, the other"},
+      {"word": "元", "reading": "もと", "meaning": "original, former, source"},
+      {"word": "人間", "reading": "にんげん", "meaning": "human being, person"},
+      {"word": "戻す", "reading": "もどす", "meaning": "to return (something to its original state), to restore, to put back"}
+    ],
+    "grammar": "~を元の~に戻す is an important pattern meaning 'to return something to its original state'. 元の人間 means 'original/former human (state)'."
+  },
+  {
+    "start": "00:35",
+    "end": "00:40",
+    "text": "この方法を取るなら、お前の存在という交換の品が必要だ。",
+    "audio_file": "clip_006.mp3",
+    "translation": "If you choose this method, your existence is required as the price of exchange.",
+    "vocabulary": [
+      {"word": "方法", "reading": "ほうほう", "meaning": "method, way"},
+      {"word": "取る", "reading": "とる", "meaning": "to take, to choose, to select"},
+      {"word": "なら", "reading": "なら", "meaning": "if (conditional)"},
+      {"word": "存在", "reading": "そんざい", "meaning": "existence, being"},
+      {"word": "という", "reading": "という", "meaning": "called, known as, that is"},
+      {"word": "交換", "reading": "こうかん", "meaning": "exchange, trade, swap"},
+      {"word": "品", "reading": "しな", "meaning": "item, article, goods, object"},
+      {"word": "必要", "reading": "ひつよう", "meaning": "necessary, required, needed"}
+    ],
+    "grammar": "~を取る when referring to methods means 'to choose/take (a method)'. ~という品 means 'the item/price that is called ~'. 交換の品 is 'item of exchange' or 'price to pay'."
+  },
+  {
+    "start": "00:41",
+    "end": "00:50",
+    "text": "ほら、選んでみろよ。 / お前はカイネの中にいる魔物だな / なぜカイネを助けようとする",
+    "audio_file": "clip_007.mp3",
+    "translation": "Now, go ahead and choose. / You're the Shade inside Kaine, aren't you? / Why are you trying to help Kaine?",
+    "vocabulary": [
+      {"word": "ほら", "reading": "ほら", "meaning": "look, hey, come on (interjection urging action)"},
+      {"word": "選ぶ", "reading": "えらぶ", "meaning": "to choose, to select"},
+      {"word": "中", "reading": "なか", "meaning": "inside, within"},
+      {"word": "魔物", "reading": "まもの", "meaning": "monster, demon, evil creature (Shade in this game)"},
+      {"word": "助ける", "reading": "たすける", "meaning": "to help, to save, to rescue"}
+    ],
+    "grammar": "~てみろ is a rough/masculine imperative meaning 'try doing ~' (from ~てみる). よ adds emphasis. ~だな is a masculine sentence ending seeking confirmation ('isn't it'). ~ようとする means 'to try to do ~' (volitional + とする)."
+  },
+  {
+    "start": "00:50",
+    "end": "00:55",
+    "text": "たぶんお前と同じ理由だ",
+    "audio_file": "clip_008.mp3",
+    "translation": "Probably the same reason as you.",
+    "vocabulary": [
+      {"word": "たぶん", "reading": "たぶん", "meaning": "probably, perhaps, maybe"},
+      {"word": "同じ", "reading": "おなじ", "meaning": "same, identical"},
+      {"word": "理由", "reading": "りゆう", "meaning": "reason, cause, motive"}
+    ],
+    "grammar": "~と同じ means 'the same as ~'. This is Tyrann revealing he also cares about Kaine."
+  },
+  {
+    "start": "00:55",
+    "end": "00:58",
+    "text": "さあ選べ",
+    "audio_file": "clip_009.mp3",
+    "translation": "Now, choose.",
+    "vocabulary": [
+      {"word": "さあ", "reading": "さあ", "meaning": "now, come on, well (interjection urging action)"},
+      {"word": "選べ", "reading": "えらべ", "meaning": "choose! (imperative form of 選ぶ)"}
+    ],
+    "grammar": "選べ is the imperative form of 選ぶ. The imperative of godan verbs is formed by changing the final -u to -e."
+  },
+  {
+    "start": "01:31",
+    "end": "01:34",
+    "text": "お前はこの世から消える",
+    "audio_file": "clip_010.mp3",
+    "translation": "You will disappear from this world.",
+    "vocabulary": [
+      {"word": "この世", "reading": "このよ", "meaning": "this world, the mortal world"},
+      {"word": "から", "reading": "から", "meaning": "from"},
+      {"word": "消える", "reading": "きえる", "meaning": "to disappear, to vanish, to fade away"}
+    ],
+    "grammar": "この世 is a set phrase meaning 'this world' (as opposed to the afterlife). ~から消える means 'to disappear from ~'."
+  },
+  {
+    "start": "01:35",
+    "end": "01:42",
+    "text": "お前の妹、友人、その他全ての人から / お前は忘れ去られる",
+    "audio_file": "clip_011.mp3",
+    "translation": "By your sister, your friends, and all other people... / You will be completely forgotten.",
+    "vocabulary": [
+      {"word": "妹", "reading": "いもうと", "meaning": "younger sister"},
+      {"word": "友人", "reading": "ゆうじん", "meaning": "friend (more formal than 友達)"},
+      {"word": "その他", "reading": "そのた/そのほか", "meaning": "other, the rest, et cetera"},
+      {"word": "全て", "reading": "すべて", "meaning": "all, everything, entirely"},
+      {"word": "忘れる", "reading": "わすれる", "meaning": "to forget"},
+      {"word": "去る", "reading": "さる", "meaning": "to leave, to go away (adds completeness)"},
+      {"word": "忘れ去られる", "reading": "わすれさられる", "meaning": "to be completely forgotten (passive of 忘れ去る)"}
+    ],
+    "grammar": "忘れ去る is a compound verb meaning 'to forget completely' (忘れる + 去る). 去る adds the nuance of 'completely' or 'leaving behind'. 忘れ去られる is the passive form, meaning 'to be completely forgotten by others'."
+  },
+  {
+    "start": "01:43",
+    "end": "01:49",
+    "text": "お前も、お前の生きていた証も全て消える",
+    "audio_file": "clip_012.mp3",
+    "translation": "You, and all proof that you ever lived, will vanish.",
+    "vocabulary": [
+      {"word": "生きる", "reading": "いきる", "meaning": "to live, to be alive"},
+      {"word": "生きていた", "reading": "いきていた", "meaning": "was living, had been alive (past progressive)"},
+      {"word": "証", "reading": "あかし", "meaning": "proof, evidence, testimony, sign"},
+      {"word": "全て", "reading": "すべて", "meaning": "all, everything"},
+      {"word": "消える", "reading": "きえる", "meaning": "to disappear, to vanish"}
+    ],
+    "grammar": "生きていた証 means 'proof of having lived'. The past progressive ~ていた indicates a state that existed in the past. も...も means 'both...and' when used together."
+  },
+  {
+    "start": "01:49",
+    "end": "01:55",
+    "text": "それと引き換えに / カイネは再び光の世界に舞い戻るのだ",
+    "audio_file": "clip_013.mp3",
+    "translation": "In exchange for that... / Kaine will return once more to the world of the living.",
+    "vocabulary": [
+      {"word": "それ", "reading": "それ", "meaning": "that"},
+      {"word": "引き換え", "reading": "ひきかえ", "meaning": "exchange, trade-off"},
+      {"word": "再び", "reading": "ふたたび", "meaning": "again, once more, a second time"},
+      {"word": "光", "reading": "ひかり", "meaning": "light"},
+      {"word": "世界", "reading": "せかい", "meaning": "world"},
+      {"word": "舞い戻る", "reading": "まいもどる", "meaning": "to come back, to return (literary/poetic)"}
+    ],
+    "grammar": "~と引き換えに is an important expression meaning 'in exchange for ~'. 舞い戻る is more literary/dramatic than simply 戻る, suggesting a graceful or fated return. のだ adds explanatory emphasis. 光の世界 (world of light) refers to the world of the living."
+  },
+  {
+    "start": "03:11",
+    "end": "03:15",
+    "text": "Продолжение следует...",
+    "audio_file": "clip_014.mp3",
+    "translation": "(To be continued... - Russian text, appears to be video overlay)",
+    "vocabulary": [],
+    "grammar": "This is Russian text meaning 'To be continued' - likely from the video source rather than the game dialogue."
+  },
+  {
+    "start": "03:36",
+    "end": "03:40",
+    "text": "ご視聴ありがとうございました",
+    "audio_file": "clip_015.mp3",
+    "translation": "Thank you for watching.",
+    "vocabulary": [
+      {"word": "ご視聴", "reading": "ごしちょう", "meaning": "watching, viewing (honorific prefix ご + 視聴)"},
+      {"word": "視聴", "reading": "しちょう", "meaning": "watching and listening, viewing"},
+      {"word": "ありがとうございました", "reading": "ありがとうございました", "meaning": "thank you very much (past/formal, for completed actions)"}
+    ],
+    "grammar": "ご~ is an honorific prefix. ありがとうございました (past tense) is used to thank for something that has been completed, versus ありがとうございます for ongoing situations. This is video creator content, not game dialogue."
+  },
+  {
+    "start": "04:08",
+    "end": "04:10",
+    "text": "大丈夫ですか",
+    "audio_file": "clip_016.mp3",
+    "translation": "Are you okay?",
+    "vocabulary": [
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "okay, alright, fine, safe"}
+    ],
+    "grammar": "大丈夫ですか is the standard polite way to ask if someone is okay. The です makes it polite."
+  },
+  {
+    "start": "04:11",
+    "end": "04:18",
+    "text": "ような / あなたが助けてくれたのよね",
+    "audio_file": "clip_017.mp3",
+    "translation": "It seems like... / You saved me, didn't you?",
+    "vocabulary": [
+      {"word": "ような", "reading": "ような", "meaning": "like, as if, it seems"},
+      {"word": "あなた", "reading": "あなた", "meaning": "you (polite but somewhat distant)"},
+      {"word": "助ける", "reading": "たすける", "meaning": "to help, to save, to rescue"},
+      {"word": "くれる", "reading": "くれる", "meaning": "to give (to me/us), to do (as a favor for speaker)"}
+    ],
+    "grammar": "~てくれた indicates someone did something as a favor for the speaker - it shows gratitude. のよね is a feminine sentence ending that seeks soft confirmation, combining explanatory の, emphatic よ, and confirmatory ね."
+  },
+  {
+    "start": "04:38",
+    "end": "04:39",
+    "text": "ありがとう",
+    "audio_file": "clip_018.mp3",
+    "translation": "Thank you.",
+    "vocabulary": [
+      {"word": "ありがとう", "reading": "ありがとう", "meaning": "thank you (casual)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:43",
+    "end": "04:45",
+    "text": "無事でよかった",
+    "audio_file": "clip_019.mp3",
+    "translation": "I'm glad you're safe.",
+    "vocabulary": [
+      {"word": "無事", "reading": "ぶじ", "meaning": "safe, unharmed, without incident"},
+      {"word": "よかった", "reading": "よかった", "meaning": "was good, I'm glad (past of いい)"}
+    ],
+    "grammar": "~でよかった expresses relief that something is the case. 無事で uses the て-form of the copula (で from だ), meaning 'being safe'. This is a common expression of relief."
+  },
+  {
+    "start": "04:53",
+    "end": "04:55",
+    "text": "どうしたの",
+    "audio_file": "clip_020.mp3",
+    "translation": "What's wrong?",
+    "vocabulary": [
+      {"word": "どうした", "reading": "どうした", "meaning": "what happened, what's wrong (past of どうする)"},
+      {"word": "の", "reading": "の", "meaning": "question particle (casual, often feminine)"}
+    ],
+    "grammar": "どうしたの is a casual way to ask 'what's wrong?' or 'what happened?'. The の softens the question and is common in casual/feminine speech."
+  },
+  {
+    "start": "04:56",
+    "end": "05:03",
+    "text": "せっかく魔王を倒したのに / ちっとも嬉しそうじゃないのね",
+    "audio_file": "clip_021.mp3",
+    "translation": "Even though you finally defeated the Shadowlord... / You don't look happy at all.",
+    "vocabulary": [
+      {"word": "せっかく", "reading": "せっかく", "meaning": "with great effort, finally, at last, specially"},
+      {"word": "魔王", "reading": "まおう", "meaning": "demon king, Shadowlord (the main antagonist)"},
+      {"word": "倒す", "reading": "たおす", "meaning": "to defeat, to knock down, to overthrow"},
+      {"word": "のに", "reading": "のに", "meaning": "even though, despite, although"},
+      {"word": "ちっとも", "reading": "ちっとも", "meaning": "not at all, not in the least (always with negative)"},
+      {"word": "嬉しい", "reading": "うれしい", "meaning": "happy, glad, pleased"},
+      {"word": "嬉しそう", "reading": "うれしそう", "meaning": "looking happy, seeming happy"}
+    ],
+    "grammar": "せっかく~のに is an important pattern expressing disappointment that despite effort or a good opportunity, the expected result didn't occur. ~そう attached to adjective stems means 'looks like, appears to be'. ちっとも~ない means 'not at all'. のね is a feminine ending seeking agreement."
+  },
+  {
+    "start": "05:06",
+    "end": "05:08",
+    "text": "そうか",
+    "audio_file": "clip_022.mp3",
+    "translation": "I see...",
+    "vocabulary": [
+      {"word": "そうか", "reading": "そうか", "meaning": "I see, is that so, really"}
+    ],
+    "grammar": "そうか is a casual expression of understanding or realization. It can also express mild surprise or contemplation."
+  },
+  {
+    "start": "05:18",
+    "end": "05:22",
+    "text": "月の涙だわ / 素敵",
+    "audio_file": "clip_023.mp3",
+    "translation": "It's a Lunar Tear. / How lovely.",
+    "vocabulary": [
+      {"word": "月", "reading": "つき", "meaning": "moon"},
+      {"word": "涙", "reading": "なみだ", "meaning": "tear, tears"},
+      {"word": "月の涙", "reading": "つきのなみだ", "meaning": "Lunar Tear (legendary flower in NieR)"},
+      {"word": "だわ", "reading": "だわ", "meaning": "is (feminine sentence-ending)"},
+      {"word": "素敵", "reading": "すてき", "meaning": "lovely, wonderful, beautiful, splendid"}
+    ],
+    "grammar": "だわ is a feminine sentence-ending particle that adds gentle emphasis, equivalent to だ but softer. 月の涙 (Lunar Tear) is a legendary white flower with deep significance in the NieR series, symbolizing hope and lost memories."
+  },
+  {
+    "start": "05:36",
+    "end": "05:37",
+    "text": "泣いてるの?",
+    "audio_file": "clip_024.mp3",
+    "translation": "Are you crying?",
+    "vocabulary": [
+      {"word": "泣く", "reading": "なく", "meaning": "to cry, to weep"},
+      {"word": "泣いてる", "reading": "ないてる", "meaning": "crying (contracted form of 泣いている)"}
+    ],
+    "grammar": "~ている becomes ~てる in casual speech. The の makes it a gentle question."
+  },
+  {
+    "start": "05:39",
+    "end": "05:40",
+    "text": "そうらしい",
+    "audio_file": "clip_025.mp3",
+    "translation": "It seems so.",
+    "vocabulary": [
+      {"word": "そう", "reading": "そう", "meaning": "so, that way"},
+      {"word": "らしい", "reading": "らしい", "meaning": "it seems, apparently, I hear that"}
+    ],
+    "grammar": "らしい indicates hearsay or conjecture based on evidence. Kaine saying そうらしい about her own crying shows she doesn't understand why she's crying - it's an unconscious emotional response to the protagonist's sacrifice."
+  },
+  {
+    "start": "05:43",
+    "end": "05:45",
+    "text": "なぜだろう",
+    "audio_file": "clip_026.mp3",
+    "translation": "I wonder why...",
+    "vocabulary": [
+      {"word": "なぜ", "reading": "なぜ", "meaning": "why (more formal than どうして)"},
+      {"word": "だろう", "reading": "だろう", "meaning": "I wonder, probably, likely"}
+    ],
+    "grammar": "だろう at the end of a sentence expresses wondering or speculation. なぜだろう is 'I wonder why' - Kaine is puzzled by her own tears because she has no memory of the protagonist."
+  },
+  {
+    "start": "06:03",
+    "end": "06:10",
+    "text": "何か大切なものをもらった気がするんだ",
+    "audio_file": "clip_027.mp3",
+    "translation": "I feel like I received something precious.",
+    "vocabulary": [
+      {"word": "何か", "reading": "なにか", "meaning": "something"},
+      {"word": "大切", "reading": "たいせつ", "meaning": "precious, important, valuable"},
+      {"word": "もの", "reading": "もの", "meaning": "thing, object"},
+      {"word": "もらう", "reading": "もらう", "meaning": "to receive, to get"},
+      {"word": "気がする", "reading": "きがする", "meaning": "to feel like, to have a feeling, to sense"}
+    ],
+    "grammar": "~気がする expresses a vague feeling or intuition. んだ (explanatory の + だ) adds emotional weight and explanation. This line is deeply poignant - Kaine senses she received something important but cannot remember the protagonist who sacrificed everything for her."
+  },
+  {
+    "start": "06:11",
+    "end": "06:15",
+    "text": "とても大切な何かを",
+    "audio_file": "clip_028.mp3",
+    "translation": "Something very precious...",
+    "vocabulary": [
+      {"word": "とても", "reading": "とても", "meaning": "very, extremely, highly"},
+      {"word": "大切", "reading": "たいせつ", "meaning": "precious, important"},
+      {"word": "何か", "reading": "なにか", "meaning": "something"}
+    ],
+    "grammar": "This trailing sentence (ending with を) leaves the thought incomplete, emphasizing the lingering feeling. This is the emotional climax of Ending D - Kaine feels the weight of the protagonist's sacrifice even though all memory of him has been erased from existence."
+  }
+]
