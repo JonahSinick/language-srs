@@ -226,6 +226,46 @@
         .toggle-switch input:checked + .toggle-slider:before {
             transform: translateX(20px);
         }
+
+        /* Mobile replay button */
+        .replay-btn {
+            display: none;
+            width: 100%;
+            padding: 16px;
+            margin-bottom: 20px;
+            background: #5d6d7e;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .replay-btn:active {
+            background: #4a5a6a;
+        }
+
+        /* Mobile swipe hints */
+        .swipe-hints {
+            display: none;
+            text-align: center;
+            margin-top: 20px;
+            color: #888;
+            font-size: 13px;
+        }
+
+        /* Mobile-specific styles */
+        @media (max-width: 768px) {
+            .replay-btn {
+                display: block;
+            }
+            .keyboard-hints {
+                display: none !important;
+            }
+            .swipe-hints {
+                display: block;
+            }
+        }
     </style>
 </head>
 <body>
@@ -293,6 +333,10 @@
         <kbd>←</kbd> Previous &nbsp;&nbsp; <kbd>Space</kbd> Reveal/Hide &nbsp;&nbsp; <kbd>→</kbd> Next
     </div>
 
+    <div class="swipe-hints" id="swipeHints" style="display: none;">
+        Swipe: ← Prev &nbsp;|&nbsp; ↓ Reveal &nbsp;|&nbsp; Next →
+    </div>
+
     <script>
         let data = [];
         let currentIndex = 0;
@@ -334,6 +378,7 @@
 
                 document.getElementById('navButtons').style.display = 'flex';
                 document.getElementById('keyboardHints').style.display = 'block';
+                document.getElementById('swipeHints').style.display = 'block';
                 showCard();
             } catch (e) {
                 document.getElementById('cardContainer').innerHTML =
@@ -381,6 +426,7 @@
                     <div class="time">${card.start} - ${card.end}</div>
                     <div class="japanese">${card.text.replace(/ \/ /g, '<br>')}</div>
                     <audio id="cardAudio" controls src="${currentChapter}/clips/${card.audio_file}"></audio>
+                    <button class="replay-btn" onclick="replayAudio()">Replay Audio</button>
 
                     <div class="translation" id="translation">${translationText}</div>
                     ${vocabHtml}
@@ -446,6 +492,60 @@
                 toggleReveal();
             }
         });
+
+        // Replay audio function for mobile button
+        function replayAudio() {
+            const audio = document.getElementById('cardAudio');
+            if (audio) {
+                audio.currentTime = 0;
+                audio.play().catch(() => {});
+            }
+        }
+
+        // Touch/swipe handling for mobile
+        let touchStartX = 0;
+        let touchStartY = 0;
+        let touchEndX = 0;
+        let touchEndY = 0;
+        const minSwipeDistance = 50;
+
+        document.addEventListener('touchstart', (e) => {
+            touchStartX = e.changedTouches[0].screenX;
+            touchStartY = e.changedTouches[0].screenY;
+        }, { passive: true });
+
+        document.addEventListener('touchend', (e) => {
+            touchEndX = e.changedTouches[0].screenX;
+            touchEndY = e.changedTouches[0].screenY;
+            handleSwipe();
+        }, { passive: true });
+
+        function handleSwipe() {
+            const deltaX = touchEndX - touchStartX;
+            const deltaY = touchEndY - touchStartY;
+            const absDeltaX = Math.abs(deltaX);
+            const absDeltaY = Math.abs(deltaY);
+
+            // Only trigger if swipe distance is significant
+            if (Math.max(absDeltaX, absDeltaY) < minSwipeDistance) return;
+
+            // Determine if horizontal or vertical swipe
+            if (absDeltaY > absDeltaX) {
+                // Vertical swipe - down to reveal
+                if (deltaY > 0) {
+                    toggleReveal();
+                }
+            } else {
+                // Horizontal swipe
+                if (deltaX > 0) {
+                    // Swipe right = previous
+                    goToPrevious();
+                } else {
+                    // Swipe left = next
+                    goToNext();
+                }
+            }
+        }
     </script>
 </body>
 </html>
