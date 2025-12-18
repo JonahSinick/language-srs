@@ -1,0 +1,435 @@
+[
+  {
+    "start": "00:45",
+    "end": "00:55",
+    "text": "おい油断するでないぞ",
+    "audio_file": "clip_000.mp3",
+    "translation": "Hey, don't let your guard down!",
+    "vocabulary": [
+      {"word": "おい", "reading": "おい", "meaning": "hey (rough, masculine interjection)"},
+      {"word": "油断", "reading": "ゆだん", "meaning": "negligence, carelessness, letting one's guard down"},
+      {"word": "する", "reading": "する", "meaning": "to do"},
+      {"word": "でない", "reading": "でない", "meaning": "don't (archaic prohibition form)"},
+      {"word": "ぞ", "reading": "ぞ", "meaning": "emphatic sentence-ending particle (masculine/assertive)"}
+    ],
+    "grammar": "するでない is Weiss's archaic speech pattern for するな (don't do). This classical prohibition form (~でない) is characteristic of his old-fashioned, literary way of speaking. Compare to modern ~するな or ~しないで."
+  },
+  {
+    "start": "00:56",
+    "end": "03:10",
+    "text": "言うまでもなかったな",
+    "audio_file": "clip_001.mp3",
+    "translation": "That went without saying, huh.",
+    "vocabulary": [
+      {"word": "言う", "reading": "いう", "meaning": "to say"},
+      {"word": "まで", "reading": "まで", "meaning": "until, to the extent of"},
+      {"word": "も", "reading": "も", "meaning": "even"},
+      {"word": "ない", "reading": "ない", "meaning": "not exist, unnecessary"},
+      {"word": "な", "reading": "な", "meaning": "sentence-ending particle (reflection, seeking agreement)"}
+    ],
+    "grammar": "言うまでもない is a set expression meaning 'it goes without saying' or 'needless to say'. The past tense 言うまでもなかった indicates 'it turned out to be unnecessary to say' - Weiss acknowledging the protagonist handled the situation without needing his warning.",
+    "idiom": "言うまでもない - literally 'there's no need to say it', meaning something is obvious or self-evident."
+  },
+  {
+    "start": "03:11",
+    "end": "03:15",
+    "text": "犠牲者がまた増えたようだな",
+    "audio_file": "clip_002.mp3",
+    "translation": "It seems there are more victims again.",
+    "vocabulary": [
+      {"word": "犠牲者", "reading": "ぎせいしゃ", "meaning": "victim, casualty, sacrifice"},
+      {"word": "が", "reading": "が", "meaning": "subject marker particle"},
+      {"word": "また", "reading": "また", "meaning": "again, once more"},
+      {"word": "増えた", "reading": "ふえた", "meaning": "increased (past tense of 増える)"},
+      {"word": "ようだ", "reading": "ようだ", "meaning": "it seems, it appears (conjecture based on observation)"},
+      {"word": "な", "reading": "な", "meaning": "sentence-ending particle (masculine, reflective)"}
+    ],
+    "grammar": "ようだ expresses conjecture based on what the speaker has observed or perceived. Here it indicates the speaker is inferring the increase in victims from the scene before them."
+  },
+  {
+    "start": "03:16",
+    "end": "03:18",
+    "text": "次から次へと",
+    "audio_file": "clip_003.mp3",
+    "translation": "One after another...",
+    "vocabulary": [
+      {"word": "次", "reading": "つぎ", "meaning": "next"},
+      {"word": "から", "reading": "から", "meaning": "from"},
+      {"word": "へ", "reading": "へ", "meaning": "to, toward"},
+      {"word": "と", "reading": "と", "meaning": "and (quotative/manner particle)"}
+    ],
+    "grammar": "次から次へと is a set expression indicating continuous succession - 'one after another' or 'in endless succession'. The incomplete sentence trails off, implying frustration or resignation about the endless stream of victims.",
+    "idiom": "次から次へと - expresses that things keep happening in rapid, unending succession. Often used to express being overwhelmed."
+  },
+  {
+    "start": "03:25",
+    "end": "03:29",
+    "text": "ここは危険だ / 戻ろう",
+    "audio_file": "clip_004.mp3",
+    "translation": "It's dangerous here. / Let's go back.",
+    "vocabulary": [
+      {"word": "ここ", "reading": "ここ", "meaning": "here, this place"},
+      {"word": "は", "reading": "は", "meaning": "topic marker particle"},
+      {"word": "危険", "reading": "きけん", "meaning": "danger, dangerous, hazardous"},
+      {"word": "だ", "reading": "だ", "meaning": "copula (is)"},
+      {"word": "戻ろう", "reading": "もどろう", "meaning": "let's return (volitional form of 戻る)"}
+    ],
+    "grammar": "戻ろう is the volitional form of 戻る (to return), used to suggest or propose an action to others - 'let's go back'. The volitional form (~おう/~よう) is used for suggestions, invitations, or expressing one's own intention."
+  },
+  {
+    "start": "03:37",
+    "end": "03:44",
+    "text": "村の中に魔物が入ってくるなんて / しかも甲冑まで着込んでおる",
+    "audio_file": "clip_005.mp3",
+    "translation": "To think Shades would enter the village... / And they're even wearing armor.",
+    "vocabulary": [
+      {"word": "村", "reading": "むら", "meaning": "village"},
+      {"word": "の中に", "reading": "のなかに", "meaning": "inside of, into"},
+      {"word": "魔物", "reading": "まもの", "meaning": "monster, demon, Shade"},
+      {"word": "入ってくる", "reading": "はいってくる", "meaning": "to come in, to enter (toward the speaker)"},
+      {"word": "なんて", "reading": "なんて", "meaning": "such a thing as, to think that (surprise/disbelief)"},
+      {"word": "しかも", "reading": "しかも", "meaning": "moreover, what's more, furthermore"},
+      {"word": "甲冑", "reading": "かっちゅう", "meaning": "armor, suit of armor"},
+      {"word": "まで", "reading": "まで", "meaning": "even (emphasizing extremity)"},
+      {"word": "着込む", "reading": "きこむ", "meaning": "to wear heavily, to put on (multiple layers)"},
+      {"word": "おる", "reading": "おる", "meaning": "to be, to exist (archaic/dialectal for いる)"}
+    ],
+    "grammar": "おる is Weiss's archaic speech pattern, equivalent to modern いる. Combined with ~ている, it becomes ~ておる. なんて expresses surprise or disbelief at an unexpected situation. まで here means 'even' - emphasizing that the Shades are going so far as to wear armor."
+  },
+  {
+    "start": "03:44",
+    "end": "03:47",
+    "text": "お前の村も変わったな",
+    "audio_file": "clip_006.mp3",
+    "translation": "Your village has changed too.",
+    "vocabulary": [
+      {"word": "お前", "reading": "おまえ", "meaning": "you (informal, can be rough or intimate)"},
+      {"word": "の", "reading": "の", "meaning": "possessive particle"},
+      {"word": "村", "reading": "むら", "meaning": "village"},
+      {"word": "も", "reading": "も", "meaning": "also, too"},
+      {"word": "変わった", "reading": "かわった", "meaning": "changed (past tense of 変わる)"},
+      {"word": "な", "reading": "な", "meaning": "sentence-ending particle (reflection, mild emphasis)"}
+    ],
+    "grammar": "The particle も (too/also) implies that other things besides the village have changed over the 5 years, or that the village has changed along with the rest of the world."
+  },
+  {
+    "start": "03:48",
+    "end": "03:53",
+    "text": "魔王のせいだ / もう5年か",
+    "audio_file": "clip_007.mp3",
+    "translation": "It's the Shadowlord's fault. / It's already been 5 years, huh.",
+    "vocabulary": [
+      {"word": "魔王", "reading": "まおう", "meaning": "demon king, Shadowlord"},
+      {"word": "の", "reading": "の", "meaning": "possessive particle"},
+      {"word": "せい", "reading": "せい", "meaning": "fault, cause, because of"},
+      {"word": "だ", "reading": "だ", "meaning": "copula (is)"},
+      {"word": "もう", "reading": "もう", "meaning": "already, by now"},
+      {"word": "5年", "reading": "ごねん", "meaning": "5 years"},
+      {"word": "か", "reading": "か", "meaning": "question/reflection particle"}
+    ],
+    "grammar": "~のせいだ is used to attribute blame or cause to something/someone - 'it's because of ~' or 'it's ~'s fault'. The final か with falling intonation expresses reflection or realization rather than a question.",
+    "idiom": "~のせい - used to assign blame or causation, often with negative connotations. Contrast with ~のおかげ which is used for positive outcomes."
+  },
+  {
+    "start": "03:56",
+    "end": "04:00",
+    "text": "妹のヨナが連れ去られてから5年",
+    "audio_file": "clip_008.mp3",
+    "translation": "It's been 5 years since my sister Yonah was taken away.",
+    "vocabulary": [
+      {"word": "妹", "reading": "いもうと", "meaning": "younger sister"},
+      {"word": "の", "reading": "の", "meaning": "possessive/explanatory particle"},
+      {"word": "ヨナ", "reading": "ヨナ", "meaning": "Yonah (character name)"},
+      {"word": "が", "reading": "が", "meaning": "subject marker"},
+      {"word": "連れ去る", "reading": "つれさる", "meaning": "to take away, to abduct"},
+      {"word": "連れ去られて", "reading": "つれさられて", "meaning": "was taken away (passive te-form)"},
+      {"word": "から", "reading": "から", "meaning": "since, from"},
+      {"word": "5年", "reading": "ごねん", "meaning": "5 years"}
+    ],
+    "grammar": "連れ去られる is the passive form of 連れ去る (to take away). The passive here emphasizes Yonah as the victim of the action. ~てから indicates the starting point in time - 'since (something happened)'."
+  },
+  {
+    "start": "04:01",
+    "end": "04:08",
+    "text": "魔王を探し続けているが / 未だ足取りがつかめないままだ",
+    "audio_file": "clip_009.mp3",
+    "translation": "I've been searching for the Shadowlord, but / I still can't find any trace of him.",
+    "vocabulary": [
+      {"word": "魔王", "reading": "まおう", "meaning": "demon king, Shadowlord"},
+      {"word": "を", "reading": "を", "meaning": "object marker particle"},
+      {"word": "探す", "reading": "さがす", "meaning": "to search for, to look for"},
+      {"word": "続ける", "reading": "つづける", "meaning": "to continue"},
+      {"word": "探し続けている", "reading": "さがしつづけている", "meaning": "have been continuously searching"},
+      {"word": "が", "reading": "が", "meaning": "but, however"},
+      {"word": "未だ", "reading": "いまだ", "meaning": "still, yet, as of now"},
+      {"word": "足取り", "reading": "あしどり", "meaning": "footsteps, trail, trace, whereabouts"},
+      {"word": "つかめない", "reading": "つかめない", "meaning": "cannot grasp, cannot catch"},
+      {"word": "まま", "reading": "まま", "meaning": "as is, remaining in that state"}
+    ],
+    "grammar": "~続けている indicates an action that has been continuing over a period of time. ~ないまま means 'remaining in a state of not (doing something)' - here, remaining unable to find any trace. 未だ (still/yet) emphasizes the ongoing nature of this failure.",
+    "idiom": "足取りをつかむ - literally 'to grasp (someone's) footsteps', meaning to find a trace or clue about someone's whereabouts."
+  },
+  {
+    "start": "04:08",
+    "end": "04:14",
+    "text": "5年の間に世界は荒廃し、黒紋病で死ぬ人々も増えてきた。",
+    "audio_file": "clip_010.mp3",
+    "translation": "In these 5 years, the world has become desolate, and more people are dying from the Black Scrawl.",
+    "vocabulary": [
+      {"word": "5年", "reading": "ごねん", "meaning": "5 years"},
+      {"word": "の間に", "reading": "のあいだに", "meaning": "during, in the period of"},
+      {"word": "世界", "reading": "せかい", "meaning": "world"},
+      {"word": "は", "reading": "は", "meaning": "topic marker"},
+      {"word": "荒廃", "reading": "こうはい", "meaning": "ruin, devastation, desolation"},
+      {"word": "荒廃し", "reading": "こうはいし", "meaning": "became desolate (し-form of する)"},
+      {"word": "黒紋病", "reading": "こくもんびょう", "meaning": "Black Scrawl (the disease in NieR)"},
+      {"word": "で", "reading": "で", "meaning": "by means of, due to"},
+      {"word": "死ぬ", "reading": "しぬ", "meaning": "to die"},
+      {"word": "人々", "reading": "ひとびと", "meaning": "people"},
+      {"word": "増えてきた", "reading": "ふえてきた", "meaning": "have been increasing (change over time)"}
+    ],
+    "grammar": "~てきた indicates a change that has been progressing up to the present - 'have been (increasingly) ~ing'. 荒廃する is a suru-verb meaning 'to fall into ruin'. The ~し form connects two clauses."
+  },
+  {
+    "start": "04:15",
+    "end": "04:19",
+    "text": "そして俺は魔物を狩り続ける日々を過ごしている。",
+    "audio_file": "clip_011.mp3",
+    "translation": "And I spend my days continuing to hunt Shades.",
+    "vocabulary": [
+      {"word": "そして", "reading": "そして", "meaning": "and, and then"},
+      {"word": "俺", "reading": "おれ", "meaning": "I (masculine, casual/rough)"},
+      {"word": "は", "reading": "は", "meaning": "topic marker"},
+      {"word": "魔物", "reading": "まもの", "meaning": "monster, demon, Shade"},
+      {"word": "を", "reading": "を", "meaning": "object marker"},
+      {"word": "狩る", "reading": "かる", "meaning": "to hunt"},
+      {"word": "狩り続ける", "reading": "かりつづける", "meaning": "to continue hunting"},
+      {"word": "日々", "reading": "ひび", "meaning": "days, daily life, every day"},
+      {"word": "過ごす", "reading": "すごす", "meaning": "to spend (time), to pass (days)"},
+      {"word": "過ごしている", "reading": "すごしている", "meaning": "am spending (continuous state)"}
+    ],
+    "grammar": "日々を過ごす means 'to spend one's days'. The structure '~する日々を過ごしている' describes spending days doing something - here, days of continuously hunting Shades."
+  },
+  {
+    "start": "04:20",
+    "end": "04:27",
+    "text": "その戦いがいつか魔王に繋がることを信じている。",
+    "audio_file": "clip_012.mp3",
+    "translation": "I believe that this battle will someday lead me to the Shadowlord.",
+    "vocabulary": [
+      {"word": "その", "reading": "その", "meaning": "that, those"},
+      {"word": "戦い", "reading": "たたかい", "meaning": "battle, fight, struggle"},
+      {"word": "が", "reading": "が", "meaning": "subject marker"},
+      {"word": "いつか", "reading": "いつか", "meaning": "someday, sometime"},
+      {"word": "魔王", "reading": "まおう", "meaning": "demon king, Shadowlord"},
+      {"word": "に", "reading": "に", "meaning": "to, toward"},
+      {"word": "繋がる", "reading": "つながる", "meaning": "to connect, to lead to, to be linked"},
+      {"word": "こと", "reading": "こと", "meaning": "thing, fact (nominalizer)"},
+      {"word": "を", "reading": "を", "meaning": "object marker"},
+      {"word": "信じる", "reading": "しんじる", "meaning": "to believe"},
+      {"word": "信じている", "reading": "しんじている", "meaning": "believe (ongoing state)"}
+    ],
+    "grammar": "~ことを信じている means 'to believe that ~'. The nominalizer こと turns the clause 'その戦いがいつか魔王に繋がる' into a noun phrase that can be the object of 信じる."
+  },
+  {
+    "start": "04:31",
+    "end": "04:34",
+    "text": "ポポルが呼んでおるのだろう。",
+    "audio_file": "clip_013.mp3",
+    "translation": "Popola is probably calling for you.",
+    "vocabulary": [
+      {"word": "ポポル", "reading": "ポポル", "meaning": "Popola (character name)"},
+      {"word": "が", "reading": "が", "meaning": "subject marker"},
+      {"word": "呼ぶ", "reading": "よぶ", "meaning": "to call, to summon"},
+      {"word": "呼んで", "reading": "よんで", "meaning": "calling (te-form)"},
+      {"word": "おる", "reading": "おる", "meaning": "to be (archaic form of いる)"},
+      {"word": "の", "reading": "の", "meaning": "explanatory particle (のだ)"},
+      {"word": "だろう", "reading": "だろう", "meaning": "probably, I suppose"}
+    ],
+    "grammar": "おる is Weiss's archaic speech for いる. 呼んでおる = 呼んでいる (is calling). のだろう combines the explanatory の with だろう (probability), giving 'it's probably the case that...'."
+  },
+  {
+    "start": "04:35",
+    "end": "04:37",
+    "text": "ああ。",
+    "audio_file": "clip_014.mp3",
+    "translation": "Yeah.",
+    "vocabulary": [
+      {"word": "ああ", "reading": "ああ", "meaning": "yeah, uh-huh, I see (agreement/acknowledgment)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:49",
+    "end": "05:00",
+    "text": "Субтитры создавал DimaTorzok",
+    "audio_file": "clip_015.mp3",
+    "translation": "(Subtitle credit - transcription artifact)",
+    "vocabulary": [],
+    "grammar": "This is Russian text meaning 'Subtitles created by DimaTorzok' - a transcription artifact from the video source, not actual Japanese dialogue."
+  },
+  {
+    "start": "05:21",
+    "end": "05:25",
+    "text": "また背が伸びたんじゃない? / そうかな",
+    "audio_file": "clip_016.mp3",
+    "translation": "Haven't you grown taller again? / You think so?",
+    "vocabulary": [
+      {"word": "また", "reading": "また", "meaning": "again, once more"},
+      {"word": "背", "reading": "せ", "meaning": "height, stature, back"},
+      {"word": "が", "reading": "が", "meaning": "subject marker"},
+      {"word": "伸びる", "reading": "のびる", "meaning": "to grow, to extend, to stretch"},
+      {"word": "伸びた", "reading": "のびた", "meaning": "grew (past tense)"},
+      {"word": "んじゃない", "reading": "んじゃない", "meaning": "isn't it? haven't you? (seeking confirmation)"},
+      {"word": "そうかな", "reading": "そうかな", "meaning": "is that so? I wonder, you think?"}
+    ],
+    "grammar": "背が伸びる means 'to grow taller' (literally 'height extends'). んじゃない (= のではない) with rising intonation seeks confirmation - 'isn't it that...?' or 'haven't you...?'. そうかな expresses doubt or uncertainty about what was said.",
+    "idiom": "背が伸びる - the standard expression for growing taller, used especially for children and adolescents."
+  },
+  {
+    "start": "05:25",
+    "end": "05:31",
+    "text": "自分ではあまり感じないけど / ポポルさんはちっとも変わらないんだな",
+    "audio_file": "clip_017.mp3",
+    "translation": "I don't really feel it myself, but... / You haven't changed at all, Popola.",
+    "vocabulary": [
+      {"word": "自分", "reading": "じぶん", "meaning": "oneself, myself"},
+      {"word": "では", "reading": "では", "meaning": "in (the case of), as for"},
+      {"word": "あまり", "reading": "あまり", "meaning": "not really, not very (with negative)"},
+      {"word": "感じる", "reading": "かんじる", "meaning": "to feel, to sense"},
+      {"word": "感じない", "reading": "かんじない", "meaning": "don't feel"},
+      {"word": "けど", "reading": "けど", "meaning": "but, although"},
+      {"word": "ポポル", "reading": "ポポル", "meaning": "Popola (character name)"},
+      {"word": "さん", "reading": "さん", "meaning": "honorific suffix (Mr./Ms.)"},
+      {"word": "ちっとも", "reading": "ちっとも", "meaning": "not at all, not in the least (with negative)"},
+      {"word": "変わらない", "reading": "かわらない", "meaning": "don't change, unchanged"},
+      {"word": "んだな", "reading": "んだな", "meaning": "it is that... (explanatory + reflection)"}
+    ],
+    "grammar": "自分では means 'as far as I myself am concerned'. ちっとも~ない is an emphatic negative meaning 'not at all' or 'not in the slightest'. あまり~ない means 'not very' or 'not really'."
+  },
+  {
+    "start": "05:31",
+    "end": "05:38",
+    "text": "お世辞も成長したじゃないの / 本当に昔から印象がずっと変わらなくて",
+    "audio_file": "clip_018.mp3",
+    "translation": "Your flattery has grown too, hasn't it? / Really, my impression of you hasn't changed at all since back then.",
+    "vocabulary": [
+      {"word": "お世辞", "reading": "おせじ", "meaning": "flattery, compliment"},
+      {"word": "も", "reading": "も", "meaning": "also, too"},
+      {"word": "成長", "reading": "せいちょう", "meaning": "growth, development, maturation"},
+      {"word": "成長した", "reading": "せいちょうした", "meaning": "grew, matured"},
+      {"word": "じゃないの", "reading": "じゃないの", "meaning": "isn't it? haven't you? (feminine, seeking agreement)"},
+      {"word": "本当に", "reading": "ほんとうに", "meaning": "really, truly"},
+      {"word": "昔", "reading": "むかし", "meaning": "the past, long ago, old times"},
+      {"word": "から", "reading": "から", "meaning": "from, since"},
+      {"word": "印象", "reading": "いんしょう", "meaning": "impression"},
+      {"word": "ずっと", "reading": "ずっと", "meaning": "continuously, all along, by far"},
+      {"word": "変わらなくて", "reading": "かわらなくて", "meaning": "not changing (te-form, continuing)"}
+    ],
+    "grammar": "じゃないの is a feminine sentence-ending seeking confirmation, softer than じゃないか. 昔から means 'since long ago/the old days'. The second part is Nier's genuine response - he's not flattering her, she really hasn't changed (foreshadowing her nature as an android)."
+  },
+  {
+    "start": "05:38",
+    "end": "05:41",
+    "text": "はいはいもういいから",
+    "audio_file": "clip_019.mp3",
+    "translation": "Okay, okay, that's enough.",
+    "vocabulary": [
+      {"word": "はいはい", "reading": "はいはい", "meaning": "yeah, yeah (dismissive acknowledgment)"},
+      {"word": "もう", "reading": "もう", "meaning": "already, now"},
+      {"word": "いい", "reading": "いい", "meaning": "good, fine, enough"},
+      {"word": "から", "reading": "から", "meaning": "because, so (sentence connector)"}
+    ],
+    "grammar": "はいはい said quickly is dismissive, indicating wanting to move on from the topic. もういい literally 'already good' means 'that's enough' or 'I've had enough'. から at the end softens the dismissal.",
+    "idiom": "もういい - can mean 'that's enough' (stop), 'I'm fine' (declining an offer), or 'forget it' depending on context. Here Popola uses it to deflect the compliment."
+  },
+  {
+    "start": "05:42",
+    "end": "05:44",
+    "text": "エミール君からよ",
+    "audio_file": "clip_020.mp3",
+    "translation": "It's from Emil.",
+    "vocabulary": [
+      {"word": "エミール", "reading": "エミール", "meaning": "Emil (character name)"},
+      {"word": "君", "reading": "くん", "meaning": "honorific suffix for young males or subordinates"},
+      {"word": "から", "reading": "から", "meaning": "from"},
+      {"word": "よ", "reading": "よ", "meaning": "sentence-ending particle (emphasis, feminine)"}
+    ],
+    "grammar": "から here indicates the source - 'from Emil'. The sentence implies an understood noun (a letter or message). よ adds feminine emphasis."
+  },
+  {
+    "start": "05:54",
+    "end": "05:58",
+    "text": "石化解除の可能性が出てきたな",
+    "audio_file": "clip_021.mp3",
+    "translation": "It seems there's now a possibility of reversing the petrification.",
+    "vocabulary": [
+      {"word": "石化", "reading": "せきか", "meaning": "petrification, turning to stone"},
+      {"word": "解除", "reading": "かいじょ", "meaning": "cancellation, removal, lifting, release"},
+      {"word": "の", "reading": "の", "meaning": "possessive/connecting particle"},
+      {"word": "可能性", "reading": "かのうせい", "meaning": "possibility, potential"},
+      {"word": "が", "reading": "が", "meaning": "subject marker"},
+      {"word": "出てくる", "reading": "でてくる", "meaning": "to come out, to emerge, to appear"},
+      {"word": "出てきた", "reading": "でてきた", "meaning": "has emerged, has appeared"},
+      {"word": "な", "reading": "な", "meaning": "sentence-ending particle (reflection)"}
+    ],
+    "grammar": "~が出てきた indicates that something has emerged or come to light. 石化解除 is a compound noun: 石化 (petrification) + 解除 (removal/lifting). This refers to the possibility of curing Kaine's petrification."
+  },
+  {
+    "start": "05:59",
+    "end": "06:05",
+    "text": "これでカイネが / また村を離れてしまうのね",
+    "audio_file": "clip_022.mp3",
+    "translation": "So with this, you'll be leaving the village again because of Kaine...",
+    "vocabulary": [
+      {"word": "これで", "reading": "これで", "meaning": "with this, by this, now that"},
+      {"word": "カイネ", "reading": "カイネ", "meaning": "Kaine (character name)"},
+      {"word": "が", "reading": "が", "meaning": "subject marker (here: because of)"},
+      {"word": "また", "reading": "また", "meaning": "again"},
+      {"word": "村", "reading": "むら", "meaning": "village"},
+      {"word": "を", "reading": "を", "meaning": "object marker"},
+      {"word": "離れる", "reading": "はなれる", "meaning": "to leave, to separate from, to be apart"},
+      {"word": "離れて", "reading": "はなれて", "meaning": "leaving (te-form)"},
+      {"word": "しまう", "reading": "しまう", "meaning": "to end up doing (often with regret)"},
+      {"word": "のね", "reading": "のね", "meaning": "isn't it, right? (feminine, seeking confirmation with nuance of resignation)"}
+    ],
+    "grammar": "~てしまう indicates completion of an action, often with a sense of regret or that something unfortunate has happened. のね is a feminine sentence ending combining の (explanatory) with ね (seeking agreement), here expressing resigned acceptance."
+  },
+  {
+    "start": "06:05",
+    "end": "06:09",
+    "text": "村が魔物の脅威にさらされてるのにすみません",
+    "audio_file": "clip_023.mp3",
+    "translation": "I'm sorry, even though the village is exposed to the Shade threat...",
+    "vocabulary": [
+      {"word": "村", "reading": "むら", "meaning": "village"},
+      {"word": "が", "reading": "が", "meaning": "subject marker"},
+      {"word": "魔物", "reading": "まもの", "meaning": "monster, demon, Shade"},
+      {"word": "の", "reading": "の", "meaning": "possessive particle"},
+      {"word": "脅威", "reading": "きょうい", "meaning": "threat, menace"},
+      {"word": "に", "reading": "に", "meaning": "to, by (passive agent marker)"},
+      {"word": "さらす", "reading": "さらす", "meaning": "to expose, to subject to"},
+      {"word": "さらされてる", "reading": "さらされてる", "meaning": "is being exposed (casual passive progressive)"},
+      {"word": "のに", "reading": "のに", "meaning": "even though, despite, although"},
+      {"word": "すみません", "reading": "すみません", "meaning": "I'm sorry, excuse me"}
+    ],
+    "grammar": "さらされている is the passive progressive of さらす (to expose) - 'is being exposed to'. さらされてる is the casual contraction. のに expresses contrast or concession - apologizing for leaving despite the village being in danger."
+  },
+  {
+    "start": "06:10",
+    "end": "06:15",
+    "text": "ううん分かってる / 行ってらっしゃい気をつけて",
+    "audio_file": "clip_024.mp3",
+    "translation": "No, I understand. / Take care and have a safe trip.",
+    "vocabulary": [
+      {"word": "ううん", "reading": "ううん", "meaning": "no, uh-uh (casual negative)"},
+      {"word": "分かる", "reading": "わかる", "meaning": "to understand"},
+      {"word": "分かってる", "reading": "わかってる", "meaning": "I understand (casual progressive)"},
+      {"word": "行ってらっしゃい", "reading": "いってらっしゃい", "meaning": "have a good trip (farewell to someone leaving)"},
+      {"word": "気をつける", "reading": "きをつける", "meaning": "to be careful, to take care"},
+      {"word": "気をつけて", "reading": "きをつけて", "meaning": "take care, be careful (te-form as request)"}
+    ],
+    "grammar": "ううん is a casual way to say 'no' - here Popola is saying 'don't apologize'. 行ってらっしゃい (polite form of 行ってきなさい) is the standard farewell when someone leaves home, implying they will return. 気をつけて is the te-form used as a gentle request/wish.",
+    "idiom": "行ってらっしゃい - the standard phrase said to someone leaving home (paired with 行ってきます from the person leaving). 気をつけて - 'take care' or 'be careful', commonly used when parting."
+  }
+]

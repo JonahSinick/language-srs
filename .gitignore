@@ -18,5 +18,8 @@ source_media/
 /segments.json
 
 # Temporarily exclude most nier sections for faster upload
-nier/1*/
+nier/16_*/
+nier/17_*/
+nier/18_*/
+nier/19_*/
 nier/2*/
