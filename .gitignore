@@ -17,10 +17,7 @@ source_media/
 /data.json
 /segments.json
 
-# Temporarily exclude most nier sections for faster test upload
-nier/01_*/
-nier/02_*/
-nier/03_*/
+# Temporarily exclude most nier sections for faster upload
 nier/04_*/
 nier/05_*/
 nier/06_*/
