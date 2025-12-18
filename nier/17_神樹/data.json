@@ -1,0 +1,312 @@
+[
+  {
+    "start": "00:07",
+    "end": "00:11",
+    "text": "あの悪夢はもう見たくないものだが…",
+    "audio_file": "clip_000.mp3",
+    "translation": "I don't want to see that nightmare again, but...",
+    "vocabulary": [
+      {"word": "あの", "reading": "あの", "meaning": "that (over there, known to both speaker and listener)"},
+      {"word": "悪夢", "reading": "あくむ", "meaning": "nightmare"},
+      {"word": "もう", "reading": "もう", "meaning": "anymore, already, now"},
+      {"word": "見る", "reading": "みる", "meaning": "to see, to watch"},
+      {"word": "ものだ", "reading": "ものだ", "meaning": "expresses natural feeling or general truth"}
+    ],
+    "grammar": "~たくない is the negative desire form ('don't want to ~'). ものだ at the end expresses a natural feeling or sentiment. が at the end creates a trailing conjunction suggesting there's more to say."
+  },
+  {
+    "start": "00:12",
+    "end": "00:15",
+    "text": "ああ…",
+    "audio_file": "clip_001.mp3",
+    "translation": "Ah...",
+    "vocabulary": [
+      {"word": "ああ", "reading": "ああ", "meaning": "ah, oh (interjection expressing realization or emotion)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:16",
+    "end": "00:20",
+    "text": "ああ、あなた方ですか? / え?",
+    "audio_file": "clip_002.mp3",
+    "translation": "Oh, is it you folks? / Huh?",
+    "vocabulary": [
+      {"word": "ああ", "reading": "ああ", "meaning": "oh, ah (interjection of recognition)"},
+      {"word": "あなた方", "reading": "あなたがた", "meaning": "you (plural, polite form)"},
+      {"word": "え", "reading": "え", "meaning": "huh? what? (expression of surprise or confusion)"}
+    ],
+    "grammar": "あなた方 is a polite plural form of 'you', using the suffix 方 (がた) which is more respectful than 達 (たち)."
+  },
+  {
+    "start": "00:21",
+    "end": "00:26",
+    "text": "最近変わったこと? / うーん…",
+    "audio_file": "clip_003.mp3",
+    "translation": "Anything changed recently? / Hmm...",
+    "vocabulary": [
+      {"word": "最近", "reading": "さいきん", "meaning": "recently, lately"},
+      {"word": "変わる", "reading": "かわる", "meaning": "to change (intransitive)"},
+      {"word": "こと", "reading": "こと", "meaning": "thing, matter, fact"},
+      {"word": "うーん", "reading": "うーん", "meaning": "hmm (thinking sound)"}
+    ],
+    "grammar": "変わったこと uses the past tense of 変わる as an adjective modifying こと, meaning 'a thing that has changed' or 'something different'. This is an incomplete question (the verb is omitted)."
+  },
+  {
+    "start": "00:27",
+    "end": "00:31",
+    "text": "神の木から変な気配がするんですよね",
+    "audio_file": "clip_004.mp3",
+    "translation": "There's a strange presence coming from the Divine Tree, you know.",
+    "vocabulary": [
+      {"word": "神", "reading": "かみ", "meaning": "god, deity, divine"},
+      {"word": "木", "reading": "き", "meaning": "tree"},
+      {"word": "神の木", "reading": "かみのき", "meaning": "Divine Tree, Sacred Tree"},
+      {"word": "変な", "reading": "へんな", "meaning": "strange, weird, odd"},
+      {"word": "気配", "reading": "けはい", "meaning": "sign, indication, presence, hint"},
+      {"word": "する", "reading": "する", "meaning": "to sense, to feel (when used with sensory nouns)"}
+    ],
+    "grammar": "気配がする is a set phrase meaning 'to sense a presence' or 'there is a sign of'. ~んですよね combines explanatory の (んです) with よ (assertion) and ね (seeking agreement), creating a conversational tone that invites the listener to agree."
+  },
+  {
+    "start": "00:32",
+    "end": "00:36",
+    "text": "神の木?",
+    "audio_file": "clip_005.mp3",
+    "translation": "The Divine Tree?",
+    "vocabulary": [
+      {"word": "神の木", "reading": "かみのき", "meaning": "Divine Tree, Sacred Tree"}
+    ],
+    "grammar": "Simple echo question showing curiosity or seeking confirmation."
+  },
+  {
+    "start": "00:37",
+    "end": "00:42",
+    "text": "ええ… / その妙な気配は調べたのか",
+    "audio_file": "clip_006.mp3",
+    "translation": "Yes... / Did you investigate that strange presence?",
+    "vocabulary": [
+      {"word": "ええ", "reading": "ええ", "meaning": "yes (polite/soft affirmation)"},
+      {"word": "その", "reading": "その", "meaning": "that (near the listener)"},
+      {"word": "妙な", "reading": "みょうな", "meaning": "strange, peculiar, mysterious"},
+      {"word": "気配", "reading": "けはい", "meaning": "presence, sign, indication"},
+      {"word": "調べる", "reading": "しらべる", "meaning": "to investigate, to examine, to check"}
+    ],
+    "grammar": "のか is a question marker that adds an explanatory or slightly demanding tone. Weiss uses this direct questioning style. 妙な is slightly more literary than 変な for 'strange'."
+  },
+  {
+    "start": "00:43",
+    "end": "00:47",
+    "text": "いいえ / なぜ調べぬ",
+    "audio_file": "clip_007.mp3",
+    "translation": "No. / Why don't you investigate?",
+    "vocabulary": [
+      {"word": "いいえ", "reading": "いいえ", "meaning": "no (polite)"},
+      {"word": "なぜ", "reading": "なぜ", "meaning": "why"},
+      {"word": "調べる", "reading": "しらべる", "meaning": "to investigate, to examine"}
+    ],
+    "grammar": "調べぬ is Weiss's archaic speech. ~ぬ is the classical Japanese negative form, equivalent to modern ~ない. So 調べぬ = 調べない (don't investigate). This archaic form characterizes Weiss's formal, old-fashioned manner of speaking."
+  },
+  {
+    "start": "00:48",
+    "end": "00:51",
+    "text": "近寄ってはいけないことになっているので",
+    "audio_file": "clip_008.mp3",
+    "translation": "Because we're not supposed to go near it.",
+    "vocabulary": [
+      {"word": "近寄る", "reading": "ちかよる", "meaning": "to approach, to come near, to get close"},
+      {"word": "いけない", "reading": "いけない", "meaning": "must not, not allowed"},
+      {"word": "ことになっている", "reading": "ことになっている", "meaning": "it has been decided that, it is the rule that"},
+      {"word": "ので", "reading": "ので", "meaning": "because, since (polite reason)"}
+    ],
+    "grammar": "~てはいけない means 'must not do ~'. ~ことになっている indicates an established rule or decision (often made by others or society). Together, ~てはいけないことになっている means 'it has been established that one must not do ~'."
+  },
+  {
+    "start": "00:52",
+    "end": "00:58",
+    "text": "なぜ近寄ってはいけないのだ / さあなぜかはよくわからないです",
+    "audio_file": "clip_009.mp3",
+    "translation": "Why are you not allowed to go near it? / Well, I don't really know why.",
+    "vocabulary": [
+      {"word": "なぜ", "reading": "なぜ", "meaning": "why"},
+      {"word": "近寄る", "reading": "ちかよる", "meaning": "to approach, to get close"},
+      {"word": "さあ", "reading": "さあ", "meaning": "well, let me see (expressing uncertainty)"},
+      {"word": "なぜか", "reading": "なぜか", "meaning": "for some reason, somehow"},
+      {"word": "よく", "reading": "よく", "meaning": "well (here: clearly, really)"},
+      {"word": "わからない", "reading": "わからない", "meaning": "don't understand, don't know"}
+    ],
+    "grammar": "のだ is an explanatory ending that Weiss uses frequently, giving his speech a formal, somewhat demanding tone. さあ at the start indicates the speaker is uncertain or thinking. よくわからない means 'don't really understand' (よく + negative = not really/well)."
+  },
+  {
+    "start": "00:59",
+    "end": "01:02",
+    "text": "とにかく近寄ってはいけないんです",
+    "audio_file": "clip_010.mp3",
+    "translation": "Anyway, we're not allowed to go near it.",
+    "vocabulary": [
+      {"word": "とにかく", "reading": "とにかく", "meaning": "anyway, at any rate, in any case"},
+      {"word": "近寄る", "reading": "ちかよる", "meaning": "to approach, to get close"},
+      {"word": "いけない", "reading": "いけない", "meaning": "must not, not allowed"}
+    ],
+    "grammar": "とにかく is used to redirect the conversation or emphasize a point regardless of other factors. ~んです adds explanatory emphasis, making the statement feel more like an explanation or justification."
+  },
+  {
+    "start": "01:03",
+    "end": "01:03",
+    "text": "妙な話だ",
+    "audio_file": "clip_011.mp3",
+    "translation": "That's a strange story.",
+    "vocabulary": [
+      {"word": "妙な", "reading": "みょうな", "meaning": "strange, peculiar, mysterious"},
+      {"word": "話", "reading": "はなし", "meaning": "story, tale, talk, matter"}
+    ],
+    "grammar": "A simple declarative statement. 妙な話だ is a common expression meaning 'that's odd/strange' when reacting to something puzzling."
+  },
+  {
+    "start": "01:04",
+    "end": "01:33",
+    "text": "お疲れ様でした",
+    "audio_file": "clip_012.mp3",
+    "translation": "Good work. / Thank you for your efforts.",
+    "vocabulary": [
+      {"word": "お疲れ様", "reading": "おつかれさま", "meaning": "good work, thanks for your hard work"},
+      {"word": "でした", "reading": "でした", "meaning": "was (polite past)"}
+    ],
+    "grammar": "お疲れ様でした is a standard Japanese phrase used to acknowledge someone's efforts, typically said at the end of work or a task. The past tense (でした) indicates the work is complete. This is likely a video/stream closing phrase rather than game dialogue."
+  },
+  {
+    "start": "01:34",
+    "end": "01:36",
+    "text": "最近は",
+    "audio_file": "clip_013.mp3",
+    "translation": "Recently...",
+    "vocabulary": [
+      {"word": "最近", "reading": "さいきん", "meaning": "recently, lately"}
+    ],
+    "grammar": "An incomplete sentence. The topic marker は suggests more was going to be said about recent events, but the sentence trails off or was cut."
+  },
+  {
+    "start": "02:32",
+    "end": "02:33",
+    "text": "ご視聴ありがとうございました",
+    "audio_file": "clip_014.mp3",
+    "translation": "Thank you for watching.",
+    "vocabulary": [
+      {"word": "ご視聴", "reading": "ごしちょう", "meaning": "watching, viewing (honorific)"},
+      {"word": "ありがとうございました", "reading": "ありがとうございました", "meaning": "thank you (polite past)"}
+    ],
+    "grammar": "This is a standard closing phrase for videos/streams, not game dialogue. ご~ is an honorific prefix, and the past tense thanks the viewer for having watched."
+  },
+  {
+    "start": "04:56",
+    "end": "05:18",
+    "text": "아멘",
+    "audio_file": "clip_015.mp3",
+    "translation": "(Transcription error - Korean text 'Amen')",
+    "vocabulary": [],
+    "grammar": "This appears to be a transcription error. The text is Korean, not Japanese."
+  },
+  {
+    "start": "05:19",
+    "end": "06:26",
+    "text": "아멘",
+    "audio_file": "clip_016.mp3",
+    "translation": "(Transcription error - Korean text 'Amen')",
+    "vocabulary": [],
+    "grammar": "This appears to be a transcription error. The text is Korean, not Japanese."
+  },
+  {
+    "start": "06:27",
+    "end": "06:30",
+    "text": "아멘",
+    "audio_file": "clip_017.mp3",
+    "translation": "(Transcription error - Korean text 'Amen')",
+    "vocabulary": [],
+    "grammar": "This appears to be a transcription error. The text is Korean, not Japanese."
+  },
+  {
+    "start": "07:09",
+    "end": "08:29",
+    "text": "Субтитры создавал DimaTorzok",
+    "audio_file": "clip_018.mp3",
+    "translation": "(Subtitle credit - Russian text: 'Subtitles created by DimaTorzok')",
+    "vocabulary": [],
+    "grammar": "This is a Russian subtitle credit, not game dialogue."
+  },
+  {
+    "start": "08:30",
+    "end": "09:15",
+    "text": "Субтитры создавал DimaTorzok",
+    "audio_file": "clip_019.mp3",
+    "translation": "(Subtitle credit - Russian text: 'Subtitles created by DimaTorzok')",
+    "vocabulary": [],
+    "grammar": "This is a Russian subtitle credit, not game dialogue."
+  },
+  {
+    "start": "09:16",
+    "end": "12:01",
+    "text": "¶¶",
+    "audio_file": "clip_020.mp3",
+    "translation": "(Transcription error - symbol characters)",
+    "vocabulary": [],
+    "grammar": "This appears to be a transcription error or placeholder."
+  },
+  {
+    "start": "12:02",
+    "end": "15:38",
+    "text": ".",
+    "audio_file": "clip_021.mp3",
+    "translation": "(Transcription error - single punctuation)",
+    "vocabulary": [],
+    "grammar": "This appears to be a transcription error or placeholder."
+  },
+  {
+    "start": "15:39",
+    "end": "16:03",
+    "text": "このような気分",
+    "audio_file": "clip_022.mp3",
+    "translation": "This kind of feeling...",
+    "vocabulary": [
+      {"word": "この", "reading": "この", "meaning": "this"},
+      {"word": "ような", "reading": "ような", "meaning": "like, such as"},
+      {"word": "このような", "reading": "このような", "meaning": "this kind of, like this"},
+      {"word": "気分", "reading": "きぶん", "meaning": "feeling, mood, disposition"}
+    ],
+    "grammar": "このような is a more formal way to say こんな (this kind of). The sentence appears incomplete, trailing off to express an indefinite feeling."
+  },
+  {
+    "start": "16:04",
+    "end": "16:06",
+    "text": "こんな面倒はもうごめんだ。",
+    "audio_file": "clip_023.mp3",
+    "translation": "I've had enough of this kind of trouble.",
+    "vocabulary": [
+      {"word": "こんな", "reading": "こんな", "meaning": "this kind of, such"},
+      {"word": "面倒", "reading": "めんどう", "meaning": "trouble, bother, hassle"},
+      {"word": "もう", "reading": "もう", "meaning": "already, anymore, now"},
+      {"word": "ごめんだ", "reading": "ごめんだ", "meaning": "I refuse, I've had enough, no way"}
+    ],
+    "grammar": "ごめんだ is a colloquial expression meaning 'I refuse' or 'I've had enough'. It's derived from ごめん (sorry/excuse me) but used here to express strong rejection. もうごめんだ is an idiom meaning 'I'm done with this' or 'I can't take anymore of this'."
+  },
+  {
+    "start": "16:07",
+    "end": "16:17",
+    "text": "あの木を倒したことで、もう文字の世界に埋もれることもあるまに、時間が巻き戻りでもせぬ限りはな。",
+    "audio_file": "clip_024.mp3",
+    "translation": "By felling that tree, we won't be buried in the world of words again... unless time were to somehow rewind.",
+    "vocabulary": [
+      {"word": "あの", "reading": "あの", "meaning": "that (over there)"},
+      {"word": "木", "reading": "き", "meaning": "tree"},
+      {"word": "倒す", "reading": "たおす", "meaning": "to knock down, to fell, to topple"},
+      {"word": "ことで", "reading": "ことで", "meaning": "by doing ~, because of ~"},
+      {"word": "文字", "reading": "もじ", "meaning": "letters, characters, text, writing"},
+      {"word": "世界", "reading": "せかい", "meaning": "world"},
+      {"word": "埋もれる", "reading": "うもれる", "meaning": "to be buried, to be hidden"},
+      {"word": "あるまい", "reading": "あるまい", "meaning": "probably won't be, unlikely to (archaic negative conjecture)"},
+      {"word": "時間", "reading": "じかん", "meaning": "time"},
+      {"word": "巻き戻り", "reading": "まきもどり", "meaning": "rewinding, turning back"},
+      {"word": "限り", "reading": "かぎり", "meaning": "limit; as long as, unless"}
+    ],
+    "grammar": "This line is dense with Weiss's archaic speech patterns: 1) あるまい is classical negative speculation (~まい = probably won't, shouldn't), equivalent to modern ないだろう. 2) せぬ is archaic for しない (don't do), so せぬ限りは means 'unless [it] happens'. 3) でも after 巻き戻り adds a hypothetical sense ('even if/were to'). 4) ~ことで indicates causation ('by doing ~'). The な at the end is a masculine sentence-ending particle expressing reflection or mild assertion."
+  }
+]

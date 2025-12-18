@@ -1,0 +1,888 @@
+[
+  {
+    "start": "00:13",
+    "end": "01:06",
+    "text": "魔物の狼がいるぞ",
+    "audio_file": "clip_000.mp3",
+    "translation": "There are monster wolves!",
+    "vocabulary": [
+      {"word": "魔物", "reading": "まもの", "meaning": "monster, demon, evil creature"},
+      {"word": "狼", "reading": "おおかみ", "meaning": "wolf"},
+      {"word": "いる", "reading": "いる", "meaning": "to exist, to be (for animate beings)"}
+    ],
+    "grammar": "The sentence-final particle ぞ adds emphasis and assertion, typically masculine speech. It conveys urgency or warning here."
+  },
+  {
+    "start": "01:07",
+    "end": "01:09",
+    "text": "フィア!フィア!",
+    "audio_file": "clip_001.mp3",
+    "translation": "Fyra! Fyra!",
+    "vocabulary": [],
+    "grammar": "Fyra (フィーア/フィア) is the name of the King of Facade's bride. The repetition conveys panic and desperation."
+  },
+  {
+    "start": "01:12",
+    "end": "01:17",
+    "text": "フィア、あさって、キッサリヒロ、キッとする!",
+    "audio_file": "clip_002.mp3",
+    "translation": "(Facade language - urgent communication about Fyra)",
+    "vocabulary": [],
+    "grammar": "This is Facade language (仮面の国の言葉), the fictional constructed language spoken by the masked people of Facade. It cannot be directly translated but conveys urgency about Fyra."
+  },
+  {
+    "start": "01:19",
+    "end": "01:28",
+    "text": "カイザム、グサ、チ、アッチ、アレ",
+    "audio_file": "clip_003.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language. The fragmented delivery suggests shock or distress."
+  },
+  {
+    "start": "01:29",
+    "end": "01:34",
+    "text": "フィア、この日に降りるゆ",
+    "audio_file": "clip_004.mp3",
+    "translation": "(Facade language - about Fyra)",
+    "vocabulary": [],
+    "grammar": "Facade language mixed with some Japanese elements. この日 (this day) is recognizable Japanese."
+  },
+  {
+    "start": "01:36",
+    "end": "01:37",
+    "text": "다큰",
+    "audio_file": "clip_005.mp3",
+    "translation": "(Transcription error - Korean text)",
+    "vocabulary": [],
+    "grammar": "This appears to be a transcription error where Korean characters were incorrectly captured instead of Japanese/Facade language."
+  },
+  {
+    "start": "01:39",
+    "end": "01:41",
+    "text": "나?",
+    "audio_file": "clip_006.mp3",
+    "translation": "(Transcription error - Korean text)",
+    "vocabulary": [],
+    "grammar": "Transcription error - Korean text."
+  },
+  {
+    "start": "01:44",
+    "end": "01:46",
+    "text": "다큰",
+    "audio_file": "clip_007.mp3",
+    "translation": "(Transcription error - Korean text)",
+    "vocabulary": [],
+    "grammar": "Transcription error - Korean text."
+  },
+  {
+    "start": "01:47",
+    "end": "01:51",
+    "text": "오요리가 / 지",
+    "audio_file": "clip_008.mp3",
+    "translation": "(Transcription error - Korean text)",
+    "vocabulary": [],
+    "grammar": "Transcription error - Korean text."
+  },
+  {
+    "start": "01:51",
+    "end": "01:53",
+    "text": "수렌데",
+    "audio_file": "clip_009.mp3",
+    "translation": "(Transcription error - Korean text)",
+    "vocabulary": [],
+    "grammar": "Transcription error - Korean text."
+  },
+  {
+    "start": "01:54",
+    "end": "01:56",
+    "text": "다큰",
+    "audio_file": "clip_010.mp3",
+    "translation": "(Transcription error - Korean text)",
+    "vocabulary": [],
+    "grammar": "Transcription error - Korean text."
+  },
+  {
+    "start": "02:02",
+    "end": "02:10",
+    "text": "フリア! ウイタイフリア! / わ、わせろ!",
+    "audio_file": "clip_011.mp3",
+    "translation": "(Facade language) / L-let me go!",
+    "vocabulary": [
+      {"word": "離す", "reading": "はなす", "meaning": "to let go, to release"},
+      {"word": "放せ", "reading": "はなせ", "meaning": "let go! (imperative form)"}
+    ],
+    "grammar": "わせろ appears to be a stuttered/panicked attempt at 放せろ or similar imperative. The stammering わ、わ conveys fear and urgency. The imperative ～ろ is a rough masculine command form."
+  },
+  {
+    "start": "02:11",
+    "end": "02:19",
+    "text": "死、たかれきた。 / たさす、ぞにた、で、きた。",
+    "audio_file": "clip_012.mp3",
+    "translation": "(Facade language - distressed communication)",
+    "vocabulary": [
+      {"word": "死", "reading": "し", "meaning": "death"}
+    ],
+    "grammar": "Facade language with the Japanese word 死 (death) mixed in, indicating the dire situation."
+  },
+  {
+    "start": "02:20",
+    "end": "02:24",
+    "text": "かれた、こすきた。",
+    "audio_file": "clip_013.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "02:25",
+    "end": "02:28",
+    "text": "いざ、さ、した、す、した。",
+    "audio_file": "clip_014.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "02:29",
+    "end": "02:32",
+    "text": "血だ、キリだ、クオスキだ",
+    "audio_file": "clip_015.mp3",
+    "translation": "It's blood! (Facade language continues)",
+    "vocabulary": [
+      {"word": "血", "reading": "ち", "meaning": "blood"}
+    ],
+    "grammar": "血だ uses the copula だ for emphatic identification ('It's blood!'). The Facade language continues after, possibly with related exclamations."
+  },
+  {
+    "start": "02:33",
+    "end": "02:36",
+    "text": "こいぞ",
+    "audio_file": "clip_016.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "02:40",
+    "end": "02:46",
+    "text": "といきちん、うだ、うだを打って",
+    "audio_file": "clip_017.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [
+      {"word": "打つ", "reading": "うつ", "meaning": "to strike, to hit"}
+    ],
+    "grammar": "Facade language with 打って (te-form of 打つ, to strike) recognizable, suggesting combat orders."
+  },
+  {
+    "start": "02:48",
+    "end": "02:54",
+    "text": "くっと、イオーリ打って、イアリスがスキだ",
+    "audio_file": "clip_018.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [
+      {"word": "隙", "reading": "すき", "meaning": "opening, gap, vulnerability"}
+    ],
+    "grammar": "Facade language with 打って (strike) and possibly スキだ (there's an opening) - tactical battle communication."
+  },
+  {
+    "start": "03:03",
+    "end": "03:07",
+    "text": "インク!ゼルガーゼス!",
+    "audio_file": "clip_019.mp3",
+    "translation": "(Facade language - battle cry)",
+    "vocabulary": [],
+    "grammar": "Facade language battle cry. The exclamation marks indicate shouted commands."
+  },
+  {
+    "start": "03:08",
+    "end": "03:16",
+    "text": "ヨセ、気持ちはわかるが、今おってもカイリュウジに会うだけだ / カイゼムイオリ / アフィアナス! / ネウン!",
+    "audio_file": "clip_020.mp3",
+    "translation": "Yose, I understand how you feel, but going now will only mean meeting your death. / (Facade language responses)",
+    "vocabulary": [
+      {"word": "気持ち", "reading": "きもち", "meaning": "feelings, emotions"},
+      {"word": "分かる", "reading": "わかる", "meaning": "to understand"},
+      {"word": "今", "reading": "いま", "meaning": "now"},
+      {"word": "追う", "reading": "おう", "meaning": "to chase, to pursue"},
+      {"word": "会う", "reading": "あう", "meaning": "to meet, to encounter"},
+      {"word": "だけ", "reading": "だけ", "meaning": "only, just"}
+    ],
+    "grammar": "気持ちはわかるが is a common pattern meaning 'I understand your feelings, but...' The が acts as a softened 'but'. ～ても...だけだ means 'even if you do X, it will only result in Y'."
+  },
+  {
+    "start": "03:17",
+    "end": "03:23",
+    "text": "ザルツム、ザルツム、ゼルガーザルツンとゼルギアレル! / うーん",
+    "audio_file": "clip_021.mp3",
+    "translation": "(Facade language - impassioned speech) / Hmm...",
+    "vocabulary": [
+      {"word": "うーん", "reading": "うーん", "meaning": "hmm, well (thinking/pondering sound)"}
+    ],
+    "grammar": "The repetition in Facade language (ザルツム、ザルツム) suggests emphasis or pleading. うーん is an interjection showing contemplation or uncertainty."
+  },
+  {
+    "start": "03:51",
+    "end": "03:54",
+    "text": "おう…",
+    "audio_file": "clip_022.mp3",
+    "translation": "Oh... / Yeah...",
+    "vocabulary": [
+      {"word": "おう", "reading": "おう", "meaning": "oh, yeah (masculine acknowledgment)"}
+    ],
+    "grammar": "おう is a casual masculine interjection expressing acknowledgment, often with emotional weight. The ellipsis suggests contemplation or grief."
+  },
+  {
+    "start": "04:22",
+    "end": "04:26",
+    "text": "俺だって狼たちが憎い / 戦うのであれば",
+    "audio_file": "clip_023.mp3",
+    "translation": "I hate the wolves too. / If we're going to fight...",
+    "vocabulary": [
+      {"word": "俺", "reading": "おれ", "meaning": "I, me (rough masculine)"},
+      {"word": "だって", "reading": "だって", "meaning": "even, also, too"},
+      {"word": "狼", "reading": "おおかみ", "meaning": "wolf"},
+      {"word": "憎い", "reading": "にくい", "meaning": "hateful, detestable"},
+      {"word": "戦う", "reading": "たたかう", "meaning": "to fight, to battle"}
+    ],
+    "grammar": "～だって means 'even X' or 'X too', emphasizing that the speaker shares the feeling. ～のであれば is a formal conditional meaning 'if it is the case that...' - more literary than ～なら."
+  },
+  {
+    "start": "04:27",
+    "end": "04:29",
+    "text": "相応の準備が必要であろう",
+    "audio_file": "clip_024.mp3",
+    "translation": "We'll need appropriate preparations.",
+    "vocabulary": [
+      {"word": "相応", "reading": "そうおう", "meaning": "appropriate, suitable, fitting"},
+      {"word": "準備", "reading": "じゅんび", "meaning": "preparation, arrangements"},
+      {"word": "必要", "reading": "ひつよう", "meaning": "necessary, needed"}
+    ],
+    "grammar": "～であろう is Weiss's archaic/literary speech pattern, equivalent to modern ～だろう (probably is). This formal conjecture form adds gravity to his warning. The が marks 準備 as the subject of 必要."
+  },
+  {
+    "start": "04:30",
+    "end": "04:34",
+    "text": "さっきのようにはいかぬぞ / 分かってるぞ",
+    "audio_file": "clip_025.mp3",
+    "translation": "It won't go like before. / I know!",
+    "vocabulary": [
+      {"word": "さっき", "reading": "さっき", "meaning": "just now, a moment ago"},
+      {"word": "よう", "reading": "よう", "meaning": "like, as, in the manner of"},
+      {"word": "行く", "reading": "いく", "meaning": "to go (here: to proceed, to work out)"},
+      {"word": "分かる", "reading": "わかる", "meaning": "to understand"}
+    ],
+    "grammar": "いかぬ is Weiss's archaic negative form of 行く, equivalent to 行かない. The classical negative ～ぬ replaces modern ～ない. ～のようには...ない means 'it won't be like...' 分かってるぞ uses ぞ for emphatic assertion."
+  },
+  {
+    "start": "04:39",
+    "end": "04:42",
+    "text": "戦いの準備はできたのか?",
+    "audio_file": "clip_026.mp3",
+    "translation": "Are you ready for battle?",
+    "vocabulary": [
+      {"word": "戦い", "reading": "たたかい", "meaning": "battle, fight, combat"},
+      {"word": "準備", "reading": "じゅんび", "meaning": "preparation"},
+      {"word": "できる", "reading": "できる", "meaning": "to be able to, to be ready, to be completed"}
+    ],
+    "grammar": "準備ができた means 'preparations are complete' or 'ready'. The のか adds a questioning tone with slight emphasis, common in masculine speech."
+  },
+  {
+    "start": "04:45",
+    "end": "04:49",
+    "text": "ああ、フィーヤの仇を討たないとな",
+    "audio_file": "clip_027.mp3",
+    "translation": "Yeah, we have to avenge Fyra.",
+    "vocabulary": [
+      {"word": "ああ", "reading": "ああ", "meaning": "yes, yeah (casual affirmation)"},
+      {"word": "仇", "reading": "かたき", "meaning": "enemy, foe; revenge, vengeance"},
+      {"word": "討つ", "reading": "うつ", "meaning": "to strike down, to defeat, to avenge"}
+    ],
+    "grammar": "仇を討つ (かたきをうつ) is an important idiom meaning 'to take revenge' or 'to avenge someone'. ～ないとな is a casual masculine expression of obligation, short for ～ないといけないな (must do)."
+  },
+  {
+    "start": "04:55",
+    "end": "04:58",
+    "text": "フィアイアーリル",
+    "audio_file": "clip_028.mp3",
+    "translation": "(Facade language - about Fyra)",
+    "vocabulary": [],
+    "grammar": "Facade language. フィア (Fyra) is recognizable within the utterance."
+  },
+  {
+    "start": "04:59",
+    "end": "05:04",
+    "text": "セルガンキゾとヤージズトレ",
+    "audio_file": "clip_029.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "05:04",
+    "end": "05:08",
+    "text": "息をじけず / アウル",
+    "audio_file": "clip_030.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [
+      {"word": "息", "reading": "いき", "meaning": "breath"}
+    ],
+    "grammar": "Facade language with 息 (breath) possibly indicating a phrase about breathing or life."
+  },
+  {
+    "start": "05:09",
+    "end": "05:12",
+    "text": "アルテムアタド / スコスライダー",
+    "audio_file": "clip_031.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "05:13",
+    "end": "05:17",
+    "text": "オオカミの群れがどれほどの数か知っておるか",
+    "audio_file": "clip_032.mp3",
+    "translation": "Do you know how many wolves are in that pack?",
+    "vocabulary": [
+      {"word": "オオカミ", "reading": "おおかみ", "meaning": "wolf (katakana spelling)"},
+      {"word": "群れ", "reading": "むれ", "meaning": "pack, herd, flock, group"},
+      {"word": "どれほど", "reading": "どれほど", "meaning": "how much, how many, to what extent"},
+      {"word": "数", "reading": "かず", "meaning": "number, quantity"},
+      {"word": "知る", "reading": "しる", "meaning": "to know"}
+    ],
+    "grammar": "知っておるか is Weiss's archaic form of 知っているか (do you know?). The ～ておる form is classical Japanese, equivalent to modern ～ている. どれほどの数か is an embedded question meaning 'how many (there are)'."
+  },
+  {
+    "start": "05:17",
+    "end": "05:22",
+    "text": "村を襲ってきた狼どもなどほんの一部だぞ",
+    "audio_file": "clip_033.mp3",
+    "translation": "The wolves that attacked the village were only a small portion.",
+    "vocabulary": [
+      {"word": "村", "reading": "むら", "meaning": "village"},
+      {"word": "襲う", "reading": "おそう", "meaning": "to attack, to assault, to raid"},
+      {"word": "狼", "reading": "おおかみ", "meaning": "wolf"},
+      {"word": "ほんの", "reading": "ほんの", "meaning": "just, merely, only"},
+      {"word": "一部", "reading": "いちぶ", "meaning": "part, portion, section"}
+    ],
+    "grammar": "～ども is a derogatory plural suffix, showing contempt for the wolves. ～てきた indicates an action that came toward the speaker. など means 'and such' but here minimizes ('mere'). ほんの emphasizes 'just/only'."
+  },
+  {
+    "start": "05:22",
+    "end": "05:28",
+    "text": "セルシタイ / 分かった 俺たちも協力する",
+    "audio_file": "clip_034.mp3",
+    "translation": "(Facade language) / Got it. We'll cooperate too.",
+    "vocabulary": [
+      {"word": "分かる", "reading": "わかる", "meaning": "to understand"},
+      {"word": "俺たち", "reading": "おれたち", "meaning": "we, us (masculine)"},
+      {"word": "協力", "reading": "きょうりょく", "meaning": "cooperation, collaboration"},
+      {"word": "する", "reading": "する", "meaning": "to do"}
+    ],
+    "grammar": "協力する is a する-verb meaning 'to cooperate'. The も (too/also) indicates joining others in cooperation."
+  },
+  {
+    "start": "05:29",
+    "end": "05:36",
+    "text": "デケワチュワッセイ / お前のためじゃない フィーヤのためだ",
+    "audio_file": "clip_035.mp3",
+    "translation": "(Facade language) / It's not for you. It's for Fyra.",
+    "vocabulary": [
+      {"word": "お前", "reading": "おまえ", "meaning": "you (informal, can be rude)"},
+      {"word": "ため", "reading": "ため", "meaning": "sake, benefit, purpose"}
+    ],
+    "grammar": "～のためじゃない...～のためだ is a contrastive structure: 'not for X's sake... for Y's sake'. This is Kaine's characteristically blunt speech, using お前 dismissively."
+  },
+  {
+    "start": "05:37",
+    "end": "05:41",
+    "text": "もう タイヌさんは口が悪いんだから",
+    "audio_file": "clip_036.mp3",
+    "translation": "Geez, Kaine has such a foul mouth.",
+    "vocabulary": [
+      {"word": "もう", "reading": "もう", "meaning": "geez, jeez (exasperation); already"},
+      {"word": "口が悪い", "reading": "くちがわるい", "meaning": "foul-mouthed, having a sharp tongue"}
+    ],
+    "grammar": "口が悪い is an idiomatic expression meaning 'to have a foul mouth' or 'to speak harshly'. ～んだから expresses mild exasperation or explains an ongoing situation, often with a sigh. Note: タイヌ appears to be a transcription error for カイネ (Kaine)."
+  },
+  {
+    "start": "05:42",
+    "end": "05:48",
+    "text": "意見が揃ったな / ならば急ぐぞ 悲劇を止めるのだ",
+    "audio_file": "clip_037.mp3",
+    "translation": "We're all in agreement then. / Then let's hurry. We must stop this tragedy.",
+    "vocabulary": [
+      {"word": "意見", "reading": "いけん", "meaning": "opinion, view"},
+      {"word": "揃う", "reading": "そろう", "meaning": "to be complete, to be gathered, to be aligned"},
+      {"word": "ならば", "reading": "ならば", "meaning": "if so, then (formal)"},
+      {"word": "急ぐ", "reading": "いそぐ", "meaning": "to hurry, to rush"},
+      {"word": "悲劇", "reading": "ひげき", "meaning": "tragedy"},
+      {"word": "止める", "reading": "とめる", "meaning": "to stop, to prevent"}
+    ],
+    "grammar": "意見が揃う means 'opinions are aligned' or 'everyone agrees'. ならば is Weiss's formal/archaic 'if so, then' (modern: なら). ～のだ adds determination and explanation - 'we must do this'."
+  },
+  {
+    "start": "05:48",
+    "end": "05:49",
+    "text": "フェロア",
+    "audio_file": "clip_038.mp3",
+    "translation": "(Facade language - acknowledgment)",
+    "vocabulary": [],
+    "grammar": "Facade language, likely an affirmative response."
+  },
+  {
+    "start": "05:58",
+    "end": "06:00",
+    "text": "カイゾム・アクラ",
+    "audio_file": "clip_039.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "06:01",
+    "end": "06:05",
+    "text": "ゼルガーン撃つ と避けた",
+    "audio_file": "clip_040.mp3",
+    "translation": "(Facade language - about shooting/dodging)",
+    "vocabulary": [
+      {"word": "撃つ", "reading": "うつ", "meaning": "to shoot, to fire"},
+      {"word": "避ける", "reading": "よける", "meaning": "to dodge, to avoid"}
+    ],
+    "grammar": "Facade language mixed with Japanese 撃つ (shoot) and 避けた (dodged), indicating combat narration."
+  },
+  {
+    "start": "06:05",
+    "end": "06:10",
+    "text": "これで サト・アルテルはチンクルチュラス",
+    "audio_file": "clip_041.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [
+      {"word": "これで", "reading": "これで", "meaning": "with this, by this"}
+    ],
+    "grammar": "これで (with this) is Japanese, followed by Facade language."
+  },
+  {
+    "start": "06:11",
+    "end": "06:16",
+    "text": "アルテルはとやりら?フィアくすった? / あ?",
+    "audio_file": "clip_042.mp3",
+    "translation": "(Facade language - question about Fyra) / Huh?",
+    "vocabulary": [
+      {"word": "あ", "reading": "あ", "meaning": "huh? what? (interjection of surprise)"}
+    ],
+    "grammar": "Facade language question, with あ? being a confused/surprised response in Japanese."
+  },
+  {
+    "start": "06:19",
+    "end": "06:21",
+    "text": "フィア聞きた?",
+    "audio_file": "clip_043.mp3",
+    "translation": "(Facade language - Did you hear about Fyra?)",
+    "vocabulary": [
+      {"word": "聞く", "reading": "きく", "meaning": "to hear, to listen, to ask"}
+    ],
+    "grammar": "聞きた appears to be a dialectal or Facade-influenced form, possibly meaning 'did you hear?'"
+  },
+  {
+    "start": "06:22",
+    "end": "06:28",
+    "text": "たとさだ、嫌強り歌ったキツシ、リュウリュウとさ",
+    "audio_file": "clip_044.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "06:28",
+    "end": "06:35",
+    "text": "ティン / よりうわいそうとフィアとつだった? / あ?",
+    "audio_file": "clip_045.mp3",
+    "translation": "(Facade language - about Fyra) / Huh?",
+    "vocabulary": [],
+    "grammar": "Facade language with confused Japanese response あ?"
+  },
+  {
+    "start": "06:35",
+    "end": "06:36",
+    "text": "ティン",
+    "audio_file": "clip_046.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "06:37",
+    "end": "06:39",
+    "text": "あんだとせ",
+    "audio_file": "clip_047.mp3",
+    "translation": "(Facade language / What did you say?)",
+    "vocabulary": [],
+    "grammar": "May be a phonetic rendering of あんだと (What did you say?) with Facade influence, expressing confrontation."
+  },
+  {
+    "start": "06:50",
+    "end": "06:59",
+    "text": "お疲れ様でした。",
+    "audio_file": "clip_048.mp3",
+    "translation": "(YouTube video artifact - 'Thanks for watching')",
+    "vocabulary": [
+      {"word": "お疲れ様", "reading": "おつかれさま", "meaning": "thank you for your hard work; good job"}
+    ],
+    "grammar": "This is a YouTube video artifact, not game dialogue. お疲れ様でした is a polite expression thanking someone for their effort, commonly used at the end of work or videos."
+  },
+  {
+    "start": "07:08",
+    "end": "07:10",
+    "text": "ゲルだ",
+    "audio_file": "clip_049.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "07:38",
+    "end": "07:43",
+    "text": "ロータイリスラ関係かけてしたすぼで",
+    "audio_file": "clip_050.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [
+      {"word": "関係", "reading": "かんけい", "meaning": "relation, connection"}
+    ],
+    "grammar": "Facade language with 関係 (relation/connection) appearing within it."
+  },
+  {
+    "start": "07:44",
+    "end": "07:48",
+    "text": "あるムーキ l 土地に擬算ってきた",
+    "audio_file": "clip_051.mp3",
+    "translation": "(Facade language - about land/territory)",
+    "vocabulary": [
+      {"word": "土地", "reading": "とち", "meaning": "land, territory, ground"}
+    ],
+    "grammar": "Facade language with 土地 (land) embedded, suggesting discussion of territorial matters."
+  },
+  {
+    "start": "07:48",
+    "end": "07:52",
+    "text": "あるん 浮き寄せ",
+    "audio_file": "clip_052.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "07:53",
+    "end": "07:54",
+    "text": "くゆり",
+    "audio_file": "clip_053.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "07:56",
+    "end": "08:08",
+    "text": "をして キルタチエククギリスアーガーリー / カイザムより、息をつじでくご。",
+    "audio_file": "clip_054.mp3",
+    "translation": "(Facade language - formal address)",
+    "vocabulary": [
+      {"word": "息", "reading": "いき", "meaning": "breath"}
+    ],
+    "grammar": "Facade language with formal elements. カイザムより suggests 'from Kaizamu' - a formal address format."
+  },
+  {
+    "start": "08:09",
+    "end": "08:11",
+    "text": "ヒューラ。",
+    "audio_file": "clip_055.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "08:12",
+    "end": "08:17",
+    "text": "カイザムチ、チストジー、おあくれたシューミニア。",
+    "audio_file": "clip_056.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "08:17",
+    "end": "08:22",
+    "text": "こうだった、チ、より歌え。",
+    "audio_file": "clip_057.mp3",
+    "translation": "(Facade language - command to sing)",
+    "vocabulary": [
+      {"word": "歌う", "reading": "うたう", "meaning": "to sing"},
+      {"word": "歌え", "reading": "うたえ", "meaning": "sing! (imperative)"}
+    ],
+    "grammar": "歌え is the imperative form of 歌う, a command to sing. This may relate to Facade funeral or ceremonial customs."
+  },
+  {
+    "start": "09:33",
+    "end": "09:39",
+    "text": "クリー ゼルガン タチトグだ / リン 行って クタイ",
+    "audio_file": "clip_058.mp3",
+    "translation": "(Facade language - battle commands)",
+    "vocabulary": [
+      {"word": "行く", "reading": "いく", "meaning": "to go"}
+    ],
+    "grammar": "Facade language with 行って (go) embedded - likely tactical instructions."
+  },
+  {
+    "start": "09:39",
+    "end": "09:43",
+    "text": "ヒイエのためだ / 行くぞ",
+    "audio_file": "clip_059.mp3",
+    "translation": "For Fyra! / Let's go!",
+    "vocabulary": [
+      {"word": "ため", "reading": "ため", "meaning": "sake, benefit, purpose"},
+      {"word": "行く", "reading": "いく", "meaning": "to go"}
+    ],
+    "grammar": "～のためだ means 'it's for the sake of...' 行くぞ is a determined, masculine call to action. Note: ヒイエ is likely a variant spelling/pronunciation of フィーヤ (Fyra)."
+  },
+  {
+    "start": "10:42",
+    "end": "11:06",
+    "text": "魔物の味方をするなら、斬るまでだ! / サルチャン、ゼルガン、しっとどかんご!",
+    "audio_file": "clip_060.mp3",
+    "translation": "If you side with the monsters, I'll cut you down! / (Facade language - battle cry)",
+    "vocabulary": [
+      {"word": "魔物", "reading": "まもの", "meaning": "monster, demon"},
+      {"word": "味方", "reading": "みかた", "meaning": "ally, friend, supporter"},
+      {"word": "味方をする", "reading": "みかたをする", "meaning": "to side with, to support"},
+      {"word": "斬る", "reading": "きる", "meaning": "to cut, to slash (with a blade)"},
+      {"word": "まで", "reading": "まで", "meaning": "until, to the point of"}
+    ],
+    "grammar": "～なら is conditional (if). 斬るまでだ literally 'it's just a matter of cutting' - an idiom meaning 'I'll simply cut you down' or 'that's all there is to it (cutting you)'. This is a threat."
+  },
+  {
+    "start": "11:07",
+    "end": "12:07",
+    "text": "上だ!気を付けろ!",
+    "audio_file": "clip_061.mp3",
+    "translation": "Above! Watch out!",
+    "vocabulary": [
+      {"word": "上", "reading": "うえ", "meaning": "above, up, top"},
+      {"word": "気を付ける", "reading": "きをつける", "meaning": "to be careful, to watch out, to pay attention"}
+    ],
+    "grammar": "上だ is a quick warning - 'it's above!' 気を付けろ is the imperative form of 気を付ける, a rough masculine command meaning 'watch out!' or 'be careful!'"
+  },
+  {
+    "start": "12:08",
+    "end": "12:13",
+    "text": "うっ / ヒュット、アキン、ゲッタイシン!",
+    "audio_file": "clip_062.mp3",
+    "translation": "Ugh! / (Facade language - battle command)",
+    "vocabulary": [
+      {"word": "うっ", "reading": "うっ", "meaning": "ugh, urgh (pain/impact sound)"}
+    ],
+    "grammar": "うっ is an exclamation of pain or being hit. The Facade language following appears to be urgent battle commands."
+  },
+  {
+    "start": "12:19",
+    "end": "12:23",
+    "text": "スライフィア、ゾウ、ゲンカ!",
+    "audio_file": "clip_063.mp3",
+    "translation": "(Facade language - battle cry)",
+    "vocabulary": [],
+    "grammar": "Facade language battle cry."
+  },
+  {
+    "start": "13:04",
+    "end": "13:08",
+    "text": "お疲れ様でした",
+    "audio_file": "clip_064.mp3",
+    "translation": "(YouTube video artifact - 'Thanks for watching')",
+    "vocabulary": [
+      {"word": "お疲れ様", "reading": "おつかれさま", "meaning": "thank you for your hard work; good job"}
+    ],
+    "grammar": "YouTube video artifact, not game dialogue."
+  },
+  {
+    "start": "13:54",
+    "end": "13:59",
+    "text": "私はそのまま",
+    "audio_file": "clip_065.mp3",
+    "translation": "I, just like this... / As I am...",
+    "vocabulary": [
+      {"word": "私", "reading": "わたし", "meaning": "I, me"},
+      {"word": "そのまま", "reading": "そのまま", "meaning": "as it is, as is, just like that, unchanged"}
+    ],
+    "grammar": "そのまま means 'as is' or 'just like that' - continuing in the current state without change. The incomplete sentence suggests trailing off or continuation."
+  },
+  {
+    "start": "14:00",
+    "end": "14:04",
+    "text": "尽きて掃除 抱かれ / 添えたく外から",
+    "audio_file": "clip_066.mp3",
+    "translation": "(Facade language - poetic/ceremonial speech)",
+    "vocabulary": [
+      {"word": "尽きる", "reading": "つきる", "meaning": "to be exhausted, to run out"},
+      {"word": "抱く", "reading": "だく", "meaning": "to hold, to embrace"}
+    ],
+    "grammar": "This appears to be poetic or ceremonial Facade speech with Japanese elements. 尽きて (exhausted) and 抱かれ (to be held) suggest emotional, possibly funeral-related content."
+  },
+  {
+    "start": "14:04",
+    "end": "14:08",
+    "text": "サイロスと意識 死腕",
+    "audio_file": "clip_067.mp3",
+    "translation": "(Facade language - about consciousness/death)",
+    "vocabulary": [
+      {"word": "意識", "reading": "いしき", "meaning": "consciousness, awareness"},
+      {"word": "死", "reading": "し", "meaning": "death"}
+    ],
+    "grammar": "Facade language with 意識 (consciousness) and 死 (death) - heavy thematic content about mortality."
+  },
+  {
+    "start": "14:10",
+    "end": "14:13",
+    "text": "ライアリス 絶地",
+    "audio_file": "clip_068.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [
+      {"word": "絶", "reading": "ぜつ", "meaning": "extinction, discontinuation, absolute"}
+    ],
+    "grammar": "Facade language with 絶 suggesting finality or absoluteness."
+  },
+  {
+    "start": "14:14",
+    "end": "14:20",
+    "text": "フィアは これまでも十分幸せであった",
+    "audio_file": "clip_069.mp3",
+    "translation": "Fyra was already happy enough until now.",
+    "vocabulary": [
+      {"word": "これまで", "reading": "これまで", "meaning": "until now, so far, up to this point"},
+      {"word": "十分", "reading": "じゅうぶん", "meaning": "enough, sufficient, plenty"},
+      {"word": "幸せ", "reading": "しあわせ", "meaning": "happiness, happy, fortunate"}
+    ],
+    "grammar": "であった is the literary/formal past tense of である (to be), used in writing and formal speech. これまでも means 'even until now' or 'already up to this point'. This is Fyra speaking about herself in third person, a humble and poignant expression."
+  },
+  {
+    "start": "14:20",
+    "end": "14:22",
+    "text": "こう",
+    "audio_file": "clip_070.mp3",
+    "translation": "(Reaction - emotional sound)",
+    "vocabulary": [],
+    "grammar": "An emotional interjection, possibly a gasp or sob."
+  },
+  {
+    "start": "14:24",
+    "end": "14:30",
+    "text": "もちろん / あの娘ならきっとそういうはずだ",
+    "audio_file": "clip_071.mp3",
+    "translation": "Of course. / That girl would surely say something like that.",
+    "vocabulary": [
+      {"word": "もちろん", "reading": "もちろん", "meaning": "of course, certainly, naturally"},
+      {"word": "娘", "reading": "むすめ", "meaning": "daughter, young woman, girl"},
+      {"word": "きっと", "reading": "きっと", "meaning": "surely, certainly, without doubt"},
+      {"word": "そう", "reading": "そう", "meaning": "so, like that, such"},
+      {"word": "言う", "reading": "いう", "meaning": "to say"}
+    ],
+    "grammar": "～なら is conditional ('if it's that girl'). ～はずだ expresses expectation or certainty ('she would surely...'). そういう means 'say something like that'. This reflects affection and understanding of Fyra's character."
+  },
+  {
+    "start": "14:31",
+    "end": "14:36",
+    "text": "フィーヤの誇りだった立派な王であれ",
+    "audio_file": "clip_072.mp3",
+    "translation": "Be the splendid king that Fyra was proud of.",
+    "vocabulary": [
+      {"word": "誇り", "reading": "ほこり", "meaning": "pride, honor"},
+      {"word": "立派", "reading": "りっぱ", "meaning": "splendid, fine, magnificent, admirable"},
+      {"word": "王", "reading": "おう", "meaning": "king, monarch"}
+    ],
+    "grammar": "～であれ is an archaic/literary imperative form of である, meaning 'be...' This is a formal command or exhortation. フィーヤの誇りだった modifies 王: 'the king who was Fyra's pride'. A powerful, formal final request."
+  },
+  {
+    "start": "14:38",
+    "end": "14:42",
+    "text": "だたドリス恐竜",
+    "audio_file": "clip_073.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "14:42",
+    "end": "14:46",
+    "text": "クタイトゥリッチライル",
+    "audio_file": "clip_074.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "14:48",
+    "end": "14:53",
+    "text": "カイザムチッタダケテタイソとチッタってるんだ",
+    "audio_file": "clip_075.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "14:54",
+    "end": "14:59",
+    "text": "やれやれまた起きてか",
+    "audio_file": "clip_076.mp3",
+    "translation": "Good grief, it's happening again?",
+    "vocabulary": [
+      {"word": "やれやれ", "reading": "やれやれ", "meaning": "good grief, oh dear, what a relief (exasperation)"},
+      {"word": "また", "reading": "また", "meaning": "again, also, another"},
+      {"word": "起きる", "reading": "おきる", "meaning": "to happen, to occur; to wake up"}
+    ],
+    "grammar": "やれやれ is an interjection expressing exasperation or resignation (similar to 'good grief'). また起きてか suggests 'is it happening again?' with か as a questioning particle. Weiss's weary observation."
+  },
+  {
+    "start": "15:00",
+    "end": "15:06",
+    "text": "ラーヌペルはトンリーアルテルはチオアル",
+    "audio_file": "clip_077.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "15:07",
+    "end": "15:12",
+    "text": "アンダトシトシアルテルはヤリル",
+    "audio_file": "clip_078.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "Facade language."
+  },
+  {
+    "start": "15:13",
+    "end": "15:21",
+    "text": "ロッフィア / 王様かわいそうです",
+    "audio_file": "clip_079.mp3",
+    "translation": "(Facade language) / The king... how sad.",
+    "vocabulary": [
+      {"word": "王様", "reading": "おうさま", "meaning": "king (respectful/affectionate)"},
+      {"word": "かわいそう", "reading": "かわいそう", "meaning": "poor, pitiful, pitiable"}
+    ],
+    "grammar": "王様 uses the honorific ～様 showing respect for the king. かわいそうです is a polite expression of pity or sympathy. This is Emil's compassionate observation."
+  },
+  {
+    "start": "15:21",
+    "end": "15:26",
+    "text": "全て魔物が存在するからいけないんだ",
+    "audio_file": "clip_080.mp3",
+    "translation": "It's all because monsters exist.",
+    "vocabulary": [
+      {"word": "全て", "reading": "すべて", "meaning": "all, everything, entirely"},
+      {"word": "魔物", "reading": "まもの", "meaning": "monster, demon"},
+      {"word": "存在", "reading": "そんざい", "meaning": "existence"},
+      {"word": "存在する", "reading": "そんざいする", "meaning": "to exist"},
+      {"word": "いけない", "reading": "いけない", "meaning": "wrong, no good, must not"}
+    ],
+    "grammar": "～からいけない means 'it's wrong/bad because of...' The んだ adds explanatory emphasis. 全て (everything) emphasizes that all problems stem from this cause. This reflects the protagonist's growing hatred of monsters."
+  }
+]
