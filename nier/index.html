@@ -254,22 +254,19 @@
             font-size: 13px;
         }
 
-        /* Swipe indicator overlay */
-        .swipe-indicator {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            font-size: 80px;
-            color: rgba(93, 109, 126, 0.8);
-            pointer-events: none;
-            opacity: 0;
-            transition: opacity 0.1s;
-            z-index: 1000;
-            text-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        /* Counter pulse animation */
+        @keyframes counterPulse {
+            0% { transform: scale(1); color: #666; }
+            50% { transform: scale(1.15); color: #5d6d7e; }
+            100% { transform: scale(1); color: #666; }
         }
-        .swipe-indicator.visible {
-            opacity: 1;
+        .progress-info.pulse {
+            animation: counterPulse 0.3s ease-out;
+        }
+        @media (max-width: 768px) {
+            .progress-info.pulse {
+                color: #333;
+            }
         }
 
         /* Card change highlight animation */
@@ -369,8 +366,6 @@
         Swipe: ← Prev &nbsp;|&nbsp; ↓ Reveal &nbsp;|&nbsp; Next →
     </div>
 
-    <div class="swipe-indicator" id="swipeIndicator"></div>
-
     <script>
         let data = [];
         let currentIndex = 0;
@@ -429,8 +424,13 @@
 
             localStorage.setItem(`nier_position_${currentChapter}`, currentIndex);
 
-            document.getElementById('progressInfo').textContent =
-                `Card ${currentIndex + 1} of ${data.length}`;
+            const progressEl = document.getElementById('progressInfo');
+            progressEl.textContent = `Card ${currentIndex + 1} of ${data.length}`;
+
+            // Trigger counter pulse animation
+            progressEl.classList.remove('pulse');
+            void progressEl.offsetWidth; // Force reflow to restart animation
+            progressEl.classList.add('pulse');
 
             let vocabHtml = '';
             if (card.vocabulary && card.vocabulary.length > 0) {
@@ -548,47 +548,15 @@
         let touchEndX = 0;
         let touchEndY = 0;
         const minSwipeDistance = 50;
-        const swipeIndicator = document.getElementById('swipeIndicator');
 
         document.addEventListener('touchstart', (e) => {
             touchStartX = e.changedTouches[0].screenX;
             touchStartY = e.changedTouches[0].screenY;
         }, { passive: true });
 
-        document.addEventListener('touchmove', (e) => {
-            const currentX = e.changedTouches[0].screenX;
-            const currentY = e.changedTouches[0].screenY;
-            const deltaX = currentX - touchStartX;
-            const deltaY = currentY - touchStartY;
-            const absDeltaX = Math.abs(deltaX);
-            const absDeltaY = Math.abs(deltaY);
-
-            // Show indicator if swipe is significant enough
-            if (Math.max(absDeltaX, absDeltaY) >= 30) {
-                let arrow = '';
-                if (absDeltaY > absDeltaX) {
-                    // Vertical
-                    arrow = deltaY > 0 ? '↓' : '';
-                } else {
-                    // Horizontal
-                    arrow = deltaX > 0 ? '←' : '→';
-                }
-
-                if (arrow) {
-                    swipeIndicator.textContent = arrow;
-                    swipeIndicator.classList.add('visible');
-                } else {
-                    swipeIndicator.classList.remove('visible');
-                }
-            } else {
-                swipeIndicator.classList.remove('visible');
-            }
-        }, { passive: true });
-
         document.addEventListener('touchend', (e) => {
             touchEndX = e.changedTouches[0].screenX;
             touchEndY = e.changedTouches[0].screenY;
-            swipeIndicator.classList.remove('visible');
             handleSwipe();
         }, { passive: true });
 
