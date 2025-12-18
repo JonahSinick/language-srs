@@ -1,0 +1,1135 @@
+[
+  {
+    "start": "00:03",
+    "end": "00:04",
+    "text": "ヨナ",
+    "audio_file": "clip_000.mp3",
+    "translation": "Yona...",
+    "vocabulary": [
+      {"word": "ヨナ", "reading": "ヨナ", "meaning": "Yona (character name)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:06",
+    "end": "00:10",
+    "text": "ヨナ / 大丈夫か / 体",
+    "audio_file": "clip_001.mp3",
+    "translation": "Yona! / Are you okay? / Your body...",
+    "vocabulary": [
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "okay, alright"},
+      {"word": "体", "reading": "からだ", "meaning": "body"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:11",
+    "end": "00:15",
+    "text": "痛い / ヨナ",
+    "audio_file": "clip_002.mp3",
+    "translation": "It hurts... / Yona!",
+    "vocabulary": [
+      {"word": "痛い", "reading": "いたい", "meaning": "painful, it hurts"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:15",
+    "end": "00:20",
+    "text": "すぐ薬を持ってくるからな / それまで待ってるんだぞ",
+    "audio_file": "clip_003.mp3",
+    "translation": "I'll bring medicine right away. / Wait until then, okay?",
+    "vocabulary": [
+      {"word": "すぐ", "reading": "すぐ", "meaning": "immediately, right away"},
+      {"word": "薬", "reading": "くすり", "meaning": "medicine"},
+      {"word": "持ってくる", "reading": "もってくる", "meaning": "to bring"},
+      {"word": "からな", "reading": "からな", "meaning": "because (masculine emphasis)"},
+      {"word": "待ってる", "reading": "まってる", "meaning": "wait"},
+      {"word": "んだぞ", "reading": "んだぞ", "meaning": "okay (emphasis)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:20",
+    "end": "00:23",
+    "text": "お兄ちゃん / 何?",
+    "audio_file": "clip_004.mp3",
+    "translation": "Big brother... / What?",
+    "vocabulary": [
+      {"word": "お兄ちゃん", "reading": "おにいちゃん", "meaning": "big brother (affectionate)"},
+      {"word": "何", "reading": "なに", "meaning": "what"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:24",
+    "end": "00:30",
+    "text": "無理しないでね / 心配しなくていいから",
+    "audio_file": "clip_005.mp3",
+    "translation": "Don't push yourself, okay? / You don't need to worry.",
+    "vocabulary": [
+      {"word": "無理しないで", "reading": "むりしないで", "meaning": "don't push yourself"},
+      {"word": "心配しなくていい", "reading": "しんぱいしなくていい", "meaning": "don't need to worry"}
+    ],
+    "grammar": "〜なくていい means 'don't need to ~' or 'it's okay not to ~'."
+  },
+  {
+    "start": "00:34",
+    "end": "00:38",
+    "text": "ポポルさん / 痛み止めの薬を分けてもらえませんか",
+    "audio_file": "clip_006.mp3",
+    "translation": "Popola, / could you give me some painkiller medicine?",
+    "vocabulary": [
+      {"word": "痛み止め", "reading": "いたみどめ", "meaning": "painkiller"},
+      {"word": "薬", "reading": "くすり", "meaning": "medicine"},
+      {"word": "分けてもらえませんか", "reading": "わけてもらえませんか", "meaning": "could you share/give me"}
+    ],
+    "grammar": "〜てもらえませんか is a polite way to ask for something."
+  },
+  {
+    "start": "00:39",
+    "end": "00:46",
+    "text": "え?痛み止め? / うん、ヨナの病気がひどくなって苦しいみたいで",
+    "audio_file": "clip_007.mp3",
+    "translation": "Huh? Painkiller? / Yeah, Yona's illness has gotten worse and she seems to be suffering.",
+    "vocabulary": [
+      {"word": "病気", "reading": "びょうき", "meaning": "illness"},
+      {"word": "ひどくなって", "reading": "ひどくなって", "meaning": "gotten worse"},
+      {"word": "苦しい", "reading": "くるしい", "meaning": "painful, suffering"},
+      {"word": "みたいで", "reading": "みたいで", "meaning": "seems like"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:47",
+    "end": "00:50",
+    "text": "そうなの、かわいそうに",
+    "audio_file": "clip_008.mp3",
+    "translation": "Is that so? Poor thing.",
+    "vocabulary": [
+      {"word": "そうなの", "reading": "そうなの", "meaning": "is that so"},
+      {"word": "かわいそうに", "reading": "かわいそうに", "meaning": "poor thing, how pitiful"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:50",
+    "end": "00:55",
+    "text": "それだったらクスリウオがいいかもしれないわね",
+    "audio_file": "clip_009.mp3",
+    "translation": "In that case, a Medicinal Fish might be good.",
+    "vocabulary": [
+      {"word": "それだったら", "reading": "それだったら", "meaning": "if that's the case"},
+      {"word": "クスリウオ", "reading": "くすりうお", "meaning": "Medicinal Fish (medicine fish)"},
+      {"word": "いいかもしれない", "reading": "いいかもしれない", "meaning": "might be good"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:55",
+    "end": "00:58",
+    "text": "クスリウオ?",
+    "audio_file": "clip_010.mp3",
+    "translation": "Medicinal Fish?",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "00:58",
+    "end": "01:05",
+    "text": "海岸の町で獲れる魚なんだけど、強い鎮痛作用があるって聞いたことがあるわ",
+    "audio_file": "clip_011.mp3",
+    "translation": "It's a fish caught in the Seafront, and I've heard it has strong painkilling effects.",
+    "vocabulary": [
+      {"word": "海岸の町", "reading": "かいがんのまち", "meaning": "Seafront (coastal town)"},
+      {"word": "獲れる", "reading": "とれる", "meaning": "can be caught"},
+      {"word": "魚", "reading": "さかな", "meaning": "fish"},
+      {"word": "強い", "reading": "つよい", "meaning": "strong"},
+      {"word": "鎮痛作用", "reading": "ちんつうさよう", "meaning": "painkilling effect"},
+      {"word": "聞いたことがある", "reading": "きいたことがある", "meaning": "have heard"}
+    ],
+    "grammar": "〜たことがある indicates having experienced something before."
+  },
+  {
+    "start": "01:05",
+    "end": "01:07",
+    "text": "わかりました、ありがとう",
+    "audio_file": "clip_012.mp3",
+    "translation": "I understand. Thank you.",
+    "vocabulary": [
+      {"word": "わかりました", "reading": "わかりました", "meaning": "I understand"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "01:08",
+    "end": "01:13",
+    "text": "海岸の街は南平原の先にあるんだけれど",
+    "audio_file": "clip_013.mp3",
+    "translation": "The Seafront is beyond the Southern Plains, but...",
+    "vocabulary": [
+      {"word": "海岸の街", "reading": "かいがんのまち", "meaning": "Seafront (coastal town)"},
+      {"word": "南平原", "reading": "みなみへいげん", "meaning": "Southern Plains"},
+      {"word": "先", "reading": "さき", "meaning": "beyond, ahead"},
+      {"word": "けれど", "reading": "けれど", "meaning": "but"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "01:13",
+    "end": "01:17",
+    "text": "最近は魔物が出るって聞くから気をつけてね",
+    "audio_file": "clip_014.mp3",
+    "translation": "I hear monsters have been appearing there recently, so be careful.",
+    "vocabulary": [
+      {"word": "最近", "reading": "さいきん", "meaning": "recently"},
+      {"word": "魔物", "reading": "まもの", "meaning": "monster"},
+      {"word": "出る", "reading": "でる", "meaning": "to appear"},
+      {"word": "聞く", "reading": "きく", "meaning": "to hear"},
+      {"word": "気をつけて", "reading": "きをつけて", "meaning": "be careful"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "01:41",
+    "end": "01:46",
+    "text": "どうにも疲れるね",
+    "audio_file": "clip_015.mp3",
+    "translation": "It's really tiring.",
+    "vocabulary": [
+      {"word": "どうにも", "reading": "どうにも", "meaning": "really, no matter what"},
+      {"word": "疲れる", "reading": "つかれる", "meaning": "to get tired"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "01:47",
+    "end": "01:52",
+    "text": "この年で海岸を登るのはつらいね",
+    "audio_file": "clip_016.mp3",
+    "translation": "Climbing this coast at my age is hard.",
+    "vocabulary": [
+      {"word": "この年", "reading": "このとし", "meaning": "at this age"},
+      {"word": "海岸", "reading": "かいがん", "meaning": "coast"},
+      {"word": "登る", "reading": "のぼる", "meaning": "to climb"},
+      {"word": "つらい", "reading": "つらい", "meaning": "hard, difficult"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "01:53",
+    "end": "01:59",
+    "text": "でも今日こそあの人は戻ってくるかもしれない",
+    "audio_file": "clip_017.mp3",
+    "translation": "But today might be the day that person comes back.",
+    "vocabulary": [
+      {"word": "でも", "reading": "でも", "meaning": "but"},
+      {"word": "今日こそ", "reading": "きょうこそ", "meaning": "today for sure"},
+      {"word": "あの人", "reading": "あのひと", "meaning": "that person"},
+      {"word": "戻ってくる", "reading": "もどってくる", "meaning": "to come back"},
+      {"word": "かもしれない", "reading": "かもしれない", "meaning": "might"}
+    ],
+    "grammar": "〜こそ adds emphasis meaning 'for sure' or 'definitely'."
+  },
+  {
+    "start": "02:00",
+    "end": "02:07",
+    "text": "灯台の明かりを消したままになんてできない",
+    "audio_file": "clip_018.mp3",
+    "translation": "I can't leave the lighthouse light off.",
+    "vocabulary": [
+      {"word": "灯台", "reading": "とうだい", "meaning": "lighthouse"},
+      {"word": "明かり", "reading": "あかり", "meaning": "light"},
+      {"word": "消した", "reading": "けした", "meaning": "turned off"},
+      {"word": "まま", "reading": "まま", "meaning": "as is, left"},
+      {"word": "できない", "reading": "できない", "meaning": "can't do"}
+    ],
+    "grammar": "〜たままにする means 'to leave something as is'."
+  },
+  {
+    "start": "02:08",
+    "end": "02:14",
+    "text": "薬をか / 無闇に探しても見つかるわけではないが",
+    "audio_file": "clip_019.mp3",
+    "translation": "Medicine, huh. / Just searching randomly won't find it, but...",
+    "vocabulary": [
+      {"word": "薬", "reading": "くすり", "meaning": "medicine"},
+      {"word": "無闇に", "reading": "むやみに", "meaning": "randomly, blindly"},
+      {"word": "探しても", "reading": "さがしても", "meaning": "even if you search"},
+      {"word": "見つかる", "reading": "みつかる", "meaning": "to be found"},
+      {"word": "わけではない", "reading": "わけではない", "meaning": "it's not the case that"}
+    ],
+    "grammar": "〜わけではない means 'it's not necessarily the case that ~'."
+  },
+  {
+    "start": "02:15",
+    "end": "02:18",
+    "text": "どうしようどんな魚かもわからないし",
+    "audio_file": "clip_020.mp3",
+    "translation": "What should I do? I don't even know what kind of fish it is.",
+    "vocabulary": [
+      {"word": "どうしよう", "reading": "どうしよう", "meaning": "what should I do"},
+      {"word": "どんな", "reading": "どんな", "meaning": "what kind of"},
+      {"word": "魚", "reading": "さかな", "meaning": "fish"},
+      {"word": "わからない", "reading": "わからない", "meaning": "don't know"},
+      {"word": "し", "reading": "し", "meaning": "and, besides"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:19",
+    "end": "02:23",
+    "text": "ひとまず町の住民に話を聞いてみるのがよかろう",
+    "audio_file": "clip_021.mp3",
+    "translation": "For now, it would be best to ask the townspeople.",
+    "vocabulary": [
+      {"word": "ひとまず", "reading": "ひとまず", "meaning": "for now, first of all"},
+      {"word": "町", "reading": "まち", "meaning": "town"},
+      {"word": "住民", "reading": "じゅうみん", "meaning": "residents"},
+      {"word": "話を聞いてみる", "reading": "はなしをきいてみる", "meaning": "to try asking"},
+      {"word": "よかろう", "reading": "よかろう", "meaning": "would be good (archaic)"}
+    ],
+    "grammar": "よかろう is an archaic form of いいだろう."
+  },
+  {
+    "start": "02:24",
+    "end": "02:31",
+    "text": "そうだねお店で売ってるかもしれないし",
+    "audio_file": "clip_022.mp3",
+    "translation": "That's right. They might sell it at a shop too.",
+    "vocabulary": [
+      {"word": "そうだね", "reading": "そうだね", "meaning": "that's right"},
+      {"word": "お店", "reading": "おみせ", "meaning": "shop"},
+      {"word": "売ってる", "reading": "うってる", "meaning": "selling"},
+      {"word": "かもしれない", "reading": "かもしれない", "meaning": "might"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:32",
+    "end": "02:38",
+    "text": "薬を?それなら魚屋に売ってるはずだよ / はい。",
+    "audio_file": "clip_023.mp3",
+    "translation": "Medicine? The fish shop should have it. / Okay.",
+    "vocabulary": [
+      {"word": "魚屋", "reading": "さかなや", "meaning": "fish shop"},
+      {"word": "売ってる", "reading": "うってる", "meaning": "selling"},
+      {"word": "はず", "reading": "はず", "meaning": "should, supposed to"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:39",
+    "end": "02:46",
+    "text": "クスリウオかい? 今日はまだ魚の入荷がないんだ。 すまないね。",
+    "audio_file": "clip_024.mp3",
+    "translation": "Medicinal Fish? We haven't gotten any fish shipments today yet. Sorry.",
+    "vocabulary": [
+      {"word": "かい", "reading": "かい", "meaning": "question marker (casual)"},
+      {"word": "今日", "reading": "きょう", "meaning": "today"},
+      {"word": "まだ", "reading": "まだ", "meaning": "yet, still"},
+      {"word": "入荷", "reading": "にゅうか", "meaning": "shipment, stock"},
+      {"word": "ない", "reading": "ない", "meaning": "there isn't"},
+      {"word": "すまない", "reading": "すまない", "meaning": "sorry"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:49",
+    "end": "02:56",
+    "text": "何?クスリウオ? ああ、そんなんならすぐ釣れるだろう。",
+    "audio_file": "clip_025.mp3",
+    "translation": "What? Medicinal Fish? Oh, you should be able to catch that easily.",
+    "vocabulary": [
+      {"word": "そんなん", "reading": "そんなん", "meaning": "something like that"},
+      {"word": "すぐ", "reading": "すぐ", "meaning": "easily, quickly"},
+      {"word": "釣れる", "reading": "つれる", "meaning": "can be caught (fishing)"},
+      {"word": "だろう", "reading": "だろう", "meaning": "probably"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:57",
+    "end": "03:03",
+    "text": "ここじゃ釣れないんだよ。竿をやるから自分で釣ってこい。",
+    "audio_file": "clip_026.mp3",
+    "translation": "You can't catch it here. I'll give you a rod, so go catch it yourself.",
+    "vocabulary": [
+      {"word": "ここじゃ", "reading": "ここじゃ", "meaning": "here (casual)"},
+      {"word": "釣れない", "reading": "つれない", "meaning": "can't catch"},
+      {"word": "竿", "reading": "さお", "meaning": "rod, fishing rod"},
+      {"word": "やる", "reading": "やる", "meaning": "to give"},
+      {"word": "自分で", "reading": "じぶんで", "meaning": "by yourself"},
+      {"word": "釣ってこい", "reading": "つってこい", "meaning": "go catch (imperative)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:04",
+    "end": "03:07",
+    "text": "釣竜は西の入江で釣れるぞ。",
+    "audio_file": "clip_027.mp3",
+    "translation": "That fish can be caught in the western inlet.",
+    "vocabulary": [
+      {"word": "西", "reading": "にし", "meaning": "west"},
+      {"word": "入江", "reading": "いりえ", "meaning": "inlet, cove"},
+      {"word": "釣れる", "reading": "つれる", "meaning": "can be caught"},
+      {"word": "ぞ", "reading": "ぞ", "meaning": "emphasis (masculine)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:08",
+    "end": "03:12",
+    "text": "釣り方?そんなことも知らないのか。",
+    "audio_file": "clip_028.mp3",
+    "translation": "How to fish? You don't even know that?",
+    "vocabulary": [
+      {"word": "釣り方", "reading": "つりかた", "meaning": "how to fish, fishing method"},
+      {"word": "そんなこと", "reading": "そんなこと", "meaning": "such a thing"},
+      {"word": "知らない", "reading": "しらない", "meaning": "don't know"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:13",
+    "end": "03:18",
+    "text": "魚の動きとは逆方向に体を動かすだけだ。",
+    "audio_file": "clip_029.mp3",
+    "translation": "You just move your body in the opposite direction of the fish's movement.",
+    "vocabulary": [
+      {"word": "魚", "reading": "さかな", "meaning": "fish"},
+      {"word": "動き", "reading": "うごき", "meaning": "movement"},
+      {"word": "逆方向", "reading": "ぎゃくほうこう", "meaning": "opposite direction"},
+      {"word": "体", "reading": "からだ", "meaning": "body"},
+      {"word": "動かす", "reading": "うごかす", "meaning": "to move"},
+      {"word": "だけ", "reading": "だけ", "meaning": "just, only"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:19",
+    "end": "03:25",
+    "text": "ほら、ルアもやろう。 / 釣りは魚との体力勝負だからな。",
+    "audio_file": "clip_030.mp3",
+    "translation": "Here, I'll give you a lure too. / Fishing is a stamina battle with the fish.",
+    "vocabulary": [
+      {"word": "ほら", "reading": "ほら", "meaning": "here, look"},
+      {"word": "ルア", "reading": "ルア", "meaning": "lure"},
+      {"word": "やろう", "reading": "やろう", "meaning": "I'll give you"},
+      {"word": "釣り", "reading": "つり", "meaning": "fishing"},
+      {"word": "体力勝負", "reading": "たいりょくしょうぶ", "meaning": "stamina battle"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:26",
+    "end": "04:04",
+    "text": "干杯",
+    "audio_file": "clip_031.mp3",
+    "translation": "(Transcription error - Chinese text)",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "04:05",
+    "end": "04:08",
+    "text": "よしこれをヨナに持って帰ろう",
+    "audio_file": "clip_032.mp3",
+    "translation": "Alright, let's bring this back to Yona.",
+    "vocabulary": [
+      {"word": "よし", "reading": "よし", "meaning": "alright, okay"},
+      {"word": "これ", "reading": "これ", "meaning": "this"},
+      {"word": "持って帰ろう", "reading": "もってかえろう", "meaning": "let's bring back"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:19",
+    "end": "04:28",
+    "text": "どうにも疲れるね",
+    "audio_file": "clip_033.mp3",
+    "translation": "It's really tiring.",
+    "vocabulary": [
+      {"word": "どうにも", "reading": "どうにも", "meaning": "really, no matter what"},
+      {"word": "疲れる", "reading": "つかれる", "meaning": "to get tired"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:29",
+    "end": "04:30",
+    "text": "ちょっと",
+    "audio_file": "clip_034.mp3",
+    "translation": "Hey...",
+    "vocabulary": [
+      {"word": "ちょっと", "reading": "ちょっと", "meaning": "hey, excuse me"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:31",
+    "end": "04:35",
+    "text": "ちょっと / ここだよ",
+    "audio_file": "clip_035.mp3",
+    "translation": "Hey! / Over here!",
+    "vocabulary": [
+      {"word": "ここだよ", "reading": "ここだよ", "meaning": "here, over here"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:39",
+    "end": "04:45",
+    "text": "こんな老婆が大変そうにしているのに / 見て見ぬ振りかい",
+    "audio_file": "clip_036.mp3",
+    "translation": "An old woman is struggling here, / and you're pretending not to see?",
+    "vocabulary": [
+      {"word": "こんな", "reading": "こんな", "meaning": "such, like this"},
+      {"word": "老婆", "reading": "ろうば", "meaning": "old woman"},
+      {"word": "大変そう", "reading": "たいへんそう", "meaning": "seems to be struggling"},
+      {"word": "見て見ぬ振り", "reading": "みてみぬふり", "meaning": "pretending not to see"}
+    ],
+    "grammar": "見て見ぬ振り is an idiom meaning 'to turn a blind eye'."
+  },
+  {
+    "start": "04:46",
+    "end": "04:51",
+    "text": "まったく最近の若いこと聞か / 血も涙もありゃしない",
+    "audio_file": "clip_037.mp3",
+    "translation": "Good grief, young people these days... / They have no heart at all.",
+    "vocabulary": [
+      {"word": "まったく", "reading": "まったく", "meaning": "good grief, really"},
+      {"word": "最近", "reading": "さいきん", "meaning": "recently, these days"},
+      {"word": "若い", "reading": "わかい", "meaning": "young"},
+      {"word": "血も涙もない", "reading": "ちもなみだもない", "meaning": "heartless, cold-blooded"}
+    ],
+    "grammar": "血も涙もない is an idiom meaning 'heartless' or 'cold-blooded'."
+  },
+  {
+    "start": "04:52",
+    "end": "04:55",
+    "text": "え、僕のこと?",
+    "audio_file": "clip_038.mp3",
+    "translation": "Huh? Are you talking about me?",
+    "vocabulary": [
+      {"word": "僕のこと", "reading": "ぼくのこと", "meaning": "about me"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:56",
+    "end": "05:07",
+    "text": "よせ、足を止めるな / こういう手合いは無視が得策であるぞ",
+    "audio_file": "clip_039.mp3",
+    "translation": "Stop, don't slow down. / The best strategy is to ignore this type of person.",
+    "vocabulary": [
+      {"word": "よせ", "reading": "よせ", "meaning": "stop it"},
+      {"word": "足を止める", "reading": "あしをとめる", "meaning": "to stop walking"},
+      {"word": "手合い", "reading": "てあい", "meaning": "type of person, sort"},
+      {"word": "無視", "reading": "むし", "meaning": "ignoring"},
+      {"word": "得策", "reading": "とくさく", "meaning": "good policy, best strategy"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:08",
+    "end": "05:17",
+    "text": "おばあちゃん、どうしたの? / 喋る本なんて機械なものを見たせいか / 寿命が悪化して",
+    "audio_file": "clip_040.mp3",
+    "translation": "Grandma, what's wrong? / Seeing something strange like a talking book... / My lifespan seems to be shortening.",
+    "vocabulary": [
+      {"word": "おばあちゃん", "reading": "おばあちゃん", "meaning": "grandma, old woman"},
+      {"word": "どうしたの", "reading": "どうしたの", "meaning": "what's wrong"},
+      {"word": "喋る", "reading": "しゃべる", "meaning": "to talk"},
+      {"word": "本", "reading": "ほん", "meaning": "book"},
+      {"word": "奇怪な", "reading": "きかいな", "meaning": "strange, bizarre"},
+      {"word": "寿命", "reading": "じゅみょう", "meaning": "lifespan"},
+      {"word": "悪化して", "reading": "あっかして", "meaning": "getting worse"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:18",
+    "end": "05:21",
+    "text": "我が機械だと、失敬であるぞ",
+    "audio_file": "clip_041.mp3",
+    "translation": "Calling me strange is rude!",
+    "vocabulary": [
+      {"word": "我", "reading": "われ", "meaning": "I (archaic)"},
+      {"word": "奇怪", "reading": "きかい", "meaning": "strange"},
+      {"word": "失敬", "reading": "しっけい", "meaning": "rude, impolite"},
+      {"word": "であるぞ", "reading": "であるぞ", "meaning": "is (archaic emphatic)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:22",
+    "end": "05:29",
+    "text": "何が失敬なものか / 君が悪いから機械って言ったまでだよ",
+    "audio_file": "clip_042.mp3",
+    "translation": "How is that rude? / I only said that because you look so weird.",
+    "vocabulary": [
+      {"word": "何が", "reading": "なにが", "meaning": "what (indignant)"},
+      {"word": "君が悪い", "reading": "きみがわるい", "meaning": "creepy, weird-looking"},
+      {"word": "言ったまで", "reading": "いったまで", "meaning": "just said"}
+    ],
+    "grammar": "気味が悪い means 'creepy' or 'weird'."
+  },
+  {
+    "start": "05:30",
+    "end": "05:33",
+    "text": "この、言わせておけば、貴様",
+    "audio_file": "clip_043.mp3",
+    "translation": "You... If I let you keep talking...",
+    "vocabulary": [
+      {"word": "言わせておけば", "reading": "いわせておけば", "meaning": "if I let you keep talking"},
+      {"word": "貴様", "reading": "きさま", "meaning": "you (very rude)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:34",
+    "end": "05:41",
+    "text": "ちょ、ちょっとシロ / ちょっとお待ちよ / かわいそうな老婆を放っておく機械",
+    "audio_file": "clip_044.mp3",
+    "translation": "H-hey, Shiro! / Wait a moment! / You'd leave a poor old woman alone?",
+    "vocabulary": [
+      {"word": "お待ちよ", "reading": "おまちよ", "meaning": "wait (polite)"},
+      {"word": "かわいそうな", "reading": "かわいそうな", "meaning": "poor, pitiful"},
+      {"word": "放っておく", "reading": "ほうっておく", "meaning": "to leave alone, to ignore"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:42",
+    "end": "05:44",
+    "text": "かわいそうなものか",
+    "audio_file": "clip_045.mp3",
+    "translation": "Pitiful? Hardly!",
+    "vocabulary": [
+      {"word": "ものか", "reading": "ものか", "meaning": "as if, hardly (emphatic denial)"}
+    ],
+    "grammar": "〜ものか is an emphatic denial meaning 'as if!' or 'no way!'."
+  },
+  {
+    "start": "05:47",
+    "end": "05:51",
+    "text": "えっと、どうしたの?おばあちゃん",
+    "audio_file": "clip_046.mp3",
+    "translation": "Um, what's wrong, grandma?",
+    "vocabulary": [
+      {"word": "えっと", "reading": "えっと", "meaning": "um, well"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:52",
+    "end": "05:57",
+    "text": "もうちょっと早く助けてくれてもいいんじゃないのかね",
+    "audio_file": "clip_047.mp3",
+    "translation": "Couldn't you have helped me a little sooner?",
+    "vocabulary": [
+      {"word": "もうちょっと", "reading": "もうちょっと", "meaning": "a little more"},
+      {"word": "早く", "reading": "はやく", "meaning": "quickly, sooner"},
+      {"word": "助けてくれても", "reading": "たすけてくれても", "meaning": "even if you help"},
+      {"word": "いいんじゃないのかね", "reading": "いいんじゃないのかね", "meaning": "isn't it okay (complaining)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:58",
+    "end": "06:00",
+    "text": "ごめんなさい",
+    "audio_file": "clip_048.mp3",
+    "translation": "I'm sorry.",
+    "vocabulary": [
+      {"word": "ごめんなさい", "reading": "ごめんなさい", "meaning": "I'm sorry"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:01",
+    "end": "06:05",
+    "text": "それだけ口が回れば大抵の用事はこなせそうだが",
+    "audio_file": "clip_049.mp3",
+    "translation": "With a tongue like that, you should be able to handle most errands.",
+    "vocabulary": [
+      {"word": "口が回る", "reading": "くちがまわる", "meaning": "to be articulate, to have a sharp tongue"},
+      {"word": "大抵", "reading": "たいてい", "meaning": "most, usually"},
+      {"word": "用事", "reading": "ようじ", "meaning": "errand, task"},
+      {"word": "こなせそう", "reading": "こなせそう", "meaning": "seems able to handle"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:06",
+    "end": "06:17",
+    "text": "我らに何を頼みたいのだ / 郵便局まで行って、あたしあての手紙をさっさと届けるように言ってくれないからね",
+    "audio_file": "clip_050.mp3",
+    "translation": "What do you want to ask us? / Go to the post office and tell them to hurry up and deliver my letters!",
+    "vocabulary": [
+      {"word": "我ら", "reading": "われら", "meaning": "we (archaic)"},
+      {"word": "頼みたい", "reading": "たのみたい", "meaning": "want to ask"},
+      {"word": "郵便局", "reading": "ゆうびんきょく", "meaning": "post office"},
+      {"word": "あたしあて", "reading": "あたしあて", "meaning": "addressed to me"},
+      {"word": "手紙", "reading": "てがみ", "meaning": "letter"},
+      {"word": "さっさと", "reading": "さっさと", "meaning": "quickly, hurry up"},
+      {"word": "届ける", "reading": "とどける", "meaning": "to deliver"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:18",
+    "end": "06:23",
+    "text": "そんなくらい自分で",
+    "audio_file": "clip_051.mp3",
+    "translation": "Something like that, you can do yourself...",
+    "vocabulary": [
+      {"word": "そんなくらい", "reading": "そんなくらい", "meaning": "something like that"},
+      {"word": "自分で", "reading": "じぶんで", "meaning": "by yourself"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:24",
+    "end": "06:27",
+    "text": "わかった、行く行く、行きます",
+    "audio_file": "clip_052.mp3",
+    "translation": "Okay, I'll go, I'll go, I'm going.",
+    "vocabulary": [
+      {"word": "わかった", "reading": "わかった", "meaning": "understood"},
+      {"word": "行く", "reading": "いく", "meaning": "to go"},
+      {"word": "行きます", "reading": "いきます", "meaning": "I will go (polite)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:32",
+    "end": "06:35",
+    "text": "やあ、いらっしゃい",
+    "audio_file": "clip_053.mp3",
+    "translation": "Hey, welcome!",
+    "vocabulary": [
+      {"word": "やあ", "reading": "やあ", "meaning": "hey, hi"},
+      {"word": "いらっしゃい", "reading": "いらっしゃい", "meaning": "welcome"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:36",
+    "end": "06:41",
+    "text": "あの入り出会ったおばあちゃんが自分宛ての手紙が来ているはずだって",
+    "audio_file": "clip_054.mp3",
+    "translation": "The old lady I met at the entrance said there should be a letter for her.",
+    "vocabulary": [
+      {"word": "入り", "reading": "いり", "meaning": "entrance"},
+      {"word": "出会った", "reading": "であった", "meaning": "met"},
+      {"word": "自分宛て", "reading": "じぶんあて", "meaning": "addressed to oneself"},
+      {"word": "来ている", "reading": "きている", "meaning": "has arrived"},
+      {"word": "はず", "reading": "はず", "meaning": "should, supposed to"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:42",
+    "end": "06:51",
+    "text": "ああ東大のばあさんか / いかにもあのうるさい老婆にさっさと手紙を届け",
+    "audio_file": "clip_055.mp3",
+    "translation": "Oh, the lighthouse grandma? / Indeed, hurry and deliver the letter to that noisy old lady...",
+    "vocabulary": [
+      {"word": "灯台", "reading": "とうだい", "meaning": "lighthouse"},
+      {"word": "ばあさん", "reading": "ばあさん", "meaning": "old woman (casual)"},
+      {"word": "いかにも", "reading": "いかにも", "meaning": "indeed, certainly"},
+      {"word": "うるさい", "reading": "うるさい", "meaning": "noisy, annoying"},
+      {"word": "老婆", "reading": "ろうば", "meaning": "old woman"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:51",
+    "end": "06:58",
+    "text": "届けたいのは山々なんだけどちょっと足を怪我してしまって",
+    "audio_file": "clip_056.mp3",
+    "translation": "I really want to deliver it, but I injured my leg a bit.",
+    "vocabulary": [
+      {"word": "届けたい", "reading": "とどけたい", "meaning": "want to deliver"},
+      {"word": "山々", "reading": "やまやま", "meaning": "really want to, would love to"},
+      {"word": "足", "reading": "あし", "meaning": "leg"},
+      {"word": "怪我してしまって", "reading": "けがしてしまって", "meaning": "got injured"}
+    ],
+    "grammar": "〜したいのは山々だけど is an idiom meaning 'I'd really like to ~ but'."
+  },
+  {
+    "start": "06:59",
+    "end": "07:04",
+    "text": "そうかそれは大変ですね / あ、いいこと思いついた",
+    "audio_file": "clip_057.mp3",
+    "translation": "I see, that's tough. / Ah, I just thought of something good.",
+    "vocabulary": [
+      {"word": "大変", "reading": "たいへん", "meaning": "tough, difficult"},
+      {"word": "いいこと", "reading": "いいこと", "meaning": "good idea"},
+      {"word": "思いついた", "reading": "おもいついた", "meaning": "thought of, came up with"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "07:05",
+    "end": "07:09",
+    "text": "やめろ、口に出すな / いいことなわけがない",
+    "audio_file": "clip_058.mp3",
+    "translation": "Stop, don't say it! / There's no way it's anything good.",
+    "vocabulary": [
+      {"word": "やめろ", "reading": "やめろ", "meaning": "stop (imperative)"},
+      {"word": "口に出す", "reading": "くちにだす", "meaning": "to say aloud"},
+      {"word": "わけがない", "reading": "わけがない", "meaning": "there's no way"}
+    ],
+    "grammar": "〜わけがない means 'there's no way that ~'."
+  },
+  {
+    "start": "07:10",
+    "end": "07:13",
+    "text": "絶対違う、我はわかっておるのだぞ",
+    "audio_file": "clip_059.mp3",
+    "translation": "Definitely not! I know what you're thinking!",
+    "vocabulary": [
+      {"word": "絶対", "reading": "ぜったい", "meaning": "definitely"},
+      {"word": "違う", "reading": "ちがう", "meaning": "wrong, different"},
+      {"word": "わかっておる", "reading": "わかっておる", "meaning": "I understand (archaic)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "07:14",
+    "end": "07:17",
+    "text": "僕が配達員さんの代わりに届けます",
+    "audio_file": "clip_060.mp3",
+    "translation": "I'll deliver it in place of the delivery person.",
+    "vocabulary": [
+      {"word": "配達員", "reading": "はいたついん", "meaning": "delivery person"},
+      {"word": "代わりに", "reading": "かわりに", "meaning": "in place of"},
+      {"word": "届けます", "reading": "とどけます", "meaning": "will deliver"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "07:18",
+    "end": "07:21",
+    "text": "すまないね、気をつけるんだよ",
+    "audio_file": "clip_061.mp3",
+    "translation": "Sorry about that. Be careful.",
+    "vocabulary": [
+      {"word": "すまないね", "reading": "すまないね", "meaning": "sorry about that"},
+      {"word": "気をつける", "reading": "きをつける", "meaning": "to be careful"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "07:22",
+    "end": "07:25",
+    "text": "あの婆さん、一筋縄ではいかない性格だから",
+    "audio_file": "clip_062.mp3",
+    "translation": "That old lady has a difficult personality.",
+    "vocabulary": [
+      {"word": "婆さん", "reading": "ばあさん", "meaning": "old woman"},
+      {"word": "一筋縄ではいかない", "reading": "ひとすじなわではいかない", "meaning": "not straightforward, difficult"},
+      {"word": "性格", "reading": "せいかく", "meaning": "personality"}
+    ],
+    "grammar": "一筋縄ではいかない is an idiom meaning 'not easy to deal with'."
+  },
+  {
+    "start": "07:26",
+    "end": "07:36",
+    "text": "知っておる",
+    "audio_file": "clip_063.mp3",
+    "translation": "I know.",
+    "vocabulary": [
+      {"word": "知っておる", "reading": "しっておる", "meaning": "I know (archaic)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "07:37",
+    "end": "07:42",
+    "text": "今度は何だ / 君たちはポポロさんの村からやってきたのか",
+    "audio_file": "clip_064.mp3",
+    "translation": "What now? / Did you come from Popola's village?",
+    "vocabulary": [
+      {"word": "今度は", "reading": "こんどは", "meaning": "this time, now"},
+      {"word": "何だ", "reading": "なんだ", "meaning": "what is it"},
+      {"word": "やってきた", "reading": "やってきた", "meaning": "came from"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "07:43",
+    "end": "07:51",
+    "text": "そうだよどうしてわかったの / 服がちょっと違うし / ここらの人とは雰囲気が違うからさ",
+    "audio_file": "clip_065.mp3",
+    "translation": "Yeah, how did you know? / Your clothes are a bit different, / and you have a different atmosphere from the locals.",
+    "vocabulary": [
+      {"word": "どうして", "reading": "どうして", "meaning": "how, why"},
+      {"word": "わかった", "reading": "わかった", "meaning": "knew"},
+      {"word": "服", "reading": "ふく", "meaning": "clothes"},
+      {"word": "違う", "reading": "ちがう", "meaning": "different"},
+      {"word": "ここら", "reading": "ここら", "meaning": "around here"},
+      {"word": "雰囲気", "reading": "ふんいき", "meaning": "atmosphere, vibe"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "07:52",
+    "end": "07:58",
+    "text": "もしよかったら村に戻った時に / この手紙をポポルさんに渡してくれないか?",
+    "audio_file": "clip_066.mp3",
+    "translation": "If it's okay, could you give this letter to Popola when you return to the village?",
+    "vocabulary": [
+      {"word": "もしよかったら", "reading": "もしよかったら", "meaning": "if it's okay"},
+      {"word": "戻った時に", "reading": "もどったときに", "meaning": "when you return"},
+      {"word": "渡してくれないか", "reading": "わたしてくれないか", "meaning": "could you give"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "07:59",
+    "end": "08:01",
+    "text": "もちろん",
+    "audio_file": "clip_067.mp3",
+    "translation": "Of course.",
+    "vocabulary": [
+      {"word": "もちろん", "reading": "もちろん", "meaning": "of course"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "08:02",
+    "end": "08:05",
+    "text": "まったく / この調子なら",
+    "audio_file": "clip_068.mp3",
+    "translation": "Good grief. / At this rate...",
+    "vocabulary": [
+      {"word": "まったく", "reading": "まったく", "meaning": "good grief"},
+      {"word": "この調子", "reading": "このちょうし", "meaning": "at this rate"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "08:06",
+    "end": "08:10",
+    "text": "郵便配達員に転職した方が良いな",
+    "audio_file": "clip_069.mp3",
+    "translation": "You might as well become a mail carrier.",
+    "vocabulary": [
+      {"word": "郵便配達員", "reading": "ゆうびんはいたついん", "meaning": "mail carrier"},
+      {"word": "転職", "reading": "てんしょく", "meaning": "change jobs"},
+      {"word": "した方が良い", "reading": "したほうがいい", "meaning": "would be better to"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "08:13",
+    "end": "08:18",
+    "text": "いないようだな / あのローは",
+    "audio_file": "clip_070.mp3",
+    "translation": "She doesn't seem to be here. / That old woman...",
+    "vocabulary": [
+      {"word": "いない", "reading": "いない", "meaning": "not here"},
+      {"word": "ようだ", "reading": "ようだ", "meaning": "seems like"},
+      {"word": "老婆", "reading": "ろうば", "meaning": "old woman"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "08:19",
+    "end": "08:29",
+    "text": "確か東大の婆さんって言ってたから / 東大に行ってみよう",
+    "audio_file": "clip_071.mp3",
+    "translation": "I think they said the lighthouse grandma, / so let's go to the lighthouse.",
+    "vocabulary": [
+      {"word": "確か", "reading": "たしか", "meaning": "I think, if I remember correctly"},
+      {"word": "灯台", "reading": "とうだい", "meaning": "lighthouse"},
+      {"word": "言ってた", "reading": "いってた", "meaning": "said"},
+      {"word": "行ってみよう", "reading": "いってみよう", "meaning": "let's go and see"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "08:30",
+    "end": "09:01",
+    "text": "まったく面倒な話だ",
+    "audio_file": "clip_072.mp3",
+    "translation": "What a troublesome situation.",
+    "vocabulary": [
+      {"word": "面倒な", "reading": "めんどうな", "meaning": "troublesome"},
+      {"word": "話", "reading": "はなし", "meaning": "story, situation"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "09:02",
+    "end": "09:07",
+    "text": "あのー / なんであんたかい",
+    "audio_file": "clip_073.mp3",
+    "translation": "Um... / Oh, it's you again?",
+    "vocabulary": [
+      {"word": "あのー", "reading": "あのー", "meaning": "um, excuse me"},
+      {"word": "あんた", "reading": "あんた", "meaning": "you (casual)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "09:08",
+    "end": "09:13",
+    "text": "何しに来たい / 望み通り手紙を届けに来たのだ",
+    "audio_file": "clip_074.mp3",
+    "translation": "What did you come for? / I came to deliver the letter as you wished.",
+    "vocabulary": [
+      {"word": "何しに", "reading": "なにしに", "meaning": "what for"},
+      {"word": "来た", "reading": "きた", "meaning": "came"},
+      {"word": "望み通り", "reading": "のぞみどおり", "meaning": "as wished"},
+      {"word": "届けに来た", "reading": "とどけにきた", "meaning": "came to deliver"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "09:14",
+    "end": "09:18",
+    "text": "配達員さん怪我しちゃったらしくて / 怪我",
+    "audio_file": "clip_075.mp3",
+    "translation": "The delivery person got injured, apparently. / Injured?",
+    "vocabulary": [
+      {"word": "怪我", "reading": "けが", "meaning": "injury"},
+      {"word": "しちゃった", "reading": "しちゃった", "meaning": "ended up doing (casual)"},
+      {"word": "らしくて", "reading": "らしくて", "meaning": "apparently"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "09:19",
+    "end": "09:25",
+    "text": "はっ、まったく使えない配達員だよ。どーりで手紙が来ないはずだ。",
+    "audio_file": "clip_076.mp3",
+    "translation": "Hmph, what a useless delivery person. No wonder no letters were coming.",
+    "vocabulary": [
+      {"word": "はっ", "reading": "はっ", "meaning": "hmph (dismissive)"},
+      {"word": "使えない", "reading": "つかえない", "meaning": "useless"},
+      {"word": "どーりで", "reading": "どーりで", "meaning": "no wonder"},
+      {"word": "来ないはず", "reading": "こないはず", "meaning": "no wonder they weren't coming"}
+    ],
+    "grammar": "どうりで is an expression meaning 'no wonder' or 'that explains it'."
+  },
+  {
+    "start": "09:26",
+    "end": "09:29",
+    "text": "手紙をくれる相手がおったとはな。",
+    "audio_file": "clip_077.mp3",
+    "translation": "So there really is someone who sends you letters.",
+    "vocabulary": [
+      {"word": "手紙", "reading": "てがみ", "meaning": "letter"},
+      {"word": "くれる", "reading": "くれる", "meaning": "to give (to speaker)"},
+      {"word": "相手", "reading": "あいて", "meaning": "person, partner"},
+      {"word": "おった", "reading": "おった", "meaning": "there was (archaic)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "09:30",
+    "end": "09:36",
+    "text": "大事な人だよ。あたしの大事な人さ。",
+    "audio_file": "clip_078.mp3",
+    "translation": "It's from someone important. My precious person.",
+    "vocabulary": [
+      {"word": "大事な", "reading": "だいじな", "meaning": "important, precious"},
+      {"word": "人", "reading": "ひと", "meaning": "person"},
+      {"word": "あたし", "reading": "あたし", "meaning": "I (feminine)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "09:37",
+    "end": "10:06",
+    "text": "ま、届けてくれたお礼だけはやろうかね。",
+    "audio_file": "clip_079.mp3",
+    "translation": "Well, I'll at least give you something for delivering it.",
+    "vocabulary": [
+      {"word": "届けてくれた", "reading": "とどけてくれた", "meaning": "delivered (for me)"},
+      {"word": "お礼", "reading": "おれい", "meaning": "thanks, reward"},
+      {"word": "だけは", "reading": "だけは", "meaning": "at least"},
+      {"word": "やろうかね", "reading": "やろうかね", "meaning": "I'll give"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "10:07",
+    "end": "10:10",
+    "text": "ヨナに早く薬イゴを食べさせないと",
+    "audio_file": "clip_080.mp3",
+    "translation": "I need to get Yona to eat the medicinal fish quickly.",
+    "vocabulary": [
+      {"word": "早く", "reading": "はやく", "meaning": "quickly"},
+      {"word": "薬魚", "reading": "くすりうお", "meaning": "medicinal fish"},
+      {"word": "食べさせないと", "reading": "たべさせないと", "meaning": "have to make eat"}
+    ],
+    "grammar": "〜させないと means 'have to make someone do ~'."
+  },
+  {
+    "start": "10:15",
+    "end": "10:19",
+    "text": "お兄ちゃん痛いよ",
+    "audio_file": "clip_081.mp3",
+    "translation": "Big brother, it hurts.",
+    "vocabulary": [
+      {"word": "痛い", "reading": "いたい", "meaning": "painful, it hurts"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "10:20",
+    "end": "10:24",
+    "text": "もう大丈夫だよ今薬を飲ませてやるから",
+    "audio_file": "clip_082.mp3",
+    "translation": "It's okay now. I'll give you the medicine.",
+    "vocabulary": [
+      {"word": "もう大丈夫", "reading": "もうだいじょうぶ", "meaning": "it's okay now"},
+      {"word": "薬", "reading": "くすり", "meaning": "medicine"},
+      {"word": "飲ませてやる", "reading": "のませてやる", "meaning": "will make you drink (caring)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "10:24",
+    "end": "10:28",
+    "text": "ちょっと苦いけどよく効くから",
+    "audio_file": "clip_083.mp3",
+    "translation": "It's a bit bitter, but it works well.",
+    "vocabulary": [
+      {"word": "ちょっと", "reading": "ちょっと", "meaning": "a bit"},
+      {"word": "苦い", "reading": "にがい", "meaning": "bitter"},
+      {"word": "よく効く", "reading": "よくきく", "meaning": "works well"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "10:28",
+    "end": "10:34",
+    "text": "お兄ちゃんヨナ苦くても平気だよ",
+    "audio_file": "clip_084.mp3",
+    "translation": "Big brother, Yona is fine even if it's bitter.",
+    "vocabulary": [
+      {"word": "苦くても", "reading": "にがくても", "meaning": "even if it's bitter"},
+      {"word": "平気", "reading": "へいき", "meaning": "fine, okay"}
+    ],
+    "grammar": "〜くても means 'even if ~'."
+  },
+  {
+    "start": "10:34",
+    "end": "10:37",
+    "text": "ヨナは強いな",
+    "audio_file": "clip_085.mp3",
+    "translation": "Yona is strong.",
+    "vocabulary": [
+      {"word": "強い", "reading": "つよい", "meaning": "strong"}
+    ],
+    "grammar": null
+  }
+]

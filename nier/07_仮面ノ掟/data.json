@@ -1,0 +1,1082 @@
+[
+  {
+    "start": "00:00",
+    "end": "00:07",
+    "text": "砂漠へはどう向かうのだ / 一旦村に戻って東門から出ればいいんだ",
+    "audio_file": "clip_000.mp3",
+    "translation": "How do we get to the desert? / We should return to the village once and leave from the east gate.",
+    "vocabulary": [
+      {"word": "砂漠", "reading": "さばく", "meaning": "desert"},
+      {"word": "向かう", "reading": "むかう", "meaning": "to head toward, to go toward"},
+      {"word": "一旦", "reading": "いったん", "meaning": "once, for the moment, temporarily"},
+      {"word": "戻る", "reading": "もどる", "meaning": "to return, to go back"},
+      {"word": "東門", "reading": "ひがしもん", "meaning": "east gate"},
+      {"word": "出る", "reading": "でる", "meaning": "to exit, to leave"}
+    ],
+    "grammar": "「〜のだ」 is Weiss's formal speech pattern for asking questions. 「〜ばいい」 means 'should just do ~' or 'it would be good if ~'."
+  },
+  {
+    "start": "00:07",
+    "end": "00:13",
+    "text": "乾燥しているだろうから / 我にとってはいい気候だろうな",
+    "audio_file": "clip_001.mp3",
+    "translation": "Since it's probably dry there, / it should be a good climate for me.",
+    "vocabulary": [
+      {"word": "乾燥", "reading": "かんそう", "meaning": "dry, arid, dryness"},
+      {"word": "我", "reading": "われ", "meaning": "I, me (archaic/literary)"},
+      {"word": "気候", "reading": "きこう", "meaning": "climate, weather"}
+    ],
+    "grammar": "「我」(われ) is Weiss's archaic first-person pronoun. 「〜にとっては」 means 'for (someone), from (someone's) perspective'. 「〜だろう」 expresses supposition."
+  },
+  {
+    "start": "00:16",
+    "end": "00:17",
+    "text": "おい",
+    "audio_file": "clip_002.mp3",
+    "translation": "Hey.",
+    "vocabulary": [
+      {"word": "おい", "reading": "おい", "meaning": "hey (informal/masculine interjection to get attention)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:18",
+    "end": "00:20",
+    "text": "どうしたの",
+    "audio_file": "clip_003.mp3",
+    "translation": "What's wrong?",
+    "vocabulary": [
+      {"word": "どうした", "reading": "どうした", "meaning": "what happened, what's wrong"}
+    ],
+    "grammar": "「どうしたの」 is a common casual expression asking what's wrong or what happened."
+  },
+  {
+    "start": "00:21",
+    "end": "00:28",
+    "text": "私は村の外で待っている / どうして / 村の中の方が安全だよ",
+    "audio_file": "clip_004.mp3",
+    "translation": "I'll wait outside the village. / Why? / It's safer inside the village.",
+    "vocabulary": [
+      {"word": "村", "reading": "むら", "meaning": "village"},
+      {"word": "外", "reading": "そと", "meaning": "outside"},
+      {"word": "待つ", "reading": "まつ", "meaning": "to wait"},
+      {"word": "中", "reading": "なか", "meaning": "inside"},
+      {"word": "安全", "reading": "あんぜん", "meaning": "safe, safety"}
+    ],
+    "grammar": "「〜の方が」 is used for comparison, meaning 'more ~' or '~ is better'. Here it means 'inside is safer (than outside)'."
+  },
+  {
+    "start": "00:28",
+    "end": "00:29",
+    "text": "いや",
+    "audio_file": "clip_005.mp3",
+    "translation": "No.",
+    "vocabulary": [
+      {"word": "いや", "reading": "いや", "meaning": "no, nah (casual negative)"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:30",
+    "end": "00:37",
+    "text": "一人の方が気が楽でいいからな / 別の出口から出た時はそちらの方で合流しよう",
+    "audio_file": "clip_006.mp3",
+    "translation": "Being alone is easier and better for me. / If we exit from a different exit, let's meet up on that side.",
+    "vocabulary": [
+      {"word": "一人", "reading": "ひとり", "meaning": "alone, one person"},
+      {"word": "気が楽", "reading": "きがらく", "meaning": "at ease, relaxed, comfortable"},
+      {"word": "別", "reading": "べつ", "meaning": "different, another"},
+      {"word": "出口", "reading": "でぐち", "meaning": "exit"},
+      {"word": "そちら", "reading": "そちら", "meaning": "that way, that direction"},
+      {"word": "合流", "reading": "ごうりゅう", "meaning": "to meet up, to join, to merge"}
+    ],
+    "grammar": "「〜の方が」 indicates comparison. 「気が楽」 is an idiomatic expression meaning 'to feel at ease'."
+  },
+  {
+    "start": "00:38",
+    "end": "00:43",
+    "text": "ヨナにも会ってほしかったんだけどな / 多分喜ぶと思うんだ",
+    "audio_file": "clip_007.mp3",
+    "translation": "I wanted you to meet Yonah too... / I think she'd probably be happy.",
+    "vocabulary": [
+      {"word": "会う", "reading": "あう", "meaning": "to meet"},
+      {"word": "多分", "reading": "たぶん", "meaning": "probably, maybe"},
+      {"word": "喜ぶ", "reading": "よろこぶ", "meaning": "to be happy, to be pleased, to rejoice"}
+    ],
+    "grammar": "「〜てほしかった」 expresses a past wish that someone would do something - 'I wanted (you) to ~'. 「〜んだけどな」 adds a sense of regret or wistfulness."
+  },
+  {
+    "start": "00:45",
+    "end": "00:49",
+    "text": "無理しせずとも良いではないか",
+    "audio_file": "clip_008.mp3",
+    "translation": "There's no need to force it, is there?",
+    "vocabulary": [
+      {"word": "無理", "reading": "むり", "meaning": "unreasonable, impossible, forcing oneself"},
+      {"word": "無理する", "reading": "むりする", "meaning": "to overdo it, to push oneself too hard"}
+    ],
+    "grammar": "「〜ずとも良い」 is an archaic/literary form meaning 'it's fine not to ~' (modern: 〜なくてもいい). 「〜ではないか」 is a rhetorical question seeking agreement. This is Weiss's characteristic formal speech pattern."
+  },
+  {
+    "start": "00:50",
+    "end": "00:55",
+    "text": "人にはそれぞれいるべき場所というものがあるのだ",
+    "audio_file": "clip_009.mp3",
+    "translation": "Every person has a place where they should be.",
+    "vocabulary": [
+      {"word": "人", "reading": "ひと", "meaning": "person, people"},
+      {"word": "それぞれ", "reading": "それぞれ", "meaning": "each, respectively, individually"},
+      {"word": "場所", "reading": "ばしょ", "meaning": "place, location"}
+    ],
+    "grammar": "「〜べき」 means 'should' or 'ought to'. 「〜というもの」 adds emphasis, meaning 'something called ~' or 'what is known as ~'. 「〜のだ」 is Weiss's declarative sentence ending."
+  },
+  {
+    "start": "00:56",
+    "end": "01:00",
+    "text": "そうなの?それじゃ仕方ないけど",
+    "audio_file": "clip_010.mp3",
+    "translation": "Is that so? Well, it can't be helped then.",
+    "vocabulary": [
+      {"word": "仕方ない", "reading": "しかたない", "meaning": "can't be helped, nothing to be done, unavoidable"}
+    ],
+    "grammar": "「仕方ない」 is a common expression of resignation. 「それじゃ」 is a casual form of 「それでは」 meaning 'well then' or 'in that case'."
+  },
+  {
+    "start": "01:00",
+    "end": "01:03",
+    "text": "じゃあまた後でな",
+    "audio_file": "clip_011.mp3",
+    "translation": "See you later then.",
+    "vocabulary": [
+      {"word": "また", "reading": "また", "meaning": "again, also"},
+      {"word": "後で", "reading": "あとで", "meaning": "later, afterwards"}
+    ],
+    "grammar": "「じゃあまた後でな」 is a casual farewell phrase meaning 'see you later'. The 「な」 at the end is masculine casual emphasis."
+  },
+  {
+    "start": "01:14",
+    "end": "01:27",
+    "text": "お疲れ様でした",
+    "audio_file": "clip_012.mp3",
+    "translation": "Thank you for your hard work. (Greeting from Facade citizen)",
+    "vocabulary": [
+      {"word": "お疲れ様", "reading": "おつかれさま", "meaning": "thank you for your work (standard greeting/farewell)"},
+      {"word": "お疲れ様でした", "reading": "おつかれさまでした", "meaning": "thank you for your hard work (polite, past tense)"}
+    ],
+    "grammar": "「お疲れ様でした」 is a polite set phrase used to thank someone for their effort or as a greeting/farewell in work contexts."
+  },
+  {
+    "start": "01:32",
+    "end": "01:34",
+    "text": "カイネ、知り合いなの?",
+    "audio_file": "clip_013.mp3",
+    "translation": "Kaine, is that an acquaintance of yours?",
+    "vocabulary": [
+      {"word": "知り合い", "reading": "しりあい", "meaning": "acquaintance"}
+    ],
+    "grammar": "「〜なの」 is a casual question form, often used by younger speakers."
+  },
+  {
+    "start": "01:35",
+    "end": "01:39",
+    "text": "いや、違うんだ",
+    "audio_file": "clip_014.mp3",
+    "translation": "No, it's not like that.",
+    "vocabulary": [
+      {"word": "違う", "reading": "ちがう", "meaning": "to be different, to be wrong, that's not it"}
+    ],
+    "grammar": "「違うんだ」 uses the explanatory 「んだ」 to clarify or correct a misunderstanding."
+  },
+  {
+    "start": "01:59",
+    "end": "02:04",
+    "text": "昔この近くで狼たちから子供を助けたことがある",
+    "audio_file": "clip_015.mp3",
+    "translation": "A long time ago, I saved a child from wolves near here.",
+    "vocabulary": [
+      {"word": "昔", "reading": "むかし", "meaning": "long ago, the past, old times"},
+      {"word": "近く", "reading": "ちかく", "meaning": "nearby, vicinity"},
+      {"word": "狼", "reading": "おおかみ", "meaning": "wolf"},
+      {"word": "子供", "reading": "こども", "meaning": "child"},
+      {"word": "助ける", "reading": "たすける", "meaning": "to save, to help, to rescue"}
+    ],
+    "grammar": "「〜たことがある」 indicates past experience - 'have done ~ before'. This is a key grammar pattern for expressing life experiences."
+  },
+  {
+    "start": "02:05",
+    "end": "02:08",
+    "text": "それ以来この街には入れるんだ",
+    "audio_file": "clip_016.mp3",
+    "translation": "Since then, I've been allowed into this town.",
+    "vocabulary": [
+      {"word": "以来", "reading": "いらい", "meaning": "since, from that time, ever since"},
+      {"word": "街", "reading": "まち", "meaning": "town, city"},
+      {"word": "入れる", "reading": "はいれる", "meaning": "to be able to enter (potential form)"}
+    ],
+    "grammar": "「それ以来」 means 'since then' or 'from that time on'. 「入れる」 is the potential form of 入る, meaning 'can enter'."
+  },
+  {
+    "start": "02:09",
+    "end": "02:13",
+    "text": "こんな私を受け入れてくれる / そんな奇妙な街だ",
+    "audio_file": "clip_017.mp3",
+    "translation": "A strange town that accepts someone like me.",
+    "vocabulary": [
+      {"word": "こんな", "reading": "こんな", "meaning": "like this, such as this"},
+      {"word": "受け入れる", "reading": "うけいれる", "meaning": "to accept, to receive, to take in"},
+      {"word": "奇妙", "reading": "きみょう", "meaning": "strange, peculiar, curious"}
+    ],
+    "grammar": "「〜てくれる」 indicates someone doing something for the speaker's benefit. 「こんな私」 is self-deprecating - 'someone like me'."
+  },
+  {
+    "start": "02:14",
+    "end": "02:28",
+    "text": "言葉は全くわからない / 期待するな",
+    "audio_file": "clip_018.mp3",
+    "translation": "I don't understand their language at all. / Don't expect anything from me.",
+    "vocabulary": [
+      {"word": "言葉", "reading": "ことば", "meaning": "language, words"},
+      {"word": "全く", "reading": "まったく", "meaning": "completely, entirely, absolutely"},
+      {"word": "わかる", "reading": "わかる", "meaning": "to understand"},
+      {"word": "期待", "reading": "きたい", "meaning": "expectation, hope"},
+      {"word": "期待する", "reading": "きたいする", "meaning": "to expect, to hope for"}
+    ],
+    "grammar": "「〜するな」 is the negative imperative (prohibition) - 'don't do ~'. It's a direct, somewhat rough command."
+  },
+  {
+    "start": "02:29",
+    "end": "02:33",
+    "text": "王は奥の館にいるからな / あとは自分たちで行け",
+    "audio_file": "clip_019.mp3",
+    "translation": "The king is in the mansion in the back. / Go there yourselves from here.",
+    "vocabulary": [
+      {"word": "王", "reading": "おう", "meaning": "king"},
+      {"word": "奥", "reading": "おく", "meaning": "interior, back, inner part"},
+      {"word": "館", "reading": "やかた", "meaning": "mansion, residence, manor"},
+      {"word": "自分たち", "reading": "じぶんたち", "meaning": "yourselves, themselves"}
+    ],
+    "grammar": "「行け」 is the imperative form of 行く - a direct command meaning 'go!'. Kaine's rough speech style."
+  },
+  {
+    "start": "02:34",
+    "end": "02:37",
+    "text": "ハイネは? / 面倒だからここで待ってる",
+    "audio_file": "clip_020.mp3",
+    "translation": "What about Kaine? / It's a hassle, so I'll wait here.",
+    "vocabulary": [
+      {"word": "面倒", "reading": "めんどう", "meaning": "troublesome, hassle, bother"},
+      {"word": "待つ", "reading": "まつ", "meaning": "to wait"}
+    ],
+    "grammar": "「待ってる」 is a contraction of 「待っている」 (is waiting/will wait). Common in casual speech."
+  },
+  {
+    "start": "02:38",
+    "end": "02:44",
+    "text": "まったく / 役に立つのか立たないのかわからぬな",
+    "audio_file": "clip_021.mp3",
+    "translation": "Good grief. / I can't tell if she's useful or not.",
+    "vocabulary": [
+      {"word": "まったく", "reading": "まったく", "meaning": "good grief, really (expression of exasperation)"},
+      {"word": "役に立つ", "reading": "やくにたつ", "meaning": "to be useful, to be helpful"}
+    ],
+    "grammar": "「わからぬ」 is Weiss's archaic negative form of わかる (modern: わからない). The 「〜ぬ」 ending is characteristic of classical Japanese and Weiss's formal speech."
+  },
+  {
+    "start": "02:45",
+    "end": "02:49",
+    "text": "とりあえず / 街を巡ってみるか",
+    "audio_file": "clip_022.mp3",
+    "translation": "For now, / shall we tour around the town?",
+    "vocabulary": [
+      {"word": "とりあえず", "reading": "とりあえず", "meaning": "for now, first of all, for the time being"},
+      {"word": "街", "reading": "まち", "meaning": "town, city, street"},
+      {"word": "巡る", "reading": "めぐる", "meaning": "to go around, to tour, to circulate"}
+    ],
+    "grammar": "「〜てみるか」 expresses 'shall we try ~?' combining the attempt/trial 「〜てみる」 with the volitional question 「か」."
+  },
+  {
+    "start": "02:50",
+    "end": "02:53",
+    "text": "言い忘れたが、この国の言葉は特殊だ",
+    "audio_file": "clip_023.mp3",
+    "translation": "I forgot to mention, but the language of this country is unique.",
+    "vocabulary": [
+      {"word": "言い忘れる", "reading": "いいわすれる", "meaning": "to forget to say, to forget to mention"},
+      {"word": "国", "reading": "くに", "meaning": "country, nation"},
+      {"word": "言葉", "reading": "ことば", "meaning": "language, words"},
+      {"word": "特殊", "reading": "とくしゅ", "meaning": "special, unique, peculiar"}
+    ],
+    "grammar": "「言い忘れた」 is a compound verb combining 言う (to say) + 忘れる (to forget). This pattern is common in Japanese."
+  },
+  {
+    "start": "02:54",
+    "end": "02:55",
+    "text": "せいぜい頑張れ",
+    "audio_file": "clip_024.mp3",
+    "translation": "Good luck with that. (sarcastic)",
+    "vocabulary": [
+      {"word": "せいぜい", "reading": "せいぜい", "meaning": "at most, at best (often sarcastic/dismissive)"},
+      {"word": "頑張る", "reading": "がんばる", "meaning": "to do one's best, to try hard"},
+      {"word": "頑張れ", "reading": "がんばれ", "meaning": "good luck, hang in there (imperative)"}
+    ],
+    "grammar": "「せいぜい頑張れ」 is often used sarcastically to mean 'good luck with that' in a dismissive way. Kaine's characteristic blunt speech."
+  },
+  {
+    "start": "02:57",
+    "end": "03:01",
+    "text": "エルアトット / いた、アルテルアチ",
+    "audio_file": "clip_025.mp3",
+    "translation": "(Facade language - unintelligible greeting from townsperson)",
+    "vocabulary": [],
+    "grammar": "This is the fictional 'Facade language' used by the people of this town. It's intentionally unintelligible to represent a foreign language."
+  },
+  {
+    "start": "03:02",
+    "end": "03:04",
+    "text": "来たざって警察来ていく",
+    "audio_file": "clip_026.mp3",
+    "translation": "(Facade language - unintelligible)",
+    "vocabulary": [],
+    "grammar": "Transcription attempt of the fictional Facade language. Not meant to be understood."
+  },
+  {
+    "start": "03:05",
+    "end": "03:09",
+    "text": "えっと、なんて言ってるんだろう / わからぬ",
+    "audio_file": "clip_027.mp3",
+    "translation": "Umm, I wonder what they're saying? / I don't understand.",
+    "vocabulary": [
+      {"word": "えっと", "reading": "えっと", "meaning": "umm, let me see (filler word)"},
+      {"word": "なんて", "reading": "なんて", "meaning": "what (casual form of なんと)"},
+      {"word": "言う", "reading": "いう", "meaning": "to say"}
+    ],
+    "grammar": "「わからぬ」 is Weiss's archaic form of わからない. 「〜んだろう」 expresses wondering about something."
+  },
+  {
+    "start": "03:21",
+    "end": "03:26",
+    "text": "あの奥にある巨大な建物が王の館であろう",
+    "audio_file": "clip_028.mp3",
+    "translation": "That huge building in the back must be the king's mansion.",
+    "vocabulary": [
+      {"word": "奥", "reading": "おく", "meaning": "interior, back, deep inside"},
+      {"word": "巨大", "reading": "きょだい", "meaning": "huge, gigantic, enormous"},
+      {"word": "建物", "reading": "たてもの", "meaning": "building, structure"},
+      {"word": "王", "reading": "おう", "meaning": "king"},
+      {"word": "館", "reading": "やかた", "meaning": "mansion, residence"}
+    ],
+    "grammar": "「〜であろう」 is Weiss's literary/formal presumptive form meaning 'probably is' or 'must be' (modern: 〜だろう)."
+  },
+  {
+    "start": "03:28",
+    "end": "03:32",
+    "text": "ところでどうやって行けばいいんだろう",
+    "audio_file": "clip_029.mp3",
+    "translation": "By the way, how should we get there?",
+    "vocabulary": [
+      {"word": "ところで", "reading": "ところで", "meaning": "by the way, incidentally"},
+      {"word": "どうやって", "reading": "どうやって", "meaning": "how, in what way"},
+      {"word": "行く", "reading": "いく", "meaning": "to go"}
+    ],
+    "grammar": "「〜ばいいんだろう」 expresses uncertainty about what one should do - 'I wonder how we should ~'."
+  },
+  {
+    "start": "03:33",
+    "end": "03:37",
+    "text": "頑張ってルートを探すしかないようだな",
+    "audio_file": "clip_030.mp3",
+    "translation": "It seems we have no choice but to search for a route.",
+    "vocabulary": [
+      {"word": "頑張る", "reading": "がんばる", "meaning": "to do one's best, to persevere"},
+      {"word": "ルート", "reading": "ルート", "meaning": "route, path (from English)"},
+      {"word": "探す", "reading": "さがす", "meaning": "to search, to look for"}
+    ],
+    "grammar": "「〜しかない」 means 'have no choice but to ~'. 「〜ようだ」 expresses appearance or seeming."
+  },
+  {
+    "start": "03:39",
+    "end": "03:42",
+    "text": "入れぬようだ",
+    "audio_file": "clip_031.mp3",
+    "translation": "It seems we can't enter.",
+    "vocabulary": [
+      {"word": "入れる", "reading": "はいれる", "meaning": "to be able to enter (potential form)"}
+    ],
+    "grammar": "「入れぬ」 is Weiss's archaic negative potential form (modern: 入れない). Combined with 「ようだ」 it means 'it seems we cannot enter'."
+  },
+  {
+    "start": "03:43",
+    "end": "03:45",
+    "text": "せっかくたどり着いたのに",
+    "audio_file": "clip_032.mp3",
+    "translation": "Even though we finally made it here...",
+    "vocabulary": [
+      {"word": "せっかく", "reading": "せっかく", "meaning": "with effort, specially, going to the trouble"},
+      {"word": "たどり着く", "reading": "たどりつく", "meaning": "to arrive at, to reach (after difficulty)"}
+    ],
+    "grammar": "「せっかく〜のに」 expresses disappointment that despite effort or special circumstances, something didn't work out as hoped."
+  },
+  {
+    "start": "03:46",
+    "end": "04:26",
+    "text": "とりあえずこれでは拉致が明かぬ / 戻ろう",
+    "audio_file": "clip_033.mp3",
+    "translation": "At this rate, we won't make any progress. / Let's go back.",
+    "vocabulary": [
+      {"word": "とりあえず", "reading": "とりあえず", "meaning": "for now, anyway"},
+      {"word": "埒が明かない", "reading": "らちがあかない", "meaning": "to make no progress, to get nowhere (idiom)"},
+      {"word": "戻る", "reading": "もどる", "meaning": "to return, to go back"}
+    ],
+    "grammar": "「埒が明かない」(らちがあかない) is an idiom meaning 'to make no headway/progress'. 「明かぬ」 is Weiss's archaic negative (modern: 明かない). Note: transcribed as 拉致 but the idiom uses 埒."
+  },
+  {
+    "start": "04:27",
+    "end": "04:29",
+    "text": "声が出ぬか",
+    "audio_file": "clip_034.mp3",
+    "translation": "She can't speak?",
+    "vocabulary": [
+      {"word": "声", "reading": "こえ", "meaning": "voice"},
+      {"word": "出る", "reading": "でる", "meaning": "to come out"}
+    ],
+    "grammar": "「声が出ない」 means 'voice won't come out' (unable to speak). 「出ぬ」 is Weiss's archaic negative form of 出る (modern: 出ない)."
+  },
+  {
+    "start": "04:30",
+    "end": "04:38",
+    "text": "そのおかげと言ってはなんだが / この娘なら身振りを通して我らと話せそうだぞ",
+    "audio_file": "clip_035.mp3",
+    "translation": "I don't mean this in a bad way, but... / This girl might be able to communicate with us through gestures.",
+    "vocabulary": [
+      {"word": "おかげ", "reading": "おかげ", "meaning": "thanks to, because of"},
+      {"word": "娘", "reading": "むすめ", "meaning": "girl, daughter, young woman"},
+      {"word": "身振り", "reading": "みぶり", "meaning": "gesture, body language"},
+      {"word": "通す", "reading": "とおす", "meaning": "through, via"},
+      {"word": "我ら", "reading": "われら", "meaning": "we, us (archaic)"},
+      {"word": "話す", "reading": "はなす", "meaning": "to speak, to talk"}
+    ],
+    "grammar": "「〜と言ってはなんだが」 is a set phrase meaning 'I don't mean to say this badly, but...' or 'it may sound rude but...'. 「我ら」 is Weiss's archaic first-person plural (modern: 私たち). 「〜そうだ」 expresses conjecture based on appearance."
+  },
+  {
+    "start": "04:41",
+    "end": "04:42",
+    "text": "ありがとう",
+    "audio_file": "clip_036.mp3",
+    "translation": "Thank you.",
+    "vocabulary": [
+      {"word": "ありがとう", "reading": "ありがとう", "meaning": "thank you"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:43",
+    "end": "04:46",
+    "text": "どういたしまして",
+    "audio_file": "clip_037.mp3",
+    "translation": "You're welcome.",
+    "vocabulary": [
+      {"word": "どういたしまして", "reading": "どういたしまして", "meaning": "you're welcome, not at all"}
+    ],
+    "grammar": "「どういたしまして」 is the standard polite response to thanks, meaning 'you're welcome' or 'don't mention it'."
+  },
+  {
+    "start": "04:48",
+    "end": "04:59",
+    "text": "私 / フィア、あなたたち困っている",
+    "audio_file": "clip_038.mp3",
+    "translation": "I am / Fyra. You seem to be having trouble.",
+    "vocabulary": [
+      {"word": "私", "reading": "わたし", "meaning": "I, me"},
+      {"word": "あなたたち", "reading": "あなたたち", "meaning": "you (plural)"},
+      {"word": "困る", "reading": "こまる", "meaning": "to be troubled, to have difficulty"}
+    ],
+    "grammar": "Fyra speaks in simplified/broken Japanese since she normally uses sign language. Her sentences lack particles and conjugation typical of fluent speech."
+  },
+  {
+    "start": "04:59",
+    "end": "05:05",
+    "text": "そうなんだ、ちょっとこの街に用があってきたんだけど",
+    "audio_file": "clip_039.mp3",
+    "translation": "That's right. We came here because we have some business in this town.",
+    "vocabulary": [
+      {"word": "ちょっと", "reading": "ちょっと", "meaning": "a little, somewhat"},
+      {"word": "街", "reading": "まち", "meaning": "town, city"},
+      {"word": "用", "reading": "よう", "meaning": "business, errand, matter to attend to"},
+      {"word": "用がある", "reading": "ようがある", "meaning": "to have business, to have something to do"}
+    ],
+    "grammar": "「用があって来た」 means 'came because (we) have business'. The て-form connects the reason to the result."
+  },
+  {
+    "start": "05:06",
+    "end": "05:14",
+    "text": "なんだか言葉も通じなくて / あなたたちへ",
+    "audio_file": "clip_040.mp3",
+    "translation": "The language isn't getting through... / To you all...",
+    "vocabulary": [
+      {"word": "なんだか", "reading": "なんだか", "meaning": "somehow, for some reason"},
+      {"word": "言葉", "reading": "ことば", "meaning": "language, words"},
+      {"word": "通じる", "reading": "つうじる", "meaning": "to be understood, to communicate, to get through"}
+    ],
+    "grammar": "「〜なくて」 is the te-form of the negative, here expressing a situation or cause - 'since the language doesn't get through'."
+  },
+  {
+    "start": "05:15",
+    "end": "05:21",
+    "text": "あんない / 案内してくれるのか",
+    "audio_file": "clip_041.mp3",
+    "translation": "Guide... / Will you guide us?",
+    "vocabulary": [
+      {"word": "案内", "reading": "あんない", "meaning": "guidance, showing around, tour"},
+      {"word": "案内する", "reading": "あんないする", "meaning": "to guide, to show around"}
+    ],
+    "grammar": "「〜てくれるのか」 asks if someone will do something for the speaker's benefit. 「〜てくれる」 indicates receiving a favor."
+  },
+  {
+    "start": "05:23",
+    "end": "05:29",
+    "text": "でもその前に",
+    "audio_file": "clip_042.mp3",
+    "translation": "But before that...",
+    "vocabulary": [
+      {"word": "でも", "reading": "でも", "meaning": "but, however"},
+      {"word": "前", "reading": "まえ", "meaning": "before, in front of"}
+    ],
+    "grammar": "「その前に」 means 'before that' - a common phrase for introducing a prerequisite."
+  },
+  {
+    "start": "05:30",
+    "end": "05:41",
+    "text": "この町の説明をする必要がある",
+    "audio_file": "clip_043.mp3",
+    "translation": "There is a need to explain about this town.",
+    "vocabulary": [
+      {"word": "町", "reading": "まち", "meaning": "town"},
+      {"word": "説明", "reading": "せつめい", "meaning": "explanation"},
+      {"word": "説明する", "reading": "せつめいする", "meaning": "to explain"},
+      {"word": "必要", "reading": "ひつよう", "meaning": "necessity, need"},
+      {"word": "必要がある", "reading": "ひつようがある", "meaning": "there is a need to, it is necessary to"}
+    ],
+    "grammar": "「〜する必要がある」 means 'there is a need to do ~' or 'it is necessary to ~'."
+  },
+  {
+    "start": "05:42",
+    "end": "05:46",
+    "text": "僕たち王様に会いに来ただけなんだけど",
+    "audio_file": "clip_044.mp3",
+    "translation": "We just came to meet the king, though...",
+    "vocabulary": [
+      {"word": "僕たち", "reading": "ぼくたち", "meaning": "we (masculine casual)"},
+      {"word": "王様", "reading": "おうさま", "meaning": "king (respectful)"},
+      {"word": "会う", "reading": "あう", "meaning": "to meet"}
+    ],
+    "grammar": "「〜に会いに来た」 means 'came to meet ~'. 「〜だけ」 means 'only, just'. 「〜んだけど」 adds a nuance of 'but' or trailing off."
+  },
+  {
+    "start": "05:47",
+    "end": "06:16",
+    "text": "だめこの町にはおきてがあるからついてきてだそうだ",
+    "audio_file": "clip_045.mp3",
+    "translation": "No good. This town has rules, so come with me, she says.",
+    "vocabulary": [
+      {"word": "だめ", "reading": "だめ", "meaning": "no good, not allowed"},
+      {"word": "町", "reading": "まち", "meaning": "town"},
+      {"word": "掟", "reading": "おきて", "meaning": "rules, laws, code, regulations"},
+      {"word": "ついてくる", "reading": "ついてくる", "meaning": "to follow, to come along"}
+    ],
+    "grammar": "「だそうだ」 indicates hearsay/reported speech - 'she says that...'. Weiss is translating Fyra's gestures."
+  },
+  {
+    "start": "06:17",
+    "end": "06:50",
+    "text": "掟106?",
+    "audio_file": "clip_046.mp3",
+    "translation": "Rule 106?",
+    "vocabulary": [
+      {"word": "掟", "reading": "おきて", "meaning": "rule, law, code"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:51",
+    "end": "07:00",
+    "text": "一体その掟に何の意味があるのだ",
+    "audio_file": "clip_047.mp3",
+    "translation": "What on earth is the meaning of that rule?",
+    "vocabulary": [
+      {"word": "一体", "reading": "いったい", "meaning": "what on earth, what in the world (emphatic question word)"},
+      {"word": "掟", "reading": "おきて", "meaning": "rule, law"},
+      {"word": "意味", "reading": "いみ", "meaning": "meaning, significance"},
+      {"word": "意味がある", "reading": "いみがある", "meaning": "to have meaning, to be meaningful"}
+    ],
+    "grammar": "「一体」 adds emphasis to questions, expressing bewilderment or frustration. 「〜のだ」 is Weiss's characteristic declarative/questioning ending."
+  },
+  {
+    "start": "07:01",
+    "end": "07:05",
+    "text": "ということは毎年掟が増えているの",
+    "audio_file": "clip_048.mp3",
+    "translation": "So that means the rules increase every year?",
+    "vocabulary": [
+      {"word": "ということは", "reading": "ということは", "meaning": "that means, in other words, so"},
+      {"word": "毎年", "reading": "まいとし", "meaning": "every year, annually"},
+      {"word": "掟", "reading": "おきて", "meaning": "rule, law"},
+      {"word": "増える", "reading": "ふえる", "meaning": "to increase, to grow in number"}
+    ],
+    "grammar": "「ということは」 is used to draw a conclusion or inference from what was just said."
+  },
+  {
+    "start": "07:09",
+    "end": "07:15",
+    "text": "無理だ / 我にはこの町で暮らすのは無理だ",
+    "audio_file": "clip_049.mp3",
+    "translation": "Impossible. / Living in this town would be impossible for me.",
+    "vocabulary": [
+      {"word": "無理", "reading": "むり", "meaning": "impossible, unreasonable"},
+      {"word": "我", "reading": "われ", "meaning": "I, me (archaic)"},
+      {"word": "町", "reading": "まち", "meaning": "town"},
+      {"word": "暮らす", "reading": "くらす", "meaning": "to live, to make a living, to reside"}
+    ],
+    "grammar": "「我には」 is Weiss's archaic way of saying 'for me' (modern: 私には). 「〜のは無理だ」 means 'doing ~ is impossible'."
+  },
+  {
+    "start": "08:00",
+    "end": "08:13",
+    "text": "君は身分の高い者は高い場所に低い者は高い場所に。",
+    "audio_file": "clip_050.mp3",
+    "translation": "Rule says: Those of high status live in high places, those of low status in low places.",
+    "vocabulary": [
+      {"word": "身分", "reading": "みぶん", "meaning": "social status, rank, position"},
+      {"word": "高い", "reading": "たかい", "meaning": "high, tall"},
+      {"word": "者", "reading": "もの", "meaning": "person (formal)"},
+      {"word": "場所", "reading": "ばしょ", "meaning": "place, location"},
+      {"word": "低い", "reading": "ひくい", "meaning": "low"}
+    ],
+    "grammar": "Note: The transcription has an error - the second part should say 'low places' not 'high places'. This describes Facade's rigid social hierarchy rules."
+  },
+  {
+    "start": "08:14",
+    "end": "08:16",
+    "text": "お客様は低い場所に住むと",
+    "audio_file": "clip_051.mp3",
+    "translation": "Guests live in low places, it says.",
+    "vocabulary": [
+      {"word": "お客様", "reading": "おきゃくさま", "meaning": "guest, customer (very polite)"},
+      {"word": "低い", "reading": "ひくい", "meaning": "low"},
+      {"word": "場所", "reading": "ばしょ", "meaning": "place"},
+      {"word": "住む", "reading": "すむ", "meaning": "to live, to reside"}
+    ],
+    "grammar": "「〜と」 at the end indicates quoting or reporting what was said/written."
+  },
+  {
+    "start": "08:17",
+    "end": "08:24",
+    "text": "実際に住む者にとってはさぞ面倒な決まりであろうな",
+    "audio_file": "clip_052.mp3",
+    "translation": "For those who actually live here, it must be quite a troublesome rule.",
+    "vocabulary": [
+      {"word": "実際", "reading": "じっさい", "meaning": "actually, in reality, in practice"},
+      {"word": "住む", "reading": "すむ", "meaning": "to live, to reside"},
+      {"word": "者", "reading": "もの", "meaning": "person"},
+      {"word": "さぞ", "reading": "さぞ", "meaning": "surely, no doubt, how (emphatic)"},
+      {"word": "面倒", "reading": "めんどう", "meaning": "troublesome, bothersome"},
+      {"word": "決まり", "reading": "きまり", "meaning": "rule, regulation, custom"}
+    ],
+    "grammar": "「〜にとっては」 means 'for (someone)'. 「さぞ」 emphasizes supposition - 'must surely be'. 「であろう」 is Weiss's formal presumptive (modern: だろう)."
+  },
+  {
+    "start": "08:24",
+    "end": "08:30",
+    "text": "まさかこの調子で街中紹介して回る気か",
+    "audio_file": "clip_053.mp3",
+    "translation": "Don't tell me she plans to show us around the whole town at this pace?",
+    "vocabulary": [
+      {"word": "まさか", "reading": "まさか", "meaning": "don't tell me, surely not, no way"},
+      {"word": "調子", "reading": "ちょうし", "meaning": "pace, tone, condition"},
+      {"word": "街中", "reading": "まちじゅう", "meaning": "throughout the town, whole town"},
+      {"word": "紹介", "reading": "しょうかい", "meaning": "introduction, showing"},
+      {"word": "回る", "reading": "まわる", "meaning": "to go around"},
+      {"word": "気", "reading": "き", "meaning": "intention, spirit"}
+    ],
+    "grammar": "「この調子で」 means 'at this rate/pace'. 「〜して回る」 means 'to go around doing ~'. 「〜気か」 is a skeptical question about someone's intention."
+  },
+  {
+    "start": "08:31",
+    "end": "08:50",
+    "text": "あの小さいのは / 見たいため掟を守ってるんだよ",
+    "audio_file": "clip_054.mp3",
+    "translation": "That little one... / She seems to follow the rules diligently.",
+    "vocabulary": [
+      {"word": "小さい", "reading": "ちいさい", "meaning": "small, little"},
+      {"word": "掟", "reading": "おきて", "meaning": "rules, laws"},
+      {"word": "守る", "reading": "まもる", "meaning": "to protect, to follow, to observe (rules)"}
+    ],
+    "grammar": "「〜を守る」 when used with rules means 'to follow/observe rules'. Note: transcription may have errors - likely describing Fyra's dutiful rule-following."
+  },
+  {
+    "start": "08:51",
+    "end": "08:53",
+    "text": "怎么回事",
+    "audio_file": "clip_055.mp3",
+    "translation": "(Transcription error - likely Facade language or sound effect)",
+    "vocabulary": [],
+    "grammar": "This appears to be a transcription error showing Chinese characters. In the game, this would be Facade language or a reaction sound."
+  },
+  {
+    "start": "09:01",
+    "end": "09:04",
+    "text": "黒文廟か",
+    "audio_file": "clip_056.mp3",
+    "translation": "Shades, huh?",
+    "vocabulary": [
+      {"word": "マモノ", "reading": "まもの", "meaning": "Shade (enemy creatures in NieR)"}
+    ],
+    "grammar": "Likely a transcription error - probably refers to マモノ (Shades) appearing. The context suggests enemies have appeared."
+  },
+  {
+    "start": "09:11",
+    "end": "09:16",
+    "text": "いろいろ案内してくれたおかげで言葉もだいぶわかってきた",
+    "audio_file": "clip_057.mp3",
+    "translation": "Thanks to you showing us around, I've come to understand the language quite a bit.",
+    "vocabulary": [
+      {"word": "いろいろ", "reading": "いろいろ", "meaning": "various, many things"},
+      {"word": "案内", "reading": "あんない", "meaning": "guidance, tour"},
+      {"word": "おかげで", "reading": "おかげで", "meaning": "thanks to, because of"},
+      {"word": "言葉", "reading": "ことば", "meaning": "language, words"},
+      {"word": "だいぶ", "reading": "だいぶ", "meaning": "considerably, quite a bit"},
+      {"word": "わかる", "reading": "わかる", "meaning": "to understand"}
+    ],
+    "grammar": "「〜てくれたおかげで」 means 'thanks to (someone) doing ~ for me'. 「〜てきた」 indicates gradual change - 'has come to understand'."
+  },
+  {
+    "start": "09:17",
+    "end": "09:25",
+    "text": "直接話させてもらうよ",
+    "audio_file": "clip_058.mp3",
+    "translation": "Let me speak directly (to the townspeople).",
+    "vocabulary": [
+      {"word": "直接", "reading": "ちょくせつ", "meaning": "directly, in person"},
+      {"word": "話す", "reading": "はなす", "meaning": "to speak, to talk"}
+    ],
+    "grammar": "「〜させてもらう」 is a humble expression meaning 'allow me to ~' or 'I'll take the liberty of ~'. It shows politeness while taking action."
+  },
+  {
+    "start": "09:26",
+    "end": "09:29",
+    "text": "王子様にちょっと話を聞きたいのですか",
+    "audio_file": "clip_059.mp3",
+    "translation": "I'd like to speak with the prince for a moment, if I may.",
+    "vocabulary": [
+      {"word": "王子様", "reading": "おうじさま", "meaning": "prince (very polite/respectful)"},
+      {"word": "ちょっと", "reading": "ちょっと", "meaning": "a little, for a moment"},
+      {"word": "話", "reading": "はなし", "meaning": "talk, conversation, story"},
+      {"word": "聞く", "reading": "きく", "meaning": "to ask, to listen, to hear"}
+    ],
+    "grammar": "「話を聞く」 here means 'to have a conversation with' or 'to speak to'. 「〜たいのですが」 is a polite way to express a wish."
+  },
+  {
+    "start": "09:30",
+    "end": "09:34",
+    "text": "ザ・カイラム・タダイ・ザイトーとお会いでしっかいでく",
+    "audio_file": "clip_060.mp3",
+    "translation": "(Facade language - response from guard)",
+    "vocabulary": [],
+    "grammar": "This is the fictional Facade language. The guard is likely denying or questioning the request."
+  },
+  {
+    "start": "09:35",
+    "end": "09:38",
+    "text": "あらたてシテタスオイ",
+    "audio_file": "clip_061.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "This is the fictional Facade language."
+  },
+  {
+    "start": "09:38",
+    "end": "09:46",
+    "text": "まったくもって / 本当にうんざりとさせられるな",
+    "audio_file": "clip_062.mp3",
+    "translation": "Good grief. / This is really getting tiresome.",
+    "vocabulary": [
+      {"word": "まったくもって", "reading": "まったくもって", "meaning": "truly, really, absolutely (emphatic)"},
+      {"word": "本当に", "reading": "ほんとうに", "meaning": "really, truly"},
+      {"word": "うんざり", "reading": "うんざり", "meaning": "fed up, sick of, weary of"}
+    ],
+    "grammar": "「〜させられる」 is the causative-passive form, meaning 'to be made to feel ~'. 「うんざりさせられる」 means 'to be made to feel fed up'."
+  },
+  {
+    "start": "09:47",
+    "end": "10:15",
+    "text": "フィーヤが謝ることじゃないよとりあえずはカイネのところに戻ろう昔助けてもらった人カイネがつまりカイネがフィーヤの恩人であると。",
+    "audio_file": "clip_063.mp3",
+    "translation": "It's not something Fyra should apologize for. Let's go back to Kaine for now. The person who helped her long ago... Kaine. So Kaine is Fyra's benefactor.",
+    "vocabulary": [
+      {"word": "謝る", "reading": "あやまる", "meaning": "to apologize"},
+      {"word": "とりあえず", "reading": "とりあえず", "meaning": "for now, for the time being"},
+      {"word": "戻る", "reading": "もどる", "meaning": "to return, to go back"},
+      {"word": "昔", "reading": "むかし", "meaning": "long ago, the past"},
+      {"word": "助ける", "reading": "たすける", "meaning": "to help, to save"},
+      {"word": "つまり", "reading": "つまり", "meaning": "in other words, that is to say"},
+      {"word": "恩人", "reading": "おんじん", "meaning": "benefactor, person to whom one owes gratitude"}
+    ],
+    "grammar": "「〜ことじゃない」 means 'it's not something to ~'. 「〜てもらった」 indicates receiving a favor - 'was helped by'."
+  },
+  {
+    "start": "10:16",
+    "end": "10:19",
+    "text": "このそやで大飯ぐらいの下着女が",
+    "audio_file": "clip_064.mp3",
+    "translation": "(Weiss's sarcastic comment about Kaine - transcription unclear)",
+    "vocabulary": [
+      {"word": "大飯ぐらい", "reading": "おおめしぐらい", "meaning": "big eater, glutton"}
+    ],
+    "grammar": "This appears to be Weiss making a sarcastic or insulting remark about Kaine. The transcription is unclear but fits his teasing character."
+  },
+  {
+    "start": "10:20",
+    "end": "10:23",
+    "text": "まさか本当に人助けをしておったとはな",
+    "audio_file": "clip_065.mp3",
+    "translation": "Who would have thought she actually helped people.",
+    "vocabulary": [
+      {"word": "まさか", "reading": "まさか", "meaning": "don't tell me, who would have thought"},
+      {"word": "本当に", "reading": "ほんとうに", "meaning": "really, truly"},
+      {"word": "人助け", "reading": "ひとだすけ", "meaning": "helping others, rescue"}
+    ],
+    "grammar": "「〜ておった」 is Weiss's archaic form of 〜ていた (was doing). 「〜とはな」 expresses surprise - 'who would have thought that ~'."
+  },
+  {
+    "start": "10:24",
+    "end": "10:28",
+    "text": "うるさい / 用事が終わったのなら行くぞ",
+    "audio_file": "clip_066.mp3",
+    "translation": "Shut up. / If we're done here, let's go.",
+    "vocabulary": [
+      {"word": "うるさい", "reading": "うるさい", "meaning": "noisy, shut up, annoying"},
+      {"word": "用事", "reading": "ようじ", "meaning": "errand, business, things to do"},
+      {"word": "終わる", "reading": "おわる", "meaning": "to finish, to end"},
+      {"word": "行く", "reading": "いく", "meaning": "to go"}
+    ],
+    "grammar": "「〜のなら」 is a conditional meaning 'if it is the case that ~'. 「行くぞ」 is a masculine, assertive way to say 'let's go'. Kaine's rough speech style."
+  },
+  {
+    "start": "10:30",
+    "end": "10:35",
+    "text": "隊員だ / タイラムとユリセーザ隊員だ",
+    "audio_file": "clip_067.mp3",
+    "translation": "A soldier! / (Facade language about soldiers)",
+    "vocabulary": [
+      {"word": "隊員", "reading": "たいいん", "meaning": "team member, squad member, soldier"}
+    ],
+    "grammar": "Mix of Japanese and Facade language. Someone is urgently reporting about soldiers."
+  },
+  {
+    "start": "10:35",
+    "end": "10:41",
+    "text": "ええ / いやアルテルは / ケンカンスヨウリンギュウジ / ジンクル2隊さん",
+    "audio_file": "clip_068.mp3",
+    "translation": "(Mix of Japanese exclamation and Facade language)",
+    "vocabulary": [
+      {"word": "ええ", "reading": "ええ", "meaning": "what?!, huh?! (exclamation of surprise)"}
+    ],
+    "grammar": "Contains fictional Facade language mixed with Japanese exclamations. The scene involves urgent news about soldiers."
+  },
+  {
+    "start": "10:41",
+    "end": "10:49",
+    "text": "どうしたの / 大乱罪いたした 決対ぞと来さざって 風吉伊沙隊と",
+    "audio_file": "clip_069.mp3",
+    "translation": "What happened? / (Facade language - explanation of situation)",
+    "vocabulary": [
+      {"word": "どうしたの", "reading": "どうしたの", "meaning": "what happened?, what's wrong?"}
+    ],
+    "grammar": "Contains fictional Facade language. The townspeople are explaining an urgent situation involving the prince."
+  },
+  {
+    "start": "10:49",
+    "end": "10:55",
+    "text": "だーざ ゆりせいちたざ イラート禁電 短だより",
+    "audio_file": "clip_070.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "This is the fictional Facade language."
+  },
+  {
+    "start": "10:56",
+    "end": "11:02",
+    "text": "え? アルテルはゾンゾスチギュータタ タラタイチ クルギータイさ",
+    "audio_file": "clip_071.mp3",
+    "translation": "Huh? (Facade language continues)",
+    "vocabulary": [
+      {"word": "え", "reading": "え", "meaning": "huh?, what? (exclamation of surprise)"}
+    ],
+    "grammar": "Contains fictional Facade language. The conversation continues about the urgent situation."
+  },
+  {
+    "start": "11:02",
+    "end": "11:09",
+    "text": "ギューシューで アルテルはざ…",
+    "audio_file": "clip_072.mp3",
+    "translation": "(Facade language)",
+    "vocabulary": [],
+    "grammar": "This is the fictional Facade language."
+  },
+  {
+    "start": "11:11",
+    "end": "11:15",
+    "text": "自分たちが困るような掟なんてやめちゃえばいいのに",
+    "audio_file": "clip_073.mp3",
+    "translation": "They should just get rid of rules that cause them trouble.",
+    "vocabulary": [
+      {"word": "自分たち", "reading": "じぶんたち", "meaning": "themselves"},
+      {"word": "困る", "reading": "こまる", "meaning": "to be troubled, to have difficulty"},
+      {"word": "掟", "reading": "おきて", "meaning": "rules, laws"},
+      {"word": "やめる", "reading": "やめる", "meaning": "to stop, to quit, to abandon"}
+    ],
+    "grammar": "「〜ような」 means 'such as' or 'that kind of'. 「〜ちゃえばいいのに」 expresses a wish that someone would just do something - 'if only they would just ~'."
+  },
+  {
+    "start": "11:16",
+    "end": "11:19",
+    "text": "彼らには彼らの生き方があるのだ",
+    "audio_file": "clip_074.mp3",
+    "translation": "They have their own way of living.",
+    "vocabulary": [
+      {"word": "彼ら", "reading": "かれら", "meaning": "they, them"},
+      {"word": "生き方", "reading": "いきかた", "meaning": "way of living, lifestyle, way of life"}
+    ],
+    "grammar": "「〜のだ」 is Weiss's declarative ending, adding emphasis and explanation. 「〜には〜がある」 structure means '~ has ~'."
+  },
+  {
+    "start": "11:19",
+    "end": "11:22",
+    "text": "用が済んだよそ者はとっとと帰るぞ",
+    "audio_file": "clip_075.mp3",
+    "translation": "Now that our business is done, let's hurry back, outsiders.",
+    "vocabulary": [
+      {"word": "用", "reading": "よう", "meaning": "business, errand"},
+      {"word": "済む", "reading": "すむ", "meaning": "to be finished, to be completed"},
+      {"word": "用が済む", "reading": "ようがすむ", "meaning": "to finish one's business"},
+      {"word": "よそ者", "reading": "よそもの", "meaning": "outsider, stranger, foreigner"},
+      {"word": "とっとと", "reading": "とっとと", "meaning": "quickly, hurry up and (somewhat rude)"},
+      {"word": "帰る", "reading": "かえる", "meaning": "to return, to go home"}
+    ],
+    "grammar": "「とっとと」 is a colloquial adverb meaning 'quickly' with a somewhat impatient or rude nuance. 「帰るぞ」 is Kaine's assertive command style."
+  },
+  {
+    "start": "11:28",
+    "end": "11:33",
+    "text": "フリーダー / エルパー枯れたい",
+    "audio_file": "clip_076.mp3",
+    "translation": "(Facade language - Fyra calling out)",
+    "vocabulary": [],
+    "grammar": "Contains fictional Facade language. Fyra is calling out urgently."
+  },
+  {
+    "start": "11:42",
+    "end": "11:47",
+    "text": "掟と無関係なよそ者だったら / どこに行こうが誰も構わないよね",
+    "audio_file": "clip_077.mp3",
+    "translation": "If we're outsiders unrelated to the rules, / no one would care where we go, right?",
+    "vocabulary": [
+      {"word": "掟", "reading": "おきて", "meaning": "rules, laws"},
+      {"word": "無関係", "reading": "むかんけい", "meaning": "unrelated, irrelevant, having nothing to do with"},
+      {"word": "よそ者", "reading": "よそもの", "meaning": "outsider, stranger"},
+      {"word": "構う", "reading": "かまう", "meaning": "to care about, to mind, to be concerned with"}
+    ],
+    "grammar": "「〜ようが」 means 'no matter ~' or 'regardless of ~'. 「どこに行こうが」 = 'no matter where we go'."
+  },
+  {
+    "start": "11:50",
+    "end": "11:55",
+    "text": "つまり僕が王子を助けるってことでどう",
+    "audio_file": "clip_078.mp3",
+    "translation": "So, how about I rescue the prince?",
+    "vocabulary": [
+      {"word": "つまり", "reading": "つまり", "meaning": "in other words, that is to say, so"},
+      {"word": "僕", "reading": "ぼく", "meaning": "I (masculine casual)"},
+      {"word": "王子", "reading": "おうじ", "meaning": "prince"},
+      {"word": "助ける", "reading": "たすける", "meaning": "to save, to rescue, to help"}
+    ],
+    "grammar": "「〜ってことでどう」 is a casual way of proposing something - 'how about if ~?' or 'what do you say to ~?'"
+  },
+  {
+    "start": "11:55",
+    "end": "12:04",
+    "text": "よかったな / 百回ごとに首を突っ込みたがるよそ者がちょうどいて",
+    "audio_file": "clip_079.mp3",
+    "translation": "How fortunate. / There just happens to be an outsider who wants to stick his nose into every little thing.",
+    "vocabulary": [
+      {"word": "よかった", "reading": "よかった", "meaning": "good, fortunate (often sarcastic)"},
+      {"word": "百回", "reading": "ひゃっかい", "meaning": "hundred times (exaggeration)"},
+      {"word": "首を突っ込む", "reading": "くびをつっこむ", "meaning": "to stick one's nose into, to meddle, to pry"},
+      {"word": "よそ者", "reading": "よそもの", "meaning": "outsider, stranger"},
+      {"word": "ちょうど", "reading": "ちょうど", "meaning": "just, exactly, conveniently"}
+    ],
+    "grammar": "「〜たがる」 describes someone else's desire - 'wants to ~'. 「首を突っ込む」 is an idiom meaning 'to stick one's nose into' or 'to meddle'."
+  },
+  {
+    "start": "12:05",
+    "end": "12:10",
+    "text": "私も行こう / 確かこうだったな",
+    "audio_file": "clip_080.mp3",
+    "translation": "I'll go too. / If I remember correctly, it was like this...",
+    "vocabulary": [
+      {"word": "私", "reading": "わたし", "meaning": "I"},
+      {"word": "行く", "reading": "いく", "meaning": "to go"},
+      {"word": "確か", "reading": "たしか", "meaning": "if I remember correctly, probably, certainly"}
+    ],
+    "grammar": "「確か」 at the beginning expresses uncertainty about one's memory - 'if I recall correctly'. Kaine is trying to remember a rule."
+  },
+  {
+    "start": "12:11",
+    "end": "12:15",
+    "text": "掟1024恩義ある客人の望みは全て叶えよ",
+    "audio_file": "clip_081.mp3",
+    "translation": "Rule 1024: Grant all wishes of guests to whom you owe a debt of gratitude.",
+    "vocabulary": [
+      {"word": "掟", "reading": "おきて", "meaning": "rule, law"},
+      {"word": "恩義", "reading": "おんぎ", "meaning": "debt of gratitude, obligation, favor owed"},
+      {"word": "客人", "reading": "きゃくじん", "meaning": "guest, visitor (formal)"},
+      {"word": "望み", "reading": "のぞみ", "meaning": "wish, desire, hope"},
+      {"word": "全て", "reading": "すべて", "meaning": "all, everything"},
+      {"word": "叶える", "reading": "かなえる", "meaning": "to grant, to fulfill, to make come true"}
+    ],
+    "grammar": "「叶えよ」 is the imperative/command form of 叶える, giving the rule an authoritative tone. Kaine cleverly uses the town's own rules."
+  },
+  {
+    "start": "12:16",
+    "end": "12:18",
+    "text": "だろフィン",
+    "audio_file": "clip_082.mp3",
+    "translation": "Right, Fyra?",
+    "vocabulary": [
+      {"word": "だろ", "reading": "だろ", "meaning": "right?, isn't it? (seeking confirmation)"}
+    ],
+    "grammar": "「だろ」 is a casual form seeking agreement or confirmation. Note: 'フィン' may be a transcription variation of Fyra's name."
+  },
+  {
+    "start": "12:19",
+    "end": "12:22",
+    "text": "まったくどいつもこいつも",
+    "audio_file": "clip_083.mp3",
+    "translation": "Good grief, everyone here...",
+    "vocabulary": [
+      {"word": "まったく", "reading": "まったく", "meaning": "good grief, really (exasperation)"},
+      {"word": "どいつもこいつも", "reading": "どいつもこいつも", "meaning": "every single one of them, everyone without exception (exasperated)"}
+    ],
+    "grammar": "「どいつもこいつも」 is an exasperated expression meaning 'every single one of them'. Often used when fed up with multiple people."
+  },
+  {
+    "start": "12:23",
+    "end": "12:24",
+    "text": "行くぞ",
+    "audio_file": "clip_084.mp3",
+    "translation": "Let's go.",
+    "vocabulary": [
+      {"word": "行く", "reading": "いく", "meaning": "to go"}
+    ],
+    "grammar": "「行くぞ」 is a masculine, assertive way to say 'let's go' with the emphatic particle 「ぞ」."
+  }
+]
