@@ -24,13 +24,13 @@ MIN_SEGMENT_DURATION = 3.0
 MAX_GAP_TO_MERGE = 1.5
 MAX_MERGED_DURATION = 12.0
 
-# Audio endpoint detection settings
-MIN_EXTENSION = 0.5
+# Audio endpoint detection settings (tuned for anime with background music)
+MIN_EXTENSION = 0.7      # Longer minimum extension for trailing speech
 SEARCH_WINDOW = 2.0
-SILENCE_THRESHOLD = 0.10
+SILENCE_THRESHOLD = 0.15 # Higher threshold - anime has constant BGM
 MIN_SILENCE_DURATION = 0.15
-FALLBACK_BUFFER = 0.7
-END_BUFFER = 0.20
+FALLBACK_BUFFER = 0.9    # More generous fallback
+END_BUFFER = 0.35        # More buffer after detected silence
 START_BUFFER = 0.10
 START_SEARCH_WINDOW = 1.0
 
