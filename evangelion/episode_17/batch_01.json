@@ -1,0 +1,363 @@
+[
+  {
+    "start": "01:30",
+    "end": "01:40",
+    "text": "今回の事件の唯一の当事者である / 初号機パイロットの直接尋問を拒否したそうだな / カツラギさんさん / はい",
+    "audio_file": "clip_000.mp3",
+    "translation": "I hear you refused the direct interrogation of the Unit-01 pilot, the sole party involved in this incident. / Katsuragi-san. / Yes.",
+    "vocabulary": [
+      {"word": "唯一", "reading": "ゆいいつ", "meaning": "sole, only, unique"},
+      {"word": "当事者", "reading": "とうじしゃ", "meaning": "party concerned, person involved"},
+      {"word": "尋問", "reading": "じんもん", "meaning": "interrogation, questioning"},
+      {"word": "拒否", "reading": "きょひ", "meaning": "refusal, rejection"}
+    ],
+    "grammar": "である is a formal copula used in official/written contexts, equivalent to だ but more authoritative."
+  },
+  {
+    "start": "01:40",
+    "end": "01:47",
+    "text": "彼の情緒は大変不安定です / 今ここに立つことが良策とは思えません / では聞こう 代理人 桂木さんさ",
+    "audio_file": "clip_001.mp3",
+    "translation": "His emotional state is very unstable. / I don't think it would be a good idea for him to stand here now. / Then let me ask you, as his representative, Katsuragi-san.",
+    "vocabulary": [
+      {"word": "情緒", "reading": "じょうちょ", "meaning": "emotion, sentiment"},
+      {"word": "不安定", "reading": "ふあんてい", "meaning": "unstable, insecure"},
+      {"word": "良策", "reading": "りょうさく", "meaning": "good plan, wise policy"},
+      {"word": "代理人", "reading": "だいりにん", "meaning": "representative, proxy"}
+    ],
+    "grammar": "とは思えません expresses 'I cannot think that...' - a polite way to disagree or express doubt."
+  },
+  {
+    "start": "01:48",
+    "end": "01:55",
+    "text": "さっきの事件 使徒が我々人類にコンタクトを試みたのではないのかね",
+    "audio_file": "clip_002.mp3",
+    "translation": "In this recent incident, wasn't the Angel attempting to make contact with us humans?",
+    "vocabulary": [
+      {"word": "使徒", "reading": "しと", "meaning": "Angel (in Evangelion); apostle"},
+      {"word": "人類", "reading": "じんるい", "meaning": "humanity, mankind"},
+      {"word": "試みる", "reading": "こころみる", "meaning": "to attempt, to try"}
+    ],
+    "grammar": "のではないのかね is a rhetorical question form used by superiors, implying 'isn't it the case that...?'"
+  },
+  {
+    "start": "01:55",
+    "end": "02:00",
+    "text": "被験者の報告からはそれを感じ取れません / イレギュラーな事件だと推定されます",
+    "audio_file": "clip_003.mp3",
+    "translation": "We cannot discern that from the test subject's report. / It is presumed to be an irregular incident.",
+    "vocabulary": [
+      {"word": "被験者", "reading": "ひけんしゃ", "meaning": "test subject, examinee"},
+      {"word": "感じ取る", "reading": "かんじとる", "meaning": "to sense, to perceive"},
+      {"word": "推定", "reading": "すいてい", "meaning": "presumption, estimation"}
+    ],
+    "grammar": "される is the passive form, commonly used in formal/scientific contexts to express objectivity."
+  },
+  {
+    "start": "02:00",
+    "end": "02:08",
+    "text": "彼の記憶が正しいとすればな / 記憶の外的操作は認められませんが / エヴァのACレコーダーは作動していなかった 確認は取れまい",
+    "audio_file": "clip_004.mp3",
+    "translation": "That's if his memory is correct. / No external manipulation of his memory was detected, but... / The Eva's AC recorder wasn't functioning, so we probably can't confirm it.",
+    "vocabulary": [
+      {"word": "記憶", "reading": "きおく", "meaning": "memory"},
+      {"word": "外的", "reading": "がいてき", "meaning": "external"},
+      {"word": "操作", "reading": "そうさ", "meaning": "manipulation, operation"},
+      {"word": "作動", "reading": "さどう", "meaning": "operation, functioning"}
+    ],
+    "grammar": "まい expresses negative conjecture or probability ('probably won't/can't'), often used in formal speech."
+  },
+  {
+    "start": "02:09",
+    "end": "02:22",
+    "text": "使徒は人間の精神 心に興味を持ったのかね / その返答はできかねます / 果たして使徒に心の概念があるのか / 人間の思考が理解できるのか 全く不明ですから",
+    "audio_file": "clip_005.mp3",
+    "translation": "Did the Angel become interested in the human psyche, the heart? / I cannot answer that. / Whether Angels even have a concept of 'heart,' or whether they can understand human thought, is completely unknown.",
+    "vocabulary": [
+      {"word": "精神", "reading": "せいしん", "meaning": "mind, spirit, psyche"},
+      {"word": "返答", "reading": "へんとう", "meaning": "reply, answer"},
+      {"word": "概念", "reading": "がいねん", "meaning": "concept, notion"},
+      {"word": "不明", "reading": "ふめい", "meaning": "unknown, unclear"}
+    ],
+    "grammar": "できかねます is a polite refusal meaning 'I am unable to...' - softer than できません."
+  },
+  {
+    "start": "02:22",
+    "end": "02:28",
+    "text": "今回の事件には 使徒がエヴァを取り込もうとしたという / 新たな要素がある",
+    "audio_file": "clip_006.mp3",
+    "translation": "In this incident, there is a new element: the Angel attempted to absorb the Eva.",
+    "vocabulary": [
+      {"word": "取り込む", "reading": "とりこむ", "meaning": "to take in, to absorb"},
+      {"word": "新た", "reading": "あらた", "meaning": "new, fresh"},
+      {"word": "要素", "reading": "ようそ", "meaning": "element, factor"}
+    ],
+    "grammar": "という introduces reported speech or explanation of what something is."
+  },
+  {
+    "start": "02:28",
+    "end": "02:37",
+    "text": "これが予測される第13使徒以降と リンクする可能性は? / これまでのパターンから / 使徒同士の組織的な繋がりは 否定されます / さよう、",
+    "audio_file": "clip_007.mp3",
+    "translation": "Is there a possibility this links to the predicted 13th Angel and beyond? / Based on patterns so far, / organizational connections between Angels are ruled out. / Indeed.",
+    "vocabulary": [
+      {"word": "予測", "reading": "よそく", "meaning": "prediction, forecast"},
+      {"word": "以降", "reading": "いこう", "meaning": "from...onwards, after"},
+      {"word": "組織的", "reading": "そしきてき", "meaning": "organizational, systematic"},
+      {"word": "否定", "reading": "ひてい", "meaning": "denial, negation"}
+    ],
+    "grammar": "同士 (どうし) attached to nouns means 'between each other' or 'among themselves.'"
+  },
+  {
+    "start": "02:38",
+    "end": "02:50",
+    "text": "単独行動であることは明らかだ。これまではな。 / それは / どういうことなのでしょうか? / 君の質問は許されない。 / はい。 / 以上だ。下がりたまえ。 / はい。",
+    "audio_file": "clip_008.mp3",
+    "translation": "It's clear they act independently. Until now, that is. / What do you mean by that? / Your questions are not permitted. / Yes sir. / That will be all. You may step down. / Yes sir.",
+    "vocabulary": [
+      {"word": "単独", "reading": "たんどく", "meaning": "sole, single, independent"},
+      {"word": "行動", "reading": "こうどう", "meaning": "action, behavior"},
+      {"word": "明らか", "reading": "あきらか", "meaning": "clear, obvious"},
+      {"word": "許す", "reading": "ゆるす", "meaning": "to permit, to allow"}
+    ],
+    "grammar": "下がりたまえ uses たまえ, an old-fashioned imperative form used by superiors to subordinates."
+  },
+  {
+    "start": "02:51",
+    "end": "03:03",
+    "text": "どう思うかね、怒り君。 / 使徒は知恵を身につき始めています。 / 残された時間は、 / あとわずかということか。",
+    "audio_file": "clip_009.mp3",
+    "translation": "What do you think, Ikari? / The Angels are beginning to acquire wisdom. / The time remaining... / Is running short, you mean?",
+    "vocabulary": [
+      {"word": "知恵", "reading": "ちえ", "meaning": "wisdom, intelligence"},
+      {"word": "身につく", "reading": "みにつく", "meaning": "to acquire, to learn"},
+      {"word": "残される", "reading": "のこされる", "meaning": "to be left, to remain"},
+      {"word": "わずか", "reading": "わずか", "meaning": "only, merely, a little"}
+    ],
+    "grammar": "始めています uses V-stem + 始める to express 'starting to do' something."
+  },
+  {
+    "start": "03:04",
+    "end": "03:18",
+    "text": "12号室のクランケー? / AのE事件の救急でしょ? / ここで入院してからずいぶん経つわね / なかなか難しいみたいよ、あの怪我 / まだ小学生なのに / 今日も来てるんでしょ、あの子",
+    "audio_file": "clip_010.mp3",
+    "translation": "The patient in Room 12? / The emergency case from the A-E incident? / It's been quite a while since she was admitted here. / That injury seems quite difficult to treat. / And she's still just an elementary school student. / He's here today too, isn't he?",
+    "vocabulary": [
+      {"word": "入院", "reading": "にゅういん", "meaning": "hospitalization"},
+      {"word": "経つ", "reading": "たつ", "meaning": "to pass (time)"},
+      {"word": "怪我", "reading": "けが", "meaning": "injury, wound"},
+      {"word": "小学生", "reading": "しょうがくせい", "meaning": "elementary school student"}
+    ],
+    "grammar": "ずいぶん means 'quite a lot' or 'considerably,' emphasizing degree."
+  },
+  {
+    "start": "03:18",
+    "end": "03:29",
+    "text": "そうそう / 週2回は必ず顔出してるのよ / 妹思いのいいお兄さんよね / ほんと? / 今時珍しいわね、あんな男の子",
+    "audio_file": "clip_011.mp3",
+    "translation": "That's right. / He comes by at least twice a week without fail. / Such a caring older brother who thinks of his sister. / Really? / Boys like that are rare these days.",
+    "vocabulary": [
+      {"word": "必ず", "reading": "かならず", "meaning": "without fail, certainly"},
+      {"word": "顔を出す", "reading": "かおをだす", "meaning": "to show up, to visit"},
+      {"word": "妹思い", "reading": "いもうとおもい", "meaning": "caring about one's younger sister"},
+      {"word": "珍しい", "reading": "めずらしい", "meaning": "rare, unusual"}
+    ],
+    "grammar": "今時 (いまどき) means 'nowadays' or 'these days,' often used with contrast."
+  },
+  {
+    "start": "03:31",
+    "end": "03:45",
+    "text": "レイ、今日はいいのか? / はい明日赤木博士のところに行きます明後日は学校へ / 学校はどうだ / 問題ありませんそう / かならばいい",
+    "audio_file": "clip_012.mp3",
+    "translation": "Rei, is today alright? / Yes, tomorrow I'll go see Dr. Akagi. The day after, I'll go to school. / How is school? / No problems. / I see. That's good then.",
+    "vocabulary": [
+      {"word": "博士", "reading": "はかせ", "meaning": "doctor (PhD), professor"},
+      {"word": "明後日", "reading": "あさって", "meaning": "the day after tomorrow"},
+      {"word": "問題", "reading": "もんだい", "meaning": "problem, issue"}
+    ],
+    "grammar": "ならばいい is a formal conditional meaning 'if that's the case, it's fine.'"
+  },
+  {
+    "start": "03:45",
+    "end": "03:49",
+    "text": "起立! / 着席!",
+    "audio_file": "clip_013.mp3",
+    "translation": "Stand! / Be seated!",
+    "vocabulary": [
+      {"word": "起立", "reading": "きりつ", "meaning": "stand up, rise"},
+      {"word": "着席", "reading": "ちゃくせき", "meaning": "take a seat, be seated"}
+    ],
+    "grammar": "These are command forms commonly used in Japanese schools at the start and end of class."
+  },
+  {
+    "start": "03:49",
+    "end": "03:57",
+    "text": "ああ今日の休みはいつもの綾波と間か。 / ケンスケ、どうしたの?",
+    "audio_file": "clip_014.mp3",
+    "translation": "Ah, today's absences are the usual Ayanami and Maki? / Kensuke, what's up?",
+    "vocabulary": [
+      {"word": "休み", "reading": "やすみ", "meaning": "absence, day off"},
+      {"word": "いつも", "reading": "いつも", "meaning": "always, usual"}
+    ],
+    "grammar": "どうしたの is a casual way to ask 'what's wrong?' or 'what happened?'"
+  },
+  {
+    "start": "03:57",
+    "end": "04:01",
+    "text": "新横須賀。今日も戦艦の追っかけや。",
+    "audio_file": "clip_015.mp3",
+    "translation": "Shin-Yokosuka. He's chasing battleships again today.",
+    "vocabulary": [
+      {"word": "戦艦", "reading": "せんかん", "meaning": "battleship, warship"},
+      {"word": "追っかけ", "reading": "おっかけ", "meaning": "chasing, following (as a fan)"}
+    ],
+    "grammar": "や at the end is Kansai dialect, equivalent to だ or です."
+  },
+  {
+    "start": "04:01",
+    "end": "04:10",
+    "text": "妙子とかユンが入港しとるんやと。 / 鈴原。 / あ、はい、はい。 / 後で綾波にプリントを届けておくように。 / はい。",
+    "audio_file": "clip_016.mp3",
+    "translation": "The Myoko and the Yun are in port, apparently. / Suzuhara. / Ah, yes, yes. / Make sure to deliver the handouts to Ayanami later. / Yes.",
+    "vocabulary": [
+      {"word": "入港", "reading": "にゅうこう", "meaning": "entering port"},
+      {"word": "届ける", "reading": "とどける", "meaning": "to deliver"},
+      {"word": "プリント", "reading": "ぷりんと", "meaning": "handout, printout"}
+    ],
+    "grammar": "しとる is Kansai dialect for している. やと is Kansai for だと (quotative)."
+  },
+  {
+    "start": "04:12",
+    "end": "04:20",
+    "text": "とにかく、外地支部の状況は無事なんだな。 / もう一度くらいを、警察機のクレーターこそ、シャイに判断させる。",
+    "audio_file": "clip_017.mp3",
+    "translation": "Anyway, the situation at the overseas branch is safe, right? / Let's have them assess the police aircraft crater one more time.",
+    "vocabulary": [
+      {"word": "外地", "reading": "がいち", "meaning": "overseas, foreign territory"},
+      {"word": "支部", "reading": "しぶ", "meaning": "branch office"},
+      {"word": "状況", "reading": "じょうきょう", "meaning": "situation, circumstances"},
+      {"word": "無事", "reading": "ぶじ", "meaning": "safe, without incident"}
+    ],
+    "grammar": "とにかく is used to redirect the conversation, meaning 'anyway' or 'at any rate.'"
+  },
+  {
+    "start": "04:20",
+    "end": "04:28",
+    "text": "消滅? / 確かに第二支部が消滅したんだな / はい、全て確認しました / 消滅です",
+    "audio_file": "clip_018.mp3",
+    "translation": "Disappeared? / So the Second Branch really did disappear? / Yes, we've confirmed everything. / It's gone.",
+    "vocabulary": [
+      {"word": "消滅", "reading": "しょうめつ", "meaning": "disappearance, annihilation"},
+      {"word": "確か", "reading": "たしか", "meaning": "certain, sure"},
+      {"word": "確認", "reading": "かくにん", "meaning": "confirmation, verification"}
+    ],
+    "grammar": "したんだな uses んだ for explanatory tone, with な seeking confirmation."
+  },
+  {
+    "start": "04:28",
+    "end": "04:38",
+    "text": "まいったわね / 上野管理部や調査部は大騒ぎ / 総務部はパニクってましたよ / で、原因は? / 未だわからず",
+    "audio_file": "clip_019.mp3",
+    "translation": "This is a disaster. / The management and investigation departments were in an uproar. / The general affairs department was panicking. / So, what's the cause? / Still unknown.",
+    "vocabulary": [
+      {"word": "参った", "reading": "まいった", "meaning": "to be in trouble, defeated"},
+      {"word": "大騒ぎ", "reading": "おおさわぎ", "meaning": "uproar, big fuss"},
+      {"word": "総務部", "reading": "そうむぶ", "meaning": "general affairs department"},
+      {"word": "原因", "reading": "げんいん", "meaning": "cause, reason"}
+    ],
+    "grammar": "わからず uses the classical negative ず ending, more literary than わからない."
+  },
+  {
+    "start": "04:38",
+    "end": "04:43",
+    "text": "手がかりはこの静止衛星からの映像だけで / あとは何も残ってないのよ",
+    "audio_file": "clip_020.mp3",
+    "translation": "The only clue is this footage from the geostationary satellite. / Nothing else remains.",
+    "vocabulary": [
+      {"word": "手がかり", "reading": "てがかり", "meaning": "clue, lead"},
+      {"word": "静止衛星", "reading": "せいしえいせい", "meaning": "geostationary satellite"},
+      {"word": "映像", "reading": "えいぞう", "meaning": "footage, video image"}
+    ],
+    "grammar": "だけで emphasizes 'only this' as the sole evidence available."
+  },
+  {
+    "start": "04:44",
+    "end": "04:56",
+    "text": "10セコンド / 8 / 7 / 6 / 5 / 4 / 3、2、1、コンタクト",
+    "audio_file": "clip_021.mp3",
+    "translation": "10 seconds. / 8. / 7. / 6. / 5. / 4. / 3, 2, 1, contact.",
+    "vocabulary": [
+      {"word": "セコンド", "reading": "せこんど", "meaning": "second (from English)"},
+      {"word": "コンタクト", "reading": "こんたくと", "meaning": "contact"}
+    ],
+    "grammar": "Technical countdown using English loanwords, common in scientific/military contexts in anime."
+  },
+  {
+    "start": "05:04",
+    "end": "05:15",
+    "text": "ひどいわね / エヴァンゲリオン4号機並びに半径89キロ以内の関連研究施設は全て消滅しました / 数千の人間も道連れにね",
+    "audio_file": "clip_022.mp3",
+    "translation": "That's terrible. / Evangelion Unit-04, along with all related research facilities within an 89-kilometer radius, have disappeared. / Taking several thousand people with it.",
+    "vocabulary": [
+      {"word": "並びに", "reading": "ならびに", "meaning": "as well as, and"},
+      {"word": "半径", "reading": "はんけい", "meaning": "radius"},
+      {"word": "研究施設", "reading": "けんきゅうしせつ", "meaning": "research facility"},
+      {"word": "道連れ", "reading": "みちづれ", "meaning": "taking someone with you (often to death)"}
+    ],
+    "grammar": "並びに is a formal conjunction meaning 'as well as,' used in official statements."
+  },
+  {
+    "start": "05:15",
+    "end": "05:22",
+    "text": "タイムスケジュールから推測して / ドイツで修復したS2機関の搭載実験中の事故と思われます",
+    "audio_file": "clip_023.mp3",
+    "translation": "Judging from the time schedule, / it appears to have been an accident during the installation experiment of the S2 engine that was repaired in Germany.",
+    "vocabulary": [
+      {"word": "推測", "reading": "すいそく", "meaning": "inference, conjecture"},
+      {"word": "修復", "reading": "しゅうふく", "meaning": "repair, restoration"},
+      {"word": "搭載", "reading": "とうさい", "meaning": "installation, mounting"},
+      {"word": "実験", "reading": "じっけん", "meaning": "experiment"}
+    ],
+    "grammar": "と思われます is a passive form expressing 'it is thought that...' - objective and formal."
+  },
+  {
+    "start": "05:22",
+    "end": "05:31",
+    "text": "予想される原因は材質の強度不足から設計初期段階のミスまで / 32,768通りです / 妨害工作の線もあるわね",
+    "audio_file": "clip_024.mp3",
+    "translation": "Predicted causes range from insufficient material strength to mistakes in the early design stages - / 32,768 possibilities. / Sabotage is also a possibility.",
+    "vocabulary": [
+      {"word": "材質", "reading": "ざいしつ", "meaning": "material quality"},
+      {"word": "強度", "reading": "きょうど", "meaning": "strength, intensity"},
+      {"word": "設計", "reading": "せっけい", "meaning": "design, planning"},
+      {"word": "妨害工作", "reading": "ぼうがいこうさく", "meaning": "sabotage"}
+    ],
+    "grammar": "から...まで means 'from...to...' showing a range of possibilities."
+  },
+  {
+    "start": "05:31",
+    "end": "05:43",
+    "text": "でも爆発ではなく消滅なんでしょ / つまり消えたと / 多分リラックの海に飲み込まれたんでしょうね / さっきの初号機みたく / じゃあせっかく直したエシツ機関も",
+    "audio_file": "clip_025.mp3",
+    "translation": "But it wasn't an explosion - it was annihilation, right? / Meaning it vanished. / It was probably swallowed by the Sea of Dirac. / Just like Unit-01 earlier. / Then the S2 engine we finally repaired is also...",
+    "vocabulary": [
+      {"word": "爆発", "reading": "ばくはつ", "meaning": "explosion"},
+      {"word": "飲み込む", "reading": "のみこむ", "meaning": "to swallow, to engulf"},
+      {"word": "せっかく", "reading": "せっかく", "meaning": "with effort, at great pains"}
+    ],
+    "grammar": "みたく is casual/colloquial for みたいに, meaning 'like' or 'similar to.'"
+  },
+  {
+    "start": "05:43",
+    "end": "05:50",
+    "text": "パーよ夢はつい得たわね / よくわからないものを無理して使うからよ / それはエヴァも同じだわ",
+    "audio_file": "clip_026.mp3",
+    "translation": "Gone. Our dream just slipped away. / That's what happens when you force yourself to use something you don't understand. / The same goes for the Eva.",
+    "vocabulary": [
+      {"word": "パー", "reading": "ぱー", "meaning": "gone, busted, lost"},
+      {"word": "無理", "reading": "むり", "meaning": "forcing, impossible"},
+      {"word": "同じ", "reading": "おなじ", "meaning": "same"}
+    ],
+    "grammar": "パー is slang meaning something is completely lost or ruined."
+  }
+]

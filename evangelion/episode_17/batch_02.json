@@ -1,0 +1,347 @@
+[
+  {
+    "start": "05:50",
+    "end": "05:56",
+    "text": "で、残った3号機はどうすんの? / ここで引き取ることになったわ",
+    "audio_file": "clip_027.mp3",
+    "translation": "So what about the remaining Unit 03? / We'll be taking it here.",
+    "vocabulary": [
+      {"word": "残った", "reading": "のこった", "meaning": "remaining, left over"},
+      {"word": "引き取る", "reading": "ひきとる", "meaning": "to take over, to take custody of"},
+      {"word": "3号機", "reading": "さんごうき", "meaning": "Unit 03"}
+    ],
+    "grammar": "どうすんの is a casual contraction of どうするの (what will you do about). The の adds a questioning/explanatory nuance."
+  },
+  {
+    "start": "05:56",
+    "end": "06:09",
+    "text": "米国政府も第1支部までは失いたくないみたいね / 3号機と4号機はあっちが建造権を主張して強引に作っていたんじゃない / 今更危ないところだけうちに押し付けるなんて / 虫のいい話ね",
+    "audio_file": "clip_028.mp3",
+    "translation": "The U.S. government doesn't want to lose the First Branch too. / Units 03 and 04 - they insisted on claiming the construction rights and built them by force, didn't they? / Now they're pushing only the dangerous parts onto us. / How convenient for them.",
+    "vocabulary": [
+      {"word": "失う", "reading": "うしなう", "meaning": "to lose"},
+      {"word": "建造権", "reading": "けんぞうけん", "meaning": "construction rights"},
+      {"word": "強引", "reading": "ごういん", "meaning": "forceful, pushy"},
+      {"word": "押し付ける", "reading": "おしつける", "meaning": "to push onto, to force upon"},
+      {"word": "虫のいい", "reading": "むしのいい", "meaning": "self-serving, convenient (for oneself)"}
+    ],
+    "grammar": "虫のいい話 is an idiomatic expression meaning 'a self-serving story/deal' - implying someone is being unreasonably selfish or opportunistic."
+  },
+  {
+    "start": "06:09",
+    "end": "06:19",
+    "text": "あの惨劇の後じゃ誰だって弱気になるわよ / で、起動試験はどうすんの? / 例のダミーを使うのかしら / これから決めるわ",
+    "audio_file": "clip_029.mp3",
+    "translation": "After that tragedy, anyone would lose their nerve. / So what about the activation test? / Will they use that dummy? / We'll decide from now.",
+    "vocabulary": [
+      {"word": "惨劇", "reading": "さんげき", "meaning": "tragedy, disaster"},
+      {"word": "弱気", "reading": "よわき", "meaning": "timid, weak-spirited, bearish"},
+      {"word": "起動試験", "reading": "きどうしけん", "meaning": "activation test"},
+      {"word": "ダミー", "reading": "ダミー", "meaning": "dummy"}
+    ],
+    "grammar": "誰だって means 'anyone would' - だって after a question word creates an inclusive meaning (whoever, whatever, etc.)."
+  },
+  {
+    "start": "06:19",
+    "end": "06:25",
+    "text": "試作されたダミープラグです / 例のパーソナルが移植されています",
+    "audio_file": "clip_030.mp3",
+    "translation": "This is the prototype dummy plug. / The specified personal data has been transplanted into it.",
+    "vocabulary": [
+      {"word": "試作", "reading": "しさく", "meaning": "prototype, trial production"},
+      {"word": "移植", "reading": "いしょく", "meaning": "transplant, porting"},
+      {"word": "例の", "reading": "れいの", "meaning": "the aforementioned, that (known)"}
+    ],
+    "grammar": "例の is used to refer to something both speaker and listener already know about - 'that thing we discussed' or 'the usual one'."
+  },
+  {
+    "start": "06:25",
+    "end": "06:29",
+    "text": "ただ人の心 魂のデジタル化はできません",
+    "audio_file": "clip_031.mp3",
+    "translation": "However, digitizing the human heart and soul is not possible.",
+    "vocabulary": [
+      {"word": "心", "reading": "こころ", "meaning": "heart, mind"},
+      {"word": "魂", "reading": "たましい", "meaning": "soul, spirit"},
+      {"word": "デジタル化", "reading": "デジタルか", "meaning": "digitization"}
+    ],
+    "grammar": "ただ at the beginning functions as 'however/but' to introduce a limitation or caveat to what was previously stated."
+  },
+  {
+    "start": "06:29",
+    "end": "06:36",
+    "text": "あくまでフェイク 擬似的なものです / パイロットの思考の真似をする ただの機械です",
+    "audio_file": "clip_032.mp3",
+    "translation": "It's strictly a fake, a pseudo-version. / It's just a machine that mimics a pilot's thinking.",
+    "vocabulary": [
+      {"word": "あくまで", "reading": "あくまで", "meaning": "strictly, to the end, stubbornly"},
+      {"word": "擬似的", "reading": "ぎじてき", "meaning": "pseudo, simulated"},
+      {"word": "思考", "reading": "しこう", "meaning": "thought, thinking"},
+      {"word": "真似", "reading": "まね", "meaning": "imitation, mimicry"}
+    ],
+    "grammar": "あくまで emphasizes that something is 'nothing more than' or 'strictly' limited to what follows."
+  },
+  {
+    "start": "06:36",
+    "end": "06:43",
+    "text": "信号パターンをエヴァに送り込む / エヴァがそこにパイロットがいると思い込み シンクロさえすればいい",
+    "audio_file": "clip_033.mp3",
+    "translation": "It sends signal patterns to the Eva. / As long as the Eva believes a pilot is there and synchronizes, that's enough.",
+    "vocabulary": [
+      {"word": "送り込む", "reading": "おくりこむ", "meaning": "to send in, to transmit into"},
+      {"word": "思い込む", "reading": "おもいこむ", "meaning": "to be convinced, to believe (mistakenly)"},
+      {"word": "シンクロ", "reading": "シンクロ", "meaning": "synchronization"}
+    ],
+    "grammar": "さえすればいい means 'as long as X happens, it's fine' - さえ (even/just) + すれば (if do) + いい (good)."
+  },
+  {
+    "start": "06:43",
+    "end": "06:48",
+    "text": "初号機と2号機にはデータを入れておけ / まだ問題が残っていますが",
+    "audio_file": "clip_034.mp3",
+    "translation": "Load the data into Units 01 and 02. / But there are still problems remaining.",
+    "vocabulary": [
+      {"word": "初号機", "reading": "しょごうき", "meaning": "Unit 01 (first unit)"},
+      {"word": "入れる", "reading": "いれる", "meaning": "to put in, to insert"},
+      {"word": "残る", "reading": "のこる", "meaning": "to remain"}
+    ],
+    "grammar": "ておけ is the imperative form of ておく (to do in advance/preparation). It's a command to prepare something ahead of time."
+  },
+  {
+    "start": "06:48",
+    "end": "06:52",
+    "text": "構わんエヴァが動けばいい / はい",
+    "audio_file": "clip_035.mp3",
+    "translation": "It doesn't matter. As long as the Eva moves, that's enough. / Yes.",
+    "vocabulary": [
+      {"word": "構わない", "reading": "かまわない", "meaning": "doesn't matter, don't mind"},
+      {"word": "動く", "reading": "うごく", "meaning": "to move, to operate"}
+    ],
+    "grammar": "構わん is the casual/masculine contraction of 構わない. The ばいい pattern means 'it's fine if X happens'."
+  },
+  {
+    "start": "06:53",
+    "end": "06:59",
+    "text": "機体の運搬はUNに一任してやる / 週末には届くだろう",
+    "audio_file": "clip_036.mp3",
+    "translation": "I'll leave the transport of the unit entirely to the UN. / It should arrive by the weekend.",
+    "vocabulary": [
+      {"word": "機体", "reading": "きたい", "meaning": "airframe, body (of machine)"},
+      {"word": "運搬", "reading": "うんぱん", "meaning": "transport, conveyance"},
+      {"word": "一任", "reading": "いちにん", "meaning": "entrust entirely"},
+      {"word": "届く", "reading": "とどく", "meaning": "to arrive, to reach"}
+    ],
+    "grammar": "一任する means to completely entrust something to someone. してやる adds a nuance of doing something as a favor or concession."
+  },
+  {
+    "start": "06:59",
+    "end": "07:13",
+    "text": "あとは君の方でやってくれ / はい調整並びに機動試験は松城で行います / テストパイロットは / ダミープラグはまだ危険です / 現候補者の中から / 4人目を選ぶか",
+    "audio_file": "clip_037.mp3",
+    "translation": "Handle the rest on your end. / Yes, adjustments and activation tests will be conducted at Matsushiro. / As for the test pilot... / The dummy plug is still dangerous. / From among the current candidates... / Shall we choose the Fourth?",
+    "vocabulary": [
+      {"word": "調整", "reading": "ちょうせい", "meaning": "adjustment, tuning"},
+      {"word": "並びに", "reading": "ならびに", "meaning": "as well as, and"},
+      {"word": "候補者", "reading": "こうほしゃ", "meaning": "candidate"},
+      {"word": "危険", "reading": "きけん", "meaning": "danger, dangerous"}
+    ],
+    "grammar": "並びに is a formal conjunction meaning 'as well as' or 'and', used in official/technical contexts."
+  },
+  {
+    "start": "07:13",
+    "end": "07:20",
+    "text": "はい / 1人速やかにコアの準備が可能な子供がいます / 任せる / はい",
+    "audio_file": "clip_038.mp3",
+    "translation": "Yes. / There is one child for whom core preparation can be done promptly. / I'll leave it to you. / Yes.",
+    "vocabulary": [
+      {"word": "速やか", "reading": "すみやか", "meaning": "prompt, swift"},
+      {"word": "準備", "reading": "じゅんび", "meaning": "preparation"},
+      {"word": "可能", "reading": "かのう", "meaning": "possible"},
+      {"word": "任せる", "reading": "まかせる", "meaning": "to entrust, to leave to"}
+    ],
+    "grammar": "速やかに is the adverbial form of 速やか, meaning 'promptly' or 'swiftly'."
+  },
+  {
+    "start": "07:20",
+    "end": "07:23",
+    "text": "レイ、上がっていいぞ",
+    "audio_file": "clip_039.mp3",
+    "translation": "Rei, you can go up now.",
+    "vocabulary": [
+      {"word": "上がる", "reading": "あがる", "meaning": "to go up, to rise, to finish"}
+    ],
+    "grammar": "ていいぞ is a casual masculine way of giving permission. ぞ is an emphatic particle typically used by men."
+  },
+  {
+    "start": "07:23",
+    "end": "07:28",
+    "text": "はい / 食事にしよう / はい",
+    "audio_file": "clip_040.mp3",
+    "translation": "Yes. / Let's have a meal. / Yes.",
+    "vocabulary": [
+      {"word": "食事", "reading": "しょくじ", "meaning": "meal, dining"}
+    ],
+    "grammar": "にしよう means 'let's make it X' or 'let's have X'. It's the volitional form of にする."
+  },
+  {
+    "start": "07:35",
+    "end": "07:37",
+    "text": "レイ",
+    "audio_file": "clip_041.mp3",
+    "translation": "Rei.",
+    "vocabulary": [
+      {"word": "レイ", "reading": "レイ", "meaning": "Rei (character name)"}
+    ],
+    "grammar": "A simple call to get someone's attention."
+  },
+  {
+    "start": "07:37",
+    "end": "07:51",
+    "text": "さーて、飯や飯、学校最大の楽しみやからな / えぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇ / ぇ / き、昨日は宿題で作る日もなかったんだよ",
+    "audio_file": "clip_042.mp3",
+    "translation": "Alright, food, food! It's the best part of school, after all. / Whaaat?! / Y-yesterday I was so busy with homework I didn't have time to make any!",
+    "vocabulary": [
+      {"word": "飯", "reading": "めし", "meaning": "meal, food (casual)"},
+      {"word": "最大", "reading": "さいだい", "meaning": "greatest, maximum"},
+      {"word": "楽しみ", "reading": "たのしみ", "meaning": "enjoyment, pleasure"},
+      {"word": "宿題", "reading": "しゅくだい", "meaning": "homework"}
+    ],
+    "grammar": "やからな is Kansai dialect for だからな (because/since). The repeated 飯や飯 shows enthusiasm."
+  },
+  {
+    "start": "07:51",
+    "end": "07:55",
+    "text": "だからってこのあたしにお昼なしで過ごせてーのあんたは",
+    "audio_file": "clip_043.mp3",
+    "translation": "So you're saying you expect ME to go without lunch?!",
+    "vocabulary": [
+      {"word": "お昼", "reading": "おひる", "meaning": "lunch, noon"},
+      {"word": "過ごす", "reading": "すごす", "meaning": "to spend (time), to get through"},
+      {"word": "あたし", "reading": "あたし", "meaning": "I (feminine casual)"}
+    ],
+    "grammar": "だからって means 'just because' or 'even so'. てーの is a rough/casual contraction of というの (are you saying that)."
+  },
+  {
+    "start": "07:55",
+    "end": "07:58",
+    "text": "なやまた夫婦喧嘩かいな",
+    "audio_file": "clip_044.mp3",
+    "translation": "What, another lovers' quarrel?",
+    "vocabulary": [
+      {"word": "夫婦喧嘩", "reading": "ふうふげんか", "meaning": "marital quarrel, lovers' spat"},
+      {"word": "また", "reading": "また", "meaning": "again"}
+    ],
+    "grammar": "かいな is a Kansai dialect sentence-ending particle expressing mild surprise or rhetorical questioning."
+  },
+  {
+    "start": "08:01",
+    "end": "08:04",
+    "text": "違うよ",
+    "audio_file": "clip_045.mp3",
+    "translation": "That's not it!",
+    "vocabulary": [
+      {"word": "違う", "reading": "ちがう", "meaning": "to be different, to be wrong"}
+    ],
+    "grammar": "違う is commonly used as a denial meaning 'that's wrong' or 'that's not it'."
+  },
+  {
+    "start": "08:04",
+    "end": "08:10",
+    "text": "何を改まって / 松城での3号機の機動実験",
+    "audio_file": "clip_046.mp3",
+    "translation": "What's with the formality? / The Unit 03 activation experiment at Matsushiro.",
+    "vocabulary": [
+      {"word": "改まる", "reading": "あらたまる", "meaning": "to become formal, to be renewed"},
+      {"word": "機動実験", "reading": "きどうじっけん", "meaning": "activation experiment"}
+    ],
+    "grammar": "何を改まって expresses surprise at someone's sudden formality - 'why so formal all of a sudden?'"
+  },
+  {
+    "start": "08:10",
+    "end": "08:18",
+    "text": "テストパイロットは4人目を使うわよ / 4人目? / フォースチルドレンが見つかったの? / 昨日ね",
+    "audio_file": "clip_047.mp3",
+    "translation": "We'll use the Fourth as the test pilot. / The Fourth? / The Fourth Children has been found? / Yesterday.",
+    "vocabulary": [
+      {"word": "4人目", "reading": "よにんめ", "meaning": "fourth person"},
+      {"word": "見つかる", "reading": "みつかる", "meaning": "to be found, to be discovered"}
+    ],
+    "grammar": "4人目 (yoninme) uses the counter 人目 which indicates ordinal position among people."
+  },
+  {
+    "start": "08:18",
+    "end": "08:24",
+    "text": "マルドゥック機関からの報告は受けてないわよ / 正式な書類は明日届くわ",
+    "audio_file": "clip_048.mp3",
+    "translation": "I haven't received a report from the Marduk Institute. / The official documents will arrive tomorrow.",
+    "vocabulary": [
+      {"word": "機関", "reading": "きかん", "meaning": "organization, institute"},
+      {"word": "報告", "reading": "ほうこく", "meaning": "report"},
+      {"word": "正式", "reading": "せいしき", "meaning": "official, formal"},
+      {"word": "書類", "reading": "しょるい", "meaning": "documents, papers"}
+    ],
+    "grammar": "からの indicates the source of something - 'from the Marduk Institute'."
+  },
+  {
+    "start": "08:25",
+    "end": "08:33",
+    "text": "赤木博士 / また私に隠し事してない? / 別に / まあいいわ",
+    "audio_file": "clip_049.mp3",
+    "translation": "Dr. Akagi. / Are you hiding something from me again? / Not really. / Well, fine.",
+    "vocabulary": [
+      {"word": "博士", "reading": "はかせ", "meaning": "doctor, PhD"},
+      {"word": "隠し事", "reading": "かくしごと", "meaning": "secret, something hidden"},
+      {"word": "別に", "reading": "べつに", "meaning": "not particularly, not really"}
+    ],
+    "grammar": "してない is a casual contraction of していない. 別に as a response means 'not particularly' or deflects the question."
+  },
+  {
+    "start": "08:33",
+    "end": "08:36",
+    "text": "で、その選ばれた子って誰?",
+    "audio_file": "clip_050.mp3",
+    "translation": "So, who is this chosen child?",
+    "vocabulary": [
+      {"word": "選ばれる", "reading": "えらばれる", "meaning": "to be chosen, to be selected"}
+    ],
+    "grammar": "選ばれた子って is casual speech - って is a colloquial quotation/topic marker, equivalent to というのは."
+  },
+  {
+    "start": "08:40",
+    "end": "08:45",
+    "text": "よりにもよってこの子なの / 仕方ないわよ",
+    "audio_file": "clip_051.mp3",
+    "translation": "Of all people, it had to be this kid? / It can't be helped.",
+    "vocabulary": [
+      {"word": "よりにもよって", "reading": "よりにもよって", "meaning": "of all things/people, why this"},
+      {"word": "仕方ない", "reading": "しかたない", "meaning": "can't be helped, inevitable"}
+    ],
+    "grammar": "よりにもよって expresses frustration that of all possibilities, the worst/most inconvenient one was chosen."
+  },
+  {
+    "start": "08:45",
+    "end": "08:50",
+    "text": "候補者を集めて保護してあるのだから / 話しづらいわねこのこと",
+    "audio_file": "clip_052.mp3",
+    "translation": "We've gathered and protected the candidates, after all. / This is hard to talk about.",
+    "vocabulary": [
+      {"word": "集める", "reading": "あつめる", "meaning": "to gather, to collect"},
+      {"word": "保護", "reading": "ほご", "meaning": "protection"},
+      {"word": "話しづらい", "reading": "はなしづらい", "meaning": "hard to talk about"}
+    ],
+    "grammar": "てある indicates a state resulting from a deliberate action - the candidates have been gathered and are in that state. づらい attached to verb stems means 'hard to do'."
+  },
+  {
+    "start": "08:50",
+    "end": "08:56",
+    "text": "アスカはいいのよエヴァに乗ってることにプライドかけてるから / レイは例外としてもね",
+    "audio_file": "clip_053.mp3",
+    "translation": "Asuka is fine - she takes pride in piloting Eva. / Even setting Rei aside as an exception.",
+    "vocabulary": [
+      {"word": "乗る", "reading": "のる", "meaning": "to ride, to pilot"},
+      {"word": "プライド", "reading": "プライド", "meaning": "pride"},
+      {"word": "例外", "reading": "れいがい", "meaning": "exception"}
+    ],
+    "grammar": "にプライドをかける means 'to stake one's pride on'. としても means 'even if/as' and is used to set something aside from consideration."
+  }
+]
