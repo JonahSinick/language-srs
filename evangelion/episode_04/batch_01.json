@@ -1,0 +1,677 @@
+[
+  {
+    "start": "01:29",
+    "end": "01:33",
+    "text": "お疲れ様でした",
+    "audio_file": "clip_000.mp3",
+    "translation": "Thank you for your hard work.",
+    "vocabulary": [
+      {
+        "word": "お疲れ様",
+        "reading": "おつかれさま",
+        "meaning": "thank you for your hard work (polite expression)"
+      }
+    ],
+    "grammar": "Polite fixed expression used when acknowledging someone's efforts or when parting after work."
+  },
+  {
+    "start": "01:58",
+    "end": "02:03",
+    "text": "シンジ君、起きなさい。いつまで学校休む気?",
+    "audio_file": "clip_001.mp3",
+    "translation": "Shinji-kun, wake up. How long are you planning to skip school?",
+    "vocabulary": [
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "to wake up, to get up"
+      },
+      {
+        "word": "休む",
+        "reading": "やすむ",
+        "meaning": "to rest, to be absent, to skip"
+      },
+      {
+        "word": "気",
+        "reading": "き",
+        "meaning": "intention, feeling"
+      }
+    ],
+    "grammar": "~なさい (command form), いつまで~気 (how long do you intend to~)"
+  },
+  {
+    "start": "02:03",
+    "end": "02:10",
+    "text": "もう5日目よ。初号機はもう完全に治ってるのよ。 / パイロットのあなたがそんなことでどうするの? / シンジ君?",
+    "audio_file": "clip_002.mp3",
+    "translation": "It's already the fifth day. Unit-01 has already been completely repaired. / What are you going to do as the pilot if you're like this? / Shinji-kun?",
+    "vocabulary": [
+      {
+        "word": "初号機",
+        "reading": "しょごうき",
+        "meaning": "Unit-01 (first machine)"
+      },
+      {
+        "word": "完全",
+        "reading": "かんぜん",
+        "meaning": "completely, perfectly"
+      },
+      {
+        "word": "治る",
+        "reading": "なおる",
+        "meaning": "to be repaired, to heal"
+      },
+      {
+        "word": "パイロット",
+        "reading": "パイロット",
+        "meaning": "pilot"
+      }
+    ],
+    "grammar": "~ている (perfective/resultative state), ~のよ (feminine explanatory particle), どうするの (what will you do)"
+  },
+  {
+    "start": "02:27",
+    "end": "02:31",
+    "text": "家でか、無理もないわね",
+    "audio_file": "clip_003.mp3",
+    "translation": "Running away from home, huh? That's understandable.",
+    "vocabulary": [
+      {
+        "word": "家出",
+        "reading": "いえで",
+        "meaning": "running away from home"
+      },
+      {
+        "word": "無理もない",
+        "reading": "むりもない",
+        "meaning": "understandable, no wonder"
+      }
+    ],
+    "grammar": "~もない (no wonder, not unreasonable), わね (feminine sentence-ending particle)"
+  },
+  {
+    "start": "02:41",
+    "end": "02:46",
+    "text": "シンジ君! / うっ、あ、あの、えっと",
+    "audio_file": "clip_004.mp3",
+    "translation": "Shinji-kun! / Uh, ah, um, well...",
+    "vocabulary": [
+      {
+        "word": "あの",
+        "reading": "あの",
+        "meaning": "um, well (filler word)"
+      },
+      {
+        "word": "えっと",
+        "reading": "えっと",
+        "meaning": "uh, let me see (filler word)"
+      }
+    ],
+    "grammar": "Hesitation markers showing nervousness or uncertainty."
+  },
+  {
+    "start": "02:47",
+    "end": "02:54",
+    "text": "イカリ君と同じクラスの、アイダとスズハラと申します / アイダ君とスズハラ君",
+    "audio_file": "clip_005.mp3",
+    "translation": "We're Aida and Suzuhara from Ikari-kun's class. / Aida-kun and Suzuhara-kun.",
+    "vocabulary": [
+      {
+        "word": "同じ",
+        "reading": "おなじ",
+        "meaning": "same"
+      },
+      {
+        "word": "クラス",
+        "reading": "クラス",
+        "meaning": "class"
+      },
+      {
+        "word": "申す",
+        "reading": "もうす",
+        "meaning": "to be called (humble form)"
+      }
+    ],
+    "grammar": "~と申します (humble self-introduction: 'we are called...')"
+  },
+  {
+    "start": "02:54",
+    "end": "03:04",
+    "text": "はい、わし、僕が / スズハラです / もしかして初号機のエントリープラグに入った / はいその説はとんだご迷惑をおかけしました",
+    "audio_file": "clip_006.mp3",
+    "translation": "Yes, I, I'm / Suzuhara / Did you happen to get into Unit-01's entry plug? / Yes, I deeply apologize for the trouble I caused at that time.",
+    "vocabulary": [
+      {
+        "word": "わし",
+        "reading": "わし",
+        "meaning": "I (masculine, dialectal)"
+      },
+      {
+        "word": "エントリープラグ",
+        "reading": "エントリープラグ",
+        "meaning": "entry plug"
+      },
+      {
+        "word": "迷惑",
+        "reading": "めいわく",
+        "meaning": "trouble, inconvenience"
+      }
+    ],
+    "grammar": "もしかして (by any chance), とんだ (great, terrible - emphasizer), ご迷惑をおかけしました (formal apology)"
+  },
+  {
+    "start": "03:04",
+    "end": "03:08",
+    "text": "実はあれからイカリ君がずっと休んでらっしゃるので",
+    "audio_file": "clip_007.mp3",
+    "translation": "Actually, since then Ikari-kun has been absent the whole time, so...",
+    "vocabulary": [
+      {
+        "word": "実は",
+        "reading": "じつは",
+        "meaning": "actually, in fact"
+      },
+      {
+        "word": "ずっと",
+        "reading": "ずっと",
+        "meaning": "all the time, continuously"
+      },
+      {
+        "word": "休む",
+        "reading": "やすむ",
+        "meaning": "to be absent"
+      }
+    ],
+    "grammar": "~ている (continuous state), ~ていらっしゃる (honorific form of ~ている)"
+  },
+  {
+    "start": "03:08",
+    "end": "03:16",
+    "text": "気になって身に寄らせてもらったんですが / シンジ君はね今ネルフの訓練施設にいるの / そうですか",
+    "audio_file": "clip_008.mp3",
+    "translation": "We were concerned so we came to visit / Shinji-kun is at NERV's training facility right now / I see.",
+    "vocabulary": [
+      {
+        "word": "気になる",
+        "reading": "きになる",
+        "meaning": "to be concerned, to be worried"
+      },
+      {
+        "word": "訓練",
+        "reading": "くんれん",
+        "meaning": "training"
+      },
+      {
+        "word": "施設",
+        "reading": "しせつ",
+        "meaning": "facility"
+      }
+    ],
+    "grammar": "~させてもらう (to receive permission to do), ~んですが (explanatory but...)"
+  },
+  {
+    "start": "03:16",
+    "end": "03:22",
+    "text": "これ机にたまってたプリント / イカリ君 / わざわざ悪いよねありがとう",
+    "audio_file": "clip_009.mp3",
+    "translation": "These are the handouts that piled up on his desk / For Ikari-kun / Sorry to trouble you, thank you.",
+    "vocabulary": [
+      {
+        "word": "机",
+        "reading": "つくえ",
+        "meaning": "desk"
+      },
+      {
+        "word": "たまる",
+        "reading": "たまる",
+        "meaning": "to accumulate, to pile up"
+      },
+      {
+        "word": "プリント",
+        "reading": "プリント",
+        "meaning": "handout, printout"
+      },
+      {
+        "word": "わざわざ",
+        "reading": "わざわざ",
+        "meaning": "going out of one's way"
+      }
+    ],
+    "grammar": "~ていた (past continuous/resultative), わざわざ悪い (sorry for going out of your way)"
+  },
+  {
+    "start": "03:22",
+    "end": "03:30",
+    "text": "ほな僕ら失礼します / イカリ君によろしくお伝えください / ええ、伝 / えるわ。 / じゃ。",
+    "audio_file": "clip_010.mp3",
+    "translation": "Well then, we'll excuse ourselves / Please give our regards to Ikari-kun / Yes, I'll tell him. / See you.",
+    "vocabulary": [
+      {
+        "word": "ほな",
+        "reading": "ほな",
+        "meaning": "well then (Kansai dialect)"
+      },
+      {
+        "word": "失礼",
+        "reading": "しつれい",
+        "meaning": "to excuse oneself"
+      },
+      {
+        "word": "よろしく",
+        "reading": "よろしく",
+        "meaning": "regards, best wishes"
+      },
+      {
+        "word": "伝える",
+        "reading": "つたえる",
+        "meaning": "to convey, to tell"
+      }
+    ],
+    "grammar": "よろしくお伝えください (please convey my regards - polite request)"
+  },
+  {
+    "start": "03:34",
+    "end": "03:40",
+    "text": "これは予想外の展開だ。 / えらいべっぴんさんやったな。",
+    "audio_file": "clip_011.mp3",
+    "translation": "This is an unexpected development. / She was quite a beauty, wasn't she?",
+    "vocabulary": [
+      {
+        "word": "予想外",
+        "reading": "よそうがい",
+        "meaning": "unexpected"
+      },
+      {
+        "word": "展開",
+        "reading": "てんかい",
+        "meaning": "development, turn of events"
+      },
+      {
+        "word": "えらい",
+        "reading": "えらい",
+        "meaning": "very, quite (Kansai dialect)"
+      },
+      {
+        "word": "べっぴんさん",
+        "reading": "べっぴんさん",
+        "meaning": "beautiful woman"
+      }
+    ],
+    "grammar": "やったな (Kansai dialect past form of だ + confirmation particle な)"
+  },
+  {
+    "start": "03:43",
+    "end": "03:45",
+    "text": "信じたバカ!",
+    "audio_file": "clip_012.mp3",
+    "translation": "You idiots believed it!",
+    "vocabulary": [
+      {
+        "word": "信じる",
+        "reading": "しんじる",
+        "meaning": "to believe"
+      },
+      {
+        "word": "バカ",
+        "reading": "バカ",
+        "meaning": "idiot, fool"
+      }
+    ],
+    "grammar": "Past tense verb + noun as exclamation"
+  },
+  {
+    "start": "03:48",
+    "end": "03:51",
+    "text": "バカ。",
+    "audio_file": "clip_013.mp3",
+    "translation": "Idiot.",
+    "vocabulary": [
+      {
+        "word": "バカ",
+        "reading": "バカ",
+        "meaning": "idiot, fool"
+      }
+    ],
+    "grammar": "Simple noun used as insult/expression of frustration"
+  },
+  {
+    "start": "03:53",
+    "end": "04:00",
+    "text": "長尾峠、長尾峠です。 / お出口、右側に変わります。",
+    "audio_file": "clip_014.mp3",
+    "translation": "Nagao Pass, this is Nagao Pass. / The exit will be on the right side.",
+    "vocabulary": [
+      {
+        "word": "峠",
+        "reading": "とうげ",
+        "meaning": "mountain pass"
+      },
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "meaning": "exit"
+      },
+      {
+        "word": "右側",
+        "reading": "みぎがわ",
+        "meaning": "right side"
+      },
+      {
+        "word": "変わる",
+        "reading": "かわる",
+        "meaning": "to change"
+      }
+    ],
+    "grammar": "~に変わります (will change to~) - polite announcement form"
+  },
+  {
+    "start": "04:59",
+    "end": "05:07",
+    "text": "本日は第三新東京市第七環状線をご利用いただき誠にありがとうございます",
+    "audio_file": "clip_015.mp3",
+    "translation": "Thank you very much for using Tokyo-3 Seventh Loop Line today.",
+    "vocabulary": [
+      {
+        "word": "本日",
+        "reading": "ほんじつ",
+        "meaning": "today (formal)"
+      },
+      {
+        "word": "環状線",
+        "reading": "かんじょうせん",
+        "meaning": "loop line, circular line"
+      },
+      {
+        "word": "ご利用",
+        "reading": "ごりよう",
+        "meaning": "use, usage (honorific)"
+      },
+      {
+        "word": "誠に",
+        "reading": "まことに",
+        "meaning": "truly, sincerely"
+      }
+    ],
+    "grammar": "ご~いただき (humble receiving form), 誠にありがとうございます (formal thank you)"
+  },
+  {
+    "start": "05:07",
+    "end": "05:12",
+    "text": "この電車は当駅にて改造電車となります",
+    "audio_file": "clip_016.mp3",
+    "translation": "This train will become a returning train at this station.",
+    "vocabulary": [
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "train"
+      },
+      {
+        "word": "当駅",
+        "reading": "とうえき",
+        "meaning": "this station"
+      },
+      {
+        "word": "にて",
+        "reading": "にて",
+        "meaning": "at, in (formal)"
+      },
+      {
+        "word": "改造",
+        "reading": "かいぞう",
+        "meaning": "return, reversal (in context: 折り返し)"
+      }
+    ],
+    "grammar": "~となります (will become~) - formal announcement pattern"
+  },
+  {
+    "start": "05:12",
+    "end": "05:16",
+    "text": "どちら様もお忘れ物のないようにご降車ください",
+    "audio_file": "clip_017.mp3",
+    "translation": "Please ensure you don't leave any belongings behind when you exit.",
+    "vocabulary": [
+      {
+        "word": "どちら様",
+        "reading": "どちらさま",
+        "meaning": "everyone (polite)"
+      },
+      {
+        "word": "忘れ物",
+        "reading": "わすれもの",
+        "meaning": "forgotten item, lost property"
+      },
+      {
+        "word": "降車",
+        "reading": "こうしゃ",
+        "meaning": "getting off, alighting"
+      }
+    ],
+    "grammar": "~ないように (so that not~), ご~ください (polite request)"
+  },
+  {
+    "start": "05:20",
+    "end": "05:29",
+    "text": "帰らなきゃ / お姉さん! / お姉さん!お姉さん! / 本当に安いんだ!",
+    "audio_file": "clip_018.mp3",
+    "translation": "I have to go back / Miss! / Miss! Miss! / It's really cheap!",
+    "vocabulary": [
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "meaning": "to return, to go home"
+      },
+      {
+        "word": "お姉さん",
+        "reading": "おねえさん",
+        "meaning": "older sister, miss (address)"
+      },
+      {
+        "word": "本当に",
+        "reading": "ほんとうに",
+        "meaning": "really, truly"
+      },
+      {
+        "word": "安い",
+        "reading": "やすい",
+        "meaning": "cheap, inexpensive"
+      }
+    ],
+    "grammar": "~なきゃ (contraction of ~なければ: must, have to), ~んだ (explanatory emphasis)"
+  },
+  {
+    "start": "05:29",
+    "end": "05:33",
+    "text": "ジュールからクエストそうです! / ジュールからクエストそうです!",
+    "audio_file": "clip_019.mp3",
+    "translation": "Jewel from Quest, that's right! / Jewel from Quest, that's right!",
+    "vocabulary": [
+      {
+        "word": "そうです",
+        "reading": "そうです",
+        "meaning": "that's right, that's so"
+      }
+    ],
+    "grammar": "Advertising/sales pitch pattern (unclear product names in anime context)"
+  },
+  {
+    "start": "05:34",
+    "end": "05:43",
+    "text": "本当に探知できなかったんですか? / そうだ!直径数十ミリの物体が / 高速の数十パーセントという / 速度で / 南京に撃突したのだ!",
+    "audio_file": "clip_020.mp3",
+    "translation": "You really couldn't detect it? / That's right! An object with a diameter of several tens of millimeters / struck Antarctica at a speed / of several tens of percent of light speed!",
+    "vocabulary": [
+      {
+        "word": "探知",
+        "reading": "たんち",
+        "meaning": "detection, sensing"
+      },
+      {
+        "word": "直径",
+        "reading": "ちょっけい",
+        "meaning": "diameter"
+      },
+      {
+        "word": "物体",
+        "reading": "ぶったい",
+        "meaning": "object"
+      },
+      {
+        "word": "撃突",
+        "reading": "げきとつ",
+        "meaning": "impact, collision"
+      }
+    ],
+    "grammar": "~できなかった (could not~), という (quotative/specification particle), ~のだ (explanatory emphasis)"
+  },
+  {
+    "start": "05:43",
+    "end": "05:50",
+    "text": "我々の科学では余地も防ぐこともできなかったんだ! / 外は地獄よ! / これじゃ何のための科学なの?",
+    "audio_file": "clip_021.mp3",
+    "translation": "With our science, we couldn't predict or prevent it! / It's hell outside! / What's the point of science if this happens?",
+    "vocabulary": [
+      {
+        "word": "我々",
+        "reading": "われわれ",
+        "meaning": "we (formal)"
+      },
+      {
+        "word": "科学",
+        "reading": "かがく",
+        "meaning": "science"
+      },
+      {
+        "word": "防ぐ",
+        "reading": "ふせぐ",
+        "meaning": "to prevent, to protect against"
+      },
+      {
+        "word": "地獄",
+        "reading": "じごく",
+        "meaning": "hell"
+      }
+    ],
+    "grammar": "~も~も (neither~nor~), ~んだ (explanatory emphasis), 何のための (what is the purpose of)"
+  },
+  {
+    "start": "05:50",
+    "end": "06:01",
+    "text": "現在、耳熟変化による大気流動量3%に減少しました / じゃあ、お / 父さんが死にたほかしら / ダメです、罪が来ます / 秒速230メートルで接近しろ / 先生、 / 落 / ちしましょう",
+    "audio_file": "clip_022.mp3",
+    "translation": "Currently, atmospheric flow volume has decreased to 3% due to thermal changes / Then, has / Father died? / No good, danger is coming / Approaching at 230 meters per second / Teacher, / let's / evacuate",
+    "vocabulary": [
+      {
+        "word": "現在",
+        "reading": "げんざい",
+        "meaning": "currently, now"
+      },
+      {
+        "word": "大気",
+        "reading": "たいき",
+        "meaning": "atmosphere"
+      },
+      {
+        "word": "減少",
+        "reading": "げんしょう",
+        "meaning": "decrease, reduction"
+      },
+      {
+        "word": "秒速",
+        "reading": "びょうそく",
+        "meaning": "meters per second"
+      }
+    ],
+    "grammar": "~による (due to~), ~しました (polite past), ~かしら (feminine wondering particle)"
+  },
+  {
+    "start": "06:02",
+    "end": "06:07",
+    "text": "さあ、私にはここに留まる義務がある / 先生、死ぬことは簡単です",
+    "audio_file": "clip_023.mp3",
+    "translation": "Now, I have a duty to remain here / Teacher, dying is easy.",
+    "vocabulary": [
+      {
+        "word": "留まる",
+        "reading": "とどまる",
+        "meaning": "to remain, to stay"
+      },
+      {
+        "word": "義務",
+        "reading": "ぎむ",
+        "meaning": "duty, obligation"
+      },
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "to die"
+      },
+      {
+        "word": "簡単",
+        "reading": "かんたん",
+        "meaning": "simple, easy"
+      }
+    ],
+    "grammar": "~にはある (to have [for someone]), ~ことは~です (as for doing~, it is~)"
+  },
+  {
+    "start": "06:07",
+    "end": "06:11",
+    "text": "しかし、あなたには世界の地獄を見つめる義務がある",
+    "audio_file": "clip_024.mp3",
+    "translation": "However, you have a duty to witness the world's hell.",
+    "vocabulary": [
+      {
+        "word": "しかし",
+        "reading": "しかし",
+        "meaning": "however, but"
+      },
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "world"
+      },
+      {
+        "word": "見つめる",
+        "reading": "みつめる",
+        "meaning": "to gaze at, to witness"
+      },
+      {
+        "word": "義務",
+        "reading": "ぎむ",
+        "meaning": "duty, obligation"
+      }
+    ],
+    "grammar": "~には~がある (for [someone], there is~)"
+  },
+  {
+    "start": "08:15",
+    "end": "08:24",
+    "text": "14歳だもんね / 人類の存亡を背負わせるのはやっぱり酷よね",
+    "audio_file": "clip_025.mp3",
+    "translation": "He is 14 years old after all / Making him shoulder the fate of humanity is really cruel, isn't it?",
+    "vocabulary": [
+      {
+        "word": "人類",
+        "reading": "じんるい",
+        "meaning": "humanity, mankind"
+      },
+      {
+        "word": "存亡",
+        "reading": "そんぼう",
+        "meaning": "fate, survival or extinction"
+      },
+      {
+        "word": "背負う",
+        "reading": "せおう",
+        "meaning": "to carry on one's back, to shoulder"
+      },
+      {
+        "word": "酷",
+        "reading": "こく",
+        "meaning": "cruel, harsh"
+      }
+    ],
+    "grammar": "~だもんね (casual explanatory: after all~), ~せる (causative: to make someone do), やっぱり (as expected, really)"
+  }
+]

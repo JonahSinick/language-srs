@@ -1,0 +1,627 @@
+[
+  {
+    "start": "14:33",
+    "end": "14:37",
+    "text": "エヴァや私たちのことは全部忘れて、元の生活に戻りなさい!",
+    "audio_file": "clip_078.mp3",
+    "translation": "Forget all about Eva and us, and go back to your old life!",
+    "vocabulary": [
+      {
+        "word": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "all, everything, entirely"
+      },
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "to forget"
+      },
+      {
+        "word": "元",
+        "reading": "もと",
+        "meaning": "former, original"
+      },
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "to return, go back"
+      }
+    ],
+    "grammar": "Command form なさい (nasai) creates a strong but feminine imperative. Pattern: Verb stem + なさい"
+  },
+  {
+    "start": "14:38",
+    "end": "14:42",
+    "text": "あんたみたいな気持ちで乗られんのは迷惑よ!",
+    "audio_file": "clip_079.mp3",
+    "translation": "Having you pilot with that kind of attitude is a nuisance!",
+    "vocabulary": [
+      {
+        "word": "みたいな",
+        "reading": "みたいな",
+        "meaning": "like, similar to"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "meaning": "feeling, mood, attitude"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "to ride, to pilot"
+      },
+      {
+        "word": "迷惑",
+        "reading": "めいわく",
+        "meaning": "nuisance, trouble, annoyance"
+      }
+    ],
+    "grammar": "Passive form 乗られる used to express receiving an unwanted action. ~んの is a contraction of ~のの (nominalizer)"
+  },
+  {
+    "start": "14:52",
+    "end": "15:01",
+    "text": "サードシルドレンは明日第三新東京を離れます / では初号機のデータはレイに書き換える / しかし",
+    "audio_file": "clip_080.mp3",
+    "translation": "The Third Child will leave Tokyo-3 tomorrow. / Then we'll rewrite Unit-01's data to Rei. / However...",
+    "vocabulary": [
+      {
+        "word": "離れる",
+        "reading": "はなれる",
+        "meaning": "to leave, to be separated from"
+      },
+      {
+        "word": "データ",
+        "reading": "でーた",
+        "meaning": "data"
+      },
+      {
+        "word": "書き換える",
+        "reading": "かきかえる",
+        "meaning": "to rewrite, to change"
+      }
+    ],
+    "grammar": "では marks transition to a new decision or topic. Formal-polite ます form used in business/military context"
+  },
+  {
+    "start": "15:01",
+    "end": "15:07",
+    "text": "ゼロ号機の再起動実験の結果の遺憾によらず / 初号機での実験に移る",
+    "audio_file": "clip_081.mp3",
+    "translation": "Regardless of the results of Unit-00's reactivation test, we'll move to testing with Unit-01.",
+    "vocabulary": [
+      {
+        "word": "再起動",
+        "reading": "さいきどう",
+        "meaning": "restart, reactivation"
+      },
+      {
+        "word": "実験",
+        "reading": "じっけん",
+        "meaning": "experiment, test"
+      },
+      {
+        "word": "によらず",
+        "reading": "によらず",
+        "meaning": "regardless of, irrespective of"
+      },
+      {
+        "word": "移る",
+        "reading": "うつる",
+        "meaning": "to move to, to shift to"
+      }
+    ],
+    "grammar": "~によらず means 'regardless of'. Dictionary form 移る used for declarative statement by authority figure"
+  },
+  {
+    "start": "15:11",
+    "end": "15:17",
+    "text": "マルドゥク機関の報告によると / フォースチルトレンはまだ見つかっていない",
+    "audio_file": "clip_082.mp3",
+    "translation": "According to the Malduk Agency's report, the Fourth Child has not been found yet.",
+    "vocabulary": [
+      {
+        "word": "機関",
+        "reading": "きかん",
+        "meaning": "organization, institution"
+      },
+      {
+        "word": "報告",
+        "reading": "ほうこく",
+        "meaning": "report"
+      },
+      {
+        "word": "によると",
+        "reading": "によると",
+        "meaning": "according to"
+      },
+      {
+        "word": "見つかる",
+        "reading": "みつかる",
+        "meaning": "to be found"
+      }
+    ],
+    "grammar": "~によると means 'according to'. ていない is negative present progressive indicating ongoing state"
+  },
+  {
+    "start": "15:17",
+    "end": "15:21",
+    "text": "パイロットの補充は効かないということですか",
+    "audio_file": "clip_083.mp3",
+    "translation": "Does that mean we can't get a replacement pilot?",
+    "vocabulary": [
+      {
+        "word": "補充",
+        "reading": "ほじゅう",
+        "meaning": "supplement, replenishment, replacement"
+      },
+      {
+        "word": "効く",
+        "reading": "きく",
+        "meaning": "to work, to be effective"
+      },
+      {
+        "word": "ということ",
+        "reading": "ということ",
+        "meaning": "it means that, in other words"
+      }
+    ],
+    "grammar": "~ということですか asks for confirmation of understanding. Negative potential 効かない indicates impossibility"
+  },
+  {
+    "start": "15:23",
+    "end": "15:33",
+    "text": "ミサトさんは / どこですか / 一言お別れを / 君はすでにネルフの人間ではない / どのようなことも教えられない",
+    "audio_file": "clip_084.mp3",
+    "translation": "Where is Misato-san? / I'd like to say goodbye. / You are no longer a NERV employee. / We cannot tell you anything.",
+    "vocabulary": [
+      {
+        "word": "一言",
+        "reading": "ひとこと",
+        "meaning": "a word, brief comment"
+      },
+      {
+        "word": "お別れ",
+        "reading": "おわかれ",
+        "meaning": "farewell, goodbye"
+      },
+      {
+        "word": "すでに",
+        "reading": "すでに",
+        "meaning": "already, no longer"
+      },
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": "to tell, to inform"
+      }
+    ],
+    "grammar": "Potential negative 教えられない expresses inability/refusal. ではない is formal negative copula"
+  },
+  {
+    "start": "15:45",
+    "end": "15:49",
+    "text": "ヒカリ 忘れ物や",
+    "audio_file": "clip_085.mp3",
+    "translation": "Hikari, you forgot something!",
+    "vocabulary": [
+      {
+        "word": "忘れ物",
+        "reading": "わすれもの",
+        "meaning": "forgotten item, thing left behind"
+      },
+      {
+        "word": "や",
+        "reading": "や",
+        "meaning": "Kansai dialect particle for emphasis"
+      }
+    ],
+    "grammar": "や is Kansai dialect version of よ or だよ, adding emphasis or alerting someone"
+  },
+  {
+    "start": "15:58",
+    "end": "16:01",
+    "text": "あの ちょっといいですか",
+    "audio_file": "clip_086.mp3",
+    "translation": "Um, do you have a moment?",
+    "vocabulary": [
+      {
+        "word": "あの",
+        "reading": "あの",
+        "meaning": "um, excuse me (filler word)"
+      },
+      {
+        "word": "ちょっと",
+        "reading": "ちょっと",
+        "meaning": "a little, a moment"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "meaning": "good, okay"
+      }
+    ],
+    "grammar": "ちょっといいですか is a polite way to ask for someone's time or attention"
+  },
+  {
+    "start": "16:04",
+    "end": "16:07",
+    "text": "あのありがとう",
+    "audio_file": "clip_087.mp3",
+    "translation": "Um, thank you.",
+    "vocabulary": [
+      {
+        "word": "ありがとう",
+        "reading": "ありがとう",
+        "meaning": "thank you"
+      }
+    ],
+    "grammar": "Simple gratitude expression with hesitation marker あの"
+  },
+  {
+    "start": "16:08",
+    "end": "16:12",
+    "text": "トウジ / 喋れよ / ほら",
+    "audio_file": "clip_088.mp3",
+    "translation": "Toji, say something! / Come on.",
+    "vocabulary": [
+      {
+        "word": "喋る",
+        "reading": "しゃべる",
+        "meaning": "to talk, to speak"
+      },
+      {
+        "word": "よ",
+        "reading": "よ",
+        "meaning": "particle for emphasis/urging"
+      },
+      {
+        "word": "ほら",
+        "reading": "ほら",
+        "meaning": "look, come on, there"
+      }
+    ],
+    "grammar": "Imperative + よ urges someone to do something. ほら is used to prompt action"
+  },
+  {
+    "start": "16:13",
+    "end": "16:26",
+    "text": "イカリ2発もどついたりして悪かった / わしのこともどついてくれ / そんなことできないよ / 頼むせやないとわしの気が / 済まん / こういう恥ずかしいやつなんだよ",
+    "audio_file": "clip_089.mp3",
+    "translation": "Ikari, I'm sorry for hitting you twice. / Hit me back too. / I can't do that. / Please, otherwise I won't feel right. / He's just this kind of embarrassing guy.",
+    "vocabulary": [
+      {
+        "word": "どつく",
+        "reading": "どつく",
+        "meaning": "to hit, to punch (Kansai dialect)"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "meaning": "sorry, bad"
+      },
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request, to ask"
+      },
+      {
+        "word": "気が済む",
+        "reading": "きがすむ",
+        "meaning": "to feel satisfied, to feel settled"
+      }
+    ],
+    "grammar": "~たりして lists actions among others. せやないと is Kansai for そうじゃないと (otherwise)"
+  },
+  {
+    "start": "16:26",
+    "end": "16:29",
+    "text": "まそれで丸く収まるんなら殴ったら",
+    "audio_file": "clip_090.mp3",
+    "translation": "Well, if that'll settle things, then hit him.",
+    "vocabulary": [
+      {
+        "word": "丸く収まる",
+        "reading": "まるくおさまる",
+        "meaning": "to be settled peacefully, to be resolved"
+      },
+      {
+        "word": "殴る",
+        "reading": "なぐる",
+        "meaning": "to punch, to strike"
+      }
+    ],
+    "grammar": "~なら indicates conditional 'if'. たら is conditional suggestion form"
+  },
+  {
+    "start": "16:29",
+    "end": "16:38",
+    "text": "でも… / 早よ!時間ないんや / ろ? / じゃ、一発だけ / よし!今回!",
+    "audio_file": "clip_091.mp3",
+    "translation": "But... / Hurry up! We don't have time! / Right? / Okay, just one punch. / Alright! Come on!",
+    "vocabulary": [
+      {
+        "word": "早よ",
+        "reading": "はよ",
+        "meaning": "quickly, hurry (Kansai dialect)"
+      },
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      },
+      {
+        "word": "一発",
+        "reading": "いっぱつ",
+        "meaning": "one shot/hit"
+      }
+    ],
+    "grammar": "早よ is Kansai dialect for 早く. ~んや is Kansai for ~んだ (explanatory tone)"
+  },
+  {
+    "start": "16:41",
+    "end": "16:43",
+    "text": "待った!",
+    "audio_file": "clip_092.mp3",
+    "translation": "Wait!",
+    "vocabulary": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      }
+    ],
+    "grammar": "Past tense used as exclamation to call timeout or halt action"
+  },
+  {
+    "start": "16:44",
+    "end": "16:47",
+    "text": "手加減なしや",
+    "audio_file": "clip_093.mp3",
+    "translation": "Don't hold back!",
+    "vocabulary": [
+      {
+        "word": "手加減",
+        "reading": "てかげん",
+        "meaning": "going easy on someone, holding back"
+      },
+      {
+        "word": "なし",
+        "reading": "なし",
+        "meaning": "without, none"
+      }
+    ],
+    "grammar": "なし means 'without'. や is Kansai particle for emphasis"
+  },
+  {
+    "start": "16:49",
+    "end": "16:52",
+    "text": "痛ったったったった",
+    "audio_file": "clip_094.mp3",
+    "translation": "Ow ow ow ow!",
+    "vocabulary": [
+      {
+        "word": "痛い",
+        "reading": "いたい",
+        "meaning": "painful, it hurts"
+      }
+    ],
+    "grammar": "Repetition of 痛っ (shortened いたい) emphasizes continued pain"
+  },
+  {
+    "start": "17:02",
+    "end": "17:07",
+    "text": "どうしてここが / 艦ってやつだよ",
+    "audio_file": "clip_095.mp3",
+    "translation": "How did you know I'd be here? / It's called intuition.",
+    "vocabulary": [
+      {
+        "word": "艦",
+        "reading": "かん",
+        "meaning": "intuition, sixth sense"
+      },
+      {
+        "word": "ってやつ",
+        "reading": "ってやつ",
+        "meaning": "the thing called, it's what you call"
+      }
+    ],
+    "grammar": "ってやつ is colloquial for というもの, used to explain or label something casually"
+  },
+  {
+    "start": "17:07",
+    "end": "17:11",
+    "text": "ここんとこ何十人て同級生を見送ってきたんだ",
+    "audio_file": "clip_096.mp3",
+    "translation": "I've seen off dozens of classmates from here lately.",
+    "vocabulary": [
+      {
+        "word": "ここんとこ",
+        "reading": "ここんとこ",
+        "meaning": "recently, lately (colloquial)"
+      },
+      {
+        "word": "何十人",
+        "reading": "なんじゅうにん",
+        "meaning": "dozens of people"
+      },
+      {
+        "word": "同級生",
+        "reading": "どうきゅうせい",
+        "meaning": "classmate"
+      },
+      {
+        "word": "見送る",
+        "reading": "みおくる",
+        "meaning": "to see off, to send off"
+      }
+    ],
+    "grammar": "~てきた indicates action continuing from past to present. んだ adds explanatory tone"
+  },
+  {
+    "start": "17:12",
+    "end": "17:18",
+    "text": "怒りがおらんのや / ったら / いずれわしらもこの町から出て行かんならんようなるやろう",
+    "audio_file": "clip_097.mp3",
+    "translation": "If you weren't here... / Eventually we'll probably have to leave this town too.",
+    "vocabulary": [
+      {
+        "word": "おらん",
+        "reading": "おらん",
+        "meaning": "to not be (Kansai dialect)"
+      },
+      {
+        "word": "いずれ",
+        "reading": "いずれ",
+        "meaning": "eventually, sooner or later"
+      },
+      {
+        "word": "出て行く",
+        "reading": "でていく",
+        "meaning": "to leave, to go away"
+      },
+      {
+        "word": "ならん",
+        "reading": "ならん",
+        "meaning": "must (Kansai dialect)"
+      }
+    ],
+    "grammar": "おらん = いない. ~んならん = しなければならない (must). やろう = だろう (probably)"
+  },
+  {
+    "start": "17:18",
+    "end": "17:26",
+    "text": "せやけどわしら何も言われへん / 今の中で苦しんでる怒りの姿、見てるからな。",
+    "audio_file": "clip_098.mp3",
+    "translation": "But we can't say anything. / Because we've seen you suffering right now, Ikari.",
+    "vocabulary": [
+      {
+        "word": "せやけど",
+        "reading": "せやけど",
+        "meaning": "but, however (Kansai dialect)"
+      },
+      {
+        "word": "言われへん",
+        "reading": "いわれへん",
+        "meaning": "can't say (Kansai dialect)"
+      },
+      {
+        "word": "苦しむ",
+        "reading": "くるしむ",
+        "meaning": "to suffer, to be in pain"
+      },
+      {
+        "word": "姿",
+        "reading": "すがた",
+        "meaning": "figure, appearance"
+      }
+    ],
+    "grammar": "せやけど = だけど. 言われへん = 言えない (potential negative). ~てる = ~ている (ongoing state)"
+  },
+  {
+    "start": "17:26",
+    "end": "17:32",
+    "text": "怒りのことをごちゃごちゃ抜かす奴が追ってみ! / わしがパチキかましたる!",
+    "audio_file": "clip_099.mp3",
+    "translation": "If anyone badmouths you, Ikari, just you watch! / I'll headbutt them!",
+    "vocabulary": [
+      {
+        "word": "ごちゃごちゃ",
+        "reading": "ごちゃごちゃ",
+        "meaning": "complaining, grumbling"
+      },
+      {
+        "word": "抜かす",
+        "reading": "ぬかす",
+        "meaning": "to say, to utter (rough speech)"
+      },
+      {
+        "word": "追う",
+        "reading": "おう",
+        "meaning": "to chase, to follow"
+      },
+      {
+        "word": "パチキ",
+        "reading": "ぱちき",
+        "meaning": "headbutt (slang)"
+      },
+      {
+        "word": "かます",
+        "reading": "かます",
+        "meaning": "to deliver, to give (rough speech)"
+      }
+    ],
+    "grammar": "~てみ is Kansai imperative 'try and see'. ~たる is Kansai for ~てやる (I'll do it for you)"
+  },
+  {
+    "start": "17:34",
+    "end": "17:41",
+    "text": "そない、しんきくさい顔すんなよ! / 元気でな。 / 頑張れよ。 / あのっ!",
+    "audio_file": "clip_100.mp3",
+    "translation": "Don't make such a gloomy face! / Take care. / Do your best! / Um!",
+    "vocabulary": [
+      {
+        "word": "そない",
+        "reading": "そない",
+        "meaning": "so much, such (Kansai dialect)"
+      },
+      {
+        "word": "しんきくさい",
+        "reading": "しんきくさい",
+        "meaning": "gloomy, depressing (Kansai dialect)"
+      },
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "healthy, energetic"
+      },
+      {
+        "word": "頑張る",
+        "reading": "がんばる",
+        "meaning": "to do one's best, to persevere"
+      }
+    ],
+    "grammar": "すんな = するな (negative imperative). でな = でね (farewell particle). 頑張れ is imperative form"
+  },
+  {
+    "start": "17:41",
+    "end": "17:44",
+    "text": "時間だ。",
+    "audio_file": "clip_101.mp3",
+    "translation": "It's time.",
+    "vocabulary": [
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      }
+    ],
+    "grammar": "Simple declarative statement with だ copula"
+  },
+  {
+    "start": "17:52",
+    "end": "17:59",
+    "text": "女の一から / よし!",
+    "audio_file": "clip_102.mp3",
+    "translation": "From one woman... / Alright!",
+    "vocabulary": [
+      {
+        "word": "女",
+        "reading": "おんな",
+        "meaning": "woman"
+      },
+      {
+        "word": "一",
+        "reading": "いち",
+        "meaning": "one"
+      },
+      {
+        "word": "よし",
+        "reading": "よし",
+        "meaning": "alright, okay, good"
+      }
+    ],
+    "grammar": "から indicates source or starting point. よし is an interjection of determination or approval"
+  }
+]
