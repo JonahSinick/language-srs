@@ -1,0 +1,667 @@
+[
+  {
+    "start": "19:14",
+    "end": "19:23",
+    "text": "伊佐子さん逃げて! / いえーっ!このー!",
+    "audio_file": "clip_116.mp3",
+    "translation": "Ms. Isako, run away! / No! This...!",
+    "vocabulary": [
+      {
+        "word": "逃げる",
+        "reading": "にげる",
+        "meaning": "to run away, to escape"
+      },
+      {
+        "word": "いえ",
+        "reading": "いえ",
+        "meaning": "no (strong refusal)"
+      }
+    ],
+    "grammar": "～て (te-form imperative) used for urgent commands"
+  },
+  {
+    "start": "19:24",
+    "end": "19:29",
+    "text": "ミサトさん!",
+    "audio_file": "clip_117.mp3",
+    "translation": "Misato!",
+    "vocabulary": [
+      {
+        "word": "さん",
+        "reading": "さん",
+        "meaning": "honorific suffix"
+      }
+    ],
+    "grammar": "Exclamatory call using name + さん"
+  },
+  {
+    "start": "19:30",
+    "end": "19:34",
+    "text": "臨界まであと0.1!ダメです!爆発します!",
+    "audio_file": "clip_118.mp3",
+    "translation": "Only 0.1 until critical! It's no good! It's going to explode!",
+    "vocabulary": [
+      {
+        "word": "臨界",
+        "reading": "りんかい",
+        "meaning": "critical (nuclear term)"
+      },
+      {
+        "word": "あと",
+        "reading": "あと",
+        "meaning": "remaining, left"
+      },
+      {
+        "word": "爆発",
+        "reading": "ばくはつ",
+        "meaning": "explosion"
+      }
+    ],
+    "grammar": "まで (until/by) expressing proximity to critical point; します (polite future tense)"
+  },
+  {
+    "start": "19:34",
+    "end": "19:38",
+    "text": "ダメか… / ミ / サトさん! / おー!",
+    "audio_file": "clip_119.mp3",
+    "translation": "Is it hopeless...? / Mi / sato! / Whoa!",
+    "vocabulary": [
+      {
+        "word": "ダメ",
+        "reading": "だめ",
+        "meaning": "no good, hopeless"
+      },
+      {
+        "word": "か",
+        "reading": "か",
+        "meaning": "question particle"
+      }
+    ],
+    "grammar": "か used for rhetorical/contemplative question"
+  },
+  {
+    "start": "19:38",
+    "end": "19:41",
+    "text": "おー!",
+    "audio_file": "clip_120.mp3",
+    "translation": "Whoa!",
+    "vocabulary": [
+      {
+        "word": "おー",
+        "reading": "おー",
+        "meaning": "interjection of surprise/effort"
+      }
+    ],
+    "grammar": "Interjection expressing exertion or alarm"
+  },
+  {
+    "start": "19:42",
+    "end": "19:46",
+    "text": "おー! / おー! / おー!",
+    "audio_file": "clip_121.mp3",
+    "translation": "Whoa! / Whoa! / Whoa!",
+    "vocabulary": [
+      {
+        "word": "おー",
+        "reading": "おー",
+        "meaning": "interjection of surprise/effort"
+      }
+    ],
+    "grammar": "Repeated interjections showing continuous exertion"
+  },
+  {
+    "start": "19:47",
+    "end": "19:51",
+    "text": "おー! / おー!",
+    "audio_file": "clip_122.mp3",
+    "translation": "Whoa! / Whoa!",
+    "vocabulary": [
+      {
+        "word": "おー",
+        "reading": "おー",
+        "meaning": "interjection of surprise/effort"
+      }
+    ],
+    "grammar": "Continued interjections"
+  },
+  {
+    "start": "19:52",
+    "end": "19:54",
+    "text": "おー!",
+    "audio_file": "clip_123.mp3",
+    "translation": "Whoa!",
+    "vocabulary": [
+      {
+        "word": "おー",
+        "reading": "おー",
+        "meaning": "interjection of surprise/effort"
+      }
+    ],
+    "grammar": "Final interjection"
+  },
+  {
+    "start": "19:56",
+    "end": "19:59",
+    "text": "はー...",
+    "audio_file": "clip_124.mp3",
+    "translation": "Haah...",
+    "vocabulary": [
+      {
+        "word": "はー",
+        "reading": "はー",
+        "meaning": "sigh of relief/exhaustion"
+      }
+    ],
+    "grammar": "Extended vowel indicating exhaustion or relief"
+  },
+  {
+    "start": "19:59",
+    "end": "20:04",
+    "text": "やったー! / 内圧ダウン! / 全て正常位置!",
+    "audio_file": "clip_125.mp3",
+    "translation": "We did it! / Internal pressure down! / Everything at normal position!",
+    "vocabulary": [
+      {
+        "word": "やった",
+        "reading": "やった",
+        "meaning": "did it, succeeded"
+      },
+      {
+        "word": "内圧",
+        "reading": "ないあつ",
+        "meaning": "internal pressure"
+      },
+      {
+        "word": "正常",
+        "reading": "せいじょう",
+        "meaning": "normal"
+      }
+    ],
+    "grammar": "やった + ー (extended exclamation of success); technical status reports"
+  },
+  {
+    "start": "20:04",
+    "end": "20:11",
+    "text": "やったー!やったー!や / ったー!やったー! / あのバカ…",
+    "audio_file": "clip_126.mp3",
+    "translation": "We did it! We did it! We / did it! We did it! / That idiot...",
+    "vocabulary": [
+      {
+        "word": "やった",
+        "reading": "やった",
+        "meaning": "did it, succeeded"
+      },
+      {
+        "word": "バカ",
+        "reading": "ばか",
+        "meaning": "idiot, fool"
+      },
+      {
+        "word": "あの",
+        "reading": "あの",
+        "meaning": "that (familiar/derogatory)"
+      }
+    ],
+    "grammar": "Repeated exclamations; あの + noun showing exasperated affection"
+  },
+  {
+    "start": "20:11",
+    "end": "20:17",
+    "text": "ミサトさん!大丈夫ですか?ミサトさん! / ええ…まあ最低だけどね…",
+    "audio_file": "clip_127.mp3",
+    "translation": "Misato! Are you okay? Misato! / Yeah... well, I'm at my worst though...",
+    "vocabulary": [
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "alright, okay"
+      },
+      {
+        "word": "最低",
+        "reading": "さいてい",
+        "meaning": "the worst, lowest"
+      },
+      {
+        "word": "まあ",
+        "reading": "まあ",
+        "meaning": "well, more or less"
+      }
+    ],
+    "grammar": "ですか (polite question); だけどね (casual contrast with ね for emphasis)"
+  },
+  {
+    "start": "20:17",
+    "end": "20:20",
+    "text": "よかった!無事なんですね!",
+    "audio_file": "clip_128.mp3",
+    "translation": "Thank goodness! You're safe!",
+    "vocabulary": [
+      {
+        "word": "よかった",
+        "reading": "よかった",
+        "meaning": "it was good, thank goodness"
+      },
+      {
+        "word": "無事",
+        "reading": "ぶじ",
+        "meaning": "safe, unharmed"
+      }
+    ],
+    "grammar": "なんですね (explanatory んです + confirmation ね)"
+  },
+  {
+    "start": "20:20",
+    "end": "20:30",
+    "text": "よかった!本当によかった! / でもすごいや!僕見直しちゃいました! / 本当に奇跡は起きたんですね! / ええ…",
+    "audio_file": "clip_129.mp3",
+    "translation": "Thank goodness! I'm really glad! / But that's amazing! I've gained new respect for you! / A miracle really did happen! / Yeah...",
+    "vocabulary": [
+      {
+        "word": "本当に",
+        "reading": "ほんとうに",
+        "meaning": "really, truly"
+      },
+      {
+        "word": "見直す",
+        "reading": "みなおす",
+        "meaning": "to reevaluate, gain new respect"
+      },
+      {
+        "word": "奇跡",
+        "reading": "きせき",
+        "meaning": "miracle"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "to occur, happen"
+      }
+    ],
+    "grammar": "ちゃいました (colloquial completed action); んですね (explanatory + confirmation)"
+  },
+  {
+    "start": "20:30",
+    "end": "20:34",
+    "text": "奇跡は用意されていたのよ…誰かにね…",
+    "audio_file": "clip_130.mp3",
+    "translation": "The miracle was prepared... by someone...",
+    "vocabulary": [
+      {
+        "word": "用意",
+        "reading": "ようい",
+        "meaning": "preparation"
+      },
+      {
+        "word": "誰か",
+        "reading": "だれか",
+        "meaning": "someone"
+      },
+      {
+        "word": "されていた",
+        "reading": "されていた",
+        "meaning": "had been done (passive)"
+      }
+    ],
+    "grammar": "されていた (passive past continuous); のよ (explanatory female sentence ending); にね (particle + emphasis)"
+  },
+  {
+    "start": "20:34",
+    "end": "20:39",
+    "text": "初号機の回収は無事終了しました / 汚染の心配はありません",
+    "audio_file": "clip_131.mp3",
+    "translation": "Recovery of Unit-01 has been completed successfully / There is no concern about contamination",
+    "vocabulary": [
+      {
+        "word": "回収",
+        "reading": "かいしゅう",
+        "meaning": "recovery, collection"
+      },
+      {
+        "word": "無事",
+        "reading": "ぶじ",
+        "meaning": "safely"
+      },
+      {
+        "word": "終了",
+        "reading": "しゅうりょう",
+        "meaning": "completion, termination"
+      },
+      {
+        "word": "汚染",
+        "reading": "おせん",
+        "meaning": "contamination"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "meaning": "worry, concern"
+      }
+    ],
+    "grammar": "ました (polite past); はありません (polite negative existence)"
+  },
+  {
+    "start": "20:39",
+    "end": "20:44",
+    "text": "桂木一位の行動以外は全てシナリオ通りです / ご苦労",
+    "audio_file": "clip_132.mp3",
+    "translation": "Except for Captain Katsuragi's actions, everything went according to scenario / Good work",
+    "vocabulary": [
+      {
+        "word": "行動",
+        "reading": "こうどう",
+        "meaning": "action, behavior"
+      },
+      {
+        "word": "以外",
+        "reading": "いがい",
+        "meaning": "except for, other than"
+      },
+      {
+        "word": "全て",
+        "reading": "すべて",
+        "meaning": "everything, all"
+      },
+      {
+        "word": "通り",
+        "reading": "どおり",
+        "meaning": "according to, as per"
+      },
+      {
+        "word": "ご苦労",
+        "reading": "ごくろう",
+        "meaning": "good work (from superior)"
+      }
+    ],
+    "grammar": "以外は (except for + topic marker); 通り (suffix meaning 'according to')"
+  },
+  {
+    "start": "20:54",
+    "end": "20:56",
+    "text": "おはよう",
+    "audio_file": "clip_133.mp3",
+    "translation": "Good morning",
+    "vocabulary": [
+      {
+        "word": "おはよう",
+        "reading": "おはよう",
+        "meaning": "good morning (casual)"
+      }
+    ],
+    "grammar": "Casual morning greeting"
+  },
+  {
+    "start": "21:02",
+    "end": "21:10",
+    "text": "さて、次は朝シャン朝シャン / プラとパンツはどこかいなと",
+    "audio_file": "clip_134.mp3",
+    "translation": "Well then, next is morning shower, morning shower / Now where are the bra and panties",
+    "vocabulary": [
+      {
+        "word": "さて",
+        "reading": "さて",
+        "meaning": "well then, now then"
+      },
+      {
+        "word": "次",
+        "reading": "つぎ",
+        "meaning": "next"
+      },
+      {
+        "word": "朝シャン",
+        "reading": "あさしゃん",
+        "meaning": "morning shower (colloquial)"
+      },
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "meaning": "where"
+      }
+    ],
+    "grammar": "かいな (Kansai dialect wondering particle); repeated words for emphasis"
+  },
+  {
+    "start": "21:12",
+    "end": "21:20",
+    "text": "おはよう、いかりくん / はよう / 行ってきます / 行ってらっさい",
+    "audio_file": "clip_135.mp3",
+    "translation": "Good morning, Ikari-kun / Morning / I'm heading out / See you later",
+    "vocabulary": [
+      {
+        "word": "おはよう",
+        "reading": "おはよう",
+        "meaning": "good morning"
+      },
+      {
+        "word": "はよう",
+        "reading": "はよう",
+        "meaning": "morning (casual/dialect)"
+      },
+      {
+        "word": "行ってきます",
+        "reading": "いってきます",
+        "meaning": "I'm leaving (and will return)"
+      },
+      {
+        "word": "行ってらっさい",
+        "reading": "いってらっさい",
+        "meaning": "see you later (casual)"
+      }
+    ],
+    "grammar": "Standard departure/farewell exchange; らっさい (casual form of いらっしゃい)"
+  },
+  {
+    "start": "21:21",
+    "end": "21:33",
+    "text": "やっぱかっこええな、みさとさんは / 僕もそう思ったけど / うちの中ちゃんみっともないよ / ほんとズボラだし / カッコ悪いし / つくづくだらしないし",
+    "audio_file": "clip_136.mp3",
+    "translation": "She's still really cool, Misato is / I thought so too, but / Inside the house she's pretty pathetic / Really sloppy / Uncool / Thoroughly careless",
+    "vocabulary": [
+      {
+        "word": "やっぱ",
+        "reading": "やっぱ",
+        "meaning": "as expected, still (casual)"
+      },
+      {
+        "word": "かっこええ",
+        "reading": "かっこええ",
+        "meaning": "cool (Kansai dialect)"
+      },
+      {
+        "word": "みっともない",
+        "reading": "みっともない",
+        "meaning": "unseemly, shameful"
+      },
+      {
+        "word": "ズボラ",
+        "reading": "ずぼら",
+        "meaning": "slovenly, sloppy"
+      },
+      {
+        "word": "だらしない",
+        "reading": "だらしない",
+        "meaning": "careless, sloppy"
+      }
+    ],
+    "grammar": "だし (listing reasons); Kansai dialect かっこええ (かっこいい)"
+  },
+  {
+    "start": "21:33",
+    "end": "21:39",
+    "text": "見たらこっちが恥ずかしいよ / 羨ましいな / それって",
+    "audio_file": "clip_137.mp3",
+    "translation": "Just looking at it makes me embarrassed / I'm jealous / That's...",
+    "vocabulary": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "meaning": "to look, to see"
+      },
+      {
+        "word": "こっち",
+        "reading": "こっち",
+        "meaning": "this side, me"
+      },
+      {
+        "word": "恥ずかしい",
+        "reading": "はずかしい",
+        "meaning": "embarrassing, shy"
+      },
+      {
+        "word": "羨ましい",
+        "reading": "うらやましい",
+        "meaning": "enviable, jealous"
+      }
+    ],
+    "grammar": "たら (conditional); って (casual quotative particle)"
+  },
+  {
+    "start": "21:39",
+    "end": "21:41",
+    "text": "どうして",
+    "audio_file": "clip_138.mp3",
+    "translation": "Why?",
+    "vocabulary": [
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "meaning": "why, how come"
+      }
+    ],
+    "grammar": "Simple question word"
+  },
+  {
+    "start": "21:41",
+    "end": "21:47",
+    "text": "やっぱイカリってお子様なやつ / ほんまやな / どうして",
+    "audio_file": "clip_139.mp3",
+    "translation": "Ikari really is such a kid / That's true / Why?",
+    "vocabulary": [
+      {
+        "word": "やっぱ",
+        "reading": "やっぱ",
+        "meaning": "as expected (casual)"
+      },
+      {
+        "word": "お子様",
+        "reading": "おこさま",
+        "meaning": "child (honorific/ironic)"
+      },
+      {
+        "word": "ほんまや",
+        "reading": "ほんまや",
+        "meaning": "that's true (Kansai)"
+      }
+    ],
+    "grammar": "って (quotative/emphasis); な (Kansai agreement particle); やな (Kansai だな)"
+  },
+  {
+    "start": "21:47",
+    "end": "21:51",
+    "text": "他人の俺たちには見せない / 本当の姿だろ",
+    "audio_file": "clip_140.mp3",
+    "translation": "It's her true self that she doesn't show to us outsiders",
+    "vocabulary": [
+      {
+        "word": "他人",
+        "reading": "たにん",
+        "meaning": "others, outsiders"
+      },
+      {
+        "word": "見せる",
+        "reading": "みせる",
+        "meaning": "to show"
+      },
+      {
+        "word": "本当",
+        "reading": "ほんとう",
+        "meaning": "true, real"
+      },
+      {
+        "word": "姿",
+        "reading": "すがた",
+        "meaning": "figure, form, appearance"
+      }
+    ],
+    "grammar": "には (emphatic particle combination); だろ (casual だろう - assumption)"
+  },
+  {
+    "start": "21:51",
+    "end": "21:54",
+    "text": "それって家族じゃないか",
+    "audio_file": "clip_141.mp3",
+    "translation": "Isn't that what family is?",
+    "vocabulary": [
+      {
+        "word": "それ",
+        "reading": "それ",
+        "meaning": "that"
+      },
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "family"
+      },
+      {
+        "word": "じゃないか",
+        "reading": "じゃないか",
+        "meaning": "isn't it (rhetorical)"
+      }
+    ],
+    "grammar": "って (topic marker); じゃないか (rhetorical question seeking agreement)"
+  },
+  {
+    "start": "23:06",
+    "end": "23:20",
+    "text": "ドイツのビルヘルムスハーフェンを出港し / 一路日本 / へと向かうエヴァ2号機とそのパイロット / 突然の使徒襲来は起動した2号機に初の水中戦闘を強いる / 次回 明日来日",
+    "audio_file": "clip_142.mp3",
+    "translation": "Departing from Wilhelmshaven, Germany / Eva Unit-02 and its pilot / head straight for Japan / A sudden Angel attack forces the newly activated Unit-02 into its first underwater battle / Next episode: Asuka Strikes!",
+    "vocabulary": [
+      {
+        "word": "出港",
+        "reading": "しゅっこう",
+        "meaning": "departure from port"
+      },
+      {
+        "word": "一路",
+        "reading": "いちろ",
+        "meaning": "straight ahead, directly"
+      },
+      {
+        "word": "向かう",
+        "reading": "むかう",
+        "meaning": "to head toward"
+      },
+      {
+        "word": "使徒",
+        "reading": "しと",
+        "meaning": "Angel (in Evangelion)"
+      },
+      {
+        "word": "襲来",
+        "reading": "しゅうらい",
+        "meaning": "attack, invasion"
+      },
+      {
+        "word": "起動",
+        "reading": "きどう",
+        "meaning": "activation, startup"
+      },
+      {
+        "word": "水中",
+        "reading": "すいちゅう",
+        "meaning": "underwater"
+      },
+      {
+        "word": "戦闘",
+        "reading": "せんとう",
+        "meaning": "battle, combat"
+      },
+      {
+        "word": "強いる",
+        "reading": "しいる",
+        "meaning": "to force, to compel"
+      }
+    ],
+    "grammar": "へと向かう (formal direction); を強いる (causative forcing); 次回 (next episode preview format)"
+  }
+]
