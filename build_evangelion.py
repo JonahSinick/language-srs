@@ -27,7 +27,7 @@ MAX_MERGED_DURATION = 12.0
 # Audio endpoint detection settings (tuned for anime with background music)
 MIN_EXTENSION = 0.7      # Longer minimum extension for trailing speech
 SEARCH_WINDOW = 2.0
-SILENCE_THRESHOLD = 0.15 # Higher threshold - anime has constant BGM
+SILENCE_THRESHOLD = 0.22 # Higher threshold - anime has constant BGM
 MIN_SILENCE_DURATION = 0.15
 FALLBACK_BUFFER = 0.9    # More generous fallback
 END_BUFFER = 0.35        # More buffer after detected silence
