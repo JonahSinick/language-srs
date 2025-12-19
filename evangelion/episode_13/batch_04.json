@@ -1,0 +1,391 @@
+[
+  {
+    "start": "15:08",
+    "end": "15:14",
+    "text": "拒否します / 技術部が解決すべき問題です / なに意地張ってんのよ",
+    "audio_file": "clip_088.mp3",
+    "translation": "I refuse. This is a problem the Technical Department should solve. / Why are you being so stubborn?",
+    "vocabulary": [
+      {"word": "拒否", "reading": "きょひ", "meaning": "refusal, rejection"},
+      {"word": "技術部", "reading": "ぎじゅつぶ", "meaning": "technical department"},
+      {"word": "解決", "reading": "かいけつ", "meaning": "solution, resolution"},
+      {"word": "意地張る", "reading": "いじはる", "meaning": "to be stubborn, to be obstinate"}
+    ],
+    "grammar": "べき問題 - 'べき' after verb stem indicates obligation or expectation ('a problem that should be solved')"
+  },
+  {
+    "start": "15:14",
+    "end": "15:25",
+    "text": "私のミスから始まったことなのよ / あなたは昔からそう / 一人で全部抱え込んで / 他人を宛にしないのね",
+    "audio_file": "clip_089.mp3",
+    "translation": "This started from my mistake. / You've always been like that. / Taking everything on yourself alone. / You don't rely on others, do you?",
+    "vocabulary": [
+      {"word": "ミス", "reading": "ミス", "meaning": "mistake, error"},
+      {"word": "抱え込む", "reading": "かかえこむ", "meaning": "to take on (by oneself), to hold in"},
+      {"word": "他人", "reading": "たにん", "meaning": "other people, others"},
+      {"word": "宛にする", "reading": "あてにする", "meaning": "to rely on, to count on"}
+    ],
+    "grammar": "から始まった - indicates the origin/starting point of something ('started from')"
+  },
+  {
+    "start": "15:27",
+    "end": "15:33",
+    "text": "人が進化し続けるのなら / 賞賛はあります / 進化の促進かね",
+    "audio_file": "clip_090.mp3",
+    "translation": "If it continues to evolve... / There is a chance. / Accelerating its evolution, you mean?",
+    "vocabulary": [
+      {"word": "進化", "reading": "しんか", "meaning": "evolution"},
+      {"word": "続ける", "reading": "つづける", "meaning": "to continue"},
+      {"word": "勝算", "reading": "しょうさん", "meaning": "chance of winning, prospects"},
+      {"word": "促進", "reading": "そくしん", "meaning": "promotion, acceleration"}
+    ],
+    "grammar": "し続けるのなら - conditional form with 続ける indicating 'if it keeps doing...'"
+  },
+  {
+    "start": "15:33",
+    "end": "15:38",
+    "text": "はい / 終着地点は自滅、死そのものだ",
+    "audio_file": "clip_091.mp3",
+    "translation": "Yes. / The final destination is self-destruction - death itself.",
+    "vocabulary": [
+      {"word": "終着地点", "reading": "しゅうちゃくちてん", "meaning": "final destination, terminus"},
+      {"word": "自滅", "reading": "じめつ", "meaning": "self-destruction"},
+      {"word": "死", "reading": "し", "meaning": "death"},
+      {"word": "そのもの", "reading": "そのもの", "meaning": "itself, the very thing"}
+    ],
+    "grammar": "そのもの - emphasizer meaning 'itself' or 'the very thing'"
+  },
+  {
+    "start": "15:38",
+    "end": "15:42",
+    "text": "ならば、進化をこちらで促進させてやればいいわけか?",
+    "audio_file": "clip_092.mp3",
+    "translation": "Then, we just need to accelerate its evolution on our end?",
+    "vocabulary": [
+      {"word": "ならば", "reading": "ならば", "meaning": "if so, in that case"},
+      {"word": "こちら", "reading": "こちら", "meaning": "this side, our end"},
+      {"word": "促進させる", "reading": "そくしんさせる", "meaning": "to make accelerate, to promote"}
+    ],
+    "grammar": "させてやればいいわけか - causative + てやる (doing for someone) + ばいい (should just do) + わけか (is that the reasoning?)"
+  },
+  {
+    "start": "15:42",
+    "end": "15:50",
+    "text": "使徒が死の効率的な回避を考えれば、マギトの共生を選択するかもしれません / でも、どうやって…",
+    "audio_file": "clip_093.mp3",
+    "translation": "If the Angel considers efficient avoidance of death, it might choose symbiosis with MAGI. / But how...?",
+    "vocabulary": [
+      {"word": "効率的", "reading": "こうりつてき", "meaning": "efficient"},
+      {"word": "回避", "reading": "かいひ", "meaning": "avoidance, evasion"},
+      {"word": "共生", "reading": "きょうせい", "meaning": "symbiosis, coexistence"},
+      {"word": "選択", "reading": "せんたく", "meaning": "choice, selection"}
+    ],
+    "grammar": "を考えれば - conditional with 考える ('if one considers')"
+  },
+  {
+    "start": "15:50",
+    "end": "15:55",
+    "text": "目標がコンピューターそのものなら、カスパーを使徒に直結",
+    "audio_file": "clip_094.mp3",
+    "translation": "If the target is a computer itself, we directly connect Casper to the Angel.",
+    "vocabulary": [
+      {"word": "目標", "reading": "もくひょう", "meaning": "target, objective"},
+      {"word": "直結", "reading": "ちょっけつ", "meaning": "direct connection"},
+      {"word": "カスパー", "reading": "カスパー", "meaning": "Casper (one of the three MAGI computers)"}
+    ],
+    "grammar": "なら conditional - 'if X is the case' (softer than ならば)"
+  },
+  {
+    "start": "15:55",
+    "end": "16:00",
+    "text": "逆ハックを仕掛けて、自滅促進プログラムを送り込むことができます / が…",
+    "audio_file": "clip_095.mp3",
+    "translation": "We can launch a reverse hack and send in a self-destruction acceleration program... but...",
+    "vocabulary": [
+      {"word": "逆ハック", "reading": "ぎゃくハック", "meaning": "reverse hack"},
+      {"word": "仕掛ける", "reading": "しかける", "meaning": "to set up, to launch"},
+      {"word": "送り込む", "reading": "おくりこむ", "meaning": "to send in, to infiltrate"},
+      {"word": "プログラム", "reading": "プログラム", "meaning": "program"}
+    ],
+    "grammar": "ことができます - potential form using こと + できる ('it is possible to...')"
+  },
+  {
+    "start": "16:00",
+    "end": "16:12",
+    "text": "同時に、使徒に対しても防壁を解放することにもなります / カスパーが早いか、首都が早いか、勝負だな / はい、そのプログラム間に合うんでしょうね",
+    "audio_file": "clip_096.mp3",
+    "translation": "At the same time, it also means releasing our defenses against the Angel. / It's a race - whether Casper is faster or the Angel. / Yes, the program will be ready in time, right?",
+    "vocabulary": [
+      {"word": "同時に", "reading": "どうじに", "meaning": "at the same time"},
+      {"word": "防壁", "reading": "ぼうへき", "meaning": "defensive wall, firewall"},
+      {"word": "解放", "reading": "かいほう", "meaning": "release, liberation"},
+      {"word": "間に合う", "reading": "まにあう", "meaning": "to be in time, to make it"}
+    ],
+    "grammar": "ことにもなります - 'it also becomes the case that...' (unintended consequence)"
+  },
+  {
+    "start": "16:12",
+    "end": "16:15",
+    "text": "カスパーまで犯されたら終わりなのよ",
+    "audio_file": "clip_097.mp3",
+    "translation": "If even Casper is violated, it's all over.",
+    "vocabulary": [
+      {"word": "犯す", "reading": "おかす", "meaning": "to violate, to invade"},
+      {"word": "終わり", "reading": "おわり", "meaning": "end, finish"},
+      {"word": "まで", "reading": "まで", "meaning": "even, as far as"}
+    ],
+    "grammar": "犯されたら - passive conditional ('if it is violated')"
+  },
+  {
+    "start": "16:16",
+    "end": "16:30",
+    "text": "約束は守るわ / R警 / 報発令、R警報発令 / ベルフ本部内部に緊急事態が発生しました / D級勤務者は全員退避してください",
+    "audio_file": "clip_098.mp3",
+    "translation": "I'll keep my promise. / R-Alert issued, R-Alert issued. / An emergency has occurred inside NERV headquarters. / All D-class personnel, please evacuate.",
+    "vocabulary": [
+      {"word": "約束", "reading": "やくそく", "meaning": "promise"},
+      {"word": "守る", "reading": "まもる", "meaning": "to protect, to keep (a promise)"},
+      {"word": "警報", "reading": "けいほう", "meaning": "alert, alarm"},
+      {"word": "発令", "reading": "はつれい", "meaning": "issued, proclaimed"},
+      {"word": "退避", "reading": "たいひ", "meaning": "evacuation, taking shelter"}
+    ],
+    "grammar": "てください - polite request form ('please do...')"
+  },
+  {
+    "start": "16:39",
+    "end": "16:42",
+    "text": "な、なんですか?これ",
+    "audio_file": "clip_099.mp3",
+    "translation": "Wh-what is this?",
+    "vocabulary": [
+      {"word": "何", "reading": "なん", "meaning": "what"},
+      {"word": "これ", "reading": "これ", "meaning": "this"}
+    ],
+    "grammar": "Stuttering (な、なん) indicates surprise or shock in Japanese speech"
+  },
+  {
+    "start": "16:48",
+    "end": "17:01",
+    "text": "開発者のいたずら書きだわ / すごい!裏コードだ! / マギの裏コードですよ!これ / さながら / マギの裏技大特集ってわけね / ああ、 / こんなの見ちゃっていいのかしら?",
+    "audio_file": "clip_100.mp3",
+    "translation": "It's the developer's doodles. / Amazing! It's hidden code! / This is MAGI's hidden code! / It's like... / A special feature on MAGI's secret tricks, huh. / Oh, is it okay for us to see this?",
+    "vocabulary": [
+      {"word": "開発者", "reading": "かいはつしゃ", "meaning": "developer"},
+      {"word": "いたずら書き", "reading": "いたずらがき", "meaning": "doodle, scribble"},
+      {"word": "裏コード", "reading": "うらコード", "meaning": "hidden/back-door code"},
+      {"word": "裏技", "reading": "うらわざ", "meaning": "secret trick, hidden technique"}
+    ],
+    "grammar": "見ちゃっていいのかしら - ちゃう (casual てしまう) + いいのかしら (feminine wondering 'is it okay?')"
+  },
+  {
+    "start": "17:01",
+    "end": "17:05",
+    "text": "ああ、びっくり!これなんて、イントのシーンよ!",
+    "audio_file": "clip_101.mp3",
+    "translation": "Oh, what a surprise! This is an initialization scene!",
+    "vocabulary": [
+      {"word": "びっくり", "reading": "びっくり", "meaning": "surprise, shock"},
+      {"word": "イニット", "reading": "イニット", "meaning": "initialization (init)"},
+      {"word": "シーン", "reading": "シーン", "meaning": "scene, sequence"}
+    ],
+    "grammar": "なんて - exclamatory particle expressing surprise or emphasis"
+  },
+  {
+    "start": "17:05",
+    "end": "17:09",
+    "text": "これなら、意外と早くプログラムできますね、先輩!",
+    "audio_file": "clip_102.mp3",
+    "translation": "With this, we can program it surprisingly quickly, senpai!",
+    "vocabulary": [
+      {"word": "意外と", "reading": "いがいと", "meaning": "surprisingly, unexpectedly"},
+      {"word": "早く", "reading": "はやく", "meaning": "quickly, fast"},
+      {"word": "先輩", "reading": "せんぱい", "meaning": "senior, mentor"}
+    ],
+    "grammar": "これなら - 'if it's this' or 'with this' conditional"
+  },
+  {
+    "start": "17:09",
+    "end": "17:11",
+    "text": "うん。",
+    "audio_file": "clip_103.mp3",
+    "translation": "Yeah.",
+    "vocabulary": [
+      {"word": "うん", "reading": "うん", "meaning": "yes, yeah (casual)"}
+    ],
+    "grammar": "Casual affirmative response"
+  },
+  {
+    "start": "17:11",
+    "end": "17:15",
+    "text": "ありがとう、母さん。確実に間に合うわ。",
+    "audio_file": "clip_104.mp3",
+    "translation": "Thank you, Mother. We'll definitely make it in time.",
+    "vocabulary": [
+      {"word": "ありがとう", "reading": "ありがとう", "meaning": "thank you"},
+      {"word": "母さん", "reading": "かあさん", "meaning": "mother"},
+      {"word": "確実に", "reading": "かくじつに", "meaning": "certainly, definitely"},
+      {"word": "間に合う", "reading": "まにあう", "meaning": "to be in time"}
+    ],
+    "grammar": "わ - feminine sentence-ending particle adding assertion"
+  },
+  {
+    "start": "17:26",
+    "end": "17:28",
+    "text": "レンチ取って。",
+    "audio_file": "clip_105.mp3",
+    "translation": "Hand me the wrench.",
+    "vocabulary": [
+      {"word": "レンチ", "reading": "レンチ", "meaning": "wrench"},
+      {"word": "取る", "reading": "とる", "meaning": "to take, to hand"}
+    ],
+    "grammar": "取って - te-form used as casual imperative/request"
+  },
+  {
+    "start": "17:30",
+    "end": "17:36",
+    "text": "大学の頃を思い出すわね / 25番のボード",
+    "audio_file": "clip_106.mp3",
+    "translation": "This reminds me of our college days. / Board number 25.",
+    "vocabulary": [
+      {"word": "大学", "reading": "だいがく", "meaning": "university, college"},
+      {"word": "頃", "reading": "ころ", "meaning": "time, around the time of"},
+      {"word": "思い出す", "reading": "おもいだす", "meaning": "to remember, to recall"},
+      {"word": "ボード", "reading": "ボード", "meaning": "board"}
+    ],
+    "grammar": "を思い出す - 'to recall/remember X'"
+  },
+  {
+    "start": "17:39",
+    "end": "17:46",
+    "text": "ねえ、少しは教えてよマギのこと / 長い話よ",
+    "audio_file": "clip_107.mp3",
+    "translation": "Hey, tell me a little about MAGI. / It's a long story.",
+    "vocabulary": [
+      {"word": "少し", "reading": "すこし", "meaning": "a little"},
+      {"word": "教える", "reading": "おしえる", "meaning": "to teach, to tell"},
+      {"word": "長い", "reading": "ながい", "meaning": "long"},
+      {"word": "話", "reading": "はなし", "meaning": "story, talk"}
+    ],
+    "grammar": "少しは - 'at least a little' (は adds emphasis on the minimum)"
+  },
+  {
+    "start": "17:46",
+    "end": "17:49",
+    "text": "その割に面白くない話",
+    "audio_file": "clip_108.mp3",
+    "translation": "A not-so-interesting story for its length.",
+    "vocabulary": [
+      {"word": "その割に", "reading": "そのわりに", "meaning": "considering that, for (its length)"},
+      {"word": "面白い", "reading": "おもしろい", "meaning": "interesting, fun"},
+      {"word": "話", "reading": "はなし", "meaning": "story"}
+    ],
+    "grammar": "その割に - 'considering that' or 'for all that' - indicates something is disproportionate to expectations"
+  },
+  {
+    "start": "17:49",
+    "end": "18:03",
+    "text": "人格移植OSって知ってる? / ええ。第7世代の有機コンピューターに個人の人格を移植して試行させるシステム。 / エヴァーの操縦にも使われている技術よね。",
+    "audio_file": "clip_109.mp3",
+    "translation": "Do you know about personality transplant OS? / Yes. A system that transplants an individual's personality into 7th generation organic computers to make them think. / It's the technology used in Eva piloting too, right?",
+    "vocabulary": [
+      {"word": "人格移植", "reading": "じんかくいしょく", "meaning": "personality transplant"},
+      {"word": "有機", "reading": "ゆうき", "meaning": "organic"},
+      {"word": "移植", "reading": "いしょく", "meaning": "transplant"},
+      {"word": "操縦", "reading": "そうじゅう", "meaning": "piloting, operation"}
+    ],
+    "grammar": "って知ってる - casual way of asking 'do you know about X?' (って = quotative particle)"
+  },
+  {
+    "start": "18:03",
+    "end": "18:05",
+    "text": "マギはその第1号らしいわ。",
+    "audio_file": "clip_110.mp3",
+    "translation": "MAGI seems to be the first one of those.",
+    "vocabulary": [
+      {"word": "第1号", "reading": "だいいちごう", "meaning": "number one, the first"},
+      {"word": "らしい", "reading": "らしい", "meaning": "seems like, apparently"}
+    ],
+    "grammar": "らしい - hearsay/conjecture marker ('apparently', 'seems like')"
+  },
+  {
+    "start": "18:06",
+    "end": "18:11",
+    "text": "お母さんが開発した技術なのよ。",
+    "audio_file": "clip_111.mp3",
+    "translation": "It's technology that her mother developed.",
+    "vocabulary": [
+      {"word": "お母さん", "reading": "おかあさん", "meaning": "mother (polite)"},
+      {"word": "開発", "reading": "かいはつ", "meaning": "development"},
+      {"word": "技術", "reading": "ぎじゅつ", "meaning": "technology, technique"}
+    ],
+    "grammar": "が開発した技術 - relative clause modifying 技術 ('technology that [someone] developed')"
+  },
+  {
+    "start": "18:11",
+    "end": "18:16",
+    "text": "じゃあ、お母さんの人格を移植したの? / そう。",
+    "audio_file": "clip_112.mp3",
+    "translation": "So, she transplanted her mother's personality? / That's right.",
+    "vocabulary": [
+      {"word": "じゃあ", "reading": "じゃあ", "meaning": "then, so"},
+      {"word": "人格", "reading": "じんかく", "meaning": "personality"},
+      {"word": "移植", "reading": "いしょく", "meaning": "transplant"},
+      {"word": "そう", "reading": "そう", "meaning": "that's right, yes"}
+    ],
+    "grammar": "したの? - past tense + の for seeking confirmation (feminine/casual question)"
+  },
+  {
+    "start": "18:25",
+    "end": "18:31",
+    "text": "言ってみればこれは / 母さんの脳みそそのものなのよ",
+    "audio_file": "clip_113.mp3",
+    "translation": "In other words, this is... / Mother's brain itself.",
+    "vocabulary": [
+      {"word": "言ってみれば", "reading": "いってみれば", "meaning": "so to speak, in other words"},
+      {"word": "脳みそ", "reading": "のうみそ", "meaning": "brain (colloquial)"},
+      {"word": "そのもの", "reading": "そのもの", "meaning": "itself, the very thing"}
+    ],
+    "grammar": "言ってみれば - set phrase meaning 'so to speak' or 'in a manner of speaking'"
+  },
+  {
+    "start": "18:31",
+    "end": "18:35",
+    "text": "それでマニを守りたかったの / 違うと思うわ",
+    "audio_file": "clip_114.mp3",
+    "translation": "So you wanted to protect MAGI? / I don't think so.",
+    "vocabulary": [
+      {"word": "それで", "reading": "それで", "meaning": "so, therefore"},
+      {"word": "守る", "reading": "まもる", "meaning": "to protect"},
+      {"word": "違う", "reading": "ちがう", "meaning": "to be different, to be wrong"},
+      {"word": "思う", "reading": "おもう", "meaning": "to think"}
+    ],
+    "grammar": "守りたかった - past tense of たい form (wanted to protect)"
+  },
+  {
+    "start": "18:35",
+    "end": "18:41",
+    "text": "母さんのことそんなに好きじゃなかったから / 科学者としての判断ね",
+    "audio_file": "clip_115.mp3",
+    "translation": "I didn't like Mother that much. / It was a judgment as a scientist.",
+    "vocabulary": [
+      {"word": "そんなに", "reading": "そんなに", "meaning": "that much, so much"},
+      {"word": "好き", "reading": "すき", "meaning": "like, fond of"},
+      {"word": "科学者", "reading": "かがくしゃ", "meaning": "scientist"},
+      {"word": "判断", "reading": "はんだん", "meaning": "judgment, decision"}
+    ],
+    "grammar": "としての - 'as a...' indicating role or capacity"
+  },
+  {
+    "start": "18:41",
+    "end": "18:46",
+    "text": "来た! / バルタダールが乗っ取られました!",
+    "audio_file": "clip_116.mp3",
+    "translation": "It's coming! / Balthasar has been taken over!",
+    "vocabulary": [
+      {"word": "来た", "reading": "きた", "meaning": "came, it's here"},
+      {"word": "乗っ取る", "reading": "のっとる", "meaning": "to take over, to hijack"},
+      {"word": "バルタザール", "reading": "バルタザール", "meaning": "Balthasar (one of the three MAGI computers)"}
+    ],
+    "grammar": "乗っ取られました - passive form indicating 'was taken over' (suffered the action)"
+  }
+]

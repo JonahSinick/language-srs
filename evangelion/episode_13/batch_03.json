@@ -1,0 +1,379 @@
+[
+  {
+    "start": "11:01",
+    "end": "11:07",
+    "text": "オゾン注入 / 濃度増加しています / 効いてる効いてる",
+    "audio_file": "clip_058.mp3",
+    "translation": "Ozone injection. / Concentration is increasing. / It's working, it's working!",
+    "vocabulary": [
+      {"word": "注入", "reading": "ちゅうにゅう", "meaning": "injection, infusion"},
+      {"word": "濃度", "reading": "のうど", "meaning": "concentration, density"},
+      {"word": "増加", "reading": "ぞうか", "meaning": "increase, growth"},
+      {"word": "効く", "reading": "きく", "meaning": "to be effective, to work"}
+    ],
+    "grammar": "Repeating a verb (効いてる効いてる) adds emphasis and excitement, showing real-time observation."
+  },
+  {
+    "start": "11:07",
+    "end": "11:10",
+    "text": "いける / か",
+    "audio_file": "clip_059.mp3",
+    "translation": "Can we do this? / Hmm...",
+    "vocabulary": [
+      {"word": "いける", "reading": "いける", "meaning": "to be able to manage, to work out"}
+    ],
+    "grammar": "いける is casual potential form meaning 'it can work' or 'we can do this'. The か at the end adds uncertainty."
+  },
+  {
+    "start": "11:10",
+    "end": "11:20",
+    "text": "0Aと0Bは回復しそうです / パイプ周り正常地に戻りました / やはり中心部は強いですね / よしオ / ゾンを増やせ",
+    "audio_file": "clip_060.mp3",
+    "translation": "0A and 0B look like they'll recover. / The pipe area has returned to normal. / As expected, the central part is strong. / Alright, increase the ozone!",
+    "vocabulary": [
+      {"word": "回復", "reading": "かいふく", "meaning": "recovery, restoration"},
+      {"word": "周り", "reading": "まわり", "meaning": "surroundings, area around"},
+      {"word": "正常", "reading": "せいじょう", "meaning": "normal, regular"},
+      {"word": "中心部", "reading": "ちゅうしんぶ", "meaning": "central part, core"}
+    ],
+    "grammar": "〜そうです expresses conjecture based on appearance ('looks like it will...'). 増やせ is imperative form of 増やす."
+  },
+  {
+    "start": "11:22",
+    "end": "11:25",
+    "text": "変ね",
+    "audio_file": "clip_061.mp3",
+    "translation": "That's strange...",
+    "vocabulary": [
+      {"word": "変", "reading": "へん", "meaning": "strange, odd, weird"}
+    ],
+    "grammar": "ね at the end seeks confirmation or expresses contemplation. 変ね is a common expression of puzzlement."
+  },
+  {
+    "start": "11:25",
+    "end": "11:32",
+    "text": "あれ / 増えてるぞ! / 変です! 発熱が高まってます! / 汚染域! また拡大しています!",
+    "audio_file": "clip_062.mp3",
+    "translation": "Huh? / It's increasing! / Something's wrong! The heat is rising! / The contaminated area! It's expanding again!",
+    "vocabulary": [
+      {"word": "発熱", "reading": "はつねつ", "meaning": "generation of heat, fever"},
+      {"word": "高まる", "reading": "たかまる", "meaning": "to rise, to increase"},
+      {"word": "汚染域", "reading": "おせんいき", "meaning": "contaminated zone/area"},
+      {"word": "拡大", "reading": "かくだい", "meaning": "expansion, enlargement"}
+    ],
+    "grammar": "ぞ is a masculine sentence-ending particle adding emphasis and urgency. てる is casual form of ている."
+  },
+  {
+    "start": "11:32",
+    "end": "11:39",
+    "text": "ダメです! まるで効 / 果がなくなりました! / 今度はオゾンをどんどん吸っています! / オゾン止めて!",
+    "audio_file": "clip_063.mp3",
+    "translation": "No good! It's become completely ineffective! / Now it's rapidly absorbing the ozone! / Stop the ozone!",
+    "vocabulary": [
+      {"word": "効果", "reading": "こうか", "meaning": "effect, effectiveness"},
+      {"word": "まるで", "reading": "まるで", "meaning": "completely, entirely (with negative)"},
+      {"word": "吸う", "reading": "すう", "meaning": "to inhale, to absorb"},
+      {"word": "どんどん", "reading": "どんどん", "meaning": "rapidly, steadily"}
+    ],
+    "grammar": "まるで...ない means 'not at all' or 'completely not'. どんどん is an onomatopoeia expressing rapid progression."
+  },
+  {
+    "start": "11:39",
+    "end": "11:44",
+    "text": "すごい… 進化しているんだわ…",
+    "audio_file": "clip_064.mp3",
+    "translation": "Incredible... It's evolving...",
+    "vocabulary": [
+      {"word": "すごい", "reading": "すごい", "meaning": "amazing, incredible"},
+      {"word": "進化", "reading": "しんか", "meaning": "evolution"}
+    ],
+    "grammar": "んだわ is feminine sentence ending expressing realization or explanation. The ん (explanatory の) adds emotional weight."
+  },
+  {
+    "start": "11:44",
+    "end": "11:52",
+    "text": "どうしたの!? / サブコンピューターがハッキングを受けています! 侵入者不明! / こんな時に… くそ! Cモードで対応!",
+    "audio_file": "clip_065.mp3",
+    "translation": "What happened!? / The sub-computer is being hacked! Intruder unknown! / At a time like this... Damn! Respond with C-Mode!",
+    "vocabulary": [
+      {"word": "侵入者", "reading": "しんにゅうしゃ", "meaning": "intruder, invader"},
+      {"word": "不明", "reading": "ふめい", "meaning": "unknown, unclear"},
+      {"word": "対応", "reading": "たいおう", "meaning": "response, dealing with"},
+      {"word": "くそ", "reading": "くそ", "meaning": "damn, shit (expletive)"}
+    ],
+    "grammar": "を受けています is passive progressive, showing ongoing action being done to the subject."
+  },
+  {
+    "start": "11:53",
+    "end": "12:06",
+    "text": "防兵器を解凍します! 疑似エントリー展開! / 疑似エントリーを開始されました / 逆端まで18秒 / 防壁を展開 / 防壁を突破されました / 疑似エントリーをさらに展開します / 人間技じゃないぞ",
+    "audio_file": "clip_066.mp3",
+    "translation": "Thawing defensive weapons! Deploying decoy entry! / Decoy entry has begun. / 18 seconds until breach. / Deploying firewall. / Firewall breached! / Deploying additional decoy entries. / This is superhuman!",
+    "vocabulary": [
+      {"word": "解凍", "reading": "かいとう", "meaning": "thawing, defrosting (also: decompressing)"},
+      {"word": "疑似", "reading": "ぎじ", "meaning": "pseudo, fake, simulated"},
+      {"word": "展開", "reading": "てんかい", "meaning": "deployment, development"},
+      {"word": "突破", "reading": "とっぱ", "meaning": "breakthrough, breaking through"}
+    ],
+    "grammar": "人間技じゃない literally means 'not human skill/technique' - an expression meaning something is beyond human capability."
+  },
+  {
+    "start": "12:06",
+    "end": "12:13",
+    "text": "逆端に成功 / この施設内です / B棟の地下 / プリブローボックスです",
+    "audio_file": "clip_067.mp3",
+    "translation": "Backtrace successful. / It's within this facility. / Basement of Building B. / It's in the Pribnow Box.",
+    "vocabulary": [
+      {"word": "逆探", "reading": "ぎゃくたん", "meaning": "backtrace, reverse trace"},
+      {"word": "成功", "reading": "せいこう", "meaning": "success"},
+      {"word": "施設", "reading": "しせつ", "meaning": "facility, institution"},
+      {"word": "地下", "reading": "ちか", "meaning": "underground, basement"}
+    ],
+    "grammar": "Noun + に成功 means 'succeeded in (noun)'. 施設内 uses 内 (ない) as suffix meaning 'within'."
+  },
+  {
+    "start": "12:17",
+    "end": "12:31",
+    "text": "光学模様が変化しています / 光ってるラインは電子回路だ / こりゃコンピューターそのものだ / 疑似エ / ントリー展開 / 失敗 妨害されました / メインケーブルを切断",
+    "audio_file": "clip_068.mp3",
+    "translation": "The optical pattern is changing. / The glowing lines are electronic circuits. / This thing IS a computer! / Decoy entry deployment failed - we were blocked. / Cut the main cable!",
+    "vocabulary": [
+      {"word": "光学", "reading": "こうがく", "meaning": "optics, optical"},
+      {"word": "模様", "reading": "もよう", "meaning": "pattern, design"},
+      {"word": "電子回路", "reading": "でんしかいろ", "meaning": "electronic circuit"},
+      {"word": "妨害", "reading": "ぼうがい", "meaning": "obstruction, interference"}
+    ],
+    "grammar": "そのもの after a noun emphasizes 'the thing itself' or 'nothing but'. こりゃ is casual contraction of これは."
+  },
+  {
+    "start": "12:31",
+    "end": "12:41",
+    "text": "ダメです 命令を受け付けません / レーザー打ち込んで / ATフィールド発生 効果なし / 保安部のメインバンクにアクセスしています / パスワードを操作中",
+    "audio_file": "clip_069.mp3",
+    "translation": "No good, it's not accepting commands! / Fire the laser! / AT Field generated - no effect. / It's accessing the security department's main bank. / Manipulating passwords.",
+    "vocabulary": [
+      {"word": "受け付ける", "reading": "うけつける", "meaning": "to accept, to receive"},
+      {"word": "打ち込む", "reading": "うちこむ", "meaning": "to fire into, to drive in"},
+      {"word": "保安部", "reading": "ほあんぶ", "meaning": "security department"},
+      {"word": "操作", "reading": "そうさ", "meaning": "operation, manipulation"}
+    ],
+    "grammar": "〜中 (ちゅう) after a verb stem or noun means 'in the middle of doing'. 効果なし is telegraphic speech omitting particles."
+  },
+  {
+    "start": "12:41",
+    "end": "12:46",
+    "text": "12桁 16桁 Dワードクリア / 保安部のメインバンクに侵入されました",
+    "audio_file": "clip_070.mp3",
+    "translation": "12 digits, 16 digits, D-word cleared! / Security department's main bank has been infiltrated!",
+    "vocabulary": [
+      {"word": "桁", "reading": "けた", "meaning": "digit, column (numbers)"},
+      {"word": "侵入", "reading": "しんにゅう", "meaning": "infiltration, intrusion"}
+    ],
+    "grammar": "Passive form されました indicates the action was done to them (the bank was infiltrated by an outside force)."
+  },
+  {
+    "start": "12:47",
+    "end": "12:59",
+    "text": "メインバンクを読んでます 解除できません / 奴の目的は何だ / メインバスを探っています / このコードは / ヤバい! マギに侵入するつもりだ!",
+    "audio_file": "clip_071.mp3",
+    "translation": "It's reading the main bank - we can't cancel it! / What is its objective? / It's probing the main bus. / This code is... / This is bad! It intends to infiltrate MAGI!",
+    "vocabulary": [
+      {"word": "解除", "reading": "かいじょ", "meaning": "cancellation, release"},
+      {"word": "奴", "reading": "やつ", "meaning": "that guy/thing (derogatory)"},
+      {"word": "目的", "reading": "もくてき", "meaning": "purpose, objective"},
+      {"word": "探る", "reading": "さぐる", "meaning": "to probe, to search for"}
+    ],
+    "grammar": "〜つもりだ expresses intention. ヤバい is slang for 'dangerous/bad' (or 'awesome' in modern casual use)."
+  },
+  {
+    "start": "13:02",
+    "end": "13:06",
+    "text": "Ioシステムをダウンしろ",
+    "audio_file": "clip_072.mp3",
+    "translation": "Shut down the I/O system!",
+    "vocabulary": [
+      {"word": "ダウン", "reading": "ダウン", "meaning": "down, shutdown"},
+      {"word": "システム", "reading": "システム", "meaning": "system"}
+    ],
+    "grammar": "しろ is the imperative form of する, used for direct commands. Very forceful and urgent."
+  },
+  {
+    "start": "13:06",
+    "end": "13:11",
+    "text": "カウントどうぞ! / 3、2、1!",
+    "audio_file": "clip_073.mp3",
+    "translation": "Begin countdown! / 3, 2, 1!",
+    "vocabulary": [
+      {"word": "カウント", "reading": "カウント", "meaning": "count, countdown"},
+      {"word": "どうぞ", "reading": "どうぞ", "meaning": "please, go ahead"}
+    ],
+    "grammar": "どうぞ here functions as 'go ahead' or 'please proceed', giving permission to start."
+  },
+  {
+    "start": "13:13",
+    "end": "13:20",
+    "text": "弦弦が切れません! / シト、さらに侵入! レルピオレに接触しました!",
+    "audio_file": "clip_074.mp3",
+    "translation": "The connection won't disconnect! / The Angel is infiltrating further! It's contacted Melchior!",
+    "vocabulary": [
+      {"word": "切れる", "reading": "きれる", "meaning": "to be cut, to disconnect"},
+      {"word": "さらに", "reading": "さらに", "meaning": "furthermore, even more"},
+      {"word": "接触", "reading": "せっしょく", "meaning": "contact, touch"}
+    ],
+    "grammar": "〜ません shows negative potential - 'cannot cut/disconnect'. さらに intensifies the ongoing action."
+  },
+  {
+    "start": "13:20",
+    "end": "13:24",
+    "text": "ダメです! シトに乗っ取られます!",
+    "audio_file": "clip_075.mp3",
+    "translation": "No good! It's being taken over by the Angel!",
+    "vocabulary": [
+      {"word": "乗っ取る", "reading": "のっとる", "meaning": "to take over, to hijack, to seize control"}
+    ],
+    "grammar": "乗っ取られます is passive form indicating the subject (MAGI) will be taken over by the Angel."
+  },
+  {
+    "start": "13:24",
+    "end": "13:29",
+    "text": "メルキオール、使徒にリプログラムされました",
+    "audio_file": "clip_076.mp3",
+    "translation": "Melchior has been reprogrammed by the Angel.",
+    "vocabulary": [
+      {"word": "使徒", "reading": "しと", "meaning": "Angel, apostle"},
+      {"word": "リプログラム", "reading": "リプログラム", "meaning": "reprogram"}
+    ],
+    "grammar": "Passive construction に...されました shows the Angel (使徒) as the agent performing the action on Melchior."
+  },
+  {
+    "start": "13:29",
+    "end": "13:37",
+    "text": "人工地のメルキオールより、 / 自立自爆が提訴されました / 秘訣、 / 秘訣、秘訣",
+    "audio_file": "clip_077.mp3",
+    "translation": "From the AI Melchior, / self-destruct has been proposed. / Denied. / Denied, denied.",
+    "vocabulary": [
+      {"word": "人工知能", "reading": "じんこうちのう", "meaning": "artificial intelligence"},
+      {"word": "自爆", "reading": "じばく", "meaning": "self-destruct, suicide bombing"},
+      {"word": "提訴", "reading": "ていそ", "meaning": "proposal, filing (legal)"},
+      {"word": "否決", "reading": "ひけつ", "meaning": "rejection, denial, veto"}
+    ],
+    "grammar": "より is formal equivalent of から meaning 'from'. されました is passive showing the proposal was made."
+  },
+  {
+    "start": "13:37",
+    "end": "13:41",
+    "text": "こ、今度はメルキオールがバルタザールをハッキングしています",
+    "audio_file": "clip_078.mp3",
+    "translation": "N-now Melchior is hacking Balthasar!",
+    "vocabulary": [
+      {"word": "今度", "reading": "こんど", "meaning": "this time, now"},
+      {"word": "ハッキング", "reading": "ハッキング", "meaning": "hacking"}
+    ],
+    "grammar": "The stuttering こ、今度 shows the speaker's shock and distress. ています shows ongoing action."
+  },
+  {
+    "start": "13:42",
+    "end": "13:45",
+    "text": "くそ、早い",
+    "audio_file": "clip_079.mp3",
+    "translation": "Damn, it's fast!",
+    "vocabulary": [
+      {"word": "くそ", "reading": "くそ", "meaning": "damn, shit"},
+      {"word": "早い", "reading": "はやい", "meaning": "fast, quick"}
+    ],
+    "grammar": "Minimal sentence structure typical of urgent situations - just expletive + adjective."
+  },
+  {
+    "start": "13:46",
+    "end": "13:49",
+    "text": "なんて計算することだ",
+    "audio_file": "clip_080.mp3",
+    "translation": "What incredible processing speed!",
+    "vocabulary": [
+      {"word": "計算", "reading": "けいさん", "meaning": "calculation, computation"},
+      {"word": "速度", "reading": "そくど", "meaning": "speed, velocity"}
+    ],
+    "grammar": "なんて...ことだ is an exclamatory pattern expressing amazement or disbelief at something."
+  },
+  {
+    "start": "13:55",
+    "end": "14:02",
+    "text": "ロジックモードを変更 / シンクロコードを15秒単位にして / 了解",
+    "audio_file": "clip_081.mp3",
+    "translation": "Change the logic mode. / Set the sync code to 15-second intervals. / Understood.",
+    "vocabulary": [
+      {"word": "変更", "reading": "へんこう", "meaning": "change, modification"},
+      {"word": "単位", "reading": "たんい", "meaning": "unit, interval"},
+      {"word": "了解", "reading": "りょうかい", "meaning": "understood, roger"}
+    ],
+    "grammar": "〜にして means 'set to' or 'make it into'. 単位 after a time expression indicates intervals."
+  },
+  {
+    "start": "14:06",
+    "end": "14:15",
+    "text": "どのくらい持ちそうだ / 今までのスピードから見て / 2時間くらいは / マギが / 敵に回るとはな",
+    "audio_file": "clip_082.mp3",
+    "translation": "How long do you think we can hold out? / Judging from the speed so far... / About 2 hours. / To think MAGI would become our enemy...",
+    "vocabulary": [
+      {"word": "持つ", "reading": "もつ", "meaning": "to hold out, to last"},
+      {"word": "敵", "reading": "てき", "meaning": "enemy"},
+      {"word": "回る", "reading": "まわる", "meaning": "to turn, to become"}
+    ],
+    "grammar": "〜とはな is a sentence ending expressing surprise or disbelief at an unexpected situation. 敵に回る means 'to turn into an enemy'."
+  },
+  {
+    "start": "14:21",
+    "end": "14:27",
+    "text": "彼らはマイクロマシン 細菌体制の使徒と考えられます",
+    "audio_file": "clip_083.mp3",
+    "translation": "They can be considered micro-machines - an Angel in bacterial form.",
+    "vocabulary": [
+      {"word": "細菌", "reading": "さいきん", "meaning": "bacteria, germ"},
+      {"word": "体制", "reading": "たいせい", "meaning": "system, structure, form"},
+      {"word": "考えられる", "reading": "かんがえられる", "meaning": "can be considered, thought to be"}
+    ],
+    "grammar": "〜と考えられます is passive potential meaning 'can be thought of as' - formal analytical language."
+  },
+  {
+    "start": "14:27",
+    "end": "14:38",
+    "text": "その個体が集まって群れを作り / この短時間で知能回路の形成に至るまで 爆発的な進化を遂げています / 進化か / はい",
+    "audio_file": "clip_084.mp3",
+    "translation": "Those individual units gather and form swarms, / and in this short time have achieved explosive evolution to the point of forming intelligence circuits. / Evolution, huh? / Yes.",
+    "vocabulary": [
+      {"word": "個体", "reading": "こたい", "meaning": "individual unit, specimen"},
+      {"word": "群れ", "reading": "むれ", "meaning": "swarm, flock, group"},
+      {"word": "形成", "reading": "けいせい", "meaning": "formation, creation"},
+      {"word": "遂げる", "reading": "とげる", "meaning": "to achieve, to accomplish"}
+    ],
+    "grammar": "〜に至るまで means 'to the point of reaching'. 爆発的な is な-adjective meaning 'explosive'."
+  },
+  {
+    "start": "14:38",
+    "end": "14:51",
+    "text": "彼らは常に自分自身を変化させ / いかなる状況にも対処するシステムを模索しています / まさに生物の生きるためのシステムそのものだな / 事故の弱点を克服",
+    "audio_file": "clip_085.mp3",
+    "translation": "They constantly change themselves / and are seeking a system to deal with any situation. / That's exactly what a living organism's survival system is. / Overcoming their own weaknesses.",
+    "vocabulary": [
+      {"word": "常に", "reading": "つねに", "meaning": "constantly, always"},
+      {"word": "いかなる", "reading": "いかなる", "meaning": "any, whatever"},
+      {"word": "模索", "reading": "もさく", "meaning": "groping for, seeking"},
+      {"word": "克服", "reading": "こくふく", "meaning": "overcoming, conquering"}
+    ],
+    "grammar": "いかなる〜にも means 'in any (situation)' - formal/literary expression. まさに emphasizes 'exactly' or 'precisely'."
+  },
+  {
+    "start": "14:51",
+    "end": "14:56",
+    "text": "進化を続ける目標に対して有効な手段は / 死なばもろとも",
+    "audio_file": "clip_086.mp3",
+    "translation": "An effective means against a target that continues to evolve... / If we die, we take it with us.",
+    "vocabulary": [
+      {"word": "有効", "reading": "ゆうこう", "meaning": "effective, valid"},
+      {"word": "手段", "reading": "しゅだん", "meaning": "means, method"},
+      {"word": "目標", "reading": "もくひょう", "meaning": "target, goal"},
+      {"word": "もろとも", "reading": "もろとも", "meaning": "together with, both"}
+    ],
+    "grammar": "死なばもろとも is a classical expression meaning 'if we die, we die together' - mutual destruction. 死なば is classical conditional of 死ぬ."
+  }
+]

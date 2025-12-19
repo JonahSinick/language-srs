@@ -1,0 +1,369 @@
+[
+  {
+    "start": "01:40",
+    "end": "01:48",
+    "text": "発令 / 書 承認 / さすがマヤ、早いわね / それはもう先輩の直伝ですから",
+    "audio_file": "clip_000.mp3",
+    "translation": "Order issued / Document approved / As expected of Maya, that was fast / Well, I learned directly from my senior",
+    "vocabulary": [
+      {"word": "発令", "reading": "はつれい", "meaning": "issuing an order/command"},
+      {"word": "承認", "reading": "しょうにん", "meaning": "approval, authorization"},
+      {"word": "さすが", "reading": "さすが", "meaning": "as expected, impressive"},
+      {"word": "直伝", "reading": "じきでん", "meaning": "direct teaching/transmission from master"}
+    ],
+    "grammar": "The pattern 'さすが + [noun]' expresses admiration meaning 'as expected of [someone]'. The もう in それはもう adds emphasis like 'well, that's because...'"
+  },
+  {
+    "start": "01:48",
+    "end": "01:53",
+    "text": "あ、待ってそこ、A8の方が早いわよ / ちょっと貸して",
+    "audio_file": "clip_001.mp3",
+    "translation": "Ah, wait - there, A8 would be faster / Let me borrow that",
+    "vocabulary": [
+      {"word": "待つ", "reading": "まつ", "meaning": "to wait"},
+      {"word": "方", "reading": "ほう", "meaning": "direction, way; used for comparisons"},
+      {"word": "貸す", "reading": "かす", "meaning": "to lend"}
+    ],
+    "grammar": "Xの方が + adjective is the standard comparative structure, meaning 'X is more [adjective]'. ちょっと貸して is a casual request form."
+  },
+  {
+    "start": "01:53",
+    "end": "01:59",
+    "text": "さすが先輩 / どう?マギの診察は終わった?",
+    "audio_file": "clip_002.mp3",
+    "translation": "As expected of a senior / How is it? Is MAGI's checkup finished?",
+    "vocabulary": [
+      {"word": "先輩", "reading": "せんぱい", "meaning": "senior, elder (in school/work)"},
+      {"word": "診察", "reading": "しんさつ", "meaning": "medical examination, checkup"},
+      {"word": "終わる", "reading": "おわる", "meaning": "to end, finish"}
+    ],
+    "grammar": "The た form + か creates a past tense question. Here 診察 (medical checkup) is used metaphorically for computer maintenance."
+  },
+  {
+    "start": "01:59",
+    "end": "02:03",
+    "text": "だいたいね、約束通り今日のテストには間に合わせたわよ",
+    "audio_file": "clip_003.mp3",
+    "translation": "Pretty much done - as promised, I made it in time for today's test",
+    "vocabulary": [
+      {"word": "だいたい", "reading": "だいたい", "meaning": "mostly, generally, pretty much"},
+      {"word": "約束通り", "reading": "やくそくどおり", "meaning": "as promised"},
+      {"word": "間に合わせる", "reading": "まにあわせる", "meaning": "to make it in time, to manage somehow"}
+    ],
+    "grammar": "X通り means 'as per X' or 'according to X'. The わよ ending is feminine assertive speech."
+  },
+  {
+    "start": "02:03",
+    "end": "02:09",
+    "text": "さすがリツコ、同じものが3つもあって大変なのに / 冷めてるわよそれ",
+    "audio_file": "clip_004.mp3",
+    "translation": "As expected of Ritsuko, even though having three of the same thing must be tough / That's gone cold, you know",
+    "vocabulary": [
+      {"word": "大変", "reading": "たいへん", "meaning": "difficult, tough, serious"},
+      {"word": "冷める", "reading": "さめる", "meaning": "to cool down, become cold"},
+      {"word": "同じ", "reading": "おなじ", "meaning": "same"}
+    ],
+    "grammar": "のに at the end of a clause expresses 'even though' or 'despite'. The も after 3つ adds emphasis meaning 'as many as three'."
+  },
+  {
+    "start": "02:11",
+    "end": "02:16",
+    "text": "マギシステム / 3機とも自己診断モードに入りました",
+    "audio_file": "clip_005.mp3",
+    "translation": "MAGI System / All three units have entered self-diagnostic mode",
+    "vocabulary": [
+      {"word": "自己診断", "reading": "じこしんだん", "meaning": "self-diagnosis"},
+      {"word": "機", "reading": "き", "meaning": "machine, unit (counter)"},
+      {"word": "入る", "reading": "はいる", "meaning": "to enter"}
+    ],
+    "grammar": "Xとも means 'all X' or 'both X'. When combined with a number, it indicates all of that quantity (3機とも = all three units)."
+  },
+  {
+    "start": "02:16",
+    "end": "02:24",
+    "text": "第127時定期検診異常なし / 了解おつからさま / みんなテスト開始まで休んでしょうね",
+    "audio_file": "clip_006.mp3",
+    "translation": "127th regular checkup - no abnormalities / Roger, good work / Everyone rest until the test starts",
+    "vocabulary": [
+      {"word": "定期検診", "reading": "ていきけんしん", "meaning": "regular checkup/examination"},
+      {"word": "異常", "reading": "いじょう", "meaning": "abnormality, malfunction"},
+      {"word": "了解", "reading": "りょうかい", "meaning": "understood, roger"}
+    ],
+    "grammar": "異常なし is a terse report-style phrase meaning 'no abnormalities'. おつかれさま (shortened to おつからさま) is a set phrase acknowledging someone's work."
+  },
+  {
+    "start": "02:30",
+    "end": "02:36",
+    "text": "異常なしか / 母さんは今日も元気なのに",
+    "audio_file": "clip_007.mp3",
+    "translation": "No abnormalities, huh... / Mother is still healthy today, and yet...",
+    "vocabulary": [
+      {"word": "母さん", "reading": "かあさん", "meaning": "mother"},
+      {"word": "元気", "reading": "げんき", "meaning": "healthy, energetic, well"},
+      {"word": "今日も", "reading": "きょうも", "meaning": "today too, still today"}
+    ],
+    "grammar": "のに at the end suggests an unspoken contrast or complaint - here implying 'mother is fine, but I...' The か at the end of a statement indicates reflection or mild surprise."
+  },
+  {
+    "start": "02:36",
+    "end": "02:39",
+    "text": "私はただ年を取るだけなのかしらね",
+    "audio_file": "clip_008.mp3",
+    "translation": "I wonder if I'm just getting older...",
+    "vocabulary": [
+      {"word": "年を取る", "reading": "としをとる", "meaning": "to grow old, age"},
+      {"word": "ただ", "reading": "ただ", "meaning": "just, only, merely"},
+      {"word": "だけ", "reading": "だけ", "meaning": "only, just"}
+    ],
+    "grammar": "かしら is a feminine wondering particle, similar to かな but more refined. The combination だけなのかしらね expresses wistful self-reflection."
+  },
+  {
+    "start": "03:07",
+    "end": "03:13",
+    "text": "姿になったわよ!17回も赤を落とされてね!",
+    "audio_file": "clip_009.mp3",
+    "translation": "You ended up in that state! You failed the red 17 times!",
+    "vocabulary": [
+      {"word": "姿", "reading": "すがた", "meaning": "form, figure, appearance"},
+      {"word": "回", "reading": "かい", "meaning": "times (counter)"},
+      {"word": "落とす", "reading": "おとす", "meaning": "to drop, fail (someone)"}
+    ],
+    "grammar": "も after a number emphasizes a surprisingly large quantity ('as many as 17 times'). The passive 落とされて indicates being failed/dropped by someone else."
+  },
+  {
+    "start": "03:13",
+    "end": "03:19",
+    "text": "では3人とも、この部屋を抜けて、その姿のままエントリープラグに入ってちょうだい! / えぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇ",
+    "audio_file": "clip_010.mp3",
+    "translation": "Now then, all three of you, leave this room and enter the Entry Plug as you are! / Whaaaat?!",
+    "vocabulary": [
+      {"word": "抜ける", "reading": "ぬける", "meaning": "to pass through, leave"},
+      {"word": "そのまま", "reading": "そのまま", "meaning": "as is, unchanged"},
+      {"word": "ちょうだい", "reading": "ちょうだい", "meaning": "please (feminine request)"}
+    ],
+    "grammar": "Xのまま means 'while remaining X' or 'as X is'. ちょうだい is a softer, more feminine form of ください for requests."
+  },
+  {
+    "start": "03:20",
+    "end": "03:39",
+    "text": "ぇ",
+    "audio_file": "clip_011.mp3",
+    "translation": "(continued scream)",
+    "vocabulary": [],
+    "grammar": "Extended vowel sound indicating a prolonged exclamation of shock."
+  },
+  {
+    "start": "03:40",
+    "end": "03:50",
+    "text": "各パイロット、エントリー準備完了しました / テストスタート / テストスタートします / オートパイロット、記憶開始",
+    "audio_file": "clip_012.mp3",
+    "translation": "All pilots, entry preparation complete / Test start / Starting test / Autopilot, beginning recording",
+    "vocabulary": [
+      {"word": "各", "reading": "かく", "meaning": "each, every"},
+      {"word": "準備完了", "reading": "じゅんびかんりょう", "meaning": "preparation complete"},
+      {"word": "記憶", "reading": "きおく", "meaning": "memory, recording"}
+    ],
+    "grammar": "各 is a formal prefix meaning 'each/every'. The しました form is polite past tense, common in formal announcements."
+  },
+  {
+    "start": "03:50",
+    "end": "03:53",
+    "text": "シミュレーションプラグを挿入",
+    "audio_file": "clip_013.mp3",
+    "translation": "Inserting simulation plug",
+    "vocabulary": [
+      {"word": "挿入", "reading": "そうにゅう", "meaning": "insertion"}
+    ],
+    "grammar": "The を + noun pattern without a verb is common in technical/military commands, implying the action is being performed."
+  },
+  {
+    "start": "03:54",
+    "end": "03:58",
+    "text": "システムをモギ隊と接続します",
+    "audio_file": "clip_014.mp3",
+    "translation": "Connecting system with MAGI",
+    "vocabulary": [
+      {"word": "接続", "reading": "せつぞく", "meaning": "connection"},
+      {"word": "と", "reading": "と", "meaning": "with, and"}
+    ],
+    "grammar": "AをBと接続する is a standard pattern for 'connect A with B'. The します form indicates an action about to be performed."
+  },
+  {
+    "start": "03:59",
+    "end": "04:07",
+    "text": "シミュレーションプラグ、マギの制御下に入りました / おー、早い早 / い / マギ様様だわ",
+    "audio_file": "clip_015.mp3",
+    "translation": "Simulation plug has entered MAGI's control / Oh, that's fast / Thank goodness for MAGI",
+    "vocabulary": [
+      {"word": "制御", "reading": "せいぎょ", "meaning": "control"},
+      {"word": "様様", "reading": "さまさま", "meaning": "grateful to, indebted to (lit. 'honorable honorable')"},
+      {"word": "下", "reading": "か/した", "meaning": "under, below"}
+    ],
+    "grammar": "X様様 is an expression meaning 'thank goodness for X' or 'I owe it all to X'. 制御下に入る means 'to come under control of'."
+  },
+  {
+    "start": "04:07",
+    "end": "04:12",
+    "text": "初実験の時、1週間もかかったのが嘘のようね / テストは約3時間で終わる予定です",
+    "audio_file": "clip_016.mp3",
+    "translation": "It's hard to believe it took a whole week during the first experiment / The test is scheduled to finish in about 3 hours",
+    "vocabulary": [
+      {"word": "嘘のよう", "reading": "うそのよう", "meaning": "seems like a lie, hard to believe"},
+      {"word": "約", "reading": "やく", "meaning": "approximately, about"},
+      {"word": "予定", "reading": "よてい", "meaning": "plan, schedule"}
+    ],
+    "grammar": "Xのが嘘のよう expresses disbelief about X. The pattern Xで終わる予定 means 'scheduled to finish in/at X'."
+  },
+  {
+    "start": "04:12",
+    "end": "04:21",
+    "text": "気分はどう? / 何か違うわ / うん、いつもと違う気がする / 感覚がおかしいのよ",
+    "audio_file": "clip_017.mp3",
+    "translation": "How do you feel? / Something's different / Yeah, it feels different from usual / My senses feel strange",
+    "vocabulary": [
+      {"word": "気分", "reading": "きぶん", "meaning": "feeling, mood"},
+      {"word": "違う", "reading": "ちがう", "meaning": "to be different"},
+      {"word": "感覚", "reading": "かんかく", "meaning": "sensation, sense"}
+    ],
+    "grammar": "Xと違う means 'different from X'. 気がする means 'to feel like' or 'to have a sense that'."
+  },
+  {
+    "start": "04:21",
+    "end": "04:28",
+    "text": "右腕だけはっきりして、あとはぼやけた感じ / レイ、右手を動かすイメージを描いてみて / はい",
+    "audio_file": "clip_018.mp3",
+    "translation": "Only my right arm is clear, the rest feels blurry / Rei, try to visualize moving your right hand / Yes",
+    "vocabulary": [
+      {"word": "右腕", "reading": "みぎうで", "meaning": "right arm"},
+      {"word": "はっきり", "reading": "はっきり", "meaning": "clearly, distinctly"},
+      {"word": "ぼやけた", "reading": "ぼやけた", "meaning": "blurry, hazy"}
+    ],
+    "grammar": "Xだけ means 'only X'. イメージを描く literally means 'to draw an image' but here means 'to visualize'. てみて is a request to try doing something."
+  },
+  {
+    "start": "04:34",
+    "end": "04:40",
+    "text": "データ収集、順調です / 問題はないよね。マギを通常に戻して。",
+    "audio_file": "clip_019.mp3",
+    "translation": "Data collection is going smoothly / There's no problem, right? Return MAGI to normal mode.",
+    "vocabulary": [
+      {"word": "収集", "reading": "しゅうしゅう", "meaning": "collection, gathering"},
+      {"word": "順調", "reading": "じゅんちょう", "meaning": "smooth, favorable progress"},
+      {"word": "通常", "reading": "つうじょう", "meaning": "normal, ordinary"}
+    ],
+    "grammar": "よね at the end seeks confirmation from the listener. Xに戻す means 'to return to X' (causative - making something return)."
+  },
+  {
+    "start": "04:40",
+    "end": "04:43",
+    "text": "ジレンマか。",
+    "audio_file": "clip_020.mp3",
+    "translation": "A dilemma, huh.",
+    "vocabulary": [
+      {"word": "ジレンマ", "reading": "ジレンマ", "meaning": "dilemma (loanword)"}
+    ],
+    "grammar": "The か at the end of a statement without rising intonation indicates contemplation or talking to oneself."
+  },
+  {
+    "start": "04:43",
+    "end": "04:53",
+    "text": "作った人間の性格が伺えるわね。 / 何言ってんの?作ったのはあんたでしょ? / あなたは何も知らないのね。",
+    "audio_file": "clip_021.mp3",
+    "translation": "You can tell the personality of the person who made it. / What are you saying? You're the one who made it, aren't you? / You don't know anything, do you.",
+    "vocabulary": [
+      {"word": "性格", "reading": "せいかく", "meaning": "personality, character"},
+      {"word": "伺える", "reading": "うかがえる", "meaning": "can perceive, can tell (humble potential form)"},
+      {"word": "あんた", "reading": "あんた", "meaning": "you (casual, slightly rude)"}
+    ],
+    "grammar": "Xが伺える means 'one can perceive X'. でしょ at the end seeks strong confirmation ('isn't that right?'). 何も知らない means 'knows nothing'."
+  },
+  {
+    "start": "04:53",
+    "end": "05:01",
+    "text": "リツコが私みたくベラベラと自分のこと話さないからでしょ? / そうね。 / 私はシステムアップしただけ。",
+    "audio_file": "clip_022.mp3",
+    "translation": "It's because Ritsuko doesn't talk about herself openly like me, right? / That's right. / I only upgraded the system.",
+    "vocabulary": [
+      {"word": "ベラベラ", "reading": "ベラベラ", "meaning": "chattering, speaking freely"},
+      {"word": "みたく", "reading": "みたく", "meaning": "like (casual form of みたいに)"},
+      {"word": "システムアップ", "reading": "システムアップ", "meaning": "system upgrade"}
+    ],
+    "grammar": "Xみたく is casual speech for Xみたいに meaning 'like X'. からでしょ indicates 'it's because X, right?'. だけ means 'only/just'."
+  },
+  {
+    "start": "05:01",
+    "end": "05:05",
+    "text": "基礎理論と本体を作ったのは、母さんよ。",
+    "audio_file": "clip_023.mp3",
+    "translation": "The one who created the basic theory and the main body was my mother.",
+    "vocabulary": [
+      {"word": "基礎理論", "reading": "きそりろん", "meaning": "basic theory, fundamental theory"},
+      {"word": "本体", "reading": "ほんたい", "meaning": "main body, main unit"},
+      {"word": "作る", "reading": "つくる", "meaning": "to make, create"}
+    ],
+    "grammar": "Xたのは...だ is a cleft sentence pattern emphasizing who did X. The よ at the end adds assertion/emphasis."
+  },
+  {
+    "start": "05:05",
+    "end": "05:17",
+    "text": "確認してるんだな / ええ、一応 / 3日前に搬入されたパーツです / ここですね、変質してるのは / 第87タンパクエリ / か",
+    "audio_file": "clip_024.mp3",
+    "translation": "So you're checking it / Yes, just in case / It's a part that was brought in three days ago / Here it is, the part that's deteriorating / Protein wall 87 / I see",
+    "vocabulary": [
+      {"word": "確認", "reading": "かくにん", "meaning": "confirmation, checking"},
+      {"word": "搬入", "reading": "はんにゅう", "meaning": "bringing in, delivery"},
+      {"word": "変質", "reading": "へんしつ", "meaning": "deterioration, alteration"}
+    ],
+    "grammar": "一応 means 'just in case' or 'tentatively'. Xされた is passive form meaning 'was X-ed'. のは identifies what is being talked about."
+  },
+  {
+    "start": "05:17",
+    "end": "05:27",
+    "text": "拡大するとシミのようなものがあります / 何でしょうね、これ / 新色だろ / 温度と電導率が若干変化しています / 無菌質の劣化はよくあるんです、最近",
+    "audio_file": "clip_025.mp3",
+    "translation": "When magnified, there's something like a stain / What could this be? / Probably just discoloration / Temperature and conductivity have changed slightly / Deterioration of sterile material has been common lately",
+    "vocabulary": [
+      {"word": "拡大", "reading": "かくだい", "meaning": "magnification, enlargement"},
+      {"word": "シミ", "reading": "シミ", "meaning": "stain, spot"},
+      {"word": "劣化", "reading": "れっか", "meaning": "deterioration, degradation"}
+    ],
+    "grammar": "Xすると means 'when you do X'. Xのようなもの means 'something like X'. 若干 means 'slightly'. よくある means 'happens often'."
+  },
+  {
+    "start": "05:28",
+    "end": "05:34",
+    "text": "後期が60日近く圧縮されてますから / また気泡が混ざっていたんでしょう",
+    "audio_file": "clip_026.mp3",
+    "translation": "The schedule was compressed by nearly 60 days / Air bubbles probably got mixed in again",
+    "vocabulary": [
+      {"word": "後期", "reading": "こうき", "meaning": "latter period, later stage"},
+      {"word": "圧縮", "reading": "あっしゅく", "meaning": "compression"},
+      {"word": "気泡", "reading": "きほう", "meaning": "air bubble"}
+    ],
+    "grammar": "X近く means 'nearly X'. てますから explains the reason. んでしょう expresses probability/conjecture."
+  },
+  {
+    "start": "05:34",
+    "end": "05:47",
+    "text": "ずさんですよB棟の工事は / そこは使徒が現れてからの工事だからな / 無理ないっすよ / みんな疲れてますからね / 明日までに処理しておけ / 怒りがうるさいからな",
+    "audio_file": "clip_027.mp3",
+    "translation": "The construction in Building B is sloppy / Well, that construction started after the Angels appeared / It can't be helped / Everyone's tired / Handle it by tomorrow / The higher-ups are being noisy about it",
+    "vocabulary": [
+      {"word": "ずさん", "reading": "ずさん", "meaning": "sloppy, careless"},
+      {"word": "工事", "reading": "こうじ", "meaning": "construction"},
+      {"word": "処理", "reading": "しょり", "meaning": "handling, processing"}
+    ],
+    "grammar": "Xてからの means 'since X happened'. 無理ない means 'it can't be helped'. ておけ is a command form of ておく (to do in preparation)."
+  },
+  {
+    "start": "05:47",
+    "end": "05:48",
+    "text": "了解",
+    "audio_file": "clip_028.mp3",
+    "translation": "Understood",
+    "vocabulary": [
+      {"word": "了解", "reading": "りょうかい", "meaning": "understood, roger"}
+    ],
+    "grammar": "Standard military/professional acknowledgment. Short and direct."
+  }
+]

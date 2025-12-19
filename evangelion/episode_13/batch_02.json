@@ -1,0 +1,388 @@
+[
+  {
+    "start": "05:51",
+    "end": "06:03",
+    "text": "また水漏れ? / いえ侵食だそうです / この上のタンパク壁 / 参ったわね / テストにしようは? / 今のところは何も / では続けて",
+    "audio_file": "clip_029.mp3",
+    "translation": "Another water leak? / No, apparently it's corrosion. / The protein wall above here. / This is troublesome. / Any effect on the test? / Nothing so far. / Then continue.",
+    "vocabulary": [
+      {"word": "水漏れ", "reading": "みずもれ", "meaning": "water leak"},
+      {"word": "侵食", "reading": "しんしょく", "meaning": "erosion, corrosion"},
+      {"word": "タンパク壁", "reading": "タンパクへき", "meaning": "protein wall"},
+      {"word": "参った", "reading": "まいった", "meaning": "to be troubled, to give up"}
+    ],
+    "grammar": "参ったわね uses the feminine sentence-ending particle わね to express shared concern or frustration."
+  },
+  {
+    "start": "06:03",
+    "end": "06:09",
+    "text": "このテストはおいそれと中断するわけにはいかないわ / 怒り指令もうるさいし / 了解",
+    "audio_file": "clip_030.mp3",
+    "translation": "We can't just casually interrupt this test. / And the Commander is being difficult about it. / Understood.",
+    "vocabulary": [
+      {"word": "おいそれと", "reading": "おいそれと", "meaning": "easily, readily, casually"},
+      {"word": "中断", "reading": "ちゅうだん", "meaning": "interruption, suspension"},
+      {"word": "うるさい", "reading": "うるさい", "meaning": "noisy, annoying, difficult"},
+      {"word": "了解", "reading": "りょうかい", "meaning": "understood, roger"}
+    ],
+    "grammar": "わけにはいかない expresses that something cannot be done due to circumstances or social expectations - 'cannot possibly' or 'it won't do to'."
+  },
+  {
+    "start": "06:09",
+    "end": "06:15",
+    "text": "シンクロ位置正常 / シミュレーションプラグを模擬隊経由でエヴァ本体と接続します",
+    "audio_file": "clip_031.mp3",
+    "translation": "Synchronization position normal. / Connecting simulation plug to Eva main unit via the dummy system.",
+    "vocabulary": [
+      {"word": "正常", "reading": "せいじょう", "meaning": "normal, regular"},
+      {"word": "経由", "reading": "けいゆ", "meaning": "via, through"},
+      {"word": "本体", "reading": "ほんたい", "meaning": "main body, main unit"},
+      {"word": "接続", "reading": "せつぞく", "meaning": "connection, linking"}
+    ],
+    "grammar": "経由で indicates the route or intermediary through which something passes - 'via' or 'by way of'."
+  },
+  {
+    "start": "06:15",
+    "end": "06:22",
+    "text": "エヴァ0号機コンタクト確認 / ATフィールド出力2オクトで発生します",
+    "audio_file": "clip_032.mp3",
+    "translation": "Eva Unit-00 contact confirmed. / AT Field generating at 2 oct output.",
+    "vocabulary": [
+      {"word": "確認", "reading": "かくにん", "meaning": "confirmation, verification"},
+      {"word": "出力", "reading": "しゅつりょく", "meaning": "output, power"},
+      {"word": "発生", "reading": "はっせい", "meaning": "generation, occurrence"}
+    ],
+    "grammar": "で発生します uses で to indicate the means or manner in which the AT Field is generated."
+  },
+  {
+    "start": "06:30",
+    "end": "06:40",
+    "text": "どう / したの? / シグマユニットAフロアに汚染警報発令 / 第87タンパク壁が劣化 / 発熱しています / 第6パイプにも異常発生",
+    "audio_file": "clip_033.mp3",
+    "translation": "What's / wrong? / Contamination alert issued on Sigma Unit A Floor. / Protein wall 87 is deteriorating. / It's generating heat. / Anomaly also occurring in Pipe 6.",
+    "vocabulary": [
+      {"word": "汚染", "reading": "おせん", "meaning": "contamination, pollution"},
+      {"word": "警報", "reading": "けいほう", "meaning": "alarm, warning"},
+      {"word": "発令", "reading": "はつれい", "meaning": "issuing (an order/alert)"},
+      {"word": "劣化", "reading": "れっか", "meaning": "deterioration, degradation"},
+      {"word": "発熱", "reading": "はつねつ", "meaning": "generating heat, fever"}
+    ],
+    "grammar": "にも means 'also in/at' - the も emphasizes that the anomaly is appearing in yet another location."
+  },
+  {
+    "start": "06:40",
+    "end": "06:49",
+    "text": "タンパク壁の侵食部が増殖しています / 爆発的スピードです / 実験中止 / 第6パイプを / 緊急閉鎖 / はい",
+    "audio_file": "clip_034.mp3",
+    "translation": "The corroded part of the protein wall is multiplying. / At explosive speed! / Abort the experiment! / Emergency closure / of Pipe 6! / Yes!",
+    "vocabulary": [
+      {"word": "増殖", "reading": "ぞうしょく", "meaning": "proliferation, multiplication"},
+      {"word": "爆発的", "reading": "ばくはつてき", "meaning": "explosive, exponential"},
+      {"word": "中止", "reading": "ちゅうし", "meaning": "suspension, cancellation"},
+      {"word": "緊急", "reading": "きんきゅう", "meaning": "emergency, urgent"},
+      {"word": "閉鎖", "reading": "へいさ", "meaning": "closure, shutdown"}
+    ],
+    "grammar": "的 (てき) is a suffix that converts nouns to na-adjectives, similar to '-ic' or '-ive' in English."
+  },
+  {
+    "start": "06:53",
+    "end": "07:00",
+    "text": "60、38、39 / 閉鎖されました / 6の42に侵食発生 / ダメです",
+    "audio_file": "clip_035.mp3",
+    "translation": "60, 38, 39 / Closed! / Corrosion occurring in 6-42! / It's no good!",
+    "vocabulary": [
+      {"word": "閉鎖", "reading": "へいさ", "meaning": "closure, sealed off"},
+      {"word": "発生", "reading": "はっせい", "meaning": "occurrence, outbreak"},
+      {"word": "ダメ", "reading": "ダメ", "meaning": "no good, useless, impossible"}
+    ],
+    "grammar": "されました is the polite passive form of する, indicating that sections were closed (by someone/the system)."
+  },
+  {
+    "start": "07:00",
+    "end": "07:04",
+    "text": "侵食は壁伝いに進行しています / ポリソーム用意!",
+    "audio_file": "clip_036.mp3",
+    "translation": "The corrosion is progressing along the walls! / Prepare the polysome!",
+    "vocabulary": [
+      {"word": "壁伝い", "reading": "かべづたい", "meaning": "along the wall"},
+      {"word": "進行", "reading": "しんこう", "meaning": "progress, advance"},
+      {"word": "用意", "reading": "ようい", "meaning": "preparation, ready"}
+    ],
+    "grammar": "伝い (づたい) is a suffix meaning 'along' or 'following', attached to nouns to indicate movement along something."
+  },
+  {
+    "start": "07:08",
+    "end": "07:12",
+    "text": "レーザー出力最大! 侵入と同時に発車!",
+    "audio_file": "clip_037.mp3",
+    "translation": "Laser output maximum! Fire simultaneously with entry!",
+    "vocabulary": [
+      {"word": "出力", "reading": "しゅつりょく", "meaning": "output, power"},
+      {"word": "最大", "reading": "さいだい", "meaning": "maximum, greatest"},
+      {"word": "同時", "reading": "どうじ", "meaning": "simultaneous, at the same time"},
+      {"word": "発車", "reading": "はっしゃ", "meaning": "firing, launching"}
+    ],
+    "grammar": "と同時に means 'at the same time as' or 'simultaneously with', connecting two concurrent actions."
+  },
+  {
+    "start": "07:14",
+    "end": "07:16",
+    "text": "侵食部658に到達!来",
+    "audio_file": "clip_038.mp3",
+    "translation": "Reached corroded section 658! It's com-",
+    "vocabulary": [
+      {"word": "到達", "reading": "とうたつ", "meaning": "arrival, reaching"},
+      {"word": "来る", "reading": "くる", "meaning": "to come"}
+    ],
+    "grammar": "に到達 uses に to mark the destination or target that was reached."
+  },
+  {
+    "start": "07:17",
+    "end": "07:29",
+    "text": "ます!レ",
+    "audio_file": "clip_039.mp3",
+    "translation": "-ing! Re-",
+    "vocabulary": [],
+    "grammar": "This is a continuation of the previous segment, with speech being cut off mid-word."
+  },
+  {
+    "start": "07:30",
+    "end": "07:31",
+    "text": "イ!",
+    "audio_file": "clip_040.mp3",
+    "translation": "-i! (Rei!)",
+    "vocabulary": [
+      {"word": "レイ", "reading": "レイ", "meaning": "Rei (character name)"}
+    ],
+    "grammar": "The name Rei is being called out urgently, split across segments for dramatic effect."
+  },
+  {
+    "start": "07:32",
+    "end": "07:37",
+    "text": "レイの模擬隊が動いています / まさか",
+    "audio_file": "clip_041.mp3",
+    "translation": "Rei's dummy system is moving! / No way...",
+    "vocabulary": [
+      {"word": "模擬", "reading": "もぎ", "meaning": "simulation, dummy"},
+      {"word": "動く", "reading": "うごく", "meaning": "to move"},
+      {"word": "まさか", "reading": "まさか", "meaning": "no way, impossible, surely not"}
+    ],
+    "grammar": "まさか expresses disbelief or shock, often left as an incomplete sentence to convey stunned reaction."
+  },
+  {
+    "start": "07:43",
+    "end": "07:49",
+    "text": "新速度さらに拡大 / 模擬隊の活水システムを犯しています",
+    "audio_file": "clip_042.mp3",
+    "translation": "Spread rate expanding further! / It's attacking the dummy system's life support!",
+    "vocabulary": [
+      {"word": "速度", "reading": "そくど", "meaning": "speed, velocity"},
+      {"word": "拡大", "reading": "かくだい", "meaning": "expansion, enlargement"},
+      {"word": "犯す", "reading": "おかす", "meaning": "to violate, attack, invade"}
+    ],
+    "grammar": "さらに means 'further' or 'even more', intensifying the verb that follows."
+  },
+  {
+    "start": "08:02",
+    "end": "08:08",
+    "text": "レイは? / うちです / 全プラグを緊急射出 / レイザー急いで",
+    "audio_file": "clip_043.mp3",
+    "translation": "What about Rei? / She's inside! / Emergency ejection of all plugs! / Hurry with the laser!",
+    "vocabulary": [
+      {"word": "緊急", "reading": "きんきゅう", "meaning": "emergency"},
+      {"word": "射出", "reading": "しゃしゅつ", "meaning": "ejection, launching"},
+      {"word": "急ぐ", "reading": "いそぐ", "meaning": "to hurry"}
+    ],
+    "grammar": "急いで is the te-form of 急ぐ, used here as an imperative urging someone to hurry."
+  },
+  {
+    "start": "08:19",
+    "end": "08:23",
+    "text": "エーティフィールド! / まさか!",
+    "audio_file": "clip_044.mp3",
+    "translation": "AT Field! / No way!",
+    "vocabulary": [
+      {"word": "まさか", "reading": "まさか", "meaning": "no way, impossible"}
+    ],
+    "grammar": "まさか is repeated to express shock at the unexpected appearance of an AT Field."
+  },
+  {
+    "start": "08:28",
+    "end": "08:34",
+    "text": "なに? / これ / 分析パターンは青 / 間違いなく死とよ",
+    "audio_file": "clip_045.mp3",
+    "translation": "What? / This... / Analysis pattern is blue. / It's definitely an Angel.",
+    "vocabulary": [
+      {"word": "分析", "reading": "ぶんせき", "meaning": "analysis"},
+      {"word": "パターン", "reading": "パターン", "meaning": "pattern"},
+      {"word": "間違いなく", "reading": "まちがいなく", "meaning": "without a doubt, definitely"},
+      {"word": "使徒", "reading": "しと", "meaning": "Angel (in Evangelion), apostle"}
+    ],
+    "grammar": "間違いなく is an adverb meaning 'without mistake' or 'definitely', emphasizing certainty."
+  },
+  {
+    "start": "08:36",
+    "end": "08:43",
+    "text": "シト、シトの侵入を許したのか? / 申し訳ありません / 言い訳はいい",
+    "audio_file": "clip_046.mp3",
+    "translation": "An Angel... We allowed an Angel to infiltrate? / I'm terribly sorry. / I don't need excuses.",
+    "vocabulary": [
+      {"word": "侵入", "reading": "しんにゅう", "meaning": "infiltration, intrusion"},
+      {"word": "許す", "reading": "ゆるす", "meaning": "to allow, permit"},
+      {"word": "申し訳ありません", "reading": "もうしわけありません", "meaning": "I'm very sorry"},
+      {"word": "言い訳", "reading": "いいわけ", "meaning": "excuse"}
+    ],
+    "grammar": "を許したのか uses the past tense with the question particle か to express shock and disbelief about what has happened."
+  },
+  {
+    "start": "08:43",
+    "end": "08:53",
+    "text": "セントラルドグマを物理閉鎖、シグマユニットと隔離しろ / セ / ントラルドグマを物理閉鎖、シグマユニットと / 隔離します / ボクスを破棄します!総員退避!",
+    "audio_file": "clip_047.mp3",
+    "translation": "Physically seal off Central Dogma and isolate it from the Sigma Unit! / Physically sealing Central Dogma, / isolating from Sigma Unit! / Abandoning the box! All personnel evacuate!",
+    "vocabulary": [
+      {"word": "物理", "reading": "ぶつり", "meaning": "physical"},
+      {"word": "隔離", "reading": "かくり", "meaning": "isolation, quarantine"},
+      {"word": "破棄", "reading": "はき", "meaning": "abandonment, disposal"},
+      {"word": "総員", "reading": "そういん", "meaning": "all personnel"},
+      {"word": "退避", "reading": "たいひ", "meaning": "evacuation, retreat"}
+    ],
+    "grammar": "しろ is the imperative form of する, giving a direct command."
+  },
+  {
+    "start": "08:55",
+    "end": "08:58",
+    "text": "何 / してるの?早く!",
+    "audio_file": "clip_048.mp3",
+    "translation": "What / are you doing? Hurry!",
+    "vocabulary": [
+      {"word": "早く", "reading": "はやく", "meaning": "quickly, hurry"}
+    ],
+    "grammar": "してるの is a casual contraction of しているの, with の adding an explanatory or questioning nuance."
+  },
+  {
+    "start": "09:00",
+    "end": "09:12",
+    "text": "SIGMAユニットBフロアより隔離します / 全核引き寄せるが / 該当地区は総員退避 / 分かってる / よろしく頼む",
+    "audio_file": "clip_049.mp3",
+    "translation": "Isolating from Sigma Unit B Floor. / Drawing all power. / All personnel evacuate from the affected area. / I understand. / I'm counting on you.",
+    "vocabulary": [
+      {"word": "隔離", "reading": "かくり", "meaning": "isolation"},
+      {"word": "該当", "reading": "がいとう", "meaning": "applicable, relevant"},
+      {"word": "地区", "reading": "ちく", "meaning": "district, area"},
+      {"word": "頼む", "reading": "たのむ", "meaning": "to request, count on"}
+    ],
+    "grammar": "よろしく頼む is a common expression meaning 'I'm counting on you' or 'please take care of it'."
+  },
+  {
+    "start": "09:12",
+    "end": "09:17",
+    "text": "警報を止めろ / 警報 / を停止します",
+    "audio_file": "clip_050.mp3",
+    "translation": "Stop the alarm! / Stopping / the alarm.",
+    "vocabulary": [
+      {"word": "警報", "reading": "けいほう", "meaning": "alarm, warning"},
+      {"word": "止める", "reading": "とめる", "meaning": "to stop"},
+      {"word": "停止", "reading": "ていし", "meaning": "stopping, halt"}
+    ],
+    "grammar": "止めろ is the imperative form of 止める, expressing a direct command."
+  },
+  {
+    "start": "09:17",
+    "end": "09:31",
+    "text": "誤報だ / 探知機のミスだ / 日本政府と委員会にはそう伝えろ / はい / 汚染区域はさらに加工 / プリムのボックスから / SIGMAユニット全域へと広がっています / 場所がまずいぞ",
+    "audio_file": "clip_051.mp3",
+    "translation": "It's a false alarm. / A detector malfunction. / Report it that way to the Japanese government and the committee. / Yes sir. / The contaminated area is spreading further / from Pribnow Box / to the entire Sigma Unit. / The location is bad.",
+    "vocabulary": [
+      {"word": "誤報", "reading": "ごほう", "meaning": "false alarm, misinformation"},
+      {"word": "探知機", "reading": "たんちき", "meaning": "detector"},
+      {"word": "委員会", "reading": "いいんかい", "meaning": "committee"},
+      {"word": "伝える", "reading": "つたえる", "meaning": "to convey, report"},
+      {"word": "全域", "reading": "ぜんいき", "meaning": "entire area"}
+    ],
+    "grammar": "へと広がっています uses へと to indicate direction of spread, with ています showing ongoing action."
+  },
+  {
+    "start": "09:31",
+    "end": "09:36",
+    "text": "ああ、アダムに近すぎる。 / 汚染はシグマユニットまでで抑えろ。",
+    "audio_file": "clip_052.mp3",
+    "translation": "Yes, it's too close to Adam. / Contain the contamination to the Sigma Unit.",
+    "vocabulary": [
+      {"word": "近い", "reading": "ちかい", "meaning": "close, near"},
+      {"word": "抑える", "reading": "おさえる", "meaning": "to contain, suppress, hold back"}
+    ],
+    "grammar": "すぎる attached to adjective stems means 'too much' - 近すぎる means 'too close'."
+  },
+  {
+    "start": "09:36",
+    "end": "09:47",
+    "text": "ジオフロントは犠牲にしても構わん。エヴァは? / 第7刑事にて待機。パイロットを回収次第発進できます。 / パイロットを待つ / 必要はない。すぐ地上へ射出しろ。 / え?",
+    "audio_file": "clip_053.mp3",
+    "translation": "We can sacrifice the Geo-Front if necessary. What about the Evas? / Standing by at Cage 7. They can launch as soon as pilots are recovered. / There's no need / to wait for the pilots. Eject them to the surface immediately. / What?",
+    "vocabulary": [
+      {"word": "犠牲", "reading": "ぎせい", "meaning": "sacrifice"},
+      {"word": "構わない", "reading": "かまわない", "meaning": "doesn't matter, don't mind"},
+      {"word": "待機", "reading": "たいき", "meaning": "standby"},
+      {"word": "回収", "reading": "かいしゅう", "meaning": "recovery, retrieval"},
+      {"word": "次第", "reading": "しだい", "meaning": "as soon as"}
+    ],
+    "grammar": "次第 after a verb stem means 'as soon as' - 回収次第 means 'as soon as recovered'."
+  },
+  {
+    "start": "09:47",
+    "end": "09:56",
+    "text": "初号機を最優先だ。そのために他の2機は破棄しても構わん。 / 初号機をですか? / しかし、エ / ヴ / ァなしでは、使徒を物理的に殲滅 / できません。",
+    "audio_file": "clip_054.mp3",
+    "translation": "Unit-01 is top priority. We can discard the other two units for that purpose. / Unit-01? / But without / the / Evas, we can't physically annihilate / the Angels.",
+    "vocabulary": [
+      {"word": "最優先", "reading": "さいゆうせん", "meaning": "top priority"},
+      {"word": "破棄", "reading": "はき", "meaning": "disposal, abandonment"},
+      {"word": "殲滅", "reading": "せんめつ", "meaning": "annihilation, extermination"}
+    ],
+    "grammar": "ても構わん is a masculine/gruff contraction of ても構わない meaning 'it doesn't matter if' or 'it's fine even if'."
+  },
+  {
+    "start": "09:57",
+    "end": "10:01",
+    "text": "その前にエヴァを汚染されたらすべて終わりだ。 / 急げ!",
+    "audio_file": "clip_055.mp3",
+    "translation": "If the Evas are contaminated before that, everything is over. / Hurry!",
+    "vocabulary": [
+      {"word": "汚染", "reading": "おせん", "meaning": "contamination"},
+      {"word": "終わり", "reading": "おわり", "meaning": "end"},
+      {"word": "急ぐ", "reading": "いそぐ", "meaning": "to hurry"}
+    ],
+    "grammar": "されたら is the passive conditional form - 'if [something] is done to [subject]'. Here it expresses 'if the Evas are contaminated'."
+  },
+  {
+    "start": "10:40",
+    "end": "10:48",
+    "text": "ほら、ここが重水の境目。酸素の多いところよ。 / 好みが / はっきりしてます / ね。",
+    "audio_file": "clip_056.mp3",
+    "translation": "Look, this is the boundary of the heavy water. Where there's a lot of oxygen. / Its preferences / are quite clear, / aren't they.",
+    "vocabulary": [
+      {"word": "重水", "reading": "じゅうすい", "meaning": "heavy water"},
+      {"word": "境目", "reading": "さかいめ", "meaning": "boundary, border"},
+      {"word": "酸素", "reading": "さんそ", "meaning": "oxygen"},
+      {"word": "好み", "reading": "このみ", "meaning": "preference, taste"},
+      {"word": "はっきり", "reading": "はっきり", "meaning": "clearly, distinctly"}
+    ],
+    "grammar": "ところ after a clause describes 'the place/situation where' - 酸素の多いところ means 'places where oxygen is abundant'."
+  },
+  {
+    "start": "10:48",
+    "end": "10:57",
+    "text": "無菌状態維持のため、オゾンを噴出しているところは汚染されていません。 / つまり、酸素に弱いってこと? / らしいわね。",
+    "audio_file": "clip_057.mp3",
+    "translation": "Areas spraying ozone to maintain sterility haven't been contaminated. / So you mean it's weak against oxygen? / Apparently so.",
+    "vocabulary": [
+      {"word": "無菌", "reading": "むきん", "meaning": "sterile, germ-free"},
+      {"word": "維持", "reading": "いじ", "meaning": "maintenance"},
+      {"word": "噴出", "reading": "ふんしゅつ", "meaning": "spraying, ejecting"},
+      {"word": "弱い", "reading": "よわい", "meaning": "weak"},
+      {"word": "らしい", "reading": "らしい", "meaning": "apparently, seems like"}
+    ],
+    "grammar": "ってこと is a casual way to confirm understanding, short for ということ - 'you mean that...?' or 'so it's that...?'"
+  }
+]
