@@ -25,12 +25,12 @@ MAX_GAP_TO_MERGE = 1.5
 MAX_MERGED_DURATION = 12.0
 
 # Audio endpoint detection settings (tuned for anime with background music)
-MIN_EXTENSION = 0.7      # Longer minimum extension for trailing speech
+MIN_EXTENSION = 1.0      # Force 1s extension past transcript end to catch trailing speech
 SEARCH_WINDOW = 2.0
-SILENCE_THRESHOLD = 0.22 # Higher threshold - anime has constant BGM
+SILENCE_THRESHOLD = 0.30 # High threshold - anime BGM triggers false silence detection
 MIN_SILENCE_DURATION = 0.15
-FALLBACK_BUFFER = 0.9    # More generous fallback
-END_BUFFER = 0.35        # More buffer after detected silence
+FALLBACK_BUFFER = 1.0    # Generous fallback when no silence found
+END_BUFFER = 0.40        # More buffer after detected silence
 START_BUFFER = 0.10
 START_SEARCH_WINDOW = 1.0
 
@@ -130,11 +130,19 @@ def merge_segments(segments):
         gap = seg['start_sec'] - current['end_sec']
 
         should_merge = False
+        seg_duration = seg['end_sec'] - seg['start_sec']
 
         if current_duration < MIN_SEGMENT_DURATION:
+            # Short current segment - merge if gap is reasonable
             if gap <= MAX_GAP_TO_MERGE:
                 should_merge = True
+        elif seg_duration < 1.5 and gap <= 1.5:
+            # Short incoming segment (exclamation/response) - merge with preceding
+            potential_duration = seg['end_sec'] - current['start_sec']
+            if potential_duration <= MAX_MERGED_DURATION:
+                should_merge = True
         elif gap <= 0.5:
+            # Very small gap - merge regardless
             potential_duration = seg['end_sec'] - current['start_sec']
             if potential_duration <= MAX_MERGED_DURATION:
                 should_merge = True
