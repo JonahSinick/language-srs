@@ -1,0 +1,341 @@
+[
+  {
+    "start": "12:51",
+    "end": "12:55",
+    "text": "延山で映像を捉えました / 下モニターに回します",
+    "audio_file": "clip_078.mp3",
+    "translation": "We've captured footage at Mount Nobu. Routing it to the lower monitor.",
+    "vocabulary": [
+      {"word": "映像", "reading": "えいぞう", "meaning": "footage, video image"},
+      {"word": "捉える", "reading": "とらえる", "meaning": "to capture, to catch"},
+      {"word": "回す", "reading": "まわす", "meaning": "to send around, to route"}
+    ],
+    "grammar": "The て-form + ます (捉えました) indicates completed action in polite speech. 下モニターに回します uses に to mark the destination."
+  },
+  {
+    "start": "13:00",
+    "end": "13:08",
+    "text": "やはりこれか / 活動停止信号を発信 / エントリープラグを強制射出",
+    "audio_file": "clip_079.mp3",
+    "translation": "So it's this after all. Send the activity halt signal. Forcibly eject the entry plug.",
+    "vocabulary": [
+      {"word": "やはり", "reading": "やはり", "meaning": "as expected, after all"},
+      {"word": "活動停止", "reading": "かつどうていし", "meaning": "activity halt, cessation of operations"},
+      {"word": "発信", "reading": "はっしん", "meaning": "transmission, sending a signal"},
+      {"word": "強制射出", "reading": "きょうせいしゃしゅつ", "meaning": "forced ejection"}
+    ],
+    "grammar": "やはり...か expresses confirmation of a suspicion. The commands use noun forms (発信, 射出) as imperative orders in military/technical contexts."
+  },
+  {
+    "start": "13:08",
+    "end": "13:18",
+    "text": "ダメです / 停止信号およびプラグ排出コードを認識しません / パイロットは / 呼吸心拍の反応はありますが / おそらく",
+    "audio_file": "clip_080.mp3",
+    "translation": "No good! It's not recognizing the halt signal or plug ejection code. The pilot... there are breathing and heartbeat responses, but probably...",
+    "vocabulary": [
+      {"word": "認識", "reading": "にんしき", "meaning": "recognition, acknowledgment"},
+      {"word": "排出", "reading": "はいしゅつ", "meaning": "ejection, discharge"},
+      {"word": "呼吸", "reading": "こきゅう", "meaning": "breathing, respiration"},
+      {"word": "心拍", "reading": "しんぱく", "meaning": "heartbeat"}
+    ],
+    "grammar": "および is a formal conjunction meaning 'and/as well as'. The trailing おそらく (probably) with no completion creates dramatic tension."
+  },
+  {
+    "start": "13:18",
+    "end": "13:27",
+    "text": "エヴァンゲリオン3号機は現時刻をもって破棄 / 目標を第13使徒と識別する / しかし",
+    "audio_file": "clip_081.mp3",
+    "translation": "As of this moment, Evangelion Unit-03 is abandoned. The target is identified as the 13th Angel. However...",
+    "vocabulary": [
+      {"word": "現時刻", "reading": "げんじこく", "meaning": "current time, this moment"},
+      {"word": "破棄", "reading": "はき", "meaning": "abandonment, disposal, annulment"},
+      {"word": "識別", "reading": "しきべつ", "meaning": "identification, discrimination"},
+      {"word": "使徒", "reading": "しと", "meaning": "Angel (in Evangelion); apostle"}
+    ],
+    "grammar": "をもって is a formal expression meaning 'as of' or 'by means of'. 目標を...と識別する uses と to mark what something is identified as."
+  },
+  {
+    "start": "13:27",
+    "end": "13:31",
+    "text": "予定通り延山で戦線を展開 / 目標を撃破しろ",
+    "audio_file": "clip_082.mp3",
+    "translation": "Deploy the battle line at Mount Nobu as planned. Destroy the target.",
+    "vocabulary": [
+      {"word": "予定通り", "reading": "よていどおり", "meaning": "as planned, on schedule"},
+      {"word": "戦線", "reading": "せんせん", "meaning": "battle line, front"},
+      {"word": "展開", "reading": "てんかい", "meaning": "deployment, development"},
+      {"word": "撃破", "reading": "げきは", "meaning": "destruction, crushing defeat"}
+    ],
+    "grammar": "しろ is the imperative form of する, used for direct commands. 通り (どおり) attached to nouns means 'as per' or 'according to'."
+  },
+  {
+    "start": "13:32",
+    "end": "13:45",
+    "text": "目標接近 / 前期地上戦用意 / まさか / 使 / 徒 / これが使徒ですか / そうだ目標だ",
+    "audio_file": "clip_083.mp3",
+    "translation": "Target approaching. Prepare for ground combat. No way... An Angel? This is an Angel? That's right, it's the target.",
+    "vocabulary": [
+      {"word": "接近", "reading": "せっきん", "meaning": "approach, drawing near"},
+      {"word": "地上戦", "reading": "ちじょうせん", "meaning": "ground combat, land battle"},
+      {"word": "用意", "reading": "ようい", "meaning": "preparation, readiness"},
+      {"word": "まさか", "reading": "まさか", "meaning": "no way, impossible"}
+    ],
+    "grammar": "まさか expresses disbelief. The fragmented 使/徒 shows shocked, halting speech. ですか rising intonation shows incredulous questioning."
+  },
+  {
+    "start": "13:45",
+    "end": "13:49",
+    "text": "目標ってこれはエヴァじゃないか",
+    "audio_file": "clip_084.mp3",
+    "translation": "The target... isn't this an Eva!?",
+    "vocabulary": [
+      {"word": "目標", "reading": "もくひょう", "meaning": "target, objective"},
+      {"word": "って", "reading": "って", "meaning": "quotation/topic marker (casual)"}
+    ],
+    "grammar": "って is a casual topic marker. じゃないか at the end expresses surprised realization or seeking confirmation - 'isn't it?' with rhetorical force."
+  },
+  {
+    "start": "13:50",
+    "end": "14:02",
+    "text": "そんな使徒に乗っ取られるなんて / やっぱり人が子供が乗ってるのかな / 同い年の / あんたまだ知らないの / 3号機にはね!",
+    "audio_file": "clip_085.mp3",
+    "translation": "To be taken over by an Angel like that... So there really is a person, a child piloting it? The same age as us... You still don't know? Unit-03 has...!",
+    "vocabulary": [
+      {"word": "乗っ取る", "reading": "のっとる", "meaning": "to take over, to hijack"},
+      {"word": "同い年", "reading": "おないどし", "meaning": "same age"},
+      {"word": "乗る", "reading": "のる", "meaning": "to ride, to pilot"}
+    ],
+    "grammar": "なんて expresses surprise or disbelief about a situation. のかな shows uncertain wondering. まだ知らないの with rising intonation shows exasperation."
+  },
+  {
+    "start": "14:02",
+    "end": "14:04",
+    "text": "アスカ!",
+    "audio_file": "clip_086.mp3",
+    "translation": "Asuka!",
+    "vocabulary": [
+      {"word": "アスカ", "reading": "アスカ", "meaning": "Asuka (character name)"}
+    ],
+    "grammar": "A simple exclamatory call - names shouted in alarm typically drop any honorifics in urgent situations."
+  },
+  {
+    "start": "14:08",
+    "end": "14:11",
+    "text": "アスカ!",
+    "audio_file": "clip_087.mp3",
+    "translation": "Asuka!",
+    "vocabulary": [
+      {"word": "アスカ", "reading": "アスカ", "meaning": "Asuka (character name)"}
+    ],
+    "grammar": "Repeated urgent call showing escalating concern. The repetition emphasizes the desperate situation."
+  },
+  {
+    "start": "14:14",
+    "end": "14:22",
+    "text": "エヴァ2号機、完全に沈黙! / パイロットは脱出。回収班、向かいます。 / 目標、移動。0号機へ。",
+    "audio_file": "clip_088.mp3",
+    "translation": "Eva Unit-02, completely silent! Pilot has ejected. Recovery team, heading out. Target moving toward Unit-00.",
+    "vocabulary": [
+      {"word": "沈黙", "reading": "ちんもく", "meaning": "silence, going quiet"},
+      {"word": "脱出", "reading": "だっしゅつ", "meaning": "escape, ejection"},
+      {"word": "回収班", "reading": "かいしゅうはん", "meaning": "recovery team"},
+      {"word": "向かう", "reading": "むかう", "meaning": "to head toward"}
+    ],
+    "grammar": "Military radio communication style uses clipped sentences. Noun phrases without verbs (目標、移動) convey information efficiently."
+  },
+  {
+    "start": "14:22",
+    "end": "14:28",
+    "text": "レイ、近接戦闘は避け、目標を足止めしろ。 / 今、4号機を回す。 / 了解。",
+    "audio_file": "clip_089.mp3",
+    "translation": "Rei, avoid close combat and hold the target. I'm sending Unit-04 now. Roger.",
+    "vocabulary": [
+      {"word": "近接戦闘", "reading": "きんせつせんとう", "meaning": "close combat"},
+      {"word": "避ける", "reading": "さける", "meaning": "to avoid"},
+      {"word": "足止め", "reading": "あしどめ", "meaning": "holding in place, pinning down"},
+      {"word": "了解", "reading": "りょうかい", "meaning": "roger, understood"}
+    ],
+    "grammar": "避け is the conjunctive form connecting to the next command. しろ is the imperative of する. 回す here means to dispatch/send."
+  },
+  {
+    "start": "15:02",
+    "end": "15:10",
+    "text": "ゼロ号機、サワンに首都侵入! / 神経説が侵されていきます / サワン部切断 / 急げ",
+    "audio_file": "clip_090.mp3",
+    "translation": "Unit-00, contamination entering the left arm! The neural pathways are being invaded. Cut off the left arm section. Hurry!",
+    "vocabulary": [
+      {"word": "侵入", "reading": "しんにゅう", "meaning": "invasion, intrusion"},
+      {"word": "神経", "reading": "しんけい", "meaning": "nerve, neural"},
+      {"word": "侵す", "reading": "おかす", "meaning": "to invade, to violate"},
+      {"word": "切断", "reading": "せつだん", "meaning": "cutting off, severance"}
+    ],
+    "grammar": "ていきます (te-form + いく) shows progressive action moving away or continuing. 急げ is the imperative of 急ぐ (to hurry)."
+  },
+  {
+    "start": "15:10",
+    "end": "15:15",
+    "text": "しかし、神経接続を解除しないと / 切断だ / はい",
+    "audio_file": "clip_091.mp3",
+    "translation": "But if we don't release the neural connection... Cut it off! Yes sir.",
+    "vocabulary": [
+      {"word": "神経接続", "reading": "しんけいせつぞく", "meaning": "neural connection"},
+      {"word": "解除", "reading": "かいじょ", "meaning": "release, cancellation"},
+      {"word": "切断", "reading": "せつだん", "meaning": "severance, cutting"}
+    ],
+    "grammar": "しないと is a conditional meaning 'if not done'. The incomplete sentence shows being cut off. 切断だ is a terse command using noun + だ."
+  },
+  {
+    "start": "15:30",
+    "end": "15:35",
+    "text": "ゼロ号機中波 パイロットは負傷 / そんな",
+    "audio_file": "clip_092.mp3",
+    "translation": "Unit-00 disabled. Pilot injured. No way...",
+    "vocabulary": [
+      {"word": "中波", "reading": "ちゅうは", "meaning": "disabled, neutralized (combat term)"},
+      {"word": "負傷", "reading": "ふしょう", "meaning": "injury, wound"},
+      {"word": "そんな", "reading": "そんな", "meaning": "no way, that can't be"}
+    ],
+    "grammar": "Military report style with minimal particles. そんな as an exclamation expresses shocked disbelief at the situation."
+  },
+  {
+    "start": "15:35",
+    "end": "15:40",
+    "text": "目標は接近中だ あと二丸で接触する お前が倒せ",
+    "audio_file": "clip_093.mp3",
+    "translation": "The target is approaching. Contact in 20 seconds. You take it down.",
+    "vocabulary": [
+      {"word": "接近中", "reading": "せっきんちゅう", "meaning": "approaching, in the process of approaching"},
+      {"word": "接触", "reading": "せっしょく", "meaning": "contact"},
+      {"word": "倒す", "reading": "たおす", "meaning": "to defeat, to knock down"},
+      {"word": "二丸", "reading": "にまる", "meaning": "20 (military time notation)"}
+    ],
+    "grammar": "中 attached to verbs indicates ongoing action. 倒せ is the imperative form of 倒す. あと...で means 'in (time remaining)'."
+  },
+  {
+    "start": "15:40",
+    "end": "15:43",
+    "text": "目標って言ったって",
+    "audio_file": "clip_094.mp3",
+    "translation": "Even if you call it a target...",
+    "vocabulary": [
+      {"word": "目標", "reading": "もくひょう", "meaning": "target, objective"},
+      {"word": "言う", "reading": "いう", "meaning": "to say, to call"}
+    ],
+    "grammar": "って言ったって is a colloquial expression meaning 'even if you say/call it'. It expresses objection or reluctance to accept something."
+  },
+  {
+    "start": "15:46",
+    "end": "15:49",
+    "text": "人が乗ってるんじゃないの",
+    "audio_file": "clip_095.mp3",
+    "translation": "There's a person inside, isn't there?",
+    "vocabulary": [
+      {"word": "乗る", "reading": "のる", "meaning": "to ride, to be aboard"},
+      {"word": "人", "reading": "ひと", "meaning": "person"}
+    ],
+    "grammar": "んじゃないの is a colloquial way of seeking confirmation while expressing one's own belief. The ん is explanatory, じゃない seeks agreement."
+  },
+  {
+    "start": "15:53",
+    "end": "15:56",
+    "text": "同い年の子供が",
+    "audio_file": "clip_096.mp3",
+    "translation": "A child the same age as me...",
+    "vocabulary": [
+      {"word": "同い年", "reading": "おないどし", "meaning": "same age"},
+      {"word": "子供", "reading": "こども", "meaning": "child"}
+    ],
+    "grammar": "The sentence trails off with が, showing Shinji's emotional struggle to complete the thought about having to fight someone his own age."
+  },
+  {
+    "start": "16:29",
+    "end": "16:31",
+    "text": "くっ!",
+    "audio_file": "clip_097.mp3",
+    "translation": "Ngh!",
+    "vocabulary": [
+      {"word": "くっ", "reading": "くっ", "meaning": "expression of pain/frustration"}
+    ],
+    "grammar": "An onomatopoeic expression of pain, strain, or frustration. Common in action scenes when characters are struggling physically."
+  },
+  {
+    "start": "16:36",
+    "end": "16:48",
+    "text": "生命維持に支障発生! / パイロットが危険です! / いかん!シンクロ率を60%に勝ってた! / 待て!しかし、イカリ、このままではパエロットが死",
+    "audio_file": "clip_098.mp3",
+    "translation": "Life support malfunction! The pilot is in danger! No good! The sync rate dropped to 60%! Wait! But Ikari, at this rate the pilot will die...",
+    "vocabulary": [
+      {"word": "生命維持", "reading": "せいめいいじ", "meaning": "life support"},
+      {"word": "支障", "reading": "ししょう", "meaning": "hindrance, malfunction"},
+      {"word": "いかん", "reading": "いかん", "meaning": "no good, this won't do"},
+      {"word": "シンクロ率", "reading": "シンクロりつ", "meaning": "synchronization rate"}
+    ],
+    "grammar": "に支障発生 is technical jargon for malfunction occurrence. このままでは means 'at this rate' or 'if things continue'. The cut-off 死 shows urgency."
+  },
+  {
+    "start": "16:54",
+    "end": "17:04",
+    "text": "人だ!我々の敵だ! / でも… / でもできないよ! / 助けなきゃ…人殺しなんてできないよ! / お前が死ぬぞ!",
+    "audio_file": "clip_099.mp3",
+    "translation": "It's the enemy! Our enemy! But... But I can't do it! I have to save them... I can't commit murder! You'll die!",
+    "vocabulary": [
+      {"word": "敵", "reading": "てき", "meaning": "enemy"},
+      {"word": "我々", "reading": "われわれ", "meaning": "we, us (formal)"},
+      {"word": "人殺し", "reading": "ひとごろし", "meaning": "murder, killing a person"},
+      {"word": "助ける", "reading": "たすける", "meaning": "to save, to help"}
+    ],
+    "grammar": "なきゃ is casual contraction of なければ (must). なんて after a noun expresses 'something like' with dismissive/emotional nuance. ぞ is a strong masculine assertion."
+  },
+  {
+    "start": "17:04",
+    "end": "17:07",
+    "text": "いいよ!人殺すよりはいい!",
+    "audio_file": "clip_100.mp3",
+    "translation": "Fine! That's better than killing someone!",
+    "vocabulary": [
+      {"word": "殺す", "reading": "ころす", "meaning": "to kill"},
+      {"word": "より", "reading": "より", "meaning": "than, compared to"},
+      {"word": "いい", "reading": "いい", "meaning": "good, fine, better"}
+    ],
+    "grammar": "よりは(いい) is a comparative structure meaning 'better than'. The first いいよ is accepting/dismissive ('fine then'), the second いい is 'better'."
+  },
+  {
+    "start": "17:07",
+    "end": "17:13",
+    "text": "構わん!パイロットと初号機のシンクロを全面カットだ! / カットですか?",
+    "audio_file": "clip_101.mp3",
+    "translation": "Never mind him! Cut the synchronization between the pilot and Unit-01 completely! Cut it?",
+    "vocabulary": [
+      {"word": "構う", "reading": "かまう", "meaning": "to mind, to care about"},
+      {"word": "全面", "reading": "ぜんめん", "meaning": "complete, total"},
+      {"word": "カット", "reading": "カット", "meaning": "cut (loanword)"},
+      {"word": "シンクロ", "reading": "シンクロ", "meaning": "synchronization"}
+    ],
+    "grammar": "構わん is a masculine/gruff negative of 構う. 全面カットだ uses noun + だ as a command. ですか shows surprise and seeking confirmation."
+  },
+  {
+    "start": "17:13",
+    "end": "17:26",
+    "text": "そうだ!回路をダミープラグに切り替えろ! / しかし、ダミーシステムにはまだ問題も多く、赤城博士の指示もなく… / 今のパイロットよりは役に立つ!やれ! / はい",
+    "audio_file": "clip_102.mp3",
+    "translation": "That's right! Switch the circuit to the dummy plug! But the dummy system still has many problems, and without Dr. Akagi's instructions... It's more useful than the current pilot! Do it! Yes sir.",
+    "vocabulary": [
+      {"word": "回路", "reading": "かいろ", "meaning": "circuit"},
+      {"word": "切り替える", "reading": "きりかえる", "meaning": "to switch, to change over"},
+      {"word": "役に立つ", "reading": "やくにたつ", "meaning": "to be useful"},
+      {"word": "指示", "reading": "しじ", "meaning": "instructions, directions"}
+    ],
+    "grammar": "切り替えろ is the imperative of 切り替える. も多く uses も for 'also/even' with problems. よりは役に立つ is comparative 'more useful than'."
+  },
+  {
+    "start": "17:36",
+    "end": "17:38",
+    "text": "何だ?",
+    "audio_file": "clip_103.mp3",
+    "translation": "What?",
+    "vocabulary": [
+      {"word": "何", "reading": "なに/なん", "meaning": "what"}
+    ],
+    "grammar": "何だ is a blunt/masculine way of asking 'what is it?' The だ adds assertion. Shows Shinji's confusion at suddenly losing control."
+  }
+]

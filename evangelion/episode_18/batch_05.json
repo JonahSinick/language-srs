@@ -1,0 +1,301 @@
+[
+  {
+    "start": "17:39",
+    "end": "17:48",
+    "text": "何をしたんだ、捜査! / 信号、受信を確認! / 感染システム切り替え完了 / 全神経、ナビシステムへ直結完了",
+    "audio_file": "clip_104.mp3",
+    "translation": "What did you do?! Signal reception confirmed! Infection system switch complete. All neural connections directly linked to the navigation system.",
+    "vocabulary": [
+      {"word": "信号", "reading": "しんごう", "meaning": "signal"},
+      {"word": "受信", "reading": "じゅしん", "meaning": "reception"},
+      {"word": "切り替え", "reading": "きりかえ", "meaning": "switching, changeover"},
+      {"word": "直結", "reading": "ちょっけつ", "meaning": "direct connection"}
+    ],
+    "grammar": "完了 (kanryō) is used at the end of statements to indicate 'complete' - common in technical/military communications."
+  },
+  {
+    "start": "17:49",
+    "end": "17:58",
+    "text": "感情阻止の32.8%が不鮮明、モニターできません / 構わん / システム開放 砲撃開始",
+    "audio_file": "clip_105.mp3",
+    "translation": "32.8% of emotional blocking is unclear, we can't monitor it. It doesn't matter. System release. Commence attack.",
+    "vocabulary": [
+      {"word": "感情", "reading": "かんじょう", "meaning": "emotion, feeling"},
+      {"word": "阻止", "reading": "そし", "meaning": "prevention, blocking"},
+      {"word": "不鮮明", "reading": "ふせんめい", "meaning": "unclear, indistinct"},
+      {"word": "砲撃", "reading": "ほうげき", "meaning": "bombardment, shelling"}
+    ],
+    "grammar": "構わん (kamawan) is a rough/masculine contraction of 構わない meaning 'I don't care' or 'it doesn't matter'."
+  },
+  {
+    "start": "18:17",
+    "end": "18:26",
+    "text": "これがダミープラグの力なの? / システム成長 / さらにゲインが上がります",
+    "audio_file": "clip_106.mp3",
+    "translation": "Is this the power of the dummy plug? System growth. The gain is increasing further.",
+    "vocabulary": [
+      {"word": "力", "reading": "ちから", "meaning": "power, strength"},
+      {"word": "成長", "reading": "せいちょう", "meaning": "growth"},
+      {"word": "上がる", "reading": "あがる", "meaning": "to rise, to increase"}
+    ],
+    "grammar": "なの at the end is a feminine question marker, softer than のか. Common in female speech."
+  },
+  {
+    "start": "19:24",
+    "end": "19:30",
+    "text": "泊まれ 泊まれ泊まれ 泊まれ泊まれ",
+    "audio_file": "clip_107.mp3",
+    "translation": "Stop! Stop, stop! Stop, stop!",
+    "vocabulary": [
+      {"word": "止まれ", "reading": "とまれ", "meaning": "stop! (imperative)"}
+    ],
+    "grammar": "止まれ is the imperative form of 止まる (to stop). The imperative is formed by changing the final -u to -e for godan verbs."
+  },
+  {
+    "start": "19:38",
+    "end": "19:40",
+    "text": "やめろ!",
+    "audio_file": "clip_108.mp3",
+    "translation": "Stop it!",
+    "vocabulary": [
+      {"word": "やめろ", "reading": "やめろ", "meaning": "stop it! (imperative of やめる)"}
+    ],
+    "grammar": "やめろ is the rough imperative of やめる (to stop/quit). For ichidan verbs, drop -る and add -ろ."
+  },
+  {
+    "start": "19:41",
+    "end": "19:51",
+    "text": "やめろ!",
+    "audio_file": "clip_109.mp3",
+    "translation": "Stop it!",
+    "vocabulary": [
+      {"word": "やめる", "reading": "やめる", "meaning": "to stop, to quit, to give up"}
+    ],
+    "grammar": "Repetition of やめろ shows desperation and urgency in the speaker's plea."
+  },
+  {
+    "start": "19:52",
+    "end": "20:00",
+    "text": "エ・エバー3号機 / あ、いえ、目標は完全に沈黙しました",
+    "audio_file": "clip_110.mp3",
+    "translation": "E-Eva Unit 03... Ah, no, the target has gone completely silent.",
+    "vocabulary": [
+      {"word": "目標", "reading": "もくひょう", "meaning": "target, objective"},
+      {"word": "完全", "reading": "かんぜん", "meaning": "complete, perfect"},
+      {"word": "沈黙", "reading": "ちんもく", "meaning": "silence"}
+    ],
+    "grammar": "しました is the polite past form of する. The speaker corrects themselves from saying 'Eva' to 'target' - showing the emotional weight of the situation."
+  },
+  {
+    "start": "20:06",
+    "end": "20:13",
+    "text": "これにしよった / こだまお姉ちゃんとのぞみと私 / 4人分か",
+    "audio_file": "clip_111.mp3",
+    "translation": "I'll go with this one. Kodama, Nozomi, and me. So for four people, huh.",
+    "vocabulary": [
+      {"word": "お姉ちゃん", "reading": "おねえちゃん", "meaning": "older sister (informal)"},
+      {"word": "人分", "reading": "にんぶん", "meaning": "portion for X people"}
+    ],
+    "grammar": "にする means 'to decide on' something. ～人分 is a counter for portions/servings per person."
+  },
+  {
+    "start": "20:13",
+    "end": "20:22",
+    "text": "明日は食べてくれるかな / こっちにもいたぞ / 生存者だ / 行きは / 非常に空洞させてくれ",
+    "audio_file": "clip_112.mp3",
+    "translation": "I wonder if he'll eat tomorrow... There's someone here too! A survivor! Quick, make emergency space!",
+    "vocabulary": [
+      {"word": "明日", "reading": "あした", "meaning": "tomorrow"},
+      {"word": "生存者", "reading": "せいぞんしゃ", "meaning": "survivor"},
+      {"word": "非常", "reading": "ひじょう", "meaning": "emergency, extraordinary"}
+    ],
+    "grammar": "～てくれるかな expresses wondering/hoping someone will do something for you. かな adds uncertainty."
+  },
+  {
+    "start": "20:26",
+    "end": "20:29",
+    "text": "生きてる",
+    "audio_file": "clip_113.mp3",
+    "translation": "He's alive.",
+    "vocabulary": [
+      {"word": "生きる", "reading": "いきる", "meaning": "to live, to be alive"}
+    ],
+    "grammar": "生きてる is a contraction of 生きている - the -te iru form indicating a continuing state."
+  },
+  {
+    "start": "20:29",
+    "end": "20:34",
+    "text": "おかしい / よかったな / 桂木",
+    "audio_file": "clip_114.mp3",
+    "translation": "Strange... That's good. Katsuragi.",
+    "vocabulary": [
+      {"word": "おかしい", "reading": "おかしい", "meaning": "strange, odd, funny"},
+      {"word": "よかった", "reading": "よかった", "meaning": "that's good, I'm glad"}
+    ],
+    "grammar": "よかったな uses な as a masculine sentence-ending particle expressing emotion or seeking agreement."
+  },
+  {
+    "start": "20:34",
+    "end": "20:36",
+    "text": "いつかは",
+    "audio_file": "clip_115.mp3",
+    "translation": "Someday...",
+    "vocabulary": [
+      {"word": "いつか", "reading": "いつか", "meaning": "someday, sometime"}
+    ],
+    "grammar": "いつかは emphasizes 'someday' with は adding contrast or emphasis, suggesting determination about the future."
+  },
+  {
+    "start": "20:36",
+    "end": "20:41",
+    "text": "心配ない / 君よりは軽傷だ",
+    "audio_file": "clip_116.mp3",
+    "translation": "Don't worry. Her injuries are lighter than yours.",
+    "vocabulary": [
+      {"word": "心配", "reading": "しんぱい", "meaning": "worry, concern"},
+      {"word": "軽傷", "reading": "けいしょう", "meaning": "minor injury, slight wound"}
+    ],
+    "grammar": "より is a comparative particle meaning 'than'. 君よりは = 'compared to you' / 'than you'."
+  },
+  {
+    "start": "20:41",
+    "end": "20:49",
+    "text": "そう / エヴァ3号機は / 使徒として処理されたそうだ 正気に",
+    "audio_file": "clip_117.mp3",
+    "translation": "I see. Eva Unit 03 was reportedly disposed of as an Angel. Officially.",
+    "vocabulary": [
+      {"word": "使徒", "reading": "しと", "meaning": "Angel (in Evangelion), apostle"},
+      {"word": "処理", "reading": "しょり", "meaning": "disposal, processing, handling"},
+      {"word": "正式", "reading": "せいしき", "meaning": "formal, official"}
+    ],
+    "grammar": "～そうだ (hearsay) indicates reported information - 'I heard that...' or 'reportedly'."
+  },
+  {
+    "start": "20:54",
+    "end": "20:59",
+    "text": "私 私 シンジ君に何も話してない",
+    "audio_file": "clip_118.mp3",
+    "translation": "I... I haven't told Shinji anything.",
+    "vocabulary": [
+      {"word": "何も", "reading": "なにも", "meaning": "nothing (with negative)"},
+      {"word": "話す", "reading": "はなす", "meaning": "to speak, to tell"}
+    ],
+    "grammar": "何も + negative verb = 'nothing at all'. 話してない is casual contraction of 話していない."
+  },
+  {
+    "start": "21:05",
+    "end": "21:11",
+    "text": "シンジ君 / ミサトさん / 無事だったんですね",
+    "audio_file": "clip_119.mp3",
+    "translation": "Shinji! Misato-san! So you're safe.",
+    "vocabulary": [
+      {"word": "無事", "reading": "ぶじ", "meaning": "safe, unharmed, without incident"}
+    ],
+    "grammar": "～んですね expresses realization or confirmation of something. The ん (short for の) adds explanation/emphasis."
+  },
+  {
+    "start": "21:11",
+    "end": "21:15",
+    "text": "私はね、ごめんなさい。",
+    "audio_file": "clip_120.mp3",
+    "translation": "I... I'm sorry.",
+    "vocabulary": [
+      {"word": "ごめんなさい", "reading": "ごめんなさい", "meaning": "I'm sorry (polite apology)"}
+    ],
+    "grammar": "ね after 私は softens the statement and creates an emotional pause before the apology."
+  },
+  {
+    "start": "21:15",
+    "end": "21:20",
+    "text": "私はあなたに大事なことを伝えなきゃいけなかったのに、こんなことに。",
+    "audio_file": "clip_121.mp3",
+    "translation": "I had to tell you something important, but it came to this.",
+    "vocabulary": [
+      {"word": "大事", "reading": "だいじ", "meaning": "important, precious"},
+      {"word": "伝える", "reading": "つたえる", "meaning": "to convey, to tell, to communicate"}
+    ],
+    "grammar": "～なきゃいけなかった is casual form of ～なければいけなかった meaning 'had to do'. のに at the end expresses regret - 'even though I should have'."
+  },
+  {
+    "start": "21:20",
+    "end": "21:30",
+    "text": "リストさん、僕は、僕は人を、父さんがやめてってたのなのに。",
+    "audio_file": "clip_122.mp3",
+    "translation": "Misato-san, I... I [hurt] a person, even though Father kept telling me to stop.",
+    "vocabulary": [
+      {"word": "人", "reading": "ひと", "meaning": "person"},
+      {"word": "父さん", "reading": "とうさん", "meaning": "father, dad"}
+    ],
+    "grammar": "やめてって is casual contraction of やめてくれと言って - 'told me to stop'. のに expresses 'even though'."
+  },
+  {
+    "start": "21:30",
+    "end": "21:41",
+    "text": "シンジック、ごめんね、ごめんね。 / エントリープラグ回収班より連絡。パイロットの生存を確認。 / 生きてた。 / あの、3号機のパイロットは",
+    "audio_file": "clip_123.mp3",
+    "translation": "Shinji, I'm sorry, I'm sorry. Message from the entry plug recovery team. Pilot survival confirmed. He's alive. Um, the Unit 03 pilot is...",
+    "vocabulary": [
+      {"word": "回収", "reading": "かいしゅう", "meaning": "recovery, collection"},
+      {"word": "生存", "reading": "せいぞん", "meaning": "survival, existence"},
+      {"word": "確認", "reading": "かくにん", "meaning": "confirmation"}
+    ],
+    "grammar": "～より is a formal way to say 'from' in official communications. 生きてた is casual past of 生きている."
+  },
+  {
+    "start": "21:42",
+    "end": "21:46",
+    "text": "NCLの変質サンプルは最優先で / オースチルドレンは",
+    "audio_file": "clip_124.mp3",
+    "translation": "The LCL altered sample is top priority. The Fourth Children is...",
+    "vocabulary": [
+      {"word": "変質", "reading": "へんしつ", "meaning": "alteration, transformation"},
+      {"word": "最優先", "reading": "さいゆうせん", "meaning": "top priority, highest priority"}
+    ],
+    "grammar": "最 (sai) prefix means 'most' or 'highest'. 最優先で = 'with top priority'."
+  },
+  {
+    "start": "21:46",
+    "end": "21:58",
+    "text": "当時 / シンジ君 / シンジ君 / シンジ君 / シンジ君 / シンジ君",
+    "audio_file": "clip_125.mp3",
+    "translation": "Touji... Shinji! Shinji! Shinji! Shinji! Shinji!",
+    "vocabulary": [
+      {"word": "当時", "reading": "とうじ", "meaning": "at that time (likely 'Touji' - character name)"}
+    ],
+    "grammar": "君 (kun) is a suffix typically used for boys/young men, showing familiarity. Repetition shows desperate calling."
+  },
+  {
+    "start": "23:05",
+    "end": "23:16",
+    "text": "シンジはついに自らの意思でエヴァーを降りる / だが彼に関係なく信仰する最強の人が次の惨劇を生むのだった",
+    "audio_file": "clip_126.mp3",
+    "translation": "Shinji finally decides to leave Eva by his own will. But regardless of him, the strongest one advancing will give birth to the next tragedy.",
+    "vocabulary": [
+      {"word": "自ら", "reading": "みずから", "meaning": "oneself, personally"},
+      {"word": "意思", "reading": "いし", "meaning": "will, intention"},
+      {"word": "惨劇", "reading": "さんげき", "meaning": "tragedy, disaster"}
+    ],
+    "grammar": "のだった is a narrative past tense used in storytelling, adding dramatic emphasis to the outcome."
+  },
+  {
+    "start": "23:16",
+    "end": "23:19",
+    "text": "次回男の戦い",
+    "audio_file": "clip_127.mp3",
+    "translation": "Next time: A Man's Battle",
+    "vocabulary": [
+      {"word": "次回", "reading": "じかい", "meaning": "next time, next episode"},
+      {"word": "戦い", "reading": "たたかい", "meaning": "battle, fight"}
+    ],
+    "grammar": "次回 is commonly used in anime/TV to introduce the next episode title."
+  },
+  {
+    "start": "23:47",
+    "end": "23:48",
+    "text": "Редактор субтитров А.Семкин Корректор А.Егорова",
+    "audio_file": "clip_128.mp3",
+    "translation": "(Russian credits: Subtitle editor A. Semkin, Proofreader A. Egorova)",
+    "vocabulary": [],
+    "grammar": "This is Russian text (credits), not Japanese. It appears to be from a fan-subbed version."
+  }
+]
