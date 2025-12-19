@@ -1,0 +1,567 @@
+[
+  {
+    "start": "09:22",
+    "end": "09:32",
+    "text": "作戦開始時刻は明朝0時 / 以後本作戦を八島作戦と呼称します / 了解 / あとはパイロットの問題ね",
+    "audio_file": "clip_054.mp3",
+    "translation": "The operation start time is tomorrow morning at 00:00. / Hereafter, this operation will be designated as Operation Yashima. / Roger. / Now it's just a matter of the pilots.",
+    "vocabulary": [
+      {
+        "word": "明朝",
+        "reading": "みょうちょう",
+        "meaning": "tomorrow morning"
+      },
+      {
+        "word": "呼称",
+        "reading": "こしょう",
+        "meaning": "designation, name, title"
+      },
+      {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning": "roger, understood, acknowledgment"
+      }
+    ],
+    "grammar": "以後 (igo) = 'from now on, hereafter'; を〜と呼称します (wo ~ to koshō shimasu) = 'will be designated/called as ~'"
+  },
+  {
+    "start": "09:46",
+    "end": "09:52",
+    "text": "初号機パイロットの意識が戻ったそうです / 検査数値に問題なし / そう",
+    "audio_file": "clip_055.mp3",
+    "translation": "It seems the Unit-01 pilot has regained consciousness. / No problems with the test values. / I see.",
+    "vocabulary": [
+      {
+        "word": "意識",
+        "reading": "いしき",
+        "meaning": "consciousness"
+      },
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "to return, regain"
+      },
+      {
+        "word": "検査",
+        "reading": "けんさ",
+        "meaning": "inspection, examination"
+      },
+      {
+        "word": "数値",
+        "reading": "すうち",
+        "meaning": "numerical value"
+      }
+    ],
+    "grammar": "〜そうです (sō desu) = hearsay/reportative form 'it seems/I heard that'; に問題なし (ni mondai nashi) = 'no problem with ~'"
+  },
+  {
+    "start": "09:52",
+    "end": "10:01",
+    "text": "では作戦は予定通りに / 了解 / でも彼もう一度乗るかしら / 双子山決戦急いで",
+    "audio_file": "clip_056.mp3",
+    "translation": "Then the operation will proceed as planned. / Roger. / But I wonder if he'll pilot again. / Futago-yama, hurry with the preparations.",
+    "vocabulary": [
+      {
+        "word": "予定通り",
+        "reading": "よていどおり",
+        "meaning": "as planned, as scheduled"
+      },
+      {
+        "word": "もう一度",
+        "reading": "もういちど",
+        "meaning": "once more, again"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "to ride, to board, to pilot"
+      }
+    ],
+    "grammar": "〜かしら (kashira) = feminine sentence ending expressing wondering/doubt; 通り (dōri) = 'according to, as per'"
+  },
+  {
+    "start": "10:17",
+    "end": "10:23",
+    "text": "綾波 / 明日午前0時より発動される",
+    "audio_file": "clip_057.mp3",
+    "translation": "Ayanami. / The operation that will be initiated tomorrow at 00:00 hours.",
+    "vocabulary": [
+      {
+        "word": "午前",
+        "reading": "ごぜん",
+        "meaning": "a.m., morning"
+      },
+      {
+        "word": "発動",
+        "reading": "はつどう",
+        "meaning": "invocation, activation"
+      },
+      {
+        "word": "より",
+        "reading": "より",
+        "meaning": "from (formal)"
+      }
+    ],
+    "grammar": "〜より (yori) = 'from' (formal); される (sareru) = passive form of する 'to be done/initiated'"
+  },
+  {
+    "start": "10:23",
+    "end": "10:26",
+    "text": "八島作戦のスケジュールを伝えます",
+    "audio_file": "clip_058.mp3",
+    "translation": "I will relay the schedule for Operation Yashima.",
+    "vocabulary": [
+      {
+        "word": "スケジュール",
+        "reading": "スケジュール",
+        "meaning": "schedule"
+      },
+      {
+        "word": "伝える",
+        "reading": "つたえる",
+        "meaning": "to convey, to relay, to communicate"
+      }
+    ],
+    "grammar": "を伝えます (wo tsutaemasu) = 'will convey/relay ~' (polite form)"
+  },
+  {
+    "start": "10:26",
+    "end": "10:33",
+    "text": "いかりあやなみの両パイロットは本日1730刑事に集合",
+    "audio_file": "clip_059.mp3",
+    "translation": "Both pilots Ikari and Ayanami will assemble today at 17:30.",
+    "vocabulary": [
+      {
+        "word": "両",
+        "reading": "りょう",
+        "meaning": "both"
+      },
+      {
+        "word": "本日",
+        "reading": "ほんじつ",
+        "meaning": "today (formal)"
+      },
+      {
+        "word": "集合",
+        "reading": "しゅうごう",
+        "meaning": "assembly, gathering"
+      }
+    ],
+    "grammar": "両〜 (ryō ~) = 'both ~'; に集合 (ni shūgō) = 'assemble at ~'"
+  },
+  {
+    "start": "10:33",
+    "end": "10:37",
+    "text": "1800初号機及び0号機起動",
+    "audio_file": "clip_060.mp3",
+    "translation": "18:00, activation of Unit-01 and Unit-00.",
+    "vocabulary": [
+      {
+        "word": "及び",
+        "reading": "および",
+        "meaning": "and, as well as"
+      },
+      {
+        "word": "起動",
+        "reading": "きどう",
+        "meaning": "startup, activation"
+      }
+    ],
+    "grammar": "及び (oyobi) = 'and, as well as' (formal/written); time + event = listing schedule items without particles"
+  },
+  {
+    "start": "10:37",
+    "end": "10:43",
+    "text": "180号発進 / 同30双子山仮設基地到着",
+    "audio_file": "clip_061.mp3",
+    "translation": "18:00, departure. / 18:30, arrival at Futago-yama temporary base.",
+    "vocabulary": [
+      {
+        "word": "発進",
+        "reading": "はっしん",
+        "meaning": "departure, launch"
+      },
+      {
+        "word": "仮設",
+        "reading": "かせつ",
+        "meaning": "temporary, makeshift"
+      },
+      {
+        "word": "到着",
+        "reading": "とうちゃく",
+        "meaning": "arrival"
+      }
+    ],
+    "grammar": "同 (dō) = 'same' (abbreviation for same day/hour); abbreviated schedule format with times and events"
+  },
+  {
+    "start": "10:43",
+    "end": "10:50",
+    "text": "以降は別名あるまで待機 / 明朝日付変更と同時に作戦行動開始",
+    "audio_file": "clip_062.mp3",
+    "translation": "After that, standby until further orders. / Tomorrow morning, commence operation simultaneously with the date change.",
+    "vocabulary": [
+      {
+        "word": "以降",
+        "reading": "いこう",
+        "meaning": "after this, from now on"
+      },
+      {
+        "word": "待機",
+        "reading": "たいき",
+        "meaning": "standby, waiting"
+      },
+      {
+        "word": "同時",
+        "reading": "どうじ",
+        "meaning": "simultaneous, at the same time"
+      }
+    ],
+    "grammar": "〜まで (made) = 'until ~'; と同時に (to dōji ni) = 'simultaneously with ~'"
+  },
+  {
+    "start": "10:50",
+    "end": "10:53",
+    "text": "これ新しいの",
+    "audio_file": "clip_063.mp3",
+    "translation": "This is a new one?",
+    "vocabulary": [
+      {
+        "word": "新しい",
+        "reading": "あたらしい",
+        "meaning": "new"
+      }
+    ],
+    "grammar": "の (no) = nominalizer turning adjective into noun phrase; casual question without か"
+  },
+  {
+    "start": "10:58",
+    "end": "11:02",
+    "text": "寝ぼけて その学校で来ないでね",
+    "audio_file": "clip_064.mp3",
+    "translation": "Don't come half-asleep in your school uniform.",
+    "vocabulary": [
+      {
+        "word": "寝ぼける",
+        "reading": "ねぼける",
+        "meaning": "to be half-asleep, drowsy"
+      }
+    ],
+    "grammar": "〜ないでね (nai de ne) = 'don't ~ okay?' (casual prohibition with soft request marker ね)"
+  },
+  {
+    "start": "11:07",
+    "end": "11:10",
+    "text": "ごめん",
+    "audio_file": "clip_065.mp3",
+    "translation": "Sorry.",
+    "vocabulary": [
+      {
+        "word": "ごめん",
+        "reading": "ごめん",
+        "meaning": "sorry (casual)"
+      }
+    ],
+    "grammar": "Casual apology form (ごめん vs ごめんなさい)"
+  },
+  {
+    "start": "11:13",
+    "end": "11:17",
+    "text": "昨日から謝ってばかりいる",
+    "audio_file": "clip_066.mp3",
+    "translation": "I've been doing nothing but apologizing since yesterday.",
+    "vocabulary": [
+      {
+        "word": "昨日",
+        "reading": "きのう",
+        "meaning": "yesterday"
+      },
+      {
+        "word": "謝る",
+        "reading": "あやまる",
+        "meaning": "to apologize"
+      },
+      {
+        "word": "ばかり",
+        "reading": "ばかり",
+        "meaning": "nothing but, only"
+      }
+    ],
+    "grammar": "〜ばかりいる (bakari iru) = 'doing nothing but ~, constantly doing ~'; から (kara) = 'since'"
+  },
+  {
+    "start": "11:17",
+    "end": "11:20",
+    "text": "食事",
+    "audio_file": "clip_067.mp3",
+    "translation": "Food.",
+    "vocabulary": [
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "meaning": "meal, food"
+      }
+    ],
+    "grammar": "Single noun utterance (elliptical speech)"
+  },
+  {
+    "start": "11:22",
+    "end": "11:29",
+    "text": "何も食べたくない / 60分後に出発よ",
+    "audio_file": "clip_068.mp3",
+    "translation": "I don't want to eat anything. / We depart in 60 minutes.",
+    "vocabulary": [
+      {
+        "word": "何も",
+        "reading": "なにも",
+        "meaning": "nothing, not anything"
+      },
+      {
+        "word": "出発",
+        "reading": "しゅっぱつ",
+        "meaning": "departure"
+      }
+    ],
+    "grammar": "何も〜ない (nani mo ~nai) = 'not ~ anything'; 〜たくない (takunai) = negative desire 'don't want to ~'"
+  },
+  {
+    "start": "11:29",
+    "end": "11:34",
+    "text": "またアレに乗らなきゃならないの / かな / ええそうよ",
+    "audio_file": "clip_069.mp3",
+    "translation": "Do I have to pilot that thing again? / I wonder... / Yes, that's right.",
+    "vocabulary": [
+      {
+        "word": "また",
+        "reading": "また",
+        "meaning": "again"
+      },
+      {
+        "word": "アレ",
+        "reading": "アレ",
+        "meaning": "that thing (derogatory/dismissive)"
+      }
+    ],
+    "grammar": "〜なきゃならない (nakya naranai) = 'must ~, have to ~' (casual contraction of なければならない); かな (kana) = wondering/uncertainty"
+  },
+  {
+    "start": "11:34",
+    "end": "11:42",
+    "text": "僕は嫌だ / 綾波はまだアレに乗って怖い目にあったことがないからそんなことが言えるんだ",
+    "audio_file": "clip_070.mp3",
+    "translation": "I don't want to. / Ayanami, you can say that because you haven't yet had a scary experience piloting that thing.",
+    "vocabulary": [
+      {
+        "word": "嫌",
+        "reading": "いや",
+        "meaning": "unpleasant, disagreeable"
+      },
+      {
+        "word": "怖い",
+        "reading": "こわい",
+        "meaning": "scary, frightening"
+      },
+      {
+        "word": "目にあう",
+        "reading": "めにあう",
+        "meaning": "to experience, to undergo"
+      }
+    ],
+    "grammar": "〜ことがない (koto ga nai) = 'have never ~'; から (kara) = 'because'; 〜んだ (n da) = explanatory emphasis"
+  },
+  {
+    "start": "11:42",
+    "end": "11:47",
+    "text": "もうあんな思いしたくない / じゃあ寝てたら",
+    "audio_file": "clip_071.mp3",
+    "translation": "I don't want to go through that again. / Then why don't you just sleep?",
+    "vocabulary": [
+      {
+        "word": "思い",
+        "reading": "おもい",
+        "meaning": "thought, feeling, experience"
+      },
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "meaning": "to sleep, to lie down"
+      }
+    ],
+    "grammar": "もう〜ない (mō ~nai) = 'not anymore, never again'; じゃあ (jā) = 'then, well'; 〜たら (tara) = suggestion 'how about ~?'"
+  },
+  {
+    "start": "11:47",
+    "end": "11:53",
+    "text": "寝てたらって / 初号機には私が乗る",
+    "audio_file": "clip_072.mp3",
+    "translation": "What do you mean 'sleep'? / I'll pilot Unit-01.",
+    "vocabulary": [
+      {
+        "word": "には",
+        "reading": "には",
+        "meaning": "as for, in (emphatic particle combination)"
+      },
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I, me"
+      }
+    ],
+    "grammar": "〜って (tte) = quotative particle expressing surprise/questioning; には (ni wa) = emphatic topic marker for contrast"
+  },
+  {
+    "start": "11:53",
+    "end": "12:01",
+    "text": "赤木博士が初号機のパーソナルデータの書き換えの用意しているわ / リツコさんが",
+    "audio_file": "clip_073.mp3",
+    "translation": "Dr. Akagi is preparing to rewrite Unit-01's personal data. / Ritsuko is?",
+    "vocabulary": [
+      {
+        "word": "博士",
+        "reading": "はかせ",
+        "meaning": "doctor, PhD"
+      },
+      {
+        "word": "書き換え",
+        "reading": "かきかえ",
+        "meaning": "rewriting, revision"
+      },
+      {
+        "word": "用意",
+        "reading": "ようい",
+        "meaning": "preparation"
+      }
+    ],
+    "grammar": "〜している (shite iru) = ongoing action/state; の (no) connecting multiple nouns in a chain"
+  },
+  {
+    "start": "12:01",
+    "end": "12:05",
+    "text": "じゃあこちらに1位と赤木博士がケージ黙っているから",
+    "audio_file": "clip_074.mp3",
+    "translation": "Then just wait here quietly until the first lieutenant and Dr. Akagi come.",
+    "vocabulary": [
+      {
+        "word": "こちら",
+        "reading": "こちら",
+        "meaning": "here (polite)"
+      },
+      {
+        "word": "黙る",
+        "reading": "だまる",
+        "meaning": "to be silent, to keep quiet"
+      }
+    ],
+    "grammar": "〜ている (te iru) = continuous state; から (kara) = 'so, therefore'"
+  },
+  {
+    "start": "12:08",
+    "end": "12:11",
+    "text": "さよなら",
+    "audio_file": "clip_075.mp3",
+    "translation": "Goodbye.",
+    "vocabulary": [
+      {
+        "word": "さよなら",
+        "reading": "さよなら",
+        "meaning": "goodbye"
+      }
+    ],
+    "grammar": "Standard farewell expression (more final than またね)"
+  },
+  {
+    "start": "12:27",
+    "end": "12:35",
+    "text": "えらい遅いな / もう避難せなあかん時間やで / パパのデータをちょろまかしてみたんだ",
+    "audio_file": "clip_076.mp3",
+    "translation": "They're really late. / It's already time we need to evacuate. / I snuck a look at dad's data.",
+    "vocabulary": [
+      {
+        "word": "えらい",
+        "reading": "えらい",
+        "meaning": "very, extremely (Kansai dialect)"
+      },
+      {
+        "word": "避難",
+        "reading": "ひなん",
+        "meaning": "evacuation"
+      },
+      {
+        "word": "ちょろまかす",
+        "reading": "ちょろまかす",
+        "meaning": "to filch, to sneak"
+      }
+    ],
+    "grammar": "Kansai dialect: せなあかん (sena akan) = しなければならない 'must do'; やで (ya de) = だよ emphasis; 〜てみた (te mita) = 'tried to ~'"
+  },
+  {
+    "start": "12:35",
+    "end": "12:40",
+    "text": "この時間に間違いないよ / せやけど出てけえへんな",
+    "audio_file": "clip_077.mp3",
+    "translation": "There's no mistake about this time. / But they're not coming out.",
+    "vocabulary": [
+      {
+        "word": "間違い",
+        "reading": "まちがい",
+        "meaning": "mistake, error"
+      },
+      {
+        "word": "出る",
+        "reading": "でる",
+        "meaning": "to come out, to emerge"
+      }
+    ],
+    "grammar": "に間違いない (ni machigai nai) = 'there's no doubt/mistake about ~'; Kansai dialect: 出てけえへん (dete keehen) = 出てこない 'not coming out'"
+  },
+  {
+    "start": "12:44",
+    "end": "12:49",
+    "text": "山が動きおる / エヴァンゲリオンだ",
+    "audio_file": "clip_078.mp3",
+    "translation": "The mountain is moving! / It's Evangelion!",
+    "vocabulary": [
+      {
+        "word": "山",
+        "reading": "やま",
+        "meaning": "mountain"
+      },
+      {
+        "word": "動く",
+        "reading": "うごく",
+        "meaning": "to move"
+      }
+    ],
+    "grammar": "〜おる (oru) = Kansai dialect for いる (continuous/ongoing action marker)"
+  },
+  {
+    "start": "12:59",
+    "end": "13:02",
+    "text": "頑張れよ",
+    "audio_file": "clip_079.mp3",
+    "translation": "Do your best!",
+    "vocabulary": [
+      {
+        "word": "頑張る",
+        "reading": "がんばる",
+        "meaning": "to do one's best, to persevere"
+      }
+    ],
+    "grammar": "頑張れ (ganbare) = imperative form of 頑張る; よ (yo) = emphatic particle"
+  },
+  {
+    "start": "13:05",
+    "end": "13:08",
+    "text": "頼むぜ",
+    "audio_file": "clip_080.mp3",
+    "translation": "We're counting on you!",
+    "vocabulary": [
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request, to rely on"
+      }
+    ],
+    "grammar": "頼む (tanomu) = 'I'm asking you, counting on you'; ぜ (ze) = masculine emphatic particle"
+  }
+]

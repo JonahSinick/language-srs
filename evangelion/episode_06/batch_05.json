@@ -1,0 +1,621 @@
+[
+  {
+    "start": "17:22",
+    "end": "17:29",
+    "text": "はい / 第1次 / 接続開始 / 第1から第803管区まで送電開始",
+    "audio_file": "clip_108.mp3",
+    "translation": "Yes! / First stage / Connection starting / Beginning power transmission from district 1 to district 803",
+    "vocabulary": [
+      {
+        "word": "接続",
+        "reading": "せつぞく",
+        "meaning": "connection, linking"
+      },
+      {
+        "word": "管区",
+        "reading": "かんく",
+        "meaning": "district, jurisdiction"
+      },
+      {
+        "word": "送電",
+        "reading": "そうでん",
+        "meaning": "power transmission"
+      },
+      {
+        "word": "開始",
+        "reading": "かいし",
+        "meaning": "start, beginning"
+      }
+    ],
+    "grammar": "から...まで pattern indicating range 'from...to'. ～開始 is a する-verb compound meaning 'to begin/start'"
+  },
+  {
+    "start": "17:36",
+    "end": "17:40",
+    "text": "電圧乗車中 河津駅へ",
+    "audio_file": "clip_109.mp3",
+    "translation": "Voltage rising, to Kawazu substation",
+    "vocabulary": [
+      {
+        "word": "電圧",
+        "reading": "でんあつ",
+        "meaning": "voltage, electric pressure"
+      },
+      {
+        "word": "上昇",
+        "reading": "じょうしょう",
+        "meaning": "rise, ascent"
+      },
+      {
+        "word": "変電所",
+        "reading": "へんでんしょ",
+        "meaning": "substation, transformer station"
+      }
+    ],
+    "grammar": "～中 (ちゅう) indicates an ongoing action 'in the middle of, during'. へ indicates direction 'to, toward'"
+  },
+  {
+    "start": "17:40",
+    "end": "17:44",
+    "text": "全冷却システム出力最大へ",
+    "audio_file": "clip_110.mp3",
+    "translation": "All cooling systems to maximum output",
+    "vocabulary": [
+      {
+        "word": "冷却",
+        "reading": "れいきゃく",
+        "meaning": "cooling, refrigeration"
+      },
+      {
+        "word": "出力",
+        "reading": "しゅつりょく",
+        "meaning": "output, power"
+      },
+      {
+        "word": "最大",
+        "reading": "さいだい",
+        "meaning": "maximum, greatest"
+      }
+    ],
+    "grammar": "全 (ぜん) prefix meaning 'all, entire'. へ particle indicating direction toward a state"
+  },
+  {
+    "start": "17:46",
+    "end": "17:49",
+    "text": "音の安定問題なし",
+    "audio_file": "clip_111.mp3",
+    "translation": "Sound wave stable, no problems",
+    "vocabulary": [
+      {
+        "word": "音波",
+        "reading": "おんぱ",
+        "meaning": "sound wave"
+      },
+      {
+        "word": "安定",
+        "reading": "あんてい",
+        "meaning": "stability, equilibrium"
+      },
+      {
+        "word": "問題なし",
+        "reading": "もんだいなし",
+        "meaning": "no problem"
+      }
+    ],
+    "grammar": "なし (無し) means 'without, lacking'. Noun + 問題なし is a common status report phrase"
+  },
+  {
+    "start": "17:49",
+    "end": "17:54",
+    "text": "溶電子流入順調なり 第二次接続",
+    "audio_file": "clip_112.mp3",
+    "translation": "Positron influx proceeding smoothly. Second stage connection",
+    "vocabulary": [
+      {
+        "word": "陽電子",
+        "reading": "ようでんし",
+        "meaning": "positron"
+      },
+      {
+        "word": "流入",
+        "reading": "りゅうにゅう",
+        "meaning": "influx, inflow"
+      },
+      {
+        "word": "順調",
+        "reading": "じゅんちょう",
+        "meaning": "smoothly, favorably"
+      },
+      {
+        "word": "第二次",
+        "reading": "だいにじ",
+        "meaning": "second stage/phase"
+      }
+    ],
+    "grammar": "なり is a literary/formal copula equivalent to だ/です, often used in official announcements"
+  },
+  {
+    "start": "17:54",
+    "end": "18:05",
+    "text": "全加 / 速機運転開始 強制収束機 作動 / 全電力 双子山洞設変電所へ 第三次接続 問題なし",
+    "audio_file": "clip_113.mp3",
+    "translation": "All accelerators starting operation. Forced convergence unit activated. All power to Futago-yama temporary substation. Third stage connection, no problems",
+    "vocabulary": [
+      {
+        "word": "加速機",
+        "reading": "かそくき",
+        "meaning": "accelerator"
+      },
+      {
+        "word": "強制",
+        "reading": "きょうせい",
+        "meaning": "forced, compulsory"
+      },
+      {
+        "word": "収束",
+        "reading": "しゅうそく",
+        "meaning": "convergence, focusing"
+      },
+      {
+        "word": "作動",
+        "reading": "さどう",
+        "meaning": "operation, activation"
+      }
+    ],
+    "grammar": "全 prefix indicates 'all'. 仮設 (かせつ) means 'temporary, provisional'"
+  },
+  {
+    "start": "18:05",
+    "end": "18:09",
+    "text": "最終安全装置解除 激鉄を起こせ",
+    "audio_file": "clip_114.mp3",
+    "translation": "Final safety device released. Raise the firing pin!",
+    "vocabulary": [
+      {
+        "word": "最終",
+        "reading": "さいしゅう",
+        "meaning": "final, last"
+      },
+      {
+        "word": "安全装置",
+        "reading": "あんぜんそうち",
+        "meaning": "safety device"
+      },
+      {
+        "word": "解除",
+        "reading": "かいじょ",
+        "meaning": "release, cancellation"
+      },
+      {
+        "word": "撃鉄",
+        "reading": "げきてつ",
+        "meaning": "firing pin, hammer"
+      }
+    ],
+    "grammar": "を起こせ is the imperative form of 起こす (to raise). Imperative commands are common in military/technical contexts"
+  },
+  {
+    "start": "18:10",
+    "end": "18:16",
+    "text": "地球時点及び重力の誤差修正 プラス0.0009",
+    "audio_file": "clip_115.mp3",
+    "translation": "Error correction for Earth's magnetic field and gravity. Plus 0.0009",
+    "vocabulary": [
+      {
+        "word": "磁点",
+        "reading": "じてん",
+        "meaning": "magnetic point"
+      },
+      {
+        "word": "重力",
+        "reading": "じゅうりょく",
+        "meaning": "gravity"
+      },
+      {
+        "word": "誤差",
+        "reading": "ごさ",
+        "meaning": "error, deviation"
+      },
+      {
+        "word": "修正",
+        "reading": "しゅうせい",
+        "meaning": "correction, revision"
+      }
+    ],
+    "grammar": "及び (および) means 'and, as well as', used to connect nouns formally"
+  },
+  {
+    "start": "18:16",
+    "end": "18:25",
+    "text": "電圧発射点まであと0.2",
+    "audio_file": "clip_116.mp3",
+    "translation": "Voltage to firing point, 0.2 remaining",
+    "vocabulary": [
+      {
+        "word": "電圧",
+        "reading": "でんあつ",
+        "meaning": "voltage"
+      },
+      {
+        "word": "発射点",
+        "reading": "はっしゃてん",
+        "meaning": "firing point"
+      },
+      {
+        "word": "あと",
+        "reading": "あと",
+        "meaning": "remaining, left"
+      }
+    ],
+    "grammar": "まであと～ pattern meaning 'until...remaining is ~'. Used for countdowns"
+  },
+  {
+    "start": "18:26",
+    "end": "18:32",
+    "text": "第7次最終接続 / 全エネルギーポジトロンライフルへ",
+    "audio_file": "clip_117.mp3",
+    "translation": "Seventh stage final connection. All energy to the positron rifle",
+    "vocabulary": [
+      {
+        "word": "第七次",
+        "reading": "だいななじ",
+        "meaning": "seventh stage"
+      },
+      {
+        "word": "最終",
+        "reading": "さいしゅう",
+        "meaning": "final, ultimate"
+      },
+      {
+        "word": "接続",
+        "reading": "せつぞく",
+        "meaning": "connection"
+      }
+    ],
+    "grammar": "へ particle indicates direction 'to, toward'. Used here for energy transfer destination"
+  },
+  {
+    "start": "18:35",
+    "end": "18:43",
+    "text": "目標に高エネルギー反応 / 何ですって / 2 / 1 / 発射",
+    "audio_file": "clip_118.mp3",
+    "translation": "High energy reaction from the target! / What!? / 2 / 1 / Fire!",
+    "vocabulary": [
+      {
+        "word": "目標",
+        "reading": "もくひょう",
+        "meaning": "target, objective"
+      },
+      {
+        "word": "反応",
+        "reading": "はんのう",
+        "meaning": "reaction, response"
+      },
+      {
+        "word": "発射",
+        "reading": "はっしゃ",
+        "meaning": "firing, launching"
+      }
+    ],
+    "grammar": "何ですって is an emphatic/shocked 'What!?' using って (casual quotative) with です"
+  },
+  {
+    "start": "18:59",
+    "end": "19:03",
+    "text": "ミスター",
+    "audio_file": "clip_119.mp3",
+    "translation": "Missed!",
+    "vocabulary": [
+      {
+        "word": "ミス",
+        "reading": "みす",
+        "meaning": "miss, mistake"
+      }
+    ],
+    "grammar": "English loanword ミス. The elongated vowel ー indicates the English pronunciation 'miss'"
+  },
+  {
+    "start": "19:11",
+    "end": "19:17",
+    "text": "敵シールド!ジオフロントへ進入! / 第2射!急いで!",
+    "audio_file": "clip_120.mp3",
+    "translation": "Enemy drill! Penetrating into the Geofront! / Second shot! Hurry!",
+    "vocabulary": [
+      {
+        "word": "敵",
+        "reading": "てき",
+        "meaning": "enemy"
+      },
+      {
+        "word": "進入",
+        "reading": "しんにゅう",
+        "meaning": "penetration, entry"
+      },
+      {
+        "word": "第二射",
+        "reading": "だいにしゃ",
+        "meaning": "second shot"
+      },
+      {
+        "word": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "to hurry"
+      }
+    ],
+    "grammar": "～て form (急いで) as an imperative 'hurry!' is softer than the direct imperative 急げ"
+  },
+  {
+    "start": "19:17",
+    "end": "19:22",
+    "text": "ヒューズ交換!再重点開始! / 重心冷却開始!",
+    "audio_file": "clip_121.mp3",
+    "translation": "Fuse replacement! Beginning recharge! / Beginning particle cooling!",
+    "vocabulary": [
+      {
+        "word": "交換",
+        "reading": "こうかん",
+        "meaning": "exchange, replacement"
+      },
+      {
+        "word": "再充填",
+        "reading": "さいじゅうてん",
+        "meaning": "refilling, recharging"
+      },
+      {
+        "word": "粒子",
+        "reading": "りゅうし",
+        "meaning": "particle"
+      },
+      {
+        "word": "冷却",
+        "reading": "れいきゃく",
+        "meaning": "cooling"
+      }
+    ],
+    "grammar": "再 (さい) prefix meaning 're-', indicating repetition. Multiple exclamatory commands in rapid succession"
+  },
+  {
+    "start": "19:23",
+    "end": "19:31",
+    "text": "目標に再び高エネルギ / ー反応! / まずい! / フォー! / シンチク!",
+    "audio_file": "clip_122.mp3",
+    "translation": "High energy reaction from the target again! / This is bad! / Four! / Shinji!",
+    "vocabulary": [
+      {
+        "word": "再び",
+        "reading": "ふたたび",
+        "meaning": "again, once more"
+      },
+      {
+        "word": "まずい",
+        "reading": "まずい",
+        "meaning": "bad, unfavorable"
+      }
+    ],
+    "grammar": "まずい is an i-adjective meaning 'bad/unfavorable', commonly used for dire situations"
+  },
+  {
+    "start": "19:38",
+    "end": "19:41",
+    "text": "ハルナミ!",
+    "audio_file": "clip_123.mp3",
+    "translation": "Ayanami!",
+    "vocabulary": [
+      {
+        "word": "綾波",
+        "reading": "あやなみ",
+        "meaning": "Ayanami (character name)"
+      }
+    ],
+    "grammar": "Character name called out in alarm"
+  },
+  {
+    "start": "19:42",
+    "end": "19:48",
+    "text": "盾が持たない!まだなの!? / あと10秒! / くっ、早 / く!",
+    "audio_file": "clip_124.mp3",
+    "translation": "The shield won't hold! Isn't it ready yet!? / 10 more seconds! / Damn, hur-ry!",
+    "vocabulary": [
+      {
+        "word": "盾",
+        "reading": "たて",
+        "meaning": "shield"
+      },
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "to hold, to last"
+      },
+      {
+        "word": "まだ",
+        "reading": "まだ",
+        "meaning": "still, yet"
+      },
+      {
+        "word": "早く",
+        "reading": "はやく",
+        "meaning": "quickly, hurry"
+      }
+    ],
+    "grammar": "～が持たない means 'won't hold/last'. まだなの is feminine speech pattern adding の to まだ for emphasis"
+  },
+  {
+    "start": "19:49",
+    "end": "19:52",
+    "text": "早く!",
+    "audio_file": "clip_125.mp3",
+    "translation": "Hurry!",
+    "vocabulary": [
+      {
+        "word": "早く",
+        "reading": "はやく",
+        "meaning": "quickly, hurry"
+      }
+    ],
+    "grammar": "早く as an adverb functioning as an imperative command 'hurry up!'"
+  },
+  {
+    "start": "19:57",
+    "end": "20:00",
+    "text": "よっしゃ!",
+    "audio_file": "clip_126.mp3",
+    "translation": "Alright!",
+    "vocabulary": [
+      {
+        "word": "よっしゃ",
+        "reading": "よっしゃ",
+        "meaning": "alright!, yes! (colloquial)"
+      }
+    ],
+    "grammar": "よっしゃ is a colloquial/dialectal variant of よし (good, alright), expressing triumph or determination"
+  },
+  {
+    "start": "20:04",
+    "end": "20:07",
+    "text": "早のみ!",
+    "audio_file": "clip_127.mp3",
+    "translation": "Ayanami!",
+    "vocabulary": [
+      {
+        "word": "綾波",
+        "reading": "あやなみ",
+        "meaning": "Ayanami (character name)"
+      }
+    ],
+    "grammar": "Character name called out with concern"
+  },
+  {
+    "start": "20:36",
+    "end": "20:42",
+    "text": "あやなみ!大丈夫か? / あやなみ!",
+    "audio_file": "clip_128.mp3",
+    "translation": "Ayanami! Are you okay? / Ayanami!",
+    "vocabulary": [
+      {
+        "word": "綾波",
+        "reading": "あやなみ",
+        "meaning": "Ayanami (character name)"
+      },
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "okay, alright"
+      }
+    ],
+    "grammar": "か as a question particle, often dropped in casual/urgent speech. 大丈夫か is a casual masculine way to ask if someone is okay"
+  },
+  {
+    "start": "20:52",
+    "end": "20:59",
+    "text": "自分には、自分には他に何もないって、そんなこと言うなよ",
+    "audio_file": "clip_129.mp3",
+    "translation": "That you have nothing else, that you have nothing else for yourself - don't say things like that",
+    "vocabulary": [
+      {
+        "word": "自分",
+        "reading": "じぶん",
+        "meaning": "oneself, yourself"
+      },
+      {
+        "word": "他",
+        "reading": "ほか",
+        "meaning": "other, else"
+      },
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      }
+    ],
+    "grammar": "って is the quotative particle (casual form of と). ～なよ is a gentle negative imperative 'don't ~' (masculine speech)"
+  },
+  {
+    "start": "21:00",
+    "end": "21:05",
+    "text": "別れ際にさよならなんて、悲しいこと言うなよ",
+    "audio_file": "clip_130.mp3",
+    "translation": "When we part, saying goodbye like that - don't say such sad things",
+    "vocabulary": [
+      {
+        "word": "別れ際",
+        "reading": "わかれぎわ",
+        "meaning": "moment of parting"
+      },
+      {
+        "word": "さよなら",
+        "reading": "さよなら",
+        "meaning": "goodbye, farewell"
+      },
+      {
+        "word": "悲しい",
+        "reading": "かなしい",
+        "meaning": "sad"
+      }
+    ],
+    "grammar": "～なんて minimizes or shows disdain for something 'something like ~'. Combined with negative command なよ"
+  },
+  {
+    "start": "21:33",
+    "end": "21:37",
+    "text": "払えばいいと思うよ",
+    "audio_file": "clip_131.mp3",
+    "translation": "I think you should just smile",
+    "vocabulary": [
+      {
+        "word": "笑う",
+        "reading": "わらう",
+        "meaning": "to smile, to laugh"
+      },
+      {
+        "word": "思う",
+        "reading": "おもう",
+        "meaning": "to think"
+      }
+    ],
+    "grammar": "～ばいい is a conditional pattern meaning 'should just ~, it would be good if ~'. と思う adds 'I think'"
+  },
+  {
+    "start": "23:06",
+    "end": "23:20",
+    "text": "迫り来る使徒に対し民間の開発した人型兵器が制 / 御不能に陥る / 果たしてミサトは炉心誘拐を止められるのか / 次回人の作りしもの / お楽しみに",
+    "audio_file": "clip_132.mp3",
+    "translation": "Against the approaching Angel, a civilian-developed humanoid weapon falls out of control. Can Misato stop the core meltdown? Next episode: 'A Human Work'. Look forward to it!",
+    "vocabulary": [
+      {
+        "word": "迫る",
+        "reading": "せまる",
+        "meaning": "to approach, to press"
+      },
+      {
+        "word": "使徒",
+        "reading": "しと",
+        "meaning": "Angel, apostle"
+      },
+      {
+        "word": "制御不能",
+        "reading": "せいぎょふのう",
+        "meaning": "out of control, uncontrollable"
+      },
+      {
+        "word": "陥る",
+        "reading": "おちいる",
+        "meaning": "to fall into (a state)"
+      },
+      {
+        "word": "炉心溶解",
+        "reading": "ろしんようかい",
+        "meaning": "core meltdown"
+      }
+    ],
+    "grammar": "迫り来る uses the continuative form 迫り + 来る to mean 'approaching'. 果たして adds suspense 'will it really...?'. しもの is classical/literary form"
+  },
+  {
+    "start": "23:48",
+    "end": "23:49",
+    "text": ".",
+    "audio_file": "clip_133.mp3",
+    "translation": "[silence/end marker]",
+    "vocabulary": [],
+    "grammar": "Punctuation marker indicating end of audio segment"
+  }
+]

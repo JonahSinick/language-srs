@@ -1,0 +1,607 @@
+[
+  {
+    "start": "13:13",
+    "end": "13:20",
+    "text": "敵シールド第17走行版を突破 / 本部到達まであと3時間55分",
+    "audio_file": "clip_081.mp3",
+    "translation": "The enemy drill has broken through the 17th armor layer. 3 hours and 55 minutes until it reaches headquarters.",
+    "vocabulary": [
+      {
+        "word": "突破",
+        "reading": "とっぱ",
+        "meaning": "breakthrough, breaking through"
+      },
+      {
+        "word": "走行版",
+        "reading": "そうこうばん",
+        "meaning": "armor layer"
+      },
+      {
+        "word": "到達",
+        "reading": "とうたつ",
+        "meaning": "arrival, reaching"
+      }
+    ],
+    "grammar": "まであと indicates 'until' with time remaining"
+  },
+  {
+    "start": "13:20",
+    "end": "13:27",
+    "text": "四国および九州エリアの通電完了 / 各冷却システムは試運転に入ってください",
+    "audio_file": "clip_082.mp3",
+    "translation": "Power transmission to Shikoku and Kyushu areas complete. All cooling systems, begin test runs.",
+    "vocabulary": [
+      {
+        "word": "通電",
+        "reading": "つうでん",
+        "meaning": "electricity supply, power transmission"
+      },
+      {
+        "word": "冷却",
+        "reading": "れいきゃく",
+        "meaning": "cooling, refrigeration"
+      },
+      {
+        "word": "試運転",
+        "reading": "しうんてん",
+        "meaning": "test run, trial operation"
+      }
+    ],
+    "grammar": "〜てください is a polite command form"
+  },
+  {
+    "start": "13:27",
+    "end": "13:31",
+    "text": "精密機械だから慎重にね",
+    "audio_file": "clip_083.mp3",
+    "translation": "It's precision equipment, so be careful.",
+    "vocabulary": [
+      {
+        "word": "精密機械",
+        "reading": "せいみつきかい",
+        "meaning": "precision equipment"
+      },
+      {
+        "word": "慎重",
+        "reading": "しんちょう",
+        "meaning": "careful, cautious"
+      }
+    ],
+    "grammar": "〜だから indicates a reason/cause. ね adds emphasis"
+  },
+  {
+    "start": "13:32",
+    "end": "13:43",
+    "text": "でもこんな野戦向けじゃない兵器 / 役に立つんですか / 仕方ないわよ / 間に合わせなんだから / 大丈夫ですよね / 理論上はね",
+    "audio_file": "clip_084.mp3",
+    "translation": "But will a weapon that's not designed for field use be useful? / Can't be helped. It's a makeshift solution. / It'll be okay, right? / In theory.",
+    "vocabulary": [
+      {
+        "word": "野戦",
+        "reading": "やせん",
+        "meaning": "field battle"
+      },
+      {
+        "word": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "to be useful"
+      },
+      {
+        "word": "間に合わせ",
+        "reading": "まにあわせ",
+        "meaning": "makeshift, stopgap"
+      },
+      {
+        "word": "理論上",
+        "reading": "りろんじょう",
+        "meaning": "theoretically, in theory"
+      }
+    ],
+    "grammar": "〜向け means 'designed for, intended for'. じゃない negates it"
+  },
+  {
+    "start": "13:43",
+    "end": "13:48",
+    "text": "けど重心や加速器が持つかどうかは / 撃ってみないとわからないわ",
+    "audio_file": "clip_085.mp3",
+    "translation": "But whether the barrel and accelerator will hold up - we won't know until we fire it.",
+    "vocabulary": [
+      {
+        "word": "重心",
+        "reading": "じゅうしん",
+        "meaning": "barrel (gun)"
+      },
+      {
+        "word": "加速器",
+        "reading": "かそくき",
+        "meaning": "accelerator"
+      },
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "to hold, to endure"
+      }
+    ],
+    "grammar": "〜かどうか expresses uncertainty. 〜てみないとわからない means 'won't know until trying'"
+  },
+  {
+    "start": "13:48",
+    "end": "13:51",
+    "text": "こんな大出力で死者したこと一度もないから",
+    "audio_file": "clip_086.mp3",
+    "translation": "We've never fired it at such high output before.",
+    "vocabulary": [
+      {
+        "word": "大出力",
+        "reading": "だいしゅつりょく",
+        "meaning": "high output, high power"
+      },
+      {
+        "word": "射撃",
+        "reading": "しゃげき",
+        "meaning": "firing, shooting"
+      },
+      {
+        "word": "一度も〜ない",
+        "reading": "いちども〜ない",
+        "meaning": "never, not even once"
+      }
+    ],
+    "grammar": "一度も〜ない emphasizes 'never even once'"
+  },
+  {
+    "start": "13:51",
+    "end": "14:01",
+    "text": "本作戦における各担当を伝達します / シンジ君 / はい / 初号機で宝石を担当 / はい",
+    "audio_file": "clip_087.mp3",
+    "translation": "I will now communicate each person's role in this operation. Shinji-kun. / Yes. / You'll handle sniping with Unit-01. / Yes.",
+    "vocabulary": [
+      {
+        "word": "作戦",
+        "reading": "さくせん",
+        "meaning": "operation, strategy"
+      },
+      {
+        "word": "担当",
+        "reading": "たんとう",
+        "meaning": "duty, responsibility, role"
+      },
+      {
+        "word": "狙撃",
+        "reading": "そげき",
+        "meaning": "sniping"
+      },
+      {
+        "word": "伝達",
+        "reading": "でんたつ",
+        "meaning": "communication, transmission"
+      }
+    ],
+    "grammar": "における is a formal 'in, at, regarding'"
+  },
+  {
+    "start": "14:01",
+    "end": "14:04",
+    "text": "レイは0号機で防御を担当して",
+    "audio_file": "clip_088.mp3",
+    "translation": "Rei, you'll handle defense with Unit-00.",
+    "vocabulary": [
+      {
+        "word": "防御",
+        "reading": "ぼうぎょ",
+        "meaning": "defense"
+      },
+      {
+        "word": "担当",
+        "reading": "たんとう",
+        "meaning": "to be in charge of"
+      }
+    ],
+    "grammar": "〜して is a casual command/request form"
+  },
+  {
+    "start": "14:05",
+    "end": "14:12",
+    "text": "はい / テロリスの方が高いからよ / 今回はより精度の高いオペレーションが必要なの",
+    "audio_file": "clip_089.mp3",
+    "translation": "Yes. / Because the telemetry is better. This time we need an operation with higher precision.",
+    "vocabulary": [
+      {
+        "word": "テロリス",
+        "reading": "てろりす",
+        "meaning": "telemetry (テレメトリー)"
+      },
+      {
+        "word": "精度",
+        "reading": "せいど",
+        "meaning": "precision, accuracy"
+      },
+      {
+        "word": "必要",
+        "reading": "ひつよう",
+        "meaning": "necessary"
+      }
+    ],
+    "grammar": "より〜 indicates comparison 'more~'"
+  },
+  {
+    "start": "14:12",
+    "end": "14:18",
+    "text": "陽電子は地球の磁点、磁場、重力の影響を受け直進しません",
+    "audio_file": "clip_090.mp3",
+    "translation": "Positrons are affected by Earth's magnetic poles, magnetic field, and gravity - they don't travel in a straight line.",
+    "vocabulary": [
+      {
+        "word": "陽電子",
+        "reading": "ようでんし",
+        "meaning": "positron"
+      },
+      {
+        "word": "磁場",
+        "reading": "じば",
+        "meaning": "magnetic field"
+      },
+      {
+        "word": "重力",
+        "reading": "じゅうりょく",
+        "meaning": "gravity"
+      },
+      {
+        "word": "直進",
+        "reading": "ちょくしん",
+        "meaning": "going straight"
+      }
+    ],
+    "grammar": "影響を受け means 'to be affected by'"
+  },
+  {
+    "start": "14:18",
+    "end": "14:29",
+    "text": "その誤差を修正するのを忘れないでね / 正確にコア一点のみを貫くのよ / そんなことか / まだ練習してないですよ / 大丈夫",
+    "audio_file": "clip_091.mp3",
+    "translation": "Don't forget to correct for that deviation. Pierce exactly one point - the core only. / I haven't practiced that yet! / It's okay.",
+    "vocabulary": [
+      {
+        "word": "誤差",
+        "reading": "ごさ",
+        "meaning": "error, deviation"
+      },
+      {
+        "word": "修正",
+        "reading": "しゅうせい",
+        "meaning": "correction, revision"
+      },
+      {
+        "word": "貫く",
+        "reading": "つらぬく",
+        "meaning": "to pierce, penetrate"
+      },
+      {
+        "word": "練習",
+        "reading": "れんしゅう",
+        "meaning": "practice"
+      }
+    ],
+    "grammar": "〜のを忘れないで means 'don't forget to~'. 〜のみ emphasizes 'only'"
+  },
+  {
+    "start": "14:29",
+    "end": "14:35",
+    "text": "あなたはテキスト通りにやって / 最後に真ん中のマークが揃ったらスイッチを押せばいいの",
+    "audio_file": "clip_092.mp3",
+    "translation": "Just follow the manual. When the marks in the center finally align, just press the switch.",
+    "vocabulary": [
+      {
+        "word": "テキスト",
+        "reading": "てきすと",
+        "meaning": "textbook, manual"
+      },
+      {
+        "word": "揃う",
+        "reading": "そろう",
+        "meaning": "to align, to match up"
+      },
+      {
+        "word": "押す",
+        "reading": "おす",
+        "meaning": "to press, push"
+      }
+    ],
+    "grammar": "〜通りに means 'according to, as per'. 〜ばいい means 'just do~, all you need to do is~'"
+  },
+  {
+    "start": "14:35",
+    "end": "14:45",
+    "text": "あとは機械がやってくれるわ / それから一度発射すると冷却や再充填 / ヒューズの交換などで次に撃てるまで時間がかかるから",
+    "audio_file": "clip_093.mp3",
+    "translation": "The machine will do the rest. Also, once you fire, cooling, refilling, replacing fuses - it'll take time before you can fire again.",
+    "vocabulary": [
+      {
+        "word": "発射",
+        "reading": "はっしゃ",
+        "meaning": "firing, launching"
+      },
+      {
+        "word": "再充填",
+        "reading": "さいじゅうてん",
+        "meaning": "refilling, recharging"
+      },
+      {
+        "word": "交換",
+        "reading": "こうかん",
+        "meaning": "exchange, replacement"
+      }
+    ],
+    "grammar": "〜てくれる indicates doing something for someone. 一度〜すると means 'once you do~'"
+  },
+  {
+    "start": "14:45",
+    "end": "14:51",
+    "text": "じゃあもし外れて敵が撃ち返してきたら / 今は余計なことを考えないで",
+    "audio_file": "clip_094.mp3",
+    "translation": "So what if I miss and the enemy fires back? / Don't think about unnecessary things right now.",
+    "vocabulary": [
+      {
+        "word": "外れる",
+        "reading": "はずれる",
+        "meaning": "to miss (a target)"
+      },
+      {
+        "word": "撃ち返す",
+        "reading": "うちかえす",
+        "meaning": "to fire back, counterattack"
+      },
+      {
+        "word": "余計",
+        "reading": "よけい",
+        "meaning": "unnecessary, superfluous"
+      }
+    ],
+    "grammar": "もし〜たら is a conditional 'what if~'. 〜ないで is 'without doing, don't do'"
+  },
+  {
+    "start": "14:51",
+    "end": "14:54",
+    "text": "一撃で撃破することだけを考えなさい",
+    "audio_file": "clip_095.mp3",
+    "translation": "Just think about destroying it in one shot.",
+    "vocabulary": [
+      {
+        "word": "一撃",
+        "reading": "いちげき",
+        "meaning": "one blow, single strike"
+      },
+      {
+        "word": "撃破",
+        "reading": "げきは",
+        "meaning": "destruction, defeat"
+      }
+    ],
+    "grammar": "〜だけを emphasizes 'only~'. 〜なさい is a firm command form"
+  },
+  {
+    "start": "14:54",
+    "end": "14:57",
+    "text": "大ピンチってことか",
+    "audio_file": "clip_096.mp3",
+    "translation": "So it's a huge crisis, huh?",
+    "vocabulary": [
+      {
+        "word": "大ピンチ",
+        "reading": "だいぴんち",
+        "meaning": "big pinch, major crisis"
+      },
+      {
+        "word": "ってこと",
+        "reading": "ってこと",
+        "meaning": "meaning that, in other words"
+      }
+    ],
+    "grammar": "ってことか is casual for 'that means~, huh?'"
+  },
+  {
+    "start": "14:57",
+    "end": "14:59",
+    "text": "私 / は",
+    "audio_file": "clip_097.mp3",
+    "translation": "I... / Yes?",
+    "vocabulary": [
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I, me"
+      }
+    ],
+    "grammar": "Interruption mid-sentence showing hesitation"
+  },
+  {
+    "start": "14:59",
+    "end": "15:04",
+    "text": "私は初号機を守ればいいのね / そうよ",
+    "audio_file": "clip_098.mp3",
+    "translation": "I should protect Unit-01, right? / That's right.",
+    "vocabulary": [
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to protect, defend"
+      }
+    ],
+    "grammar": "〜ばいいのね is seeking confirmation 'I should~, right?'"
+  },
+  {
+    "start": "15:04",
+    "end": "15:10",
+    "text": "わかりました / 時間よ / 二人とも着替えて / はい",
+    "audio_file": "clip_099.mp3",
+    "translation": "Understood. / It's time. Both of you, get changed. / Yes.",
+    "vocabulary": [
+      {
+        "word": "わかる",
+        "reading": "わかる",
+        "meaning": "to understand"
+      },
+      {
+        "word": "着替える",
+        "reading": "きがえる",
+        "meaning": "to change clothes"
+      }
+    ],
+    "grammar": "わかりました is formal past of 'understand'. 〜とも means 'both'"
+  },
+  {
+    "start": "15:19",
+    "end": "15:24",
+    "text": "これで / 死ぬかもしれないね",
+    "audio_file": "clip_100.mp3",
+    "translation": "With this... we might die.",
+    "vocabulary": [
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "to die"
+      },
+      {
+        "word": "かもしれない",
+        "reading": "かもしれない",
+        "meaning": "might, may"
+      }
+    ],
+    "grammar": "かもしれない expresses possibility/uncertainty"
+  },
+  {
+    "start": "15:24",
+    "end": "15:27",
+    "text": "どうしてそういうこと言うの?",
+    "audio_file": "clip_101.mp3",
+    "translation": "Why do you say things like that?",
+    "vocabulary": [
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "meaning": "why"
+      },
+      {
+        "word": "そういう",
+        "reading": "そういう",
+        "meaning": "that kind of, such"
+      }
+    ],
+    "grammar": "〜の is a question particle adding emotional nuance"
+  },
+  {
+    "start": "15:30",
+    "end": "15:33",
+    "text": "あなたは死なないわ",
+    "audio_file": "clip_102.mp3",
+    "translation": "You won't die.",
+    "vocabulary": [
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "to die"
+      }
+    ],
+    "grammar": "〜ない is negative form. わ is feminine sentence-ending particle"
+  },
+  {
+    "start": "15:33",
+    "end": "15:36",
+    "text": "私が守るもの",
+    "audio_file": "clip_103.mp3",
+    "translation": "Because I'll protect you.",
+    "vocabulary": [
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to protect"
+      },
+      {
+        "word": "もの",
+        "reading": "もの",
+        "meaning": "because (explanatory)"
+      }
+    ],
+    "grammar": "もの at sentence end gives explanation/reason"
+  },
+  {
+    "start": "16:32",
+    "end": "16:37",
+    "text": "みんなとの強いんだな綾波は",
+    "audio_file": "clip_104.mp3",
+    "translation": "You're really strong, aren't you, Ayanami?",
+    "vocabulary": [
+      {
+        "word": "強い",
+        "reading": "つよい",
+        "meaning": "strong"
+      }
+    ],
+    "grammar": "〜んだな expresses realization/admiration. みんな might be 'really' (colloquial)"
+  },
+  {
+    "start": "16:38",
+    "end": "16:54",
+    "text": "私にはほかに何もないものほかに何もないって時間よ行きましょうじゃあさよなら",
+    "audio_file": "clip_105.mp3",
+    "translation": "I have nothing else. Nothing else... / It's time. Let's go. / Well then, goodbye.",
+    "vocabulary": [
+      {
+        "word": "何もない",
+        "reading": "なにもない",
+        "meaning": "nothing, have nothing"
+      },
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      },
+      {
+        "word": "さよなら",
+        "reading": "さよなら",
+        "meaning": "goodbye"
+      }
+    ],
+    "grammar": "〜には indicates emphasis on 'for me'. もの gives explanation"
+  },
+  {
+    "start": "17:05",
+    "end": "17:11",
+    "text": "ただいまより0時0分0秒をお知らせします",
+    "audio_file": "clip_106.mp3",
+    "translation": "Announcing 0 hours, 0 minutes, 0 seconds from now.",
+    "vocabulary": [
+      {
+        "word": "ただいまより",
+        "reading": "ただいまより",
+        "meaning": "from now"
+      },
+      {
+        "word": "お知らせ",
+        "reading": "おしらせ",
+        "meaning": "announcement, notice"
+      }
+    ],
+    "grammar": "お〜します is humble/formal form"
+  },
+  {
+    "start": "17:14",
+    "end": "17:22",
+    "text": "作戦スタートです / シンジ君日本中のエネルギーあなたに預けるわ / 頑張ってね",
+    "audio_file": "clip_107.mp3",
+    "translation": "Operation start. Shinji-kun, I'm entrusting all of Japan's energy to you. Do your best.",
+    "vocabulary": [
+      {
+        "word": "預ける",
+        "reading": "あずける",
+        "meaning": "to entrust, deposit"
+      },
+      {
+        "word": "頑張る",
+        "reading": "がんばる",
+        "meaning": "to do one's best"
+      }
+    ],
+    "grammar": "〜てね adds warmth/encouragement to commands"
+  }
+]

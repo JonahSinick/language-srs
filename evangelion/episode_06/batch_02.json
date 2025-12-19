@@ -1,0 +1,722 @@
+[
+  {
+    "start": "06:05",
+    "end": "06:09",
+    "text": "その前にちょっちやってみたいことがあるの",
+    "audio_file": "clip_027.mp3",
+    "translation": "Before that, there's something I'd like to try.",
+    "vocabulary": [
+      {
+        "word": "その前に",
+        "reading": "そのまえに",
+        "meaning": "before that"
+      },
+      {
+        "word": "ちょっと",
+        "reading": "ちょっと",
+        "meaning": "a little, somewhat"
+      },
+      {
+        "word": "やってみたい",
+        "reading": "やってみたい",
+        "meaning": "want to try doing"
+      }
+    ],
+    "grammar": "~てみたい expresses wanting to try something; の at the end makes it explanatory/feminine"
+  },
+  {
+    "start": "06:09",
+    "end": "06:23",
+    "text": "目標のレンジ外 長長距離からの直接射撃かね / そうです 目標のATフィールドを中はせず / 高エネルギー収束帯による一点突破しか方法はありません / マギはどう言ってる",
+    "audio_file": "clip_028.mp3",
+    "translation": "Direct fire from outside the target's range, from long distance? / That's right. Without neutralizing the target's AT Field / our only method is a single-point breakthrough with a high-energy convergence beam. / What does MAGI say?",
+    "vocabulary": [
+      {
+        "word": "範囲外",
+        "reading": "はんいがい",
+        "meaning": "outside the range"
+      },
+      {
+        "word": "直接射撃",
+        "reading": "ちょくせつしゃげき",
+        "meaning": "direct fire"
+      },
+      {
+        "word": "収束",
+        "reading": "しゅうそく",
+        "meaning": "convergence, focusing"
+      },
+      {
+        "word": "一点突破",
+        "reading": "いってんとっぱ",
+        "meaning": "breakthrough at a single point"
+      }
+    ],
+    "grammar": "~による indicates means/method; しか~ない means 'only/nothing but'"
+  },
+  {
+    "start": "06:23",
+    "end": "06:28",
+    "text": "スーパーコンピューター マギによる回答は / 賛成に条件付き賛成が1でした",
+    "audio_file": "clip_029.mp3",
+    "translation": "The supercomputer MAGI's response was / one approval and one conditional approval.",
+    "vocabulary": [
+      {
+        "word": "回答",
+        "reading": "かいとう",
+        "meaning": "answer, response"
+      },
+      {
+        "word": "賛成",
+        "reading": "さんせい",
+        "meaning": "approval, agreement"
+      },
+      {
+        "word": "条件付き",
+        "reading": "じょうけんつき",
+        "meaning": "conditional"
+      }
+    ],
+    "grammar": "~による indicates the source/agent; でした is polite past tense of だ"
+  },
+  {
+    "start": "06:28",
+    "end": "06:34",
+    "text": "賞賛は8.7%か / 最も高い数値です",
+    "audio_file": "clip_030.mp3",
+    "translation": "Success rate is 8.7%? / That's the highest number we have.",
+    "vocabulary": [
+      {
+        "word": "賞賛",
+        "reading": "しょうさん",
+        "meaning": "praise, admiration (here likely 成算 'probability of success')"
+      },
+      {
+        "word": "数値",
+        "reading": "すうち",
+        "meaning": "numerical value"
+      },
+      {
+        "word": "最も",
+        "reading": "もっとも",
+        "meaning": "most, extremely"
+      }
+    ],
+    "grammar": "か at the end indicates a question; です is polite copula"
+  },
+  {
+    "start": "06:34",
+    "end": "06:40",
+    "text": "反対する理由はない / やりたまえ カツラギ1 / はい",
+    "audio_file": "clip_031.mp3",
+    "translation": "There's no reason to oppose it. / Do it, Katsuragi. / Yes sir.",
+    "vocabulary": [
+      {
+        "word": "反対する",
+        "reading": "はんたいする",
+        "meaning": "to oppose"
+      },
+      {
+        "word": "理由",
+        "reading": "りゆう",
+        "meaning": "reason"
+      },
+      {
+        "word": "やりたまえ",
+        "reading": "やりたまえ",
+        "meaning": "do it (command form with たまえ)"
+      }
+    ],
+    "grammar": "~する理由はない means 'no reason to do'; たまえ is a commanding but somewhat polite imperative"
+  },
+  {
+    "start": "06:40",
+    "end": "06:48",
+    "text": "しかしまた無茶な作戦を立てたものね / 桂木作戦部長さん / 無茶とはまた失礼ね",
+    "audio_file": "clip_032.mp3",
+    "translation": "You've come up with quite a reckless plan again / Operations Director Katsuragi. / How rude to call it reckless.",
+    "vocabulary": [
+      {
+        "word": "無茶",
+        "reading": "むちゃ",
+        "meaning": "reckless, unreasonable"
+      },
+      {
+        "word": "作戦",
+        "reading": "さくせん",
+        "meaning": "operation, strategy"
+      },
+      {
+        "word": "立てる",
+        "reading": "たてる",
+        "meaning": "to formulate, devise"
+      },
+      {
+        "word": "失礼",
+        "reading": "しつれい",
+        "meaning": "rude, impolite"
+      }
+    ],
+    "grammar": "~たものね expresses reflection/admiration; とは emphasizes the preceding word"
+  },
+  {
+    "start": "06:48",
+    "end": "06:54",
+    "text": "残り9時間以内で実現可能 / おまけに最も確実なものよ / これがね",
+    "audio_file": "clip_033.mp3",
+    "translation": "It's achievable within the remaining 9 hours / and what's more, it's the most reliable option. / This one is.",
+    "vocabulary": [
+      {
+        "word": "残り",
+        "reading": "のこり",
+        "meaning": "remaining"
+      },
+      {
+        "word": "実現可能",
+        "reading": "じつげんかのう",
+        "meaning": "feasible, achievable"
+      },
+      {
+        "word": "おまけに",
+        "reading": "おまけに",
+        "meaning": "what's more, in addition"
+      },
+      {
+        "word": "確実",
+        "reading": "かくじつ",
+        "meaning": "reliable, certain"
+      }
+    ],
+    "grammar": "~以内 means 'within'; の at the end nominalizes the phrase"
+  },
+  {
+    "start": "06:54",
+    "end": "07:07",
+    "text": "うちのポジトロンライフルじゃそんな大出力に耐えられないわよ / どうすんの / 決まってるでしょ / 借りるのよ / 借りるって / まさか",
+    "audio_file": "clip_034.mp3",
+    "translation": "Our positron rifle can't withstand that kind of high output. / So what will we do? / It's obvious, isn't it? / We'll borrow one. / Borrow? / Don't tell me...",
+    "vocabulary": [
+      {
+        "word": "耐える",
+        "reading": "たえる",
+        "meaning": "to withstand, endure"
+      },
+      {
+        "word": "大出力",
+        "reading": "だいしゅつりょく",
+        "meaning": "high output"
+      },
+      {
+        "word": "決まってる",
+        "reading": "きまってる",
+        "meaning": "it's decided, it's obvious"
+      },
+      {
+        "word": "借りる",
+        "reading": "かりる",
+        "meaning": "to borrow"
+      }
+    ],
+    "grammar": "じゃ is casual for では; ~られない is potential negative form; のよ is feminine explanatory"
+  },
+  {
+    "start": "07:07",
+    "end": "07:10",
+    "text": "そう 戦時券のプロトタイプ",
+    "audio_file": "clip_035.mp3",
+    "translation": "That's right. The Strategic Self-Defense Force's prototype.",
+    "vocabulary": [
+      {
+        "word": "戦時券",
+        "reading": "せんじけん",
+        "meaning": "Strategic Self-Defense Force (likely 戦自隊)"
+      },
+      {
+        "word": "プロトタイプ",
+        "reading": "プロトタイプ",
+        "meaning": "prototype"
+      }
+    ],
+    "grammar": "そう affirms the previous statement"
+  },
+  {
+    "start": "07:10",
+    "end": "07:22",
+    "text": "以上の理由により この実装溶電子法は / 本日15時より 特務機関NERVが挑発いたします / かといって しかしそんな無茶な",
+    "audio_file": "clip_036.mp3",
+    "translation": "For the above reasons, this experimental positron cannon / will be requisitioned by Special Agency NERV starting at 15:00 today. / That said... but that's so unreasonable!",
+    "vocabulary": [
+      {
+        "word": "以上",
+        "reading": "いじょう",
+        "meaning": "above, the above"
+      },
+      {
+        "word": "理由",
+        "reading": "りゆう",
+        "meaning": "reason"
+      },
+      {
+        "word": "挑発",
+        "reading": "ちょうはつ",
+        "meaning": "requisition (likely 徴発)"
+      },
+      {
+        "word": "特務機関",
+        "reading": "とくむきかん",
+        "meaning": "special agency"
+      }
+    ],
+    "grammar": "~により indicates reason/cause; いたします is humble form of します"
+  },
+  {
+    "start": "07:22",
+    "end": "07:27",
+    "text": "可能な限り 原型をとどめて返却するよう努めますので",
+    "audio_file": "clip_037.mp3",
+    "translation": "We will make every effort to return it in its original condition as much as possible.",
+    "vocabulary": [
+      {
+        "word": "可能な限り",
+        "reading": "かのうなかぎり",
+        "meaning": "as much as possible"
+      },
+      {
+        "word": "原型",
+        "reading": "げんけい",
+        "meaning": "original form"
+      },
+      {
+        "word": "返却",
+        "reading": "へんきゃく",
+        "meaning": "return, giving back"
+      },
+      {
+        "word": "努める",
+        "reading": "つとめる",
+        "meaning": "to endeavor, make an effort"
+      }
+    ],
+    "grammar": "~をとどめて means 'keeping/retaining'; ~よう努める means 'to try to/make effort to'"
+  },
+  {
+    "start": "07:27",
+    "end": "07:34",
+    "text": "では ご協力 感謝いたします / いいわよ / レイ 持っていって",
+    "audio_file": "clip_038.mp3",
+    "translation": "Well then, thank you for your cooperation. / Fine. / Rei, take it with you.",
+    "vocabulary": [
+      {
+        "word": "協力",
+        "reading": "きょうりょく",
+        "meaning": "cooperation"
+      },
+      {
+        "word": "感謝",
+        "reading": "かんしゃ",
+        "meaning": "gratitude, thanks"
+      },
+      {
+        "word": "持っていく",
+        "reading": "もっていく",
+        "meaning": "to take (something) along"
+      }
+    ],
+    "grammar": "いたします is humble form; ~ていって is te-form of ~ていく (action moving away)"
+  },
+  {
+    "start": "07:35",
+    "end": "07:39",
+    "text": "精密機械だからそーっとね",
+    "audio_file": "clip_039.mp3",
+    "translation": "It's precision equipment, so be gentle with it.",
+    "vocabulary": [
+      {
+        "word": "精密機械",
+        "reading": "せいみつきかい",
+        "meaning": "precision equipment"
+      },
+      {
+        "word": "そーっと",
+        "reading": "そーっと",
+        "meaning": "gently, softly"
+      }
+    ],
+    "grammar": "~から indicates reason; ね at the end is a softening particle"
+  },
+  {
+    "start": "07:41",
+    "end": "07:46",
+    "text": "しかしATフィールドをも貫くエネルギー算出量は",
+    "audio_file": "clip_040.mp3",
+    "translation": "However, the calculated energy output to penetrate even the AT Field is...",
+    "vocabulary": [
+      {
+        "word": "貫く",
+        "reading": "つらぬく",
+        "meaning": "to penetrate, pierce through"
+      },
+      {
+        "word": "算出",
+        "reading": "さんしゅつ",
+        "meaning": "calculation, computation"
+      },
+      {
+        "word": "量",
+        "reading": "りょう",
+        "meaning": "amount, quantity"
+      }
+    ],
+    "grammar": "をも adds emphasis 'even'; は marks the topic"
+  },
+  {
+    "start": "07:46",
+    "end": "07:52",
+    "text": "最低1億8000万キロワット / それだけの大電力をどこから集めてくるんですか",
+    "audio_file": "clip_041.mp3",
+    "translation": "A minimum of 180 million kilowatts. / Where are we going to gather that much electrical power from?",
+    "vocabulary": [
+      {
+        "word": "最低",
+        "reading": "さいてい",
+        "meaning": "minimum"
+      },
+      {
+        "word": "大電力",
+        "reading": "だいでんりょく",
+        "meaning": "large electrical power"
+      },
+      {
+        "word": "集める",
+        "reading": "あつめる",
+        "meaning": "to gather, collect"
+      }
+    ],
+    "grammar": "それだけの means 'that much'; ~てくる indicates bringing/gathering toward speaker"
+  },
+  {
+    "start": "07:52",
+    "end": "07:56",
+    "text": "決まってるじゃない / 日本中よ",
+    "audio_file": "clip_042.mp3",
+    "translation": "It's obvious, isn't it? / From all over Japan.",
+    "vocabulary": [
+      {
+        "word": "決まってる",
+        "reading": "きまってる",
+        "meaning": "it's decided, it's obvious"
+      },
+      {
+        "word": "日本中",
+        "reading": "にほんじゅう",
+        "meaning": "all over Japan, throughout Japan"
+      }
+    ],
+    "grammar": "~じゃない at the end seeks agreement (isn't it?); よ is assertive particle"
+  },
+  {
+    "start": "07:57",
+    "end": "08:03",
+    "text": "番組の途中ですが / ここで臨時ニュースをお伝えいたします",
+    "audio_file": "clip_043.mp3",
+    "translation": "We interrupt this program / to bring you breaking news.",
+    "vocabulary": [
+      {
+        "word": "番組",
+        "reading": "ばんぐみ",
+        "meaning": "program, show"
+      },
+      {
+        "word": "途中",
+        "reading": "とちゅう",
+        "meaning": "midway, in the middle"
+      },
+      {
+        "word": "臨時",
+        "reading": "りんじ",
+        "meaning": "special, emergency"
+      },
+      {
+        "word": "伝える",
+        "reading": "つたえる",
+        "meaning": "to convey, report"
+      }
+    ],
+    "grammar": "~ですが indicates 'but'; お~いたします is humble honorific form"
+  },
+  {
+    "start": "08:03",
+    "end": "08:10",
+    "text": "本日午後11時30分より明日未明にかけて全国で大規模な停電があります",
+    "audio_file": "clip_044.mp3",
+    "translation": "Starting today at 11:30 PM through early tomorrow morning, there will be large-scale power outages nationwide.",
+    "vocabulary": [
+      {
+        "word": "午後",
+        "reading": "ごご",
+        "meaning": "afternoon, PM"
+      },
+      {
+        "word": "未明",
+        "reading": "みめい",
+        "meaning": "early morning hours"
+      },
+      {
+        "word": "大規模",
+        "reading": "だいきぼ",
+        "meaning": "large-scale"
+      },
+      {
+        "word": "停電",
+        "reading": "ていでん",
+        "meaning": "power outage"
+      }
+    ],
+    "grammar": "~より indicates starting point; ~にかけて means 'extending to/through'"
+  },
+  {
+    "start": "08:10",
+    "end": "08:15",
+    "text": "皆様のご協力をよろしくお願いいたします / 繰り返しお伝えいたします",
+    "audio_file": "clip_045.mp3",
+    "translation": "We ask for your cooperation. / We repeat...",
+    "vocabulary": [
+      {
+        "word": "皆様",
+        "reading": "みなさま",
+        "meaning": "everyone (polite)"
+      },
+      {
+        "word": "協力",
+        "reading": "きょうりょく",
+        "meaning": "cooperation"
+      },
+      {
+        "word": "繰り返し",
+        "reading": "くりかえし",
+        "meaning": "repeatedly"
+      },
+      {
+        "word": "願う",
+        "reading": "ねがう",
+        "meaning": "to request, ask"
+      }
+    ],
+    "grammar": "よろしくお願いいたします is a humble polite request phrase"
+  },
+  {
+    "start": "08:15",
+    "end": "08:22",
+    "text": "本日午後11時30分より明日未明にかけて全国で大規模な停電があります",
+    "audio_file": "clip_046.mp3",
+    "translation": "Starting today at 11:30 PM through early tomorrow morning, there will be large-scale power outages nationwide.",
+    "vocabulary": [
+      {
+        "word": "全国",
+        "reading": "ぜんこく",
+        "meaning": "nationwide, whole country"
+      },
+      {
+        "word": "停電",
+        "reading": "ていでん",
+        "meaning": "power outage"
+      }
+    ],
+    "grammar": "Same structure as segment 44; repetition of the announcement"
+  },
+  {
+    "start": "08:22",
+    "end": "08:25",
+    "text": "皆様のご協力をよろしくお願いいたします",
+    "audio_file": "clip_047.mp3",
+    "translation": "We ask for your cooperation.",
+    "vocabulary": [
+      {
+        "word": "皆様",
+        "reading": "みなさま",
+        "meaning": "everyone (polite)"
+      },
+      {
+        "word": "協力",
+        "reading": "きょうりょく",
+        "meaning": "cooperation"
+      }
+    ],
+    "grammar": "Polite humble request form with ご~を~お願いいたします"
+  },
+  {
+    "start": "08:28",
+    "end": "08:42",
+    "text": "敵シールド第7走行版を突破 / エネルギーシステムの見通しは? / 現在予定より3.2%遅れていますが / 本日23時10分には何とかできます / ポジトロンライフルはどう?",
+    "audio_file": "clip_048.mp3",
+    "translation": "Enemy drill has broken through armor plate 7. / What's the outlook for the energy system? / Currently we're 3.2% behind schedule, but / we can manage by 23:10 today. / How's the positron rifle?",
+    "vocabulary": [
+      {
+        "word": "突破",
+        "reading": "とっぱ",
+        "meaning": "breakthrough, breaking through"
+      },
+      {
+        "word": "見通し",
+        "reading": "みとおし",
+        "meaning": "outlook, prospect"
+      },
+      {
+        "word": "遅れる",
+        "reading": "おくれる",
+        "meaning": "to be late, delayed"
+      },
+      {
+        "word": "何とか",
+        "reading": "なんとか",
+        "meaning": "somehow, manage to"
+      }
+    ],
+    "grammar": "~ていますが indicates continuing state with 'but'; には marks time point"
+  },
+  {
+    "start": "08:42",
+    "end": "08:49",
+    "text": "技術開発部第3課の維持にかけても / あと3時間で形にしてみせますよ / 防御手段は?",
+    "audio_file": "clip_049.mp3",
+    "translation": "On the pride of Technical Development Section 3, / we'll make it work in 3 hours. / What about defensive measures?",
+    "vocabulary": [
+      {
+        "word": "技術開発",
+        "reading": "ぎじゅつかいはつ",
+        "meaning": "technical development"
+      },
+      {
+        "word": "維持",
+        "reading": "いじ",
+        "meaning": "maintenance (likely 意地 'pride')"
+      },
+      {
+        "word": "形にする",
+        "reading": "かたちにする",
+        "meaning": "to give shape to, realize"
+      },
+      {
+        "word": "防御",
+        "reading": "ぼうぎょ",
+        "meaning": "defense"
+      }
+    ],
+    "grammar": "~にかけても means 'even if it means staking on'; ~てみせる shows determination 'I'll show you'"
+  },
+  {
+    "start": "08:49",
+    "end": "08:54",
+    "text": "それはもう盾で防ぐしかないわね / これが盾ですか?",
+    "audio_file": "clip_050.mp3",
+    "translation": "Well, we have no choice but to defend with a shield. / This is the shield?",
+    "vocabulary": [
+      {
+        "word": "盾",
+        "reading": "たて",
+        "meaning": "shield"
+      },
+      {
+        "word": "防ぐ",
+        "reading": "ふせぐ",
+        "meaning": "to defend, protect"
+      }
+    ],
+    "grammar": "~しかない means 'no choice but to'; わね is feminine confirmatory ending"
+  },
+  {
+    "start": "08:54",
+    "end": "09:03",
+    "text": "そう、SSTOのお下がり / 見た目はひどくとも / もともと底部は超電池コーディングされている機種だし",
+    "audio_file": "clip_051.mp3",
+    "translation": "Right, a hand-me-down from the SSTO. / Even though it looks terrible, / the heat shielding was originally super-alloy coated.",
+    "vocabulary": [
+      {
+        "word": "お下がり",
+        "reading": "おさがり",
+        "meaning": "hand-me-down, secondhand"
+      },
+      {
+        "word": "見た目",
+        "reading": "みため",
+        "meaning": "appearance"
+      },
+      {
+        "word": "底部",
+        "reading": "ていぶ",
+        "meaning": "bottom (likely 耐熱 'heat resistance')"
+      },
+      {
+        "word": "機種",
+        "reading": "きしゅ",
+        "meaning": "model, type"
+      }
+    ],
+    "grammar": "~とも means 'even though'; ~している indicates current state; だし gives reason"
+  },
+  {
+    "start": "09:03",
+    "end": "09:16",
+    "text": "あの砲撃にも17秒は持つわ / 2課の保証書付きよ / 結構 / 狙撃地点は? / 目標との距離、地形、手頃な変電設備も考えるとやはりここです",
+    "audio_file": "clip_052.mp3",
+    "translation": "It'll hold for 17 seconds against that bombardment. / With Section 2's guarantee. / Good. / The sniping position? / Considering the distance to target, terrain, and convenient transformer facilities, it has to be here.",
+    "vocabulary": [
+      {
+        "word": "砲撃",
+        "reading": "ほうげき",
+        "meaning": "bombardment, shelling"
+      },
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "to hold, last"
+      },
+      {
+        "word": "保証書",
+        "reading": "ほしょうしょ",
+        "meaning": "guarantee, warranty"
+      },
+      {
+        "word": "狙撃",
+        "reading": "そげき",
+        "meaning": "sniping"
+      },
+      {
+        "word": "変電設備",
+        "reading": "へんでんせつび",
+        "meaning": "transformer facilities"
+      }
+    ],
+    "grammar": "~にも indicates 'even against'; ~を考えると means 'when considering'; やはり means 'as expected/after all'"
+  },
+  {
+    "start": "09:16",
+    "end": "09:22",
+    "text": "確かにいけるわ / ね / 狙撃地点は双子山山頂",
+    "audio_file": "clip_053.mp3",
+    "translation": "This will definitely work. / Right. / The sniping point is the summit of Mt. Futago.",
+    "vocabulary": [
+      {
+        "word": "確かに",
+        "reading": "たしかに",
+        "meaning": "certainly, definitely"
+      },
+      {
+        "word": "いける",
+        "reading": "いける",
+        "meaning": "can go, will work (colloquial)"
+      },
+      {
+        "word": "双子山",
+        "reading": "ふたごやま",
+        "meaning": "Mt. Futago (Twin Mountain)"
+      },
+      {
+        "word": "山頂",
+        "reading": "さんちょう",
+        "meaning": "summit, mountaintop"
+      }
+    ],
+    "grammar": "いける is potential form used colloquially to mean 'it'll work'; わ/ね are feminine particles"
+  }
+]
