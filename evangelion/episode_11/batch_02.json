@@ -1,0 +1,772 @@
+[
+  {
+    "start": "05:24",
+    "end": "05:30",
+    "text": "あ、私 / じゃないわよ / どうだろうな",
+    "audio_file": "clip_030.mp3",
+    "translation": "Ah, it's not me! / How should I know?",
+    "vocabulary": [
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I, me"
+      },
+      {
+        "word": "じゃない",
+        "reading": "じゃない",
+        "meaning": "is not, it's not"
+      },
+      {
+        "word": "どうだろう",
+        "reading": "どうだろう",
+        "meaning": "I wonder, how should I know"
+      }
+    ],
+    "grammar": "わよ is a feminine sentence-ending particle adding emphasis. だろう expresses uncertainty or speculation."
+  },
+  {
+    "start": "05:30",
+    "end": "05:39",
+    "text": "でもまあ、すぐに予備電源に切り替わるわよ / ダメです、予備回線繋がりません / バカな、生き残っている回線は",
+    "audio_file": "clip_031.mp3",
+    "translation": "Well anyway, it'll switch to backup power right away / No good, the backup circuits won't connect / Impossible! What circuits are still alive?",
+    "vocabulary": [
+      {
+        "word": "予備電源",
+        "reading": "よびでんげん",
+        "meaning": "backup power"
+      },
+      {
+        "word": "切り替わる",
+        "reading": "きりかわる",
+        "meaning": "to switch over, change"
+      },
+      {
+        "word": "回線",
+        "reading": "かいせん",
+        "meaning": "circuit, line"
+      },
+      {
+        "word": "生き残る",
+        "reading": "いきのこる",
+        "meaning": "to survive, remain alive"
+      }
+    ],
+    "grammar": "に切り替わる uses に to mark the destination of the switch. 繋がりません is the polite negative form of 繋がる (to connect)."
+  },
+  {
+    "start": "05:39",
+    "end": "05:50",
+    "text": "全部で1.2% / 2567番からの9回戦だけで / 生き残っている電源は全てマギとセントラルドグマの維持に回せ / 前回の生命維持に支障が生じますが",
+    "audio_file": "clip_032.mp3",
+    "translation": "Only 1.2% in total / Just the 9 circuits from number 2567 / Route all surviving power to maintaining MAGI and Central Dogma / But that will cause problems with life support for the facilities",
+    "vocabulary": [
+      {
+        "word": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "all, entire, total"
+      },
+      {
+        "word": "維持",
+        "reading": "いじ",
+        "meaning": "maintenance, preservation"
+      },
+      {
+        "word": "回す",
+        "reading": "まわす",
+        "meaning": "to divert, allocate"
+      },
+      {
+        "word": "支障",
+        "reading": "ししょう",
+        "meaning": "hindrance, problem, impediment"
+      }
+    ],
+    "grammar": "ている marks ongoing state (surviving). に回せ uses に to mark destination (route to). が at the end marks contrast or concern."
+  },
+  {
+    "start": "05:51",
+    "end": "05:54",
+    "text": "構わん最優先だ",
+    "audio_file": "clip_033.mp3",
+    "translation": "It doesn't matter. It's top priority.",
+    "vocabulary": [
+      {
+        "word": "構う",
+        "reading": "かまう",
+        "meaning": "to mind, care about"
+      },
+      {
+        "word": "最優先",
+        "reading": "さいゆうせん",
+        "meaning": "top priority, highest priority"
+      }
+    ],
+    "grammar": "構わん is the negative plain form of 構う with ん contraction (doesn't matter). だ is the copula marking assertion."
+  },
+  {
+    "start": "05:55",
+    "end": "06:05",
+    "text": "ほんとズボラな人だな / 桂木さんも自分の洗濯物ぐらい自分で取りに行きゃいいのに",
+    "audio_file": "clip_034.mp3",
+    "translation": "He's really such a sloppy person / Katsuragi-san should at least go get her own laundry herself",
+    "vocabulary": [
+      {
+        "word": "ズボラ",
+        "reading": "ずぼら",
+        "meaning": "sloppy, careless, lazy"
+      },
+      {
+        "word": "洗濯物",
+        "reading": "せんたくもの",
+        "meaning": "laundry, washing"
+      },
+      {
+        "word": "取りに行く",
+        "reading": "とりにいく",
+        "meaning": "to go get, fetch"
+      }
+    ],
+    "grammar": "ぐらい means 'at least'. 行きゃいいのに is casual contraction of 行けばいいのに (should go), expressing mild criticism or suggestion."
+  },
+  {
+    "start": "06:06",
+    "end": "06:14",
+    "text": "あれ? / それは怒りしれ本当に忙しかっただけじゃないの / そっかな",
+    "audio_file": "clip_035.mp3",
+    "translation": "Huh? / Isn't it just that Ikari-san was really busy? / I wonder...",
+    "vocabulary": [
+      {
+        "word": "忙しい",
+        "reading": "いそがしい",
+        "meaning": "busy"
+      },
+      {
+        "word": "だけ",
+        "reading": "だけ",
+        "meaning": "just, only"
+      }
+    ],
+    "grammar": "かっただけ combines past tense of い-adjective with だけ (just/only). じゃないの is a casual questioning form. そっかな shows uncertain agreement."
+  },
+  {
+    "start": "06:14",
+    "end": "06:18",
+    "text": "途中で切ったっていうよりなんか故障した感じだったんだけど",
+    "audio_file": "clip_036.mp3",
+    "translation": "Rather than being cut off midway, it felt more like it malfunctioned somehow",
+    "vocabulary": [
+      {
+        "word": "途中",
+        "reading": "とちゅう",
+        "meaning": "midway, halfway"
+      },
+      {
+        "word": "切る",
+        "reading": "きる",
+        "meaning": "to cut off, disconnect"
+      },
+      {
+        "word": "故障",
+        "reading": "こしょう",
+        "meaning": "breakdown, malfunction"
+      },
+      {
+        "word": "感じ",
+        "reading": "かんじ",
+        "meaning": "feeling, sense"
+      }
+    ],
+    "grammar": "っていう is casual form of という. より marks comparison (rather than). 感じだった expresses impression or feeling about something."
+  },
+  {
+    "start": "06:18",
+    "end": "06:23",
+    "text": "もう男のくせにいちいち細かいこと気にすんのやめたら",
+    "audio_file": "clip_037.mp3",
+    "translation": "Come on, you're a guy - why don't you stop worrying about every little detail?",
+    "vocabulary": [
+      {
+        "word": "くせに",
+        "reading": "くせに",
+        "meaning": "even though, despite being"
+      },
+      {
+        "word": "いちいち",
+        "reading": "いちいち",
+        "meaning": "one by one, every single"
+      },
+      {
+        "word": "細かい",
+        "reading": "こまかい",
+        "meaning": "detailed, small, nitpicky"
+      },
+      {
+        "word": "気にする",
+        "reading": "きにする",
+        "meaning": "to worry about, care about"
+      }
+    ],
+    "grammar": "くせに shows criticism (even though you're a guy). すんの is casual contraction of するの. やめたら is conditional suggestion (why don't you stop)."
+  },
+  {
+    "start": "06:27",
+    "end": "06:29",
+    "text": "あれ",
+    "audio_file": "clip_038.mp3",
+    "translation": "Huh?",
+    "vocabulary": [
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "meaning": "huh, oh (expression of surprise)"
+      }
+    ],
+    "grammar": "Interjection expressing mild surprise or confusion."
+  },
+  {
+    "start": "06:30",
+    "end": "06:35",
+    "text": "何やってんのほら変わりなさいよ",
+    "audio_file": "clip_039.mp3",
+    "translation": "What are you doing? Come on, switch places!",
+    "vocabulary": [
+      {
+        "word": "やる",
+        "reading": "やる",
+        "meaning": "to do"
+      },
+      {
+        "word": "変わる",
+        "reading": "かわる",
+        "meaning": "to change, switch"
+      },
+      {
+        "word": "ほら",
+        "reading": "ほら",
+        "meaning": "come on, look"
+      }
+    ],
+    "grammar": "やってんの is casual contraction of やっているの. なさい is polite imperative. よ adds emphasis to the command."
+  },
+  {
+    "start": "06:40",
+    "end": "06:44",
+    "text": "もう壊れてんじゃないのこれ",
+    "audio_file": "clip_040.mp3",
+    "translation": "Isn't this thing broken already?",
+    "vocabulary": [
+      {
+        "word": "壊れる",
+        "reading": "こわれる",
+        "meaning": "to break, be broken"
+      },
+      {
+        "word": "もう",
+        "reading": "もう",
+        "meaning": "already, geez"
+      }
+    ],
+    "grammar": "壊れてんじゃないの is casual contraction of 壊れているんじゃないの (isn't it broken?). んじゃない suggests suspicion or conjecture."
+  },
+  {
+    "start": "06:50",
+    "end": "07:01",
+    "text": "とにかく発令書へ急ぎましょう / 7分経っても普及しないなんて / ただごとじゃないわ / ここの電源は / 制服予備の3系統",
+    "audio_file": "clip_041.mp3",
+    "translation": "Anyway, let's hurry to the command center / The fact that it hasn't been restored even after 7 minutes... / This is no ordinary situation / The power here has / Three independent backup systems",
+    "vocabulary": [
+      {
+        "word": "発令所",
+        "reading": "はつれいしょ",
+        "meaning": "command center"
+      },
+      {
+        "word": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "to hurry"
+      },
+      {
+        "word": "普及",
+        "reading": "ふきゅう",
+        "meaning": "restoration, recovery"
+      },
+      {
+        "word": "ただごと",
+        "reading": "ただごと",
+        "meaning": "ordinary matter"
+      },
+      {
+        "word": "系統",
+        "reading": "けいとう",
+        "meaning": "system, line"
+      }
+    ],
+    "grammar": "ましょう is volitional form (let's). ても shows contrast (even though). なんて adds emphasis of disbelief. じゃない negates (not ordinary)."
+  },
+  {
+    "start": "07:01",
+    "end": "07:06",
+    "text": "それが同時に落ちるなんて考えられないわ / となると",
+    "audio_file": "clip_042.mp3",
+    "translation": "It's unthinkable that they would all go down simultaneously / Which means...",
+    "vocabulary": [
+      {
+        "word": "同時に",
+        "reading": "どうじに",
+        "meaning": "simultaneously, at the same time"
+      },
+      {
+        "word": "落ちる",
+        "reading": "おちる",
+        "meaning": "to fall, go down"
+      },
+      {
+        "word": "考えられる",
+        "reading": "かんがえられる",
+        "meaning": "conceivable, thinkable"
+      },
+      {
+        "word": "となると",
+        "reading": "となると",
+        "meaning": "when it comes to that, which means"
+      }
+    ],
+    "grammar": "なんて emphasizes disbelief. 考えられない is potential negative (cannot be thought of). となると transitions to logical conclusion."
+  },
+  {
+    "start": "07:06",
+    "end": "07:13",
+    "text": "やはりブレーカーは落ちたというより / 落とされたと考えるべきだな / 原因はどうであれ",
+    "audio_file": "clip_043.mp3",
+    "translation": "As expected, rather than the breakers going down / We should consider that they were taken down / Whatever the cause may be",
+    "vocabulary": [
+      {
+        "word": "やはり",
+        "reading": "やはり",
+        "meaning": "as expected, after all"
+      },
+      {
+        "word": "ブレーカー",
+        "reading": "ぶれーかー",
+        "meaning": "circuit breaker"
+      },
+      {
+        "word": "落とす",
+        "reading": "おとす",
+        "meaning": "to drop, turn off (transitive)"
+      },
+      {
+        "word": "原因",
+        "reading": "げんいん",
+        "meaning": "cause, reason"
+      }
+    ],
+    "grammar": "というより shows comparison (rather than). られる is passive form (were taken down). べきだ expresses obligation/recommendation. であれ means 'whatever it is'."
+  },
+  {
+    "start": "07:13",
+    "end": "07:19",
+    "text": "こんな時に使徒が現れたら大変だぞ / 速的レーダーに正体不明の反応あり",
+    "audio_file": "clip_044.mp3",
+    "translation": "It'd be a disaster if an Angel appeared at a time like this / Unidentified response on long-range radar",
+    "vocabulary": [
+      {
+        "word": "現れる",
+        "reading": "あらわれる",
+        "meaning": "to appear"
+      },
+      {
+        "word": "大変",
+        "reading": "たいへん",
+        "meaning": "terrible, disaster, serious"
+      },
+      {
+        "word": "正体不明",
+        "reading": "しょうたいふめい",
+        "meaning": "unidentified"
+      },
+      {
+        "word": "反応",
+        "reading": "はんのう",
+        "meaning": "response, reaction"
+      }
+    ],
+    "grammar": "たら conditional (if). だぞ is masculine emphatic particle. あり is formal way to say 'there is'."
+  },
+  {
+    "start": "07:19",
+    "end": "07:32",
+    "text": "予想上陸地点は旧熱海方面 / おそらく8番目のやつだ / ああ使徒だろう / どうします / 一応警報シフトにしておけ / 決まりだからな",
+    "audio_file": "clip_045.mp3",
+    "translation": "Predicted landing point is in the old Atami area / Probably the eighth one / Yeah, must be an Angel / What should we do? / Put us on alert shift just in case / It's protocol after all",
+    "vocabulary": [
+      {
+        "word": "予想",
+        "reading": "よそう",
+        "meaning": "prediction, forecast"
+      },
+      {
+        "word": "上陸",
+        "reading": "じょうりく",
+        "meaning": "landing"
+      },
+      {
+        "word": "おそらく",
+        "reading": "おそらく",
+        "meaning": "probably"
+      },
+      {
+        "word": "一応",
+        "reading": "いちおう",
+        "meaning": "just in case, for now"
+      },
+      {
+        "word": "決まり",
+        "reading": "きまり",
+        "meaning": "rule, protocol"
+      }
+    ],
+    "grammar": "だろう expresses conjecture. しておけ is command form with ておく (do in advance). からな provides reasoning with masculine particle."
+  },
+  {
+    "start": "07:32",
+    "end": "07:37",
+    "text": "どうせまた奴の目的地は第三新東京市だ / そうだな",
+    "audio_file": "clip_046.mp3",
+    "translation": "Its destination is Tokyo-3 again anyway / That's right",
+    "vocabulary": [
+      {
+        "word": "どうせ",
+        "reading": "どうせ",
+        "meaning": "anyway, anyhow"
+      },
+      {
+        "word": "奴",
+        "reading": "やつ",
+        "meaning": "that guy, it (derogatory)"
+      },
+      {
+        "word": "目的地",
+        "reading": "もくてきち",
+        "meaning": "destination"
+      }
+    ],
+    "grammar": "どうせ expresses resignation or inevitability (anyway/regardless). だ is assertive copula. な is masculine agreement particle."
+  },
+  {
+    "start": "07:37",
+    "end": "07:40",
+    "text": "まあ俺たちがすることは何もないさ",
+    "audio_file": "clip_047.mp3",
+    "translation": "Well, there's nothing for us to do anyway",
+    "vocabulary": [
+      {
+        "word": "俺",
+        "reading": "おれ",
+        "meaning": "I, me (masculine)"
+      },
+      {
+        "word": "何もない",
+        "reading": "なにもない",
+        "meaning": "nothing, there is nothing"
+      }
+    ],
+    "grammar": "が marks subject. すること nominalizes the verb (thing to do). さ is casual masculine emphatic particle."
+  },
+  {
+    "start": "07:43",
+    "end": "07:51",
+    "text": "首都上陸しました / 依然進行中 / 第三新東京市は / 地目を守っています",
+    "audio_file": "clip_048.mp3",
+    "translation": "It has made landfall / Still advancing / Tokyo-3 is / Maintaining silence",
+    "vocabulary": [
+      {
+        "word": "上陸",
+        "reading": "じょうりく",
+        "meaning": "landing, making landfall"
+      },
+      {
+        "word": "依然",
+        "reading": "いぜん",
+        "meaning": "still, as before"
+      },
+      {
+        "word": "進行中",
+        "reading": "しんこうちゅう",
+        "meaning": "in progress, advancing"
+      },
+      {
+        "word": "沈黙",
+        "reading": "ちんもく",
+        "meaning": "silence"
+      }
+    ],
+    "grammar": "しました is polite past tense. 中 marks ongoing state. を守る means to maintain/keep."
+  },
+  {
+    "start": "07:51",
+    "end": "07:58",
+    "text": "一体ネルフのレンチャーに何をやってるんだ / タラップなんて前時代的な飾りだと思っていたけど",
+    "audio_file": "clip_049.mp3",
+    "translation": "What the hell is NERV doing? / I thought stairs were just an old-fashioned decoration, but...",
+    "vocabulary": [
+      {
+        "word": "一体",
+        "reading": "いったい",
+        "meaning": "what on earth, just what"
+      },
+      {
+        "word": "タラップ",
+        "reading": "たらっぷ",
+        "meaning": "stairs, stairway"
+      },
+      {
+        "word": "前時代的",
+        "reading": "ぜんじだいてき",
+        "meaning": "old-fashioned, outdated"
+      },
+      {
+        "word": "飾り",
+        "reading": "かざり",
+        "meaning": "decoration, ornament"
+      }
+    ],
+    "grammar": "一体 adds emphasis to questions (what on earth). なんて adds dismissive tone. だと思っていた is past progressive thought. けど shows contrast."
+  },
+  {
+    "start": "07:58",
+    "end": "08:03",
+    "text": "まさか使うことになるとはね / 備えあれば / 憂いなしですよ",
+    "audio_file": "clip_050.mp3",
+    "translation": "Who would have thought we'd actually use them / If you're prepared / There's nothing to worry about",
+    "vocabulary": [
+      {
+        "word": "まさか",
+        "reading": "まさか",
+        "meaning": "surely not, never thought"
+      },
+      {
+        "word": "備え",
+        "reading": "そなえ",
+        "meaning": "preparation"
+      },
+      {
+        "word": "憂い",
+        "reading": "うれい",
+        "meaning": "worry, anxiety"
+      }
+    ],
+    "grammar": "ことになる means 'to come to (do something)'. とは emphasizes unexpectedness. あれば is conditional. なし means 'without'."
+  },
+  {
+    "start": "08:05",
+    "end": "08:15",
+    "text": "これも動かないわ / どの施設も動かない、おかしいわ / 下で何かあったってこと? / そう考えるのは自然ね",
+    "audio_file": "clip_051.mp3",
+    "translation": "This won't work either / None of the facilities are working, something's wrong / Does that mean something happened below? / It's natural to think so",
+    "vocabulary": [
+      {
+        "word": "動く",
+        "reading": "うごく",
+        "meaning": "to work, move, operate"
+      },
+      {
+        "word": "施設",
+        "reading": "しせつ",
+        "meaning": "facility, installation"
+      },
+      {
+        "word": "おかしい",
+        "reading": "おかしい",
+        "meaning": "strange, wrong"
+      },
+      {
+        "word": "自然",
+        "reading": "しぜん",
+        "meaning": "natural"
+      }
+    ],
+    "grammar": "も emphasizes 'even this'. どの～も means 'none of'. あったってこと is casual explanation pattern. のは nominalizes the verb."
+  },
+  {
+    "start": "08:15",
+    "end": "08:19",
+    "text": "とにかく、ネルフ本部へ連絡してみようよ",
+    "audio_file": "clip_052.mp3",
+    "translation": "Anyway, let's try contacting NERV headquarters",
+    "vocabulary": [
+      {
+        "word": "とにかく",
+        "reading": "とにかく",
+        "meaning": "anyway, in any case"
+      },
+      {
+        "word": "本部",
+        "reading": "ほんぶ",
+        "meaning": "headquarters"
+      },
+      {
+        "word": "連絡",
+        "reading": "れんらく",
+        "meaning": "contact, communication"
+      }
+    ],
+    "grammar": "へ marks direction. してみよう is volitional of してみる (try doing). よ adds casual encouragement."
+  },
+  {
+    "start": "08:19",
+    "end": "08:22",
+    "text": "ダメだわ、非常電話も繋がらない",
+    "audio_file": "clip_053.mp3",
+    "translation": "No good, even the emergency phone won't connect",
+    "vocabulary": [
+      {
+        "word": "ダメ",
+        "reading": "だめ",
+        "meaning": "no good, useless"
+      },
+      {
+        "word": "非常電話",
+        "reading": "ひじょうでんわ",
+        "meaning": "emergency phone"
+      },
+      {
+        "word": "繋がる",
+        "reading": "つながる",
+        "meaning": "to connect, be connected"
+      }
+    ],
+    "grammar": "も emphasizes 'even'. わ is feminine sentence ending particle."
+  },
+  {
+    "start": "08:22",
+    "end": "08:28",
+    "text": "ダメです、77号線も繋がりません / ダメ、連絡つかない",
+    "audio_file": "clip_054.mp3",
+    "translation": "No good, line 77 won't connect either / No good, can't make contact",
+    "vocabulary": [
+      {
+        "word": "号線",
+        "reading": "ごうせん",
+        "meaning": "line number"
+      },
+      {
+        "word": "つく",
+        "reading": "つく",
+        "meaning": "to be made, reached"
+      }
+    ],
+    "grammar": "ません is polite negative. つかない is negative of つく (cannot reach/make contact)."
+  },
+  {
+    "start": "08:28",
+    "end": "08:34",
+    "text": "こっちもダメ / 郵船の非常回線も消えちゃってる / どうしよう",
+    "audio_file": "clip_055.mp3",
+    "translation": "This one's no good too / Even the emergency circuits for communications have gone out / What should we do?",
+    "vocabulary": [
+      {
+        "word": "こっち",
+        "reading": "こっち",
+        "meaning": "this way, this one"
+      },
+      {
+        "word": "回線",
+        "reading": "かいせん",
+        "meaning": "circuit, line"
+      },
+      {
+        "word": "消える",
+        "reading": "きえる",
+        "meaning": "to disappear, go out"
+      },
+      {
+        "word": "どうしよう",
+        "reading": "どうしよう",
+        "meaning": "what should I/we do"
+      }
+    ],
+    "grammar": "ちゃってる is casual contraction of てしまっている (completely has gone). どうしよう expresses worry about what to do."
+  },
+  {
+    "start": "08:41",
+    "end": "08:54",
+    "text": "何してるの? / あったバカ!緊急時のマニュアルよ! / とにかく本部へ行きましょう / そうね!じゃあ行動開始の前にグループのリーダーを決めましょう",
+    "audio_file": "clip_056.mp3",
+    "translation": "What are you doing? / Found it, you idiot! It's the emergency manual! / Anyway, let's go to headquarters / Right! Well then, let's decide on a group leader before we start moving",
+    "vocabulary": [
+      {
+        "word": "緊急時",
+        "reading": "きんきゅうじ",
+        "meaning": "emergency, time of emergency"
+      },
+      {
+        "word": "マニュアル",
+        "reading": "まにゅある",
+        "meaning": "manual"
+      },
+      {
+        "word": "行動",
+        "reading": "こうどう",
+        "meaning": "action, movement"
+      },
+      {
+        "word": "決める",
+        "reading": "きめる",
+        "meaning": "to decide"
+      }
+    ],
+    "grammar": "あった is past tense of ある (there was/found it). の before に marks a time point. ましょう is polite volitional (let's)."
+  },
+  {
+    "start": "08:54",
+    "end": "08:59",
+    "text": "で、当然私がリーダー!意義ないわね",
+    "audio_file": "clip_057.mp3",
+    "translation": "So, naturally I'm the leader! No objections, right?",
+    "vocabulary": [
+      {
+        "word": "当然",
+        "reading": "とうぜん",
+        "meaning": "naturally, of course"
+      },
+      {
+        "word": "リーダー",
+        "reading": "りーだー",
+        "meaning": "leader"
+      },
+      {
+        "word": "意義",
+        "reading": "いぎ",
+        "meaning": "objection, dissent"
+      }
+    ],
+    "grammar": "で introduces the conclusion. が marks subject. ないわね is feminine confirmation seeking agreement (right?)."
+  },
+  {
+    "start": "08:59",
+    "end": "09:05",
+    "text": "じゃあ行きましょう / こっちの第7ルートから下に入れるわ",
+    "audio_file": "clip_058.mp3",
+    "translation": "Well then, let's go / We can get down from Route 7 this way",
+    "vocabulary": [
+      {
+        "word": "ルート",
+        "reading": "るーと",
+        "meaning": "route"
+      },
+      {
+        "word": "下",
+        "reading": "した",
+        "meaning": "below, down"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "meaning": "to enter, go in"
+      }
+    ],
+    "grammar": "じゃあ marks transition. から indicates source/starting point. に入れる means 'can enter into'. わ is feminine assertive particle."
+  }
+]
