@@ -1,0 +1,326 @@
+[
+  {
+    "start": "11:04",
+    "end": "11:12",
+    "text": "内部はディラックの海と呼ばれる巨数空間 / 多分別の宇宙に繋がってるんじゃないかしら / あの球体は?",
+    "audio_file": "clip_050.mp3",
+    "translation": "The interior is an imaginary number space called a Dirac Sea. It's probably connected to another universe, I think. What about that sphere?",
+    "vocabulary": [
+      {"word": "内部", "reading": "ないぶ", "meaning": "interior, inside"},
+      {"word": "虚数空間", "reading": "きょすうくうかん", "meaning": "imaginary number space"},
+      {"word": "宇宙", "reading": "うちゅう", "meaning": "universe, space"},
+      {"word": "繋がる", "reading": "つながる", "meaning": "to be connected"}
+    ],
+    "grammar": "~んじゃないかしら is a feminine sentence-ending expressing supposition/conjecture, softer than ~だろう"
+  },
+  {
+    "start": "11:12",
+    "end": "11:18",
+    "text": "本体の巨数回路が閉じれば消えてしまう / 上空の物体こそ影に過ぎないわ",
+    "audio_file": "clip_051.mp3",
+    "translation": "If the main body's imaginary circuit closes, it will disappear. The object in the sky is nothing but a shadow.",
+    "vocabulary": [
+      {"word": "本体", "reading": "ほんたい", "meaning": "main body, true form"},
+      {"word": "回路", "reading": "かいろ", "meaning": "circuit"},
+      {"word": "閉じる", "reading": "とじる", "meaning": "to close"},
+      {"word": "上空", "reading": "じょうくう", "meaning": "sky above, overhead"}
+    ],
+    "grammar": "~こそ...に過ぎない emphasizes that something is 'nothing more than' what follows - こそ adds emphasis to the subject"
+  },
+  {
+    "start": "11:18",
+    "end": "11:22",
+    "text": "初号機を取り込んだ黒 / い影が目標か",
+    "audio_file": "clip_052.mp3",
+    "translation": "So the black shadow that absorbed Unit 01 is the target?",
+    "vocabulary": [
+      {"word": "取り込む", "reading": "とりこむ", "meaning": "to absorb, to take in"},
+      {"word": "影", "reading": "かげ", "meaning": "shadow"},
+      {"word": "目標", "reading": "もくひょう", "meaning": "target, objective"}
+    ],
+    "grammar": "Verb た-form + noun creates a relative clause modifying the noun: 取り込んだ影 = 'the shadow that absorbed'"
+  },
+  {
+    "start": "11:51",
+    "end": "11:56",
+    "text": "いつこそ / 父さん",
+    "audio_file": "clip_053.mp3",
+    "translation": "Someone... / Father...",
+    "vocabulary": [
+      {"word": "父さん", "reading": "とうさん", "meaning": "father, dad"}
+    ],
+    "grammar": "Short, fragmented utterances showing emotional distress - common in internal monologue scenes"
+  },
+  {
+    "start": "11:59",
+    "end": "12:03",
+    "text": "お願い誰か助けて / エヴァの / 強制サルベ / ージ",
+    "audio_file": "clip_054.mp3",
+    "translation": "Please, someone help me! / Eva's... / Forced salvage...",
+    "vocabulary": [
+      {"word": "お願い", "reading": "おねがい", "meaning": "please (request)"},
+      {"word": "誰か", "reading": "だれか", "meaning": "someone"},
+      {"word": "助ける", "reading": "たすける", "meaning": "to help, to save"},
+      {"word": "強制", "reading": "きょうせい", "meaning": "forced, compulsory"}
+    ],
+    "grammar": "お願い + verb て-form is a very direct plea/request form"
+  },
+  {
+    "start": "12:04",
+    "end": "12:07",
+    "text": "現在可能と思われる唯一の方法よ",
+    "audio_file": "clip_055.mp3",
+    "translation": "It's the only method currently thought to be possible.",
+    "vocabulary": [
+      {"word": "現在", "reading": "げんざい", "meaning": "currently, at present"},
+      {"word": "可能", "reading": "かのう", "meaning": "possible"},
+      {"word": "唯一", "reading": "ゆいいつ", "meaning": "only, sole"},
+      {"word": "方法", "reading": "ほうほう", "meaning": "method, way"}
+    ],
+    "grammar": "と思われる is passive form of と思う, meaning 'is thought to be' - more objective/formal than と思う"
+  },
+  {
+    "start": "12:07",
+    "end": "12:18",
+    "text": "992個 / 現存するすべてのN2爆雷を中心部に投下 / タイミングを合わせて残存するエヴァ2体のATフィールドを使い / 使徒の虚数回路に千分の一秒だけ干渉するわ",
+    "audio_file": "clip_056.mp3",
+    "translation": "992 of them. We'll drop all existing N2 depth charges on the center. Timing it with the AT Fields of the two remaining Evas, we'll interfere with the Angel's imaginary circuit for just one-thousandth of a second.",
+    "vocabulary": [
+      {"word": "現存", "reading": "げんそん", "meaning": "existing, extant"},
+      {"word": "投下", "reading": "とうか", "meaning": "to drop (bombs)"},
+      {"word": "残存", "reading": "ざんそん", "meaning": "remaining, surviving"},
+      {"word": "干渉", "reading": "かんしょう", "meaning": "interference, intervention"}
+    ],
+    "grammar": "タイミングを合わせて uses て-form to show simultaneous/connected actions - 'while timing it'"
+  },
+  {
+    "start": "12:19",
+    "end": "12:23",
+    "text": "その瞬間に爆発エネルギーを集中させて",
+    "audio_file": "clip_057.mp3",
+    "translation": "At that moment, we'll concentrate the explosive energy...",
+    "vocabulary": [
+      {"word": "瞬間", "reading": "しゅんかん", "meaning": "moment, instant"},
+      {"word": "爆発", "reading": "ばくはつ", "meaning": "explosion"},
+      {"word": "集中", "reading": "しゅうちゅう", "meaning": "concentration, focus"}
+    ],
+    "grammar": "させて is the て-form of させる (causative), here meaning 'make/have something concentrate'"
+  },
+  {
+    "start": "12:23",
+    "end": "12:35",
+    "text": "使徒を形成するディラックの海ごと破壊する / でもそれじゃエヴァの機体がシンジ君がどうなるか / 救出作戦とは言えないわ / 作戦 / は初号機の機体回収を最優先とします",
+    "audio_file": "clip_058.mp3",
+    "translation": "We'll destroy the Dirac Sea that forms the Angel along with it. But then what happens to the Eva's body, to Shinji-kun... You can't call that a rescue operation! The operation will prioritize recovery of Unit 01's body above all else.",
+    "vocabulary": [
+      {"word": "形成", "reading": "けいせい", "meaning": "formation"},
+      {"word": "破壊", "reading": "はかい", "meaning": "destruction"},
+      {"word": "救出", "reading": "きゅうしゅつ", "meaning": "rescue"},
+      {"word": "最優先", "reading": "さいゆうせん", "meaning": "highest priority"}
+    ],
+    "grammar": "~ごと means 'together with, including' - ディラックの海ごと破壊 = 'destroy along with the Dirac Sea'"
+  },
+  {
+    "start": "12:35",
+    "end": "12:41",
+    "text": "たとえボディが大破しても構わないわ / ちょっと待って / この際パイロットの生死は問いません",
+    "audio_file": "clip_059.mp3",
+    "translation": "Even if the body is severely damaged, it doesn't matter. Wait a moment! At this point, the pilot's life or death is not a concern.",
+    "vocabulary": [
+      {"word": "大破", "reading": "たいは", "meaning": "severe damage, wreck"},
+      {"word": "構う", "reading": "かまう", "meaning": "to mind, to care about"},
+      {"word": "生死", "reading": "せいし", "meaning": "life and death"},
+      {"word": "問う", "reading": "とう", "meaning": "to question, to consider"}
+    ],
+    "grammar": "たとえ~ても means 'even if' - expresses that the result won't change regardless of the condition"
+  },
+  {
+    "start": "12:46",
+    "end": "12:52",
+    "text": "シンジ君を失うのはあなたのミスなの / よ / それ、忘れないで",
+    "audio_file": "clip_060.mp3",
+    "translation": "Losing Shinji-kun would be your mistake, you know. Don't forget that.",
+    "vocabulary": [
+      {"word": "失う", "reading": "うしなう", "meaning": "to lose"},
+      {"word": "ミス", "reading": "みす", "meaning": "mistake, error"},
+      {"word": "忘れる", "reading": "わすれる", "meaning": "to forget"}
+    ],
+    "grammar": "Verb dictionary form + の nominalizes the verb phrase: 失うの = 'the act of losing'"
+  },
+  {
+    "start": "12:52",
+    "end": "12:57",
+    "text": "怒り司令やあなたがそこまで初号機にこだわる理由は何?",
+    "audio_file": "clip_061.mp3",
+    "translation": "What is the reason you and Commander Ikari are so fixated on Unit 01?",
+    "vocabulary": [
+      {"word": "司令", "reading": "しれい", "meaning": "commander"},
+      {"word": "こだわる", "reading": "こだわる", "meaning": "to be fixated on, to obsess over"},
+      {"word": "理由", "reading": "りゆう", "meaning": "reason"}
+    ],
+    "grammar": "そこまで means 'to that extent' - emphasizes the degree of the action that follows"
+  },
+  {
+    "start": "12:57",
+    "end": "13:03",
+    "text": "エヴァって何なの? / あなたに / 渡した資料が全てよ / ウソネ",
+    "audio_file": "clip_062.mp3",
+    "translation": "What is Eva, really? / The materials I gave you are everything. / That's a lie.",
+    "vocabulary": [
+      {"word": "渡す", "reading": "わたす", "meaning": "to hand over, to give"},
+      {"word": "資料", "reading": "しりょう", "meaning": "materials, documents"},
+      {"word": "全て", "reading": "すべて", "meaning": "everything, all"},
+      {"word": "嘘", "reading": "うそ", "meaning": "lie"}
+    ],
+    "grammar": "って is casual quotative/topic marker, equivalent to というのは - 'as for what Eva is'"
+  },
+  {
+    "start": "13:05",
+    "end": "13:09",
+    "text": "ミサト、私を信じて",
+    "audio_file": "clip_063.mp3",
+    "translation": "Misato, trust me.",
+    "vocabulary": [
+      {"word": "信じる", "reading": "しんじる", "meaning": "to believe, to trust"}
+    ],
+    "grammar": "て-form as a request/command is softer than imperative - 信じて is a plea rather than an order"
+  },
+  {
+    "start": "13:10",
+    "end": "13:16",
+    "text": "この作戦についての一切の式は私が取ります",
+    "audio_file": "clip_064.mp3",
+    "translation": "I will take full responsibility for this operation.",
+    "vocabulary": [
+      {"word": "作戦", "reading": "さくせん", "meaning": "operation, strategy"},
+      {"word": "一切", "reading": "いっさい", "meaning": "all, everything"},
+      {"word": "責", "reading": "せき", "meaning": "responsibility"}
+    ],
+    "grammar": "~について means 'regarding, about' - used to specify the topic of discussion"
+  },
+  {
+    "start": "13:18",
+    "end": "13:24",
+    "text": "航空にも便を回すは / 航空艦船と空自の戦略輸送団に連絡を",
+    "audio_file": "clip_065.mp3",
+    "translation": "We'll also arrange flights for aviation... Contact the aviation vessels and the Air Self-Defense Force strategic transport group.",
+    "vocabulary": [
+      {"word": "航空", "reading": "こうくう", "meaning": "aviation, air"},
+      {"word": "艦船", "reading": "かんせん", "meaning": "warships, vessels"},
+      {"word": "戦略", "reading": "せんりゃく", "meaning": "strategy"},
+      {"word": "輸送", "reading": "ゆそう", "meaning": "transport"}
+    ],
+    "grammar": "に連絡を is an abbreviated command form - full form would be に連絡をしてください"
+  },
+  {
+    "start": "13:24",
+    "end": "13:29",
+    "text": "セカンドインパクト補完計画 / アダム",
+    "audio_file": "clip_066.mp3",
+    "translation": "Second Impact... Instrumentality Project... Adam...",
+    "vocabulary": [
+      {"word": "補完", "reading": "ほかん", "meaning": "complementation, instrumentality"},
+      {"word": "計画", "reading": "けいかく", "meaning": "plan, project"}
+    ],
+    "grammar": "Listing nouns without particles creates a fragmented, contemplative feeling - internal monologue style"
+  },
+  {
+    "start": "13:29",
+    "end": "13:32",
+    "text": "まだ私の知らない秘密があるんだ",
+    "audio_file": "clip_067.mp3",
+    "translation": "There are still secrets I don't know about.",
+    "vocabulary": [
+      {"word": "秘密", "reading": "ひみつ", "meaning": "secret"},
+      {"word": "知る", "reading": "しる", "meaning": "to know"}
+    ],
+    "grammar": "私の知らない + noun is a relative clause: 'secrets that I don't know' - negative plain form modifies noun"
+  },
+  {
+    "start": "13:37",
+    "end": "13:39",
+    "text": "誰",
+    "audio_file": "clip_068.mp3",
+    "translation": "Who?",
+    "vocabulary": [
+      {"word": "誰", "reading": "だれ", "meaning": "who"}
+    ],
+    "grammar": "Single word question - particle omission is common in casual/urgent speech"
+  },
+  {
+    "start": "13:44",
+    "end": "13:46",
+    "text": "誰",
+    "audio_file": "clip_069.mp3",
+    "translation": "Who?",
+    "vocabulary": [
+      {"word": "誰", "reading": "だれ", "meaning": "who"}
+    ],
+    "grammar": "Repetition of single words builds tension and emphasizes confusion in psychological scenes"
+  },
+  {
+    "start": "13:46",
+    "end": "13:52",
+    "text": "怒り真嗣 / それは僕だ / 僕は君だよ",
+    "audio_file": "clip_070.mp3",
+    "translation": "Ikari Shinji. / That's me. / I am you.",
+    "vocabulary": [
+      {"word": "僕", "reading": "ぼく", "meaning": "I (masculine)"},
+      {"word": "君", "reading": "きみ", "meaning": "you (informal)"}
+    ],
+    "grammar": "僕は君だ uses the copula だ to create identity statement - philosophical dialogue about self"
+  },
+  {
+    "start": "13:52",
+    "end": "14:02",
+    "text": "人は自分の中にもう一人の自分を持っている / 自分というのは常に二人でできているものさ / 二人? / 実際に見られる自分とそれを見つめている自分だよ",
+    "audio_file": "clip_071.mp3",
+    "translation": "People have another self within themselves. The self is always made up of two people. Two? The self that is actually seen, and the self that watches it.",
+    "vocabulary": [
+      {"word": "自分", "reading": "じぶん", "meaning": "oneself"},
+      {"word": "常に", "reading": "つねに", "meaning": "always, constantly"},
+      {"word": "実際", "reading": "じっさい", "meaning": "actually, in reality"},
+      {"word": "見つめる", "reading": "みつめる", "meaning": "to gaze at, to watch"}
+    ],
+    "grammar": "~というのは defines or explains a concept: 自分というのは = 'what we call the self is...'"
+  },
+  {
+    "start": "14:03",
+    "end": "14:10",
+    "text": "怒り真嗣という人物だって何人もいるんだ / 君の心の中にいるもう一人の怒り真嗣",
+    "audio_file": "clip_072.mp3",
+    "translation": "There are many people called Ikari Shinji. Another Ikari Shinji exists within your heart.",
+    "vocabulary": [
+      {"word": "人物", "reading": "じんぶつ", "meaning": "person, character"},
+      {"word": "何人", "reading": "なんにん", "meaning": "how many people"},
+      {"word": "心", "reading": "こころ", "meaning": "heart, mind"}
+    ],
+    "grammar": "だって after noun means 'even' - 人物だって = 'even the person (called)...'; 何人も = 'many (people)'"
+  },
+  {
+    "start": "14:10",
+    "end": "14:18",
+    "text": "桂木美里の心の中にいる怒り真嗣 / 僧侶アスカの中の真嗣 / 綾波玲の中のシンジ / 怒り玄冬の中のシンジ",
+    "audio_file": "clip_073.mp3",
+    "translation": "The Ikari Shinji inside Katsuragi Misato's heart. The Shinji inside Soryu Asuka. The Shinji inside Ayanami Rei. The Shinji inside Ikari Gendo.",
+    "vocabulary": [
+      {"word": "心", "reading": "こころ", "meaning": "heart, mind"},
+      {"word": "中", "reading": "なか", "meaning": "inside, within"}
+    ],
+    "grammar": "の中にいる creates relative clauses describing location - 'the X that exists inside Y's heart'"
+  },
+  {
+    "start": "14:18",
+    "end": "14:26",
+    "text": "みんなそれぞれ違う怒りシンジだけど / どれも本物の怒りシンジさ / 君はその他人の中の怒りシンジが怖いんだ",
+    "audio_file": "clip_074.mp3",
+    "translation": "They're all different Ikari Shinjis, but every one of them is the real Ikari Shinji. You're afraid of the Ikari Shinji that exists inside other people.",
+    "vocabulary": [
+      {"word": "それぞれ", "reading": "それぞれ", "meaning": "each, respectively"},
+      {"word": "違う", "reading": "ちがう", "meaning": "to be different"},
+      {"word": "本物", "reading": "ほんもの", "meaning": "real thing, genuine"},
+      {"word": "怖い", "reading": "こわい", "meaning": "scary, afraid"}
+    ],
+    "grammar": "~けど at end of clause shows contrast/concession: 'although they're different, they're all real'"
+  }
+]

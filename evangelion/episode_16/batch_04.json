@@ -1,0 +1,329 @@
+[
+  {
+    "start": "14:26",
+    "end": "14:31",
+    "text": "他人に嫌われるのが怖いんだよ / 自分が傷つくのが怖いんだよ",
+    "audio_file": "clip_075.mp3",
+    "translation": "You're afraid of being hated by others. You're afraid of getting hurt yourself.",
+    "vocabulary": [
+      {"word": "他人", "reading": "たにん", "meaning": "other people, strangers"},
+      {"word": "嫌われる", "reading": "きらわれる", "meaning": "to be hated (passive form)"},
+      {"word": "怖い", "reading": "こわい", "meaning": "scary, afraid"},
+      {"word": "傷つく", "reading": "きずつく", "meaning": "to be hurt, to be wounded"}
+    ],
+    "grammar": "The pattern [Verb passive form] + のが怖い expresses fear of having something done to oneself."
+  },
+  {
+    "start": "14:31",
+    "end": "14:42",
+    "text": "悪いのは誰だ / 悪いのは父さんだ / 僕を捨てた父さんだ / 悪いのは自分だ / そうやってすぐに自分が悪いと思い込む / それが内爆的だって言うのよ",
+    "audio_file": "clip_076.mp3",
+    "translation": "Who's to blame? It's Father's fault. The father who abandoned me. No, it's my own fault. That's how you immediately convince yourself it's your fault. That's what they call being implosive.",
+    "vocabulary": [
+      {"word": "悪い", "reading": "わるい", "meaning": "bad, at fault"},
+      {"word": "捨てる", "reading": "すてる", "meaning": "to abandon, to throw away"},
+      {"word": "思い込む", "reading": "おもいこむ", "meaning": "to be convinced, to assume"},
+      {"word": "内爆的", "reading": "ないばくてき", "meaning": "implosive (psychological term)"}
+    ],
+    "grammar": "悪いのは X だ is a cleft sentence structure meaning 'The one who is bad/at fault is X.'"
+  },
+  {
+    "start": "14:43",
+    "end": "14:49",
+    "text": "何もできない自分なんだ / 何もできないと思っている自分でしょ",
+    "audio_file": "clip_077.mp3",
+    "translation": "I'm someone who can't do anything. It's more like you think you're someone who can't do anything, right?",
+    "vocabulary": [
+      {"word": "何も", "reading": "なにも", "meaning": "nothing (with negative verb)"},
+      {"word": "自分", "reading": "じぶん", "meaning": "oneself"},
+      {"word": "思っている", "reading": "おもっている", "meaning": "to be thinking, to believe"}
+    ],
+    "grammar": "何もできない uses 何も + negative verb to mean 'cannot do anything.' The でしょ at the end seeks confirmation."
+  },
+  {
+    "start": "14:49",
+    "end": "14:54",
+    "text": "お父さんのこと信じられないの? / 嫌いだと思う / でも今は分からない",
+    "audio_file": "clip_078.mp3",
+    "translation": "Can't you believe in your father? I think I hate him. But right now, I don't know.",
+    "vocabulary": [
+      {"word": "信じる", "reading": "しんじる", "meaning": "to believe, to trust"},
+      {"word": "嫌い", "reading": "きらい", "meaning": "dislike, hate"},
+      {"word": "分からない", "reading": "わからない", "meaning": "don't understand, don't know"}
+    ],
+    "grammar": "信じられない is the potential negative form meaning 'cannot believe.' Xのこと means 'about X' or 'regarding X.'"
+  },
+  {
+    "start": "14:55",
+    "end": "15:03",
+    "text": "よくやったな、シンジ / お父さんが僕の名前を呼んだんだ / あの父さんに褒められたんだよ",
+    "audio_file": "clip_079.mp3",
+    "translation": "Well done, Shinji. Father called my name. That father praised me.",
+    "vocabulary": [
+      {"word": "よくやった", "reading": "よくやった", "meaning": "well done, good job"},
+      {"word": "呼ぶ", "reading": "よぶ", "meaning": "to call (someone's name)"},
+      {"word": "褒める", "reading": "ほめる", "meaning": "to praise"}
+    ],
+    "grammar": "褒められた is passive form of 褒める, indicating 'was praised.' The んだ emphasizes explanation or emotional emphasis."
+  },
+  {
+    "start": "15:03",
+    "end": "15:15",
+    "text": "その喜びを半数してこれから生きていくんだ / この言葉を信じたらこれからも生きていけるさ / 自分を騙し続けて / みんなそうだよ / 誰だってそうやって生きてるんだ",
+    "audio_file": "clip_080.mp3",
+    "translation": "You'll live on, cherishing that joy. If you believe those words, you can keep living. By continuing to deceive yourself. Everyone does that. Everyone lives that way.",
+    "vocabulary": [
+      {"word": "喜び", "reading": "よろこび", "meaning": "joy, happiness"},
+      {"word": "生きていく", "reading": "いきていく", "meaning": "to go on living"},
+      {"word": "騙す", "reading": "だます", "meaning": "to deceive, to trick"},
+      {"word": "誰だって", "reading": "だれだって", "meaning": "anyone, everyone"}
+    ],
+    "grammar": "V-ていく indicates continuing action into the future. 騙し続けて uses V-続ける for 'continue to V.'"
+  },
+  {
+    "start": "15:15",
+    "end": "15:21",
+    "text": "自分はこれでいいんだと思い続けて / 出なければ生きていけないよ / 僕が生きていくには",
+    "audio_file": "clip_081.mp3",
+    "translation": "By continuing to think 'this is fine for me.' Otherwise, you can't go on living. For me to keep living...",
+    "vocabulary": [
+      {"word": "これでいい", "reading": "これでいい", "meaning": "this is fine/okay"},
+      {"word": "思い続ける", "reading": "おもいつづける", "meaning": "to continue thinking"},
+      {"word": "生きていけない", "reading": "いきていけない", "meaning": "cannot go on living"}
+    ],
+    "grammar": "V-なければ生きていけない means 'cannot live without V-ing.' には after a verb indicates purpose or requirement."
+  },
+  {
+    "start": "15:21",
+    "end": "15:31",
+    "text": "この世界には辛いことが多すぎるんだ / 例えば泳げないこと / 人は浮くようにはできてないんだよ / 自己欺瞞だね / 呼び方なんか関係ないさ",
+    "audio_file": "clip_082.mp3",
+    "translation": "There are too many painful things in this world. Like not being able to swim. Humans aren't made to float. That's self-deception. What you call it doesn't matter.",
+    "vocabulary": [
+      {"word": "辛い", "reading": "つらい", "meaning": "painful, hard, difficult"},
+      {"word": "多すぎる", "reading": "おおすぎる", "meaning": "too many/much"},
+      {"word": "浮く", "reading": "うく", "meaning": "to float"},
+      {"word": "自己欺瞞", "reading": "じこぎまん", "meaning": "self-deception"}
+    ],
+    "grammar": "V-すぎる means 'too much V.' Xようにできている means 'made/designed to X.'"
+  },
+  {
+    "start": "15:31",
+    "end": "15:44",
+    "text": "嫌なことには目をつぶり / 耳を塞いできたんじゃないか / あいつの妹この間の騒ぎで / 人のことなんて関係ないでしょ / 帰れ / 嫌だ / 聞きたくない",
+    "audio_file": "clip_083.mp3",
+    "translation": "Haven't you been closing your eyes to unpleasant things, plugging your ears? His sister, in that commotion the other day... Other people's affairs don't concern me. Go home! No! I don't want to hear it!",
+    "vocabulary": [
+      {"word": "目をつぶる", "reading": "めをつぶる", "meaning": "to close one's eyes (to something)"},
+      {"word": "耳を塞ぐ", "reading": "みみをふさぐ", "meaning": "to plug one's ears"},
+      {"word": "騒ぎ", "reading": "さわぎ", "meaning": "commotion, disturbance"},
+      {"word": "関係ない", "reading": "かんけいない", "meaning": "not related, doesn't concern"}
+    ],
+    "grammar": "V-てきた indicates an action that has been happening up until now. んじゃないか suggests accusation or rhetorical question."
+  },
+  {
+    "start": "15:44",
+    "end": "15:46",
+    "text": "ほらまた逃げてる",
+    "audio_file": "clip_084.mp3",
+    "translation": "See, you're running away again.",
+    "vocabulary": [
+      {"word": "ほら", "reading": "ほら", "meaning": "look, see (interjection)"},
+      {"word": "また", "reading": "また", "meaning": "again"},
+      {"word": "逃げる", "reading": "にげる", "meaning": "to run away, to escape"}
+    ],
+    "grammar": "V-てる is casual contraction of V-ている, indicating ongoing action. ほら is used to draw attention."
+  },
+  {
+    "start": "15:46",
+    "end": "15:56",
+    "text": "楽しいことだけを珠図のように紡いで生きていられるはずがないんだよ / 特に僕はね / 楽しいこと見つけたんだ",
+    "audio_file": "clip_085.mp3",
+    "translation": "There's no way you can live by stringing together only fun things like beads. Especially not me. I found something enjoyable.",
+    "vocabulary": [
+      {"word": "楽しい", "reading": "たのしい", "meaning": "fun, enjoyable"},
+      {"word": "珠図", "reading": "じゅず", "meaning": "prayer beads, rosary"},
+      {"word": "紡ぐ", "reading": "つむぐ", "meaning": "to spin, to string together"},
+      {"word": "特に", "reading": "とくに", "meaning": "especially"}
+    ],
+    "grammar": "V-られるはずがない expresses 'there's no way one can V.' Xのように means 'like X.'"
+  },
+  {
+    "start": "15:56",
+    "end": "16:01",
+    "text": "楽しいこと見つけてそればっかりやってて / 何が悪いんだよ",
+    "audio_file": "clip_086.mp3",
+    "translation": "Finding fun things and only doing those - what's wrong with that?",
+    "vocabulary": [
+      {"word": "見つける", "reading": "みつける", "meaning": "to find"},
+      {"word": "ばっかり", "reading": "ばっかり", "meaning": "only, nothing but"},
+      {"word": "悪い", "reading": "わるい", "meaning": "bad, wrong"}
+    ],
+    "grammar": "Xばっかり means 'only X' or 'nothing but X.' 何が悪いんだよ is a rhetorical challenge meaning 'what's wrong with that?'"
+  },
+  {
+    "start": "16:03",
+    "end": "16:12",
+    "text": "エントリープラグの予備電源 / 理論値ではそろそろ限界です / プラグスーツの生命維持システムも危険域に入ります",
+    "audio_file": "clip_087.mp3",
+    "translation": "The Entry Plug's backup power... According to theoretical values, it's about to reach its limit. The plug suit's life support system is also entering the danger zone.",
+    "vocabulary": [
+      {"word": "予備電源", "reading": "よびでんげん", "meaning": "backup power supply"},
+      {"word": "理論値", "reading": "りろんち", "meaning": "theoretical value"},
+      {"word": "限界", "reading": "げんかい", "meaning": "limit, boundary"},
+      {"word": "生命維持", "reading": "せいめいいじ", "meaning": "life support"}
+    ],
+    "grammar": "そろそろ indicates something is about to happen. 危険域に入る means 'to enter the danger zone.'"
+  },
+  {
+    "start": "16:12",
+    "end": "16:18",
+    "text": "12分予定を早めましょう / シンジ君が生きている可能性がまだあるうちに",
+    "audio_file": "clip_088.mp3",
+    "translation": "Let's move the schedule up by 12 minutes. While there's still a possibility that Shinji-kun is alive.",
+    "vocabulary": [
+      {"word": "予定", "reading": "よてい", "meaning": "schedule, plan"},
+      {"word": "早める", "reading": "はやめる", "meaning": "to move up, to hasten"},
+      {"word": "可能性", "reading": "かのうせい", "meaning": "possibility"},
+      {"word": "生きている", "reading": "いきている", "meaning": "to be alive"}
+    ],
+    "grammar": "V-ましょう is volitional form for 'let's V.' うちに means 'while' something is still the case."
+  },
+  {
+    "start": "16:31",
+    "end": "16:36",
+    "text": "父さん、僕はいらない子供なの",
+    "audio_file": "clip_089.mp3",
+    "translation": "Father, am I an unwanted child?",
+    "vocabulary": [
+      {"word": "いらない", "reading": "いらない", "meaning": "unwanted, unnecessary"},
+      {"word": "子供", "reading": "こども", "meaning": "child"}
+    ],
+    "grammar": "いらない子供 means 'unwanted child.' The sentence-ending の makes it a question seeking confirmation."
+  },
+  {
+    "start": "16:36",
+    "end": "16:38",
+    "text": "父さん!",
+    "audio_file": "clip_090.mp3",
+    "translation": "Father!",
+    "vocabulary": [
+      {"word": "父さん", "reading": "とうさん", "meaning": "father (informal)"}
+    ],
+    "grammar": "Simple exclamation calling out to one's father."
+  },
+  {
+    "start": "16:38",
+    "end": "16:50",
+    "text": "自分から逃げ出したくせに / そうだ!この男は自分の妻を殺した疑いがある!自分の妻を殺したんだ! / 違う!母さんは…笑ってた…",
+    "audio_file": "clip_091.mp3",
+    "translation": "Even though you ran away yourself! That's right! This man is suspected of killing his own wife! He killed his own wife! No! Mother was... smiling...",
+    "vocabulary": [
+      {"word": "逃げ出す", "reading": "にげだす", "meaning": "to run away, to escape"},
+      {"word": "くせに", "reading": "くせに", "meaning": "even though, in spite of"},
+      {"word": "疑い", "reading": "うたがい", "meaning": "suspicion, doubt"},
+      {"word": "殺す", "reading": "ころす", "meaning": "to kill"}
+    ],
+    "grammar": "V-たくせに expresses criticism: 'even though you did V.' 疑いがある means 'there is suspicion of.'"
+  },
+  {
+    "start": "16:50",
+    "end": "16:54",
+    "text": "あなたは人に褒められる立派なことをしたのよ",
+    "audio_file": "clip_092.mp3",
+    "translation": "You did something praiseworthy that deserves recognition from others.",
+    "vocabulary": [
+      {"word": "褒められる", "reading": "ほめられる", "meaning": "to be praised (passive)"},
+      {"word": "立派", "reading": "りっぱ", "meaning": "splendid, admirable"},
+      {"word": "人", "reading": "ひと", "meaning": "people, others"}
+    ],
+    "grammar": "人に褒められる uses the passive to mean 'be praised by others.' 立派なこと means 'something admirable.'"
+  },
+  {
+    "start": "16:54",
+    "end": "16:59",
+    "text": "信じ…逃げてはいかん / 頑張ってね",
+    "audio_file": "clip_093.mp3",
+    "translation": "Belie-... You must not run away. Do your best.",
+    "vocabulary": [
+      {"word": "逃げる", "reading": "にげる", "meaning": "to run away"},
+      {"word": "いかん", "reading": "いかん", "meaning": "must not (formal/archaic)"},
+      {"word": "頑張る", "reading": "がんばる", "meaning": "to do one's best"}
+    ],
+    "grammar": "V-てはいかん is an archaic/formal prohibition meaning 'must not V.' 頑張ってね is encouragement with ね for softening."
+  },
+  {
+    "start": "16:59",
+    "end": "17:11",
+    "text": "ここは嫌だ…一人はもう…嫌だ…",
+    "audio_file": "clip_094.mp3",
+    "translation": "I hate this place... Being alone... I can't take it anymore...",
+    "vocabulary": [
+      {"word": "嫌だ", "reading": "いやだ", "meaning": "I hate it, I don't want"},
+      {"word": "一人", "reading": "ひとり", "meaning": "alone, by oneself"},
+      {"word": "もう", "reading": "もう", "meaning": "already, anymore"}
+    ],
+    "grammar": "嫌だ is a na-adjective expressing strong dislike. もう嫌だ means 'I can't take it anymore.'"
+  },
+  {
+    "start": "17:11",
+    "end": "17:14",
+    "text": "保温も酸素の循環も切れてる",
+    "audio_file": "clip_095.mp3",
+    "translation": "Both the heating and oxygen circulation have stopped.",
+    "vocabulary": [
+      {"word": "保温", "reading": "ほおん", "meaning": "heat retention, heating"},
+      {"word": "酸素", "reading": "さんそ", "meaning": "oxygen"},
+      {"word": "循環", "reading": "じゅんかん", "meaning": "circulation"},
+      {"word": "切れる", "reading": "きれる", "meaning": "to be cut off, to stop working"}
+    ],
+    "grammar": "AもBも means 'both A and B.' 切れてる is casual form of 切れている, indicating a state."
+  },
+  {
+    "start": "17:16",
+    "end": "17:19",
+    "text": "寒い",
+    "audio_file": "clip_096.mp3",
+    "translation": "Cold...",
+    "vocabulary": [
+      {"word": "寒い", "reading": "さむい", "meaning": "cold (weather/environment)"}
+    ],
+    "grammar": "Simple i-adjective expressing the sensation of coldness."
+  },
+  {
+    "start": "17:19",
+    "end": "17:24",
+    "text": "ダメだ / スーツも限界だ",
+    "audio_file": "clip_097.mp3",
+    "translation": "It's no use. The suit is at its limit too.",
+    "vocabulary": [
+      {"word": "ダメ", "reading": "だめ", "meaning": "no good, useless"},
+      {"word": "スーツ", "reading": "スーツ", "meaning": "suit (plug suit)"},
+      {"word": "限界", "reading": "げんかい", "meaning": "limit"}
+    ],
+    "grammar": "ダメだ expresses that something is no good or hopeless. Xも限界だ means 'X is also at its limit.'"
+  },
+  {
+    "start": "17:24",
+    "end": "17:27",
+    "text": "ここまでか",
+    "audio_file": "clip_098.mp3",
+    "translation": "So this is as far as I go...",
+    "vocabulary": [
+      {"word": "ここまで", "reading": "ここまで", "meaning": "up to here, this far"}
+    ],
+    "grammar": "ここまでか is a resigned question meaning 'is this as far as it goes?' expressing acceptance of fate."
+  },
+  {
+    "start": "17:27",
+    "end": "17:30",
+    "text": "もう疲れた",
+    "audio_file": "clip_099.mp3",
+    "translation": "I'm exhausted already.",
+    "vocabulary": [
+      {"word": "もう", "reading": "もう", "meaning": "already, anymore"},
+      {"word": "疲れる", "reading": "つかれる", "meaning": "to get tired"}
+    ],
+    "grammar": "もう + past tense indicates something has already happened. 疲れた is the casual past form expressing current state of tiredness."
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "start": "01:38",
+    "end": "01:42",
+    "text": "あれ?シンちゃんおだし変わった?",
+    "audio_file": "clip_000.mp3",
+    "translation": "Huh? Shin-chan, did your soup stock change?",
+    "vocabulary": [
+      {"word": "あれ", "reading": "あれ", "meaning": "huh? / what? (expression of surprise)"},
+      {"word": "おだし", "reading": "おだし", "meaning": "soup stock / broth (dashi)"},
+      {"word": "変わる", "reading": "かわる", "meaning": "to change"}
+    ],
+    "grammar": "The sentence ends with a rising intonation question marker, typical of casual speech."
+  },
+  {
+    "start": "02:10",
+    "end": "02:18",
+    "text": "ああ、それもしんちゃんの生き方なんだから。 / 彼の生き方を容認するなんて甘い!",
+    "audio_file": "clip_001.mp3",
+    "translation": "Well, that's just Shin-chan's way of living. / Accepting his lifestyle is too lenient!",
+    "vocabulary": [
+      {"word": "生き方", "reading": "いきかた", "meaning": "way of living / lifestyle"},
+      {"word": "容認", "reading": "ようにん", "meaning": "approval / acceptance"},
+      {"word": "甘い", "reading": "あまい", "meaning": "lenient / soft / naive"}
+    ],
+    "grammar": "なんて after a verb phrase expresses criticism or disapproval ('doing X is...')."
+  },
+  {
+    "start": "02:18",
+    "end": "02:26",
+    "text": "最近みさと、しんじに甘すぎるんじゃない? / そう? / カジさんとよりが戻ったからって、他人に幸せを押し付けないでよね。",
+    "audio_file": "clip_002.mp3",
+    "translation": "Lately, Misato, aren't you being too soft on Shinji? / Really? / Just because you got back together with Kaji, don't push your happiness on others.",
+    "vocabulary": [
+      {"word": "甘すぎる", "reading": "あますぎる", "meaning": "too lenient / too soft"},
+      {"word": "よりが戻る", "reading": "よりがもどる", "meaning": "to get back together (romantically)"},
+      {"word": "押し付ける", "reading": "おしつける", "meaning": "to force upon / to push onto"}
+    ],
+    "grammar": "からって is a casual form of からといって, meaning 'just because...' with an implication of criticism."
+  },
+  {
+    "start": "02:26",
+    "end": "02:29",
+    "text": "カジのことはなんでもないわよ。",
+    "audio_file": "clip_003.mp3",
+    "translation": "There's nothing going on with Kaji.",
+    "vocabulary": [
+      {"word": "なんでもない", "reading": "なんでもない", "meaning": "it's nothing / no big deal"},
+      {"word": "こと", "reading": "こと", "meaning": "matter / thing / affair"}
+    ],
+    "grammar": "Xのこと refers to 'the matter of X' or 'things concerning X'."
+  },
+  {
+    "start": "02:29",
+    "end": "02:35",
+    "text": "よぉ、かつわき。 / 酒のう / まい店見つけたんだ。こんばんど。じゃ。",
+    "audio_file": "clip_004.mp3",
+    "translation": "Hey, Katsuragi. / I found a place with good sake. Tonight then. See ya.",
+    "vocabulary": [
+      {"word": "酒", "reading": "さけ", "meaning": "alcohol / sake"},
+      {"word": "うまい", "reading": "うまい", "meaning": "delicious / good"},
+      {"word": "見つける", "reading": "みつける", "meaning": "to find / to discover"}
+    ],
+    "grammar": "じゃ is a casual farewell, short for じゃあね (see you)."
+  },
+  {
+    "start": "03:05",
+    "end": "03:08",
+    "text": "どれどれ?",
+    "audio_file": "clip_005.mp3",
+    "translation": "Let me see...",
+    "vocabulary": [
+      {"word": "どれどれ", "reading": "どれどれ", "meaning": "let me see / let's have a look"}
+    ],
+    "grammar": "Reduplication of どれ creates an expression used when examining or checking something."
+  },
+  {
+    "start": "03:08",
+    "end": "03:15",
+    "text": "おお、これが自信に繋がればいいんだけどね / 聞こえる?しんじくん",
+    "audio_file": "clip_006.mp3",
+    "translation": "Oh, it would be good if this leads to confidence... / Can you hear me, Shinji-kun?",
+    "vocabulary": [
+      {"word": "自信", "reading": "じしん", "meaning": "self-confidence"},
+      {"word": "繋がる", "reading": "つながる", "meaning": "to connect / to lead to"},
+      {"word": "聞こえる", "reading": "きこえる", "meaning": "to be audible / can hear"}
+    ],
+    "grammar": "ばいいんだけど expresses a hopeful wish ('it would be nice if...')."
+  },
+  {
+    "start": "03:15",
+    "end": "03:19",
+    "text": "みさとさん、今のテストの毛葛藤でした",
+    "audio_file": "clip_007.mp3",
+    "translation": "Misato-san, the test results just now were [excellent].",
+    "vocabulary": [
+      {"word": "テスト", "reading": "テスト", "meaning": "test"},
+      {"word": "結果", "reading": "けっか", "meaning": "result / outcome"}
+    ],
+    "grammar": "The formal past tense でした is used for polite reporting."
+  },
+  {
+    "start": "03:21",
+    "end": "03:32",
+    "text": "まいっちゃったわよね、あっさり抜かれちゃったじゃない? / ここまで簡単にやられると正直ちょっと悔しいわよね",
+    "audio_file": "clip_008.mp3",
+    "translation": "We're in trouble, aren't we? We got overtaken so easily. / When beaten this easily, honestly it's a bit frustrating.",
+    "vocabulary": [
+      {"word": "まいる", "reading": "まいる", "meaning": "to be defeated / to give up"},
+      {"word": "抜く", "reading": "ぬく", "meaning": "to overtake / to surpass"},
+      {"word": "悔しい", "reading": "くやしい", "meaning": "frustrating / vexing"}
+    ],
+    "grammar": "ちゃう/ちゃった is casual contraction of てしまう, indicating completion or regret."
+  },
+  {
+    "start": "03:32",
+    "end": "03:38",
+    "text": "すごい、素晴らしい、強い、強すぎる! / 無敵のシンジ様!",
+    "audio_file": "clip_009.mp3",
+    "translation": "Amazing, wonderful, strong, too strong! / The invincible Shinji-sama!",
+    "vocabulary": [
+      {"word": "素晴らしい", "reading": "すばらしい", "meaning": "wonderful / splendid"},
+      {"word": "強すぎる", "reading": "つよすぎる", "meaning": "too strong"},
+      {"word": "無敵", "reading": "むてき", "meaning": "invincible / unbeatable"}
+    ],
+    "grammar": "すぎる attached to adjective stems means 'too much' or 'excessively'."
+  },
+  {
+    "start": "03:38",
+    "end": "03:42",
+    "text": "これであたしたちも楽できるってもんじゃないの! / ねえ!",
+    "audio_file": "clip_010.mp3",
+    "translation": "With this, we can take it easy too, right! / Right!",
+    "vocabulary": [
+      {"word": "楽", "reading": "らく", "meaning": "easy / comfortable"},
+      {"word": "できる", "reading": "できる", "meaning": "can do / to be able"}
+    ],
+    "grammar": "ってもんじゃない is casual speech pattern meaning 'isn't it the case that...' seeking agreement."
+  },
+  {
+    "start": "03:42",
+    "end": "03:49",
+    "text": "まあね、あたしたちもせいぜい置いてけぼり食わないように頑張らなきゃ! / さよなら。",
+    "audio_file": "clip_011.mp3",
+    "translation": "Well yeah, we'd better do our best not to get left behind! / Goodbye.",
+    "vocabulary": [
+      {"word": "せいぜい", "reading": "せいぜい", "meaning": "at best / as much as possible"},
+      {"word": "置いてけぼり", "reading": "おいてけぼり", "meaning": "being left behind"},
+      {"word": "頑張る", "reading": "がんばる", "meaning": "to do one's best"}
+    ],
+    "grammar": "なきゃ is casual contraction of なければならない (must do)."
+  },
+  {
+    "start": "03:58",
+    "end": "04:03",
+    "text": "次は、清少可能瀬。次は清少可能瀬。",
+    "audio_file": "clip_012.mp3",
+    "translation": "Next stop is [station name]. Next stop is [station name].",
+    "vocabulary": [
+      {"word": "次", "reading": "つぎ", "meaning": "next"}
+    ],
+    "grammar": "Train announcement pattern: 次は + station name."
+  },
+  {
+    "start": "04:03",
+    "end": "04:07",
+    "text": "古本中古ソフトのお店 マシャール前",
+    "audio_file": "clip_013.mp3",
+    "translation": "Used books and secondhand software shop, in front of Marshall.",
+    "vocabulary": [
+      {"word": "古本", "reading": "ふるほん", "meaning": "used books / secondhand books"},
+      {"word": "中古", "reading": "ちゅうこ", "meaning": "secondhand / used"},
+      {"word": "お店", "reading": "おみせ", "meaning": "shop / store"}
+    ],
+    "grammar": "Noun + 前 indicates 'in front of' a location."
+  },
+  {
+    "start": "04:08",
+    "end": "04:10",
+    "text": "よし",
+    "audio_file": "clip_014.mp3",
+    "translation": "Alright! / Good!",
+    "vocabulary": [
+      {"word": "よし", "reading": "よし", "meaning": "alright / good / OK (exclamation)"}
+    ],
+    "grammar": "Exclamation used to express determination or readiness."
+  },
+  {
+    "start": "04:39",
+    "end": "04:49",
+    "text": "西区の住民避難あと5分かかります / 目標は未足進行中、前進2.5km / 遅いわよ / ごめん!どうなってんの?フジの電波観測場は?",
+    "audio_file": "clip_015.mp3",
+    "translation": "Evacuation of Nishi-ku residents will take 5 more minutes. / Target is advancing, 2.5km forward. / Too slow! / Sorry! What's going on? What about Fuji's radio observation station?",
+    "vocabulary": [
+      {"word": "住民", "reading": "じゅうみん", "meaning": "residents / inhabitants"},
+      {"word": "避難", "reading": "ひなん", "meaning": "evacuation / refuge"},
+      {"word": "進行中", "reading": "しんこうちゅう", "meaning": "in progress / underway"}
+    ],
+    "grammar": "あと + time + かかる means 'it will take X more time'."
+  },
+  {
+    "start": "04:50",
+    "end": "04:58",
+    "text": "探知してません!直上にいきなり現れました / パターンオレンジ、AT / フィールド反応なし! / どういうこと?新種の嫉妬",
+    "audio_file": "clip_016.mp3",
+    "translation": "Not detected! It appeared suddenly directly above! / Pattern orange, no AT Field reaction! / What does this mean? A new type of Angel?",
+    "vocabulary": [
+      {"word": "探知", "reading": "たんち", "meaning": "detection"},
+      {"word": "直上", "reading": "ちょくじょう", "meaning": "directly above"},
+      {"word": "現れる", "reading": "あらわれる", "meaning": "to appear / to emerge"}
+    ],
+    "grammar": "いきなり is an adverb meaning 'suddenly' or 'without warning'."
+  },
+  {
+    "start": "04:58",
+    "end": "05:01",
+    "text": "マギは判断を保留しています",
+    "audio_file": "clip_017.mp3",
+    "translation": "MAGI is withholding judgment.",
+    "vocabulary": [
+      {"word": "判断", "reading": "はんだん", "meaning": "judgment / decision"},
+      {"word": "保留", "reading": "ほりゅう", "meaning": "pending / withholding"}
+    ],
+    "grammar": "を保留している means 'is withholding/suspending (something)'."
+  },
+  {
+    "start": "05:01",
+    "end": "05:05",
+    "text": "こんな / 時に怒り司令はいないのよね / お",
+    "audio_file": "clip_018.mp3",
+    "translation": "At a time like this, Commander Ikari isn't here...",
+    "vocabulary": [
+      {"word": "司令", "reading": "しれい", "meaning": "commander"},
+      {"word": "こんな時", "reading": "こんなとき", "meaning": "at a time like this"}
+    ],
+    "grammar": "のよね is a feminine sentence ending seeking confirmation or expressing mild frustration."
+  },
+  {
+    "start": "05:06",
+    "end": "05:30",
+    "text": "疲",
+    "audio_file": "clip_019.mp3",
+    "translation": "[Sound/Music]",
+    "vocabulary": [],
+    "grammar": "Appears to be a partial transcription or sound effect."
+  },
+  {
+    "start": "05:33",
+    "end": "05:42",
+    "text": "そりゃもう、こういうのは成績優秀、有門果敢、シンクロ率ナンバーワンの殿方の仕事でしょ?",
+    "audio_file": "clip_020.mp3",
+    "translation": "Well of course, this kind of thing is the job for someone with excellent grades, brave and daring, the gentleman with the number one sync rate, right?",
+    "vocabulary": [
+      {"word": "成績優秀", "reading": "せいせきゆうしゅう", "meaning": "excellent grades/performance"},
+      {"word": "勇猛果敢", "reading": "ゆうもうかかん", "meaning": "brave and resolute"},
+      {"word": "殿方", "reading": "とのがた", "meaning": "gentleman (formal/archaic)"}
+    ],
+    "grammar": "でしょ? is a casual question tag seeking agreement, similar to 'right?' or 'isn't it?'"
+  },
+  {
+    "start": "05:42",
+    "end": "05:53",
+    "text": "それともシンちゃん、自信ないのかな? / 行けるよ!お手本見せて / やるよ、アスカ。 / なんでって? / ちょっとあなたたち? / 言ったでしょ、ミサトさん。",
+    "audio_file": "clip_021.mp3",
+    "translation": "Or maybe, Shin-chan, you don't have confidence? / I can do it! Show them an example! / I'll do it, Asuka. / Why, you ask? / Hey, you two? / I told you, Misato-san.",
+    "vocabulary": [
+      {"word": "自信", "reading": "じしん", "meaning": "self-confidence"},
+      {"word": "お手本", "reading": "おてほん", "meaning": "example / model"},
+      {"word": "見せる", "reading": "みせる", "meaning": "to show"}
+    ],
+    "grammar": "のかな is a softer, wondering way to ask a question, expressing uncertainty."
+  },
+  {
+    "start": "05:54",
+    "end": "06:06",
+    "text": "You areナンバーワンって。 / いや、あれは… / 戦いは男の仕事! / 全時代的! / いい!2号機バックアップ! / 0号機もバックアップに回ります",
+    "audio_file": "clip_022.mp3",
+    "translation": "You are number one, she said. / No, that was... / Fighting is a man's job! / How old-fashioned! / Fine! Unit-02, backup! / Unit-00 will also move to backup.",
+    "vocabulary": [
+      {"word": "戦い", "reading": "たたかい", "meaning": "battle / fight"},
+      {"word": "前時代的", "reading": "ぜんじだいてき", "meaning": "outdated / old-fashioned"},
+      {"word": "回る", "reading": "まわる", "meaning": "to turn / to move to (a position)"}
+    ],
+    "grammar": "に回る means 'to move to (a role/position)' - here, moving to backup position."
+  },
+  {
+    "start": "06:06",
+    "end": "06:14",
+    "text": "あの子たち勝手に / シンジ君ずいぶん立派になったじゃない? / だめよ / 帰ったら叱っておかなきゃ",
+    "audio_file": "clip_023.mp3",
+    "translation": "Those kids, acting on their own... / Shinji-kun has really grown up, hasn't he? / No good. / When he gets back, I'll have to scold him.",
+    "vocabulary": [
+      {"word": "勝手に", "reading": "かってに", "meaning": "selfishly / on one's own"},
+      {"word": "立派", "reading": "りっぱ", "meaning": "splendid / admirable / grown-up"},
+      {"word": "叱る", "reading": "しかる", "meaning": "to scold"}
+    ],
+    "grammar": "ておかなきゃ = ておかなければならない, meaning 'must do (in advance/preparation)'."
+  },
+  {
+    "start": "06:14",
+    "end": "06:17",
+    "text": "あなたいいホボさんになれるわよ",
+    "audio_file": "clip_024.mp3",
+    "translation": "You could become a good mother, you know.",
+    "vocabulary": [
+      {"word": "いい", "reading": "いい", "meaning": "good"},
+      {"word": "母", "reading": "はは/ぼ", "meaning": "mother"},
+      {"word": "なれる", "reading": "なれる", "meaning": "can become"}
+    ],
+    "grammar": "わよ is a feminine sentence ending that adds emphasis and assertion."
+  }
+]

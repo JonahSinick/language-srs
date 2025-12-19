@@ -1,0 +1,314 @@
+[
+  {
+    "start": "17:30",
+    "end": "17:33",
+    "text": "何もかも",
+    "audio_file": "clip_100.mp3",
+    "translation": "Everything...",
+    "vocabulary": [
+      {"word": "何もかも", "reading": "なにもかも", "meaning": "everything, anything and everything"}
+    ],
+    "grammar": "何もかも is an emphatic expression meaning 'everything without exception', stronger than just 何も."
+  },
+  {
+    "start": "17:45",
+    "end": "17:50",
+    "text": "МУЗЫКАЛЬНАЯ ЗАСТАВКА",
+    "audio_file": "clip_101.mp3",
+    "translation": "[Musical interlude - Russian text indicating background music]",
+    "vocabulary": [],
+    "grammar": "This is Russian text (Cyrillic script) meaning 'musical intro/jingle', likely a transcription error or subtitle artifact."
+  },
+  {
+    "start": "18:05",
+    "end": "18:08",
+    "text": "お母さん",
+    "audio_file": "clip_102.mp3",
+    "translation": "Mother...",
+    "vocabulary": [
+      {"word": "お母さん", "reading": "おかあさん", "meaning": "mother (polite)"}
+    ],
+    "grammar": "お母さん is the polite/standard way to address or refer to one's mother, using the honorific お prefix."
+  },
+  {
+    "start": "18:14",
+    "end": "18:17",
+    "text": "もういいの",
+    "audio_file": "clip_103.mp3",
+    "translation": "Is it okay now? / Are you alright now?",
+    "vocabulary": [
+      {"word": "もう", "reading": "もう", "meaning": "already, now"},
+      {"word": "いい", "reading": "いい", "meaning": "good, okay, fine"}
+    ],
+    "grammar": "The sentence-final の adds a soft questioning tone, often used by women or in gentle speech. もういい can mean 'it's okay now' or 'that's enough'."
+  },
+  {
+    "start": "18:18",
+    "end": "18:23",
+    "text": "そう / よかったわね",
+    "audio_file": "clip_104.mp3",
+    "translation": "I see. / That's good, isn't it.",
+    "vocabulary": [
+      {"word": "そう", "reading": "そう", "meaning": "I see, is that so"},
+      {"word": "よかった", "reading": "よかった", "meaning": "was good, I'm glad"}
+    ],
+    "grammar": "わね is a feminine sentence-ending particle combination expressing mild emotion or seeking agreement. よかった is the past tense of いい."
+  },
+  {
+    "start": "18:24",
+    "end": "18:33",
+    "text": "エヴァ領起 作戦 / 1 / エンティフィールド / 発生準備 よし / 了解 / 爆雷10日 64名",
+    "audio_file": "clip_105.mp3",
+    "translation": "Eva retrieval operation / 1 / AT Field / Preparation for deployment - ready / Roger / Depth charges Day 10, 64 personnel",
+    "vocabulary": [
+      {"word": "作戦", "reading": "さくせん", "meaning": "operation, strategy"},
+      {"word": "発生", "reading": "はっせい", "meaning": "occurrence, generation"},
+      {"word": "準備", "reading": "じゅんび", "meaning": "preparation"},
+      {"word": "了解", "reading": "りょうかい", "meaning": "roger, understood"},
+      {"word": "爆雷", "reading": "ばくらい", "meaning": "depth charge"}
+    ],
+    "grammar": "Military/technical jargon with abbreviated phrases. よし is a common interjection meaning 'good/ready'."
+  },
+  {
+    "start": "18:36",
+    "end": "18:39",
+    "text": "何が始まったの?",
+    "audio_file": "clip_106.mp3",
+    "translation": "What's started? / What's happening?",
+    "vocabulary": [
+      {"word": "始まる", "reading": "はじまる", "meaning": "to begin, to start (intransitive)"},
+      {"word": "何", "reading": "なに", "meaning": "what"}
+    ],
+    "grammar": "何が is the subject marker with 'what'. The の ending adds a questioning/explanatory tone."
+  },
+  {
+    "start": "18:43",
+    "end": "18:55",
+    "text": "状況は? / わかりません / 全てのメーターは振り切られています / まだ何もしていないのに / まさかシンジ君が / ありえないわ / 初号機のエネルギーがゼロなのよ",
+    "audio_file": "clip_107.mp3",
+    "translation": "What's the situation? / We don't know / All the meters are maxed out / But we haven't done anything yet / Could it be Shinji? / That's impossible / Unit-01's energy is at zero",
+    "vocabulary": [
+      {"word": "状況", "reading": "じょうきょう", "meaning": "situation, status"},
+      {"word": "振り切る", "reading": "ふりきる", "meaning": "to shake off, to max out (a meter)"},
+      {"word": "まさか", "reading": "まさか", "meaning": "no way, could it be"},
+      {"word": "ありえない", "reading": "ありえない", "meaning": "impossible, unbelievable"},
+      {"word": "初号機", "reading": "しょごうき", "meaning": "Unit-01 (first unit)"}
+    ],
+    "grammar": "のに expresses 'even though/despite'. 振り切られています is passive form + ている showing ongoing state."
+  },
+  {
+    "start": "19:26",
+    "end": "19:29",
+    "text": "私、こんなのに乗ってるの",
+    "audio_file": "clip_108.mp3",
+    "translation": "I've been riding something like this?",
+    "vocabulary": [
+      {"word": "乗る", "reading": "のる", "meaning": "to ride, to get on"},
+      {"word": "こんな", "reading": "こんな", "meaning": "like this, such"}
+    ],
+    "grammar": "こんなの means 'something like this'. 乗ってる is the casual form of 乗っている. The final の adds emotional emphasis/realization."
+  },
+  {
+    "start": "19:30",
+    "end": "19:36",
+    "text": "なんてものを、なんてものをコピーしたの / 私たちは",
+    "audio_file": "clip_109.mp3",
+    "translation": "What kind of thing... what kind of thing have we copied?",
+    "vocabulary": [
+      {"word": "なんて", "reading": "なんて", "meaning": "what (kind of), how (exclamatory)"},
+      {"word": "もの", "reading": "もの", "meaning": "thing"},
+      {"word": "コピー", "reading": "コピー", "meaning": "copy"}
+    ],
+    "grammar": "なんて expresses shock or disbelief. The repetition emphasizes horror. 私たちは at the end is inverted word order for emphasis."
+  },
+  {
+    "start": "19:36",
+    "end": "19:45",
+    "text": "エヴァンがただの第一使徒のコピーなんかじゃないのは分かる / でも、ネルフは使徒を全て倒した後 / エヴァンをどうするつもりだ",
+    "audio_file": "clip_110.mp3",
+    "translation": "I understand that the Evas aren't just copies of the first Angel / But after NERV defeats all the Angels / What do they intend to do with the Evas?",
+    "vocabulary": [
+      {"word": "使徒", "reading": "しと", "meaning": "Angel (in Evangelion), apostle"},
+      {"word": "倒す", "reading": "たおす", "meaning": "to defeat, to knock down"},
+      {"word": "つもり", "reading": "つもり", "meaning": "intention, plan"},
+      {"word": "第一", "reading": "だいいち", "meaning": "first, number one"}
+    ],
+    "grammar": "なんかじゃない is emphatic negation ('not just/merely'). どうするつもりだ asks about intentions with a demanding tone."
+  },
+  {
+    "start": "20:19",
+    "end": "20:24",
+    "text": "シンジェクン / シンジェクン / シンジェクン",
+    "audio_file": "clip_111.mp3",
+    "translation": "Shinji-kun / Shinji-kun / Shinji-kun",
+    "vocabulary": [
+      {"word": "君", "reading": "くん", "meaning": "honorific suffix for boys/young men"}
+    ],
+    "grammar": "くん is an honorific suffix typically used for younger males or subordinates, showing familiarity."
+  },
+  {
+    "start": "20:24",
+    "end": "20:28",
+    "text": "シンジェクン / シンジェクン",
+    "audio_file": "clip_112.mp3",
+    "translation": "Shinji-kun / Shinji-kun",
+    "vocabulary": [
+      {"word": "君", "reading": "くん", "meaning": "honorific suffix for boys/young men"}
+    ],
+    "grammar": "Repeated calling of someone's name indicates urgency or emotional distress."
+  },
+  {
+    "start": "20:34",
+    "end": "20:39",
+    "text": "ただ会いたかったんだ / もう一度",
+    "audio_file": "clip_113.mp3",
+    "translation": "I just wanted to see you / One more time",
+    "vocabulary": [
+      {"word": "会う", "reading": "あう", "meaning": "to meet, to see (someone)"},
+      {"word": "ただ", "reading": "ただ", "meaning": "just, only, merely"},
+      {"word": "もう一度", "reading": "もういちど", "meaning": "one more time, once again"}
+    ],
+    "grammar": "会いたかった is the past tense of 会いたい (want to meet). んだ adds explanatory emphasis to the statement."
+  },
+  {
+    "start": "20:41",
+    "end": "20:44",
+    "text": "叱るんじゃなかったの?",
+    "audio_file": "clip_114.mp3",
+    "translation": "Weren't you going to scold him?",
+    "vocabulary": [
+      {"word": "叱る", "reading": "しかる", "meaning": "to scold, to reprimand"}
+    ],
+    "grammar": "んじゃなかった is casual past negative of explanatory form. The の ending makes it a gentle question, referencing a previous statement."
+  },
+  {
+    "start": "20:47",
+    "end": "20:52",
+    "text": "私は今日ほどこのエヴァが怖いと思ったことはありません",
+    "audio_file": "clip_115.mp3",
+    "translation": "I have never thought this Eva was as frightening as I do today",
+    "vocabulary": [
+      {"word": "怖い", "reading": "こわい", "meaning": "scary, frightening"},
+      {"word": "今日", "reading": "きょう", "meaning": "today"},
+      {"word": "思う", "reading": "おもう", "meaning": "to think, to feel"}
+    ],
+    "grammar": "ほど indicates degree ('as much as'). ことはありません is a formal way to say 'have never done X'."
+  },
+  {
+    "start": "20:52",
+    "end": "20:59",
+    "text": "本当にエヴァは味方なのでしょうか / 私たちは憎まれているのかもしれませんね",
+    "audio_file": "clip_116.mp3",
+    "translation": "Is Eva really on our side? / We might be hated by them",
+    "vocabulary": [
+      {"word": "味方", "reading": "みかた", "meaning": "ally, friend, supporter"},
+      {"word": "本当に", "reading": "ほんとうに", "meaning": "really, truly"},
+      {"word": "憎む", "reading": "にくむ", "meaning": "to hate, to detest"}
+    ],
+    "grammar": "のでしょうか is a polite wondering question. 憎まれている is passive form ('being hated'). かもしれません expresses possibility."
+  },
+  {
+    "start": "20:59",
+    "end": "21:06",
+    "text": "カツラキさんさん何か勘づいているかもしれません / そうか今はいい",
+    "audio_file": "clip_117.mp3",
+    "translation": "Katsuragi-san might have noticed something / I see, that's fine for now",
+    "vocabulary": [
+      {"word": "勘づく", "reading": "かんづく", "meaning": "to sense, to suspect, to get wind of"},
+      {"word": "何か", "reading": "なにか", "meaning": "something"},
+      {"word": "今", "reading": "いま", "meaning": "now"}
+    ],
+    "grammar": "勘づいている is te-form + いる showing ongoing state of suspicion. かもしれません indicates possibility/uncertainty."
+  },
+  {
+    "start": "21:06",
+    "end": "21:11",
+    "text": "レイやシンジ君がエヴァの秘密を知ったら / 許してもらえないでしょうね",
+    "audio_file": "clip_118.mp3",
+    "translation": "If Rei and Shinji-kun learn Eva's secret / They probably won't forgive us",
+    "vocabulary": [
+      {"word": "秘密", "reading": "ひみつ", "meaning": "secret"},
+      {"word": "知る", "reading": "しる", "meaning": "to know, to learn"},
+      {"word": "許す", "reading": "ゆるす", "meaning": "to forgive, to permit"}
+    ],
+    "grammar": "知ったら is conditional 'if they learn'. 許してもらえない is potential negative of てもらう ('cannot receive forgiveness')."
+  },
+  {
+    "start": "21:23",
+    "end": "21:28",
+    "text": "今日は寝ていて / あとは私たちで処理する",
+    "audio_file": "clip_119.mp3",
+    "translation": "Sleep today / We'll handle the rest",
+    "vocabulary": [
+      {"word": "寝る", "reading": "ねる", "meaning": "to sleep, to lie down"},
+      {"word": "処理", "reading": "しょり", "meaning": "handling, processing"},
+      {"word": "あと", "reading": "あと", "meaning": "rest, remainder, after"}
+    ],
+    "grammar": "寝ていて is te-form used as a gentle command. 私たちで means 'by ourselves/we will'."
+  },
+  {
+    "start": "21:28",
+    "end": "21:34",
+    "text": "でももう大丈夫だよ / そう / よかったわね",
+    "audio_file": "clip_120.mp3",
+    "translation": "But I'm okay now / I see / That's good",
+    "vocabulary": [
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "okay, all right, safe"},
+      {"word": "もう", "reading": "もう", "meaning": "already, now"}
+    ],
+    "grammar": "もう大丈夫 means 'okay now'. よかったわね uses feminine わね to express relief with a seeking-agreement nuance."
+  },
+  {
+    "start": "21:55",
+    "end": "21:59",
+    "text": "取れないや 血の匂い",
+    "audio_file": "clip_121.mp3",
+    "translation": "It won't come off... the smell of blood",
+    "vocabulary": [
+      {"word": "取れる", "reading": "とれる", "meaning": "to come off, to be removed"},
+      {"word": "血", "reading": "ち", "meaning": "blood"},
+      {"word": "匂い", "reading": "におい", "meaning": "smell, scent, odor"}
+    ],
+    "grammar": "取れない is negative potential ('cannot be removed'). や is a casual sentence-ending particle expressing resignation or mild frustration."
+  },
+  {
+    "start": "23:06",
+    "end": "23:16",
+    "text": "アメリカで建造中だったエヴァ4号機がネルフ第 / 2支部ごと消滅する / この事件が新たなエヴァパイロットを選出させる",
+    "audio_file": "clip_122.mp3",
+    "translation": "Eva Unit-04, which was under construction in America, disappears along with NERV's Second Branch / This incident leads to the selection of a new Eva pilot",
+    "vocabulary": [
+      {"word": "建造", "reading": "けんぞう", "meaning": "construction, building"},
+      {"word": "消滅", "reading": "しょうめつ", "meaning": "disappearance, extinction"},
+      {"word": "支部", "reading": "しぶ", "meaning": "branch (office)"},
+      {"word": "選出", "reading": "せんしゅつ", "meaning": "selection, election"},
+      {"word": "事件", "reading": "じけん", "meaning": "incident, event, case"}
+    ],
+    "grammar": "建造中だった is 'was under construction' (中 = in the middle of). ごと means 'together with/including'. させる is causative ('causes to')."
+  },
+  {
+    "start": "23:16",
+    "end": "23:19",
+    "text": "次回4人目の的確者",
+    "audio_file": "clip_123.mp3",
+    "translation": "Next episode: The Fourth Qualified Person",
+    "vocabulary": [
+      {"word": "次回", "reading": "じかい", "meaning": "next time, next episode"},
+      {"word": "4人目", "reading": "よにんめ", "meaning": "the fourth person"},
+      {"word": "的確者", "reading": "てきかくしゃ", "meaning": "qualified person, suitable candidate"}
+    ],
+    "grammar": "人目 is a counter suffix for ordinal people (first person, second person, etc.). 的確者 is likely 適格者 (qualified person) - a key Evangelion term."
+  },
+  {
+    "start": "23:47",
+    "end": "23:48",
+    "text": "ご視聴ありがとうございました",
+    "audio_file": "clip_124.mp3",
+    "translation": "Thank you for watching",
+    "vocabulary": [
+      {"word": "視聴", "reading": "しちょう", "meaning": "viewing, watching (TV/video)"},
+      {"word": "ありがとうございます", "reading": "ありがとうございます", "meaning": "thank you (polite)"}
+    ],
+    "grammar": "ご視聴 uses the honorific prefix ご with 視聴. ありがとうございました is the past polite form, standard for thanking someone after an event is complete."
+  }
+]
