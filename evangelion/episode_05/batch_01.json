@@ -1,0 +1,561 @@
+[
+  {
+    "start": "01:42",
+    "end": "01:55",
+    "text": "可動電圧 臨界点まであと0.5 0.2 突破 / 軌道システム 第二段階へ行こう / パイロット接合に入ります / システムフェーズ2 スタート",
+    "audio_file": "clip_000.mp3",
+    "translation": "Operating voltage, 0.5 to critical point, 0.2, breakthrough / Orbital system, proceeding to second stage / Entering pilot connection / System phase 2, start",
+    "vocabulary": [
+      {
+        "word": "可動",
+        "reading": "かどう",
+        "meaning": "operating, movable"
+      },
+      {
+        "word": "臨界点",
+        "reading": "りんかいてん",
+        "meaning": "critical point"
+      },
+      {
+        "word": "突破",
+        "reading": "とっぱ",
+        "meaning": "breakthrough, breaking through"
+      },
+      {
+        "word": "接合",
+        "reading": "せつごう",
+        "meaning": "connection, joining"
+      }
+    ],
+    "grammar": "Use of まであと + number to indicate distance remaining to a target. Volitional form 行こう (let's go) used for suggesting action."
+  },
+  {
+    "start": "01:55",
+    "end": "02:06",
+    "text": "シナプス挿入 結合開始 / パルス送信 / 全回路正常 / 初期コンタクト 異常なし / 左右上腕筋まで 動力伝達",
+    "audio_file": "clip_001.mp3",
+    "translation": "Synapse insertion, beginning connection / Pulse transmission / All circuits normal / Initial contact, no abnormalities / Power transmission to left and right upper arm muscles",
+    "vocabulary": [
+      {
+        "word": "挿入",
+        "reading": "そうにゅう",
+        "meaning": "insertion"
+      },
+      {
+        "word": "結合",
+        "reading": "けつごう",
+        "meaning": "connection, binding"
+      },
+      {
+        "word": "上腕筋",
+        "reading": "じょうわんきん",
+        "meaning": "biceps, upper arm muscle"
+      },
+      {
+        "word": "伝達",
+        "reading": "でんたつ",
+        "meaning": "transmission, communication"
+      }
+    ],
+    "grammar": "Technical report-style short phrases without particles. Use of まで to indicate extent (up to the muscles)."
+  },
+  {
+    "start": "02:06",
+    "end": "02:11",
+    "text": "ウォルナーブリンク 問題なし / チェック2550までリストクリア",
+    "audio_file": "clip_002.mp3",
+    "translation": "Warner blink, no problems / List clear up to check 2550",
+    "vocabulary": [
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "problem, issue"
+      },
+      {
+        "word": "クリア",
+        "reading": "クリア",
+        "meaning": "clear, cleared"
+      }
+    ],
+    "grammar": "Technical jargon with English loanwords. まで indicating extent up to a certain point."
+  },
+  {
+    "start": "02:12",
+    "end": "02:23",
+    "text": "ランサー接続時2550までクリア / 絶対境界線まであと0.9、0.7、0.5、0.4、0.13",
+    "audio_file": "clip_003.mp3",
+    "translation": "Lancer connection clear up to 2550 / 0.9, 0.7, 0.5, 0.4, 0.13 remaining to absolute borderline",
+    "vocabulary": [
+      {
+        "word": "接続",
+        "reading": "せつぞく",
+        "meaning": "connection"
+      },
+      {
+        "word": "絶対",
+        "reading": "ぜったい",
+        "meaning": "absolute"
+      },
+      {
+        "word": "境界線",
+        "reading": "きょうかいせん",
+        "meaning": "boundary line, borderline"
+      }
+    ],
+    "grammar": "まであと pattern repeatedly used to indicate distance/amount remaining to target."
+  },
+  {
+    "start": "02:24",
+    "end": "02:27",
+    "text": "パルス逆流!",
+    "audio_file": "clip_004.mp3",
+    "translation": "Pulse backflow!",
+    "vocabulary": [
+      {
+        "word": "逆流",
+        "reading": "ぎゃくりゅう",
+        "meaning": "backflow, reverse flow"
+      }
+    ],
+    "grammar": "Exclamatory sentence indicating urgent situation."
+  },
+  {
+    "start": "02:28",
+    "end": "02:34",
+    "text": "第3ステージに異常発生!中枢神経阻止にも拒絶が始まっています!",
+    "audio_file": "clip_005.mp3",
+    "translation": "Abnormality occurring in stage 3! Rejection has also begun in central nervous system blocking!",
+    "vocabulary": [
+      {
+        "word": "異常",
+        "reading": "いじょう",
+        "meaning": "abnormality, anomaly"
+      },
+      {
+        "word": "中枢神経",
+        "reading": "ちゅうすうしんけい",
+        "meaning": "central nervous system"
+      },
+      {
+        "word": "阻止",
+        "reading": "そし",
+        "meaning": "blocking, prevention"
+      },
+      {
+        "word": "拒絶",
+        "reading": "きょぜつ",
+        "meaning": "rejection"
+      }
+    ],
+    "grammar": "ています form indicating ongoing action. にも particle showing addition (also/even)."
+  },
+  {
+    "start": "02:35",
+    "end": "02:52",
+    "text": "コンタクト停止!6番までの回路を開いて / 信号が届きません!",
+    "audio_file": "clip_006.mp3",
+    "translation": "Stop contact! Open the circuits up to number 6 / The signal isn't reaching!",
+    "vocabulary": [
+      {
+        "word": "停止",
+        "reading": "ていし",
+        "meaning": "stop, halt"
+      },
+      {
+        "word": "回路",
+        "reading": "かいろ",
+        "meaning": "circuit"
+      },
+      {
+        "word": "届く",
+        "reading": "とどく",
+        "meaning": "to reach, to arrive"
+      }
+    ],
+    "grammar": "Te-form command 開いて (open). Negative polite ません indicating the signal is not reaching."
+  },
+  {
+    "start": "02:53",
+    "end": "02:59",
+    "text": "0号機!制御不能! / 実験中止。電源を落とせ! / はい!",
+    "audio_file": "clip_007.mp3",
+    "translation": "Unit 0! Out of control! / Abort the experiment. Cut the power! / Yes!",
+    "vocabulary": [
+      {
+        "word": "制御",
+        "reading": "せいぎょ",
+        "meaning": "control"
+      },
+      {
+        "word": "不能",
+        "reading": "ふのう",
+        "meaning": "impossible, unable"
+      },
+      {
+        "word": "中止",
+        "reading": "ちゅうし",
+        "meaning": "cancellation, abort"
+      },
+      {
+        "word": "電源",
+        "reading": "でんげん",
+        "meaning": "power source"
+      }
+    ],
+    "grammar": "Command form 落とせ (imperative of 落とす). 不能 suffix indicating inability."
+  },
+  {
+    "start": "03:07",
+    "end": "03:13",
+    "text": "0号機、予備電源に切り替わりました / 完全停止まであと35秒",
+    "audio_file": "clip_008.mp3",
+    "translation": "Unit 0 has switched to backup power / 35 seconds remaining until complete shutdown",
+    "vocabulary": [
+      {
+        "word": "予備",
+        "reading": "よび",
+        "meaning": "reserve, backup"
+      },
+      {
+        "word": "切り替わる",
+        "reading": "きりかわる",
+        "meaning": "to switch over"
+      },
+      {
+        "word": "完全",
+        "reading": "かんぜん",
+        "meaning": "complete, perfect"
+      },
+      {
+        "word": "停止",
+        "reading": "ていし",
+        "meaning": "stop, halt"
+      }
+    ],
+    "grammar": "ました past polite form. まであと pattern indicating time remaining."
+  },
+  {
+    "start": "03:21",
+    "end": "03:25",
+    "text": "危険です、下がってください",
+    "audio_file": "clip_009.mp3",
+    "translation": "It's dangerous, please step back",
+    "vocabulary": [
+      {
+        "word": "危険",
+        "reading": "きけん",
+        "meaning": "danger, dangerous"
+      },
+      {
+        "word": "下がる",
+        "reading": "さがる",
+        "meaning": "to step back, to retreat"
+      }
+    ],
+    "grammar": "Polite request using てください (please do)."
+  },
+  {
+    "start": "03:25",
+    "end": "03:29",
+    "text": "オートエイジャクション、作動します / いかん!",
+    "audio_file": "clip_010.mp3",
+    "translation": "Auto-ejection, activating / This is bad!",
+    "vocabulary": [
+      {
+        "word": "作動",
+        "reading": "さどう",
+        "meaning": "operation, activation"
+      },
+      {
+        "word": "いかん",
+        "reading": "いかん",
+        "meaning": "bad, not good (emphatic)"
+      }
+    ],
+    "grammar": "します indicating imminent action. いかん is an emphatic/stern expression of something being wrong."
+  },
+  {
+    "start": "03:33",
+    "end": "03:41",
+    "text": "完全停止まで、特殊ベークライト、急いで! / 8、7、6、5、",
+    "audio_file": "clip_011.mp3",
+    "translation": "Until complete shutdown, special bakelite, hurry! / 8, 7, 6, 5,",
+    "vocabulary": [
+      {
+        "word": "完全停止",
+        "reading": "かんぜんていし",
+        "meaning": "complete stop"
+      },
+      {
+        "word": "特殊",
+        "reading": "とくしゅ",
+        "meaning": "special"
+      },
+      {
+        "word": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "to hurry"
+      }
+    ],
+    "grammar": "Te-form command 急いで (hurry). まで indicating time limit."
+  },
+  {
+    "start": "03:41",
+    "end": "03:47",
+    "text": "4、3、2、1、2",
+    "audio_file": "clip_012.mp3",
+    "translation": "4, 3, 2, 1, 2",
+    "vocabulary": [],
+    "grammar": "Simple countdown sequence."
+  },
+  {
+    "start": "04:03",
+    "end": "04:06",
+    "text": "レイ、大丈夫か?",
+    "audio_file": "clip_013.mp3",
+    "translation": "Rei, are you okay?",
+    "vocabulary": [
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "okay, all right"
+      }
+    ],
+    "grammar": "Informal question with か particle."
+  },
+  {
+    "start": "04:10",
+    "end": "04:13",
+    "text": "そうか",
+    "audio_file": "clip_014.mp3",
+    "translation": "I see",
+    "vocabulary": [
+      {
+        "word": "そうか",
+        "reading": "そうか",
+        "meaning": "I see, is that so"
+      }
+    ],
+    "grammar": "Acknowledgment expression, informal form of そうですか."
+  },
+  {
+    "start": "04:35",
+    "end": "04:45",
+    "text": "過去の経歴は白紙、全て抹消済み / で、さきの実験の事故原因はどうだったの? / 未だ不明",
+    "audio_file": "clip_015.mp3",
+    "translation": "Past history is blank, everything has been erased / So, what about the cause of the accident in the earlier experiment? / Still unknown",
+    "vocabulary": [
+      {
+        "word": "経歴",
+        "reading": "けいれき",
+        "meaning": "career history, background"
+      },
+      {
+        "word": "白紙",
+        "reading": "はくし",
+        "meaning": "blank paper, clean slate"
+      },
+      {
+        "word": "抹消",
+        "reading": "まっしょう",
+        "meaning": "erasure, deletion"
+      },
+      {
+        "word": "不明",
+        "reading": "ふめい",
+        "meaning": "unknown, unclear"
+      }
+    ],
+    "grammar": "済み suffix indicating completion. 未だ (still, yet) with 不明 (unknown)."
+  },
+  {
+    "start": "04:45",
+    "end": "04:51",
+    "text": "ただし、推定では操縦者の精神的不安定が第一原因と考えられるわ",
+    "audio_file": "clip_016.mp3",
+    "translation": "However, in our estimation, the pilot's mental instability is believed to be the primary cause",
+    "vocabulary": [
+      {
+        "word": "推定",
+        "reading": "すいてい",
+        "meaning": "estimation, presumption"
+      },
+      {
+        "word": "操縦者",
+        "reading": "そうじゅうしゃ",
+        "meaning": "pilot, operator"
+      },
+      {
+        "word": "精神的",
+        "reading": "せいしんてき",
+        "meaning": "mental, psychological"
+      },
+      {
+        "word": "不安定",
+        "reading": "ふあんてい",
+        "meaning": "instability, unstable"
+      }
+    ],
+    "grammar": "と考えられる passive form meaning 'is believed/thought to be'. わ sentence-ending particle for feminine speech."
+  },
+  {
+    "start": "04:51",
+    "end": "05:01",
+    "text": "精神的に不安定?あのレインが? / ええ、彼女にしては信じられないくらい乱れたね / 何があったの? / わからないわ",
+    "audio_file": "clip_017.mp3",
+    "translation": "Mentally unstable? That Rei? / Yes, it was unbelievably disturbed for her / What happened? / I don't know",
+    "vocabulary": [
+      {
+        "word": "にしては",
+        "reading": "にしては",
+        "meaning": "for (someone/something), considering"
+      },
+      {
+        "word": "信じられない",
+        "reading": "しんじられない",
+        "meaning": "unbelievable, incredible"
+      },
+      {
+        "word": "乱れる",
+        "reading": "みだれる",
+        "meaning": "to be disturbed, to be disordered"
+      }
+    ],
+    "grammar": "にしては expressing 'for her' or 'considering it's her'. くらい indicating degree/extent."
+  },
+  {
+    "start": "05:01",
+    "end": "05:09",
+    "text": "でも、まさか… / なんか心当たりがあるの? / いえ、そんなはずはないわ",
+    "audio_file": "clip_018.mp3",
+    "translation": "But, it couldn't be... / Do you have any idea? / No, that can't be",
+    "vocabulary": [
+      {
+        "word": "まさか",
+        "reading": "まさか",
+        "meaning": "surely not, no way"
+      },
+      {
+        "word": "心当たり",
+        "reading": "こころあたり",
+        "meaning": "idea, clue, something coming to mind"
+      },
+      {
+        "word": "はず",
+        "reading": "はず",
+        "meaning": "expectation, should be"
+      }
+    ],
+    "grammar": "はずはない expressing 'cannot be' or 'shouldn't be'. なんか casual form of なにか."
+  },
+  {
+    "start": "05:20",
+    "end": "05:29",
+    "text": "D3ブロックの解体終了 / 全データを技術局一課分析班に提出してください",
+    "audio_file": "clip_019.mp3",
+    "translation": "D3 block dismantling complete / Please submit all data to Technical Bureau Section 1 Analysis Team",
+    "vocabulary": [
+      {
+        "word": "解体",
+        "reading": "かいたい",
+        "meaning": "dismantling, disassembly"
+      },
+      {
+        "word": "終了",
+        "reading": "しゅうりょう",
+        "meaning": "completion, end"
+      },
+      {
+        "word": "提出",
+        "reading": "ていしゅつ",
+        "meaning": "submission"
+      }
+    ],
+    "grammar": "てください polite request form."
+  },
+  {
+    "start": "05:32",
+    "end": "05:36",
+    "text": "これは僕たちの敵なのか",
+    "audio_file": "clip_020.mp3",
+    "translation": "Is this our enemy?",
+    "vocabulary": [
+      {
+        "word": "敵",
+        "reading": "てき",
+        "meaning": "enemy"
+      }
+    ],
+    "grammar": "のか question marker expressing contemplation/wondering."
+  },
+  {
+    "start": "05:40",
+    "end": "05:45",
+    "text": "なるほどね / コア以外はほとんど原型をとどめているわ",
+    "audio_file": "clip_021.mp3",
+    "translation": "I see / Aside from the core, it's retained almost all of its original form",
+    "vocabulary": [
+      {
+        "word": "なるほど",
+        "reading": "なるほど",
+        "meaning": "I see, indeed"
+      },
+      {
+        "word": "以外",
+        "reading": "いがい",
+        "meaning": "except for, other than"
+      },
+      {
+        "word": "原型",
+        "reading": "げんけい",
+        "meaning": "original form, prototype"
+      },
+      {
+        "word": "とどめる",
+        "reading": "とどめる",
+        "meaning": "to retain, to keep"
+      }
+    ],
+    "grammar": "ている form indicating state. 以外 meaning 'except for'."
+  },
+  {
+    "start": "05:45",
+    "end": "05:49",
+    "text": "ほんと理想的なサンプル / ありがたいわ",
+    "audio_file": "clip_022.mp3",
+    "translation": "Really an ideal sample / I'm grateful",
+    "vocabulary": [
+      {
+        "word": "理想的",
+        "reading": "りそうてき",
+        "meaning": "ideal"
+      },
+      {
+        "word": "ありがたい",
+        "reading": "ありがたい",
+        "meaning": "grateful, thankful"
+      }
+    ],
+    "grammar": "的 suffix making noun into adjective. わ feminine sentence-ending particle."
+  },
+  {
+    "start": "05:49",
+    "end": "05:52",
+    "text": "で何かわかったわけ",
+    "audio_file": "clip_023.mp3",
+    "translation": "So did you figure anything out?",
+    "vocabulary": [
+      {
+        "word": "わかる",
+        "reading": "わかる",
+        "meaning": "to understand, to figure out"
+      },
+      {
+        "word": "わけ",
+        "reading": "わけ",
+        "meaning": "meaning, reason (sentence ending)"
+      }
+    ],
+    "grammar": "わけ sentence-ending particle used to seek explanation or confirmation."
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "start": "14:30",
+    "end": "14:33",
+    "text": "アヤナミノかな?",
+    "audio_file": "clip_072.mp3",
+    "translation": "I wonder if this is Ayanami's?",
+    "vocabulary": [
+      {
+        "word": "綾波",
+        "reading": "あやなみ",
+        "meaning": "Ayanami (name)"
+      },
+      {
+        "word": "かな",
+        "reading": "かな",
+        "meaning": "I wonder (sentence-ending particle)"
+      }
+    ],
+    "grammar": "の is a possessive particle; かな expresses uncertainty or wondering"
+  },
+  {
+    "start": "14:52",
+    "end": "14:59",
+    "text": "ああああああ",
+    "audio_file": "clip_073.mp3",
+    "translation": "Ahhhhhhh!",
+    "vocabulary": [
+      {
+        "word": "ああ",
+        "reading": "ああ",
+        "meaning": "ah, oh (exclamation of surprise or shock)"
+      }
+    ],
+    "grammar": "Extended exclamation expressing shock or surprise"
+  },
+  {
+    "start": "15:29",
+    "end": "15:31",
+    "text": "どいてくれる",
+    "audio_file": "clip_074.mp3",
+    "translation": "Will you get out of the way?",
+    "vocabulary": [
+      {
+        "word": "どく",
+        "reading": "どく",
+        "meaning": "to move aside, to get out of the way"
+      },
+      {
+        "word": "くれる",
+        "reading": "くれる",
+        "meaning": "to give (from someone else's perspective)"
+      }
+    ],
+    "grammar": "Te-form + くれる indicates a request for someone to do something (for the speaker's benefit)"
+  },
+  {
+    "start": "15:33",
+    "end": "15:37",
+    "text": "あの",
+    "audio_file": "clip_075.mp3",
+    "translation": "Um...",
+    "vocabulary": [
+      {
+        "word": "あの",
+        "reading": "あの",
+        "meaning": "um, excuse me (filler word to get attention)"
+      }
+    ],
+    "grammar": "Hesitation marker used to get someone's attention politely"
+  },
+  {
+    "start": "15:52",
+    "end": "15:56",
+    "text": "何?",
+    "audio_file": "clip_076.mp3",
+    "translation": "What?",
+    "vocabulary": [
+      {
+        "word": "何",
+        "reading": "なに",
+        "meaning": "what"
+      }
+    ],
+    "grammar": "Simple interrogative"
+  },
+  {
+    "start": "15:56",
+    "end": "16:01",
+    "text": "いや僕は / その",
+    "audio_file": "clip_077.mp3",
+    "translation": "No, I... / Um...",
+    "vocabulary": [
+      {
+        "word": "いや",
+        "reading": "いや",
+        "meaning": "no, well (expressing hesitation or denial)"
+      },
+      {
+        "word": "僕",
+        "reading": "ぼく",
+        "meaning": "I, me (masculine first-person pronoun)"
+      },
+      {
+        "word": "その",
+        "reading": "その",
+        "meaning": "um, well (filler word)"
+      }
+    ],
+    "grammar": "Stuttering speech pattern showing nervousness"
+  },
+  {
+    "start": "16:03",
+    "end": "16:07",
+    "text": "僕は頼まれて",
+    "audio_file": "clip_078.mp3",
+    "translation": "I was asked to...",
+    "vocabulary": [
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request, to ask"
+      }
+    ],
+    "grammar": "Passive form (頼まれて) indicates being asked by someone; te-form leaves sentence incomplete, trailing off"
+  },
+  {
+    "start": "16:07",
+    "end": "16:15",
+    "text": "つまりなんだっけ / カードカード新しくなったから / 届けてくれ",
+    "audio_file": "clip_079.mp3",
+    "translation": "I mean, what was it again? / The card, the card was updated, so / I was told to deliver it",
+    "vocabulary": [
+      {
+        "word": "つまり",
+        "reading": "つまり",
+        "meaning": "in other words, I mean"
+      },
+      {
+        "word": "なんだっけ",
+        "reading": "なんだっけ",
+        "meaning": "what was it again?"
+      },
+      {
+        "word": "新しく",
+        "reading": "あたらしく",
+        "meaning": "newly, updated"
+      },
+      {
+        "word": "届ける",
+        "reading": "とどける",
+        "meaning": "to deliver"
+      }
+    ],
+    "grammar": "だっけ indicates trying to recall something; から shows reason/cause; てくれ is a casual request"
+  },
+  {
+    "start": "16:17",
+    "end": "16:22",
+    "text": "だからだから別にそんなつもりは",
+    "audio_file": "clip_080.mp3",
+    "translation": "So, so I didn't mean anything like that...",
+    "vocabulary": [
+      {
+        "word": "だから",
+        "reading": "だから",
+        "meaning": "so, therefore"
+      },
+      {
+        "word": "別に",
+        "reading": "べつに",
+        "meaning": "not particularly, not really"
+      },
+      {
+        "word": "つもり",
+        "reading": "つもり",
+        "meaning": "intention"
+      }
+    ],
+    "grammar": "Repetition of だから shows nervousness; sentence trails off leaving thought incomplete"
+  },
+  {
+    "start": "16:27",
+    "end": "16:32",
+    "text": "リツコさんが私の忘れたからって",
+    "audio_file": "clip_081.mp3",
+    "translation": "Because Ritsuko-san forgot mine...",
+    "vocabulary": [
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "to forget"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "meaning": "because"
+      },
+      {
+        "word": "って",
+        "reading": "って",
+        "meaning": "quotation particle (casual form of と)"
+      }
+    ],
+    "grammar": "からって combines から (because) with って (quoting); trailing って leaves thought incomplete"
+  },
+  {
+    "start": "16:32",
+    "end": "16:41",
+    "text": "本当なんだ / それでチャイム鳴らしても誰も出ないし / 鍵が開いてたんです / その… / あっ…",
+    "audio_file": "clip_082.mp3",
+    "translation": "It's true / And when I rang the bell, no one answered / The door was unlocked / Um... / Ah...",
+    "vocabulary": [
+      {
+        "word": "本当",
+        "reading": "ほんとう",
+        "meaning": "truth, really"
+      },
+      {
+        "word": "チャイム",
+        "reading": "チャイム",
+        "meaning": "doorbell, chime"
+      },
+      {
+        "word": "鳴らす",
+        "reading": "ならす",
+        "meaning": "to ring, to sound"
+      },
+      {
+        "word": "鍵",
+        "reading": "かぎ",
+        "meaning": "key, lock"
+      },
+      {
+        "word": "開く",
+        "reading": "あく",
+        "meaning": "to open, to be unlocked"
+      }
+    ],
+    "grammar": "ても shows 'even though'; し adds reasons in sequence; んです emphasizes explanation; trailing ellipses show stammering"
+  },
+  {
+    "start": "16:55",
+    "end": "17:00",
+    "text": "お疲",
+    "audio_file": "clip_083.mp3",
+    "translation": "You look tired / Good work",
+    "vocabulary": [
+      {
+        "word": "お疲れ",
+        "reading": "おつかれ",
+        "meaning": "tired; short for お疲れ様 (good work, you must be tired)"
+      }
+    ],
+    "grammar": "Shortened greeting/acknowledgment, typically used after work or exertion"
+  },
+  {
+    "start": "17:10",
+    "end": "17:12",
+    "text": "アイトさんに頼まれて",
+    "audio_file": "clip_084.mp3",
+    "translation": "I was asked by Ritsuko-san",
+    "vocabulary": [
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request, to ask"
+      },
+      {
+        "word": "に",
+        "reading": "に",
+        "meaning": "by (agent marker in passive)"
+      }
+    ],
+    "grammar": "Passive form with に marking the agent (the person who did the asking); te-form trails off"
+  },
+  {
+    "start": "17:19",
+    "end": "17:23",
+    "text": "さっきはごめん / 何が?",
+    "audio_file": "clip_085.mp3",
+    "translation": "Sorry about earlier / About what?",
+    "vocabulary": [
+      {
+        "word": "さっき",
+        "reading": "さっき",
+        "meaning": "earlier, a little while ago"
+      },
+      {
+        "word": "ごめん",
+        "reading": "ごめん",
+        "meaning": "sorry (casual)"
+      },
+      {
+        "word": "何",
+        "reading": "なに",
+        "meaning": "what"
+      }
+    ],
+    "grammar": "は marks topic (the earlier event); が marks subject of question"
+  },
+  {
+    "start": "17:26",
+    "end": "17:31",
+    "text": "あの、今日これから再起動の実験だよね",
+    "audio_file": "clip_086.mp3",
+    "translation": "Um, you have the reactivation experiment starting today, right?",
+    "vocabulary": [
+      {
+        "word": "これから",
+        "reading": "これから",
+        "meaning": "from now, starting now"
+      },
+      {
+        "word": "再起動",
+        "reading": "さいきどう",
+        "meaning": "reactivation, restart"
+      },
+      {
+        "word": "実験",
+        "reading": "じっけん",
+        "meaning": "experiment"
+      }
+    ],
+    "grammar": "だよね seeks confirmation (right?); の nominalizes the verb phrase into a noun"
+  },
+  {
+    "start": "17:31",
+    "end": "17:34",
+    "text": "今度はうまくいくといいね",
+    "audio_file": "clip_087.mp3",
+    "translation": "I hope it goes well this time",
+    "vocabulary": [
+      {
+        "word": "今度",
+        "reading": "こんど",
+        "meaning": "this time, next time"
+      },
+      {
+        "word": "うまくいく",
+        "reading": "うまくいく",
+        "meaning": "to go well, to succeed"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "meaning": "good"
+      }
+    ],
+    "grammar": "と after verbs indicates conditional/hypothetical; いいね expresses hope that something will be good"
+  },
+  {
+    "start": "17:37",
+    "end": "17:42",
+    "text": "ねぇ、綾波は怖くないの?",
+    "audio_file": "clip_088.mp3",
+    "translation": "Hey, aren't you scared, Ayanami?",
+    "vocabulary": [
+      {
+        "word": "ねぇ",
+        "reading": "ねぇ",
+        "meaning": "hey (attention-getting particle)"
+      },
+      {
+        "word": "怖い",
+        "reading": "こわい",
+        "meaning": "scary, frightening"
+      }
+    ],
+    "grammar": "くない is negative form of i-adjectives; の adds questioning/seeking explanation tone"
+  },
+  {
+    "start": "17:42",
+    "end": "17:46",
+    "text": "またあの0号機になるのが… / どうして?",
+    "audio_file": "clip_089.mp3",
+    "translation": "To get back in that Unit-00 again... / Why?",
+    "vocabulary": [
+      {
+        "word": "また",
+        "reading": "また",
+        "meaning": "again"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "to ride, to board, to get in"
+      },
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "meaning": "why"
+      }
+    ],
+    "grammar": "のが nominalizes the verb phrase (the act of boarding); trailing が leaves thought incomplete"
+  },
+  {
+    "start": "17:47",
+    "end": "17:55",
+    "text": "前の実験で大怪我したんだって聞いたから、平気なのかなって思って…",
+    "audio_file": "clip_090.mp3",
+    "translation": "I heard you were seriously injured in the previous experiment, so I was wondering if you're really okay...",
+    "vocabulary": [
+      {
+        "word": "前",
+        "reading": "まえ",
+        "meaning": "previous, before"
+      },
+      {
+        "word": "大怪我",
+        "reading": "おおけが",
+        "meaning": "serious injury"
+      },
+      {
+        "word": "平気",
+        "reading": "へいき",
+        "meaning": "okay, fine, unaffected"
+      }
+    ],
+    "grammar": "んだって is reported speech (I heard that); かなって思って expresses wondering/thinking; trailing ellipsis shows hesitation"
+  },
+  {
+    "start": "17:56",
+    "end": "18:01",
+    "text": "あなた、碇司令の子供でしょ?",
+    "audio_file": "clip_091.mp3",
+    "translation": "You're Commander Ikari's child, aren't you?",
+    "vocabulary": [
+      {
+        "word": "あなた",
+        "reading": "あなた",
+        "meaning": "you"
+      },
+      {
+        "word": "司令",
+        "reading": "しれい",
+        "meaning": "commander"
+      },
+      {
+        "word": "子供",
+        "reading": "こども",
+        "meaning": "child"
+      }
+    ],
+    "grammar": "でしょ is casual form of でしょう, seeking confirmation with light assertion"
+  },
+  {
+    "start": "18:01",
+    "end": "18:05",
+    "text": "信じられないの?お父さんの仕事は?",
+    "audio_file": "clip_092.mp3",
+    "translation": "You can't trust it? Your father's work?",
+    "vocabulary": [
+      {
+        "word": "信じる",
+        "reading": "しんじる",
+        "meaning": "to believe, to trust"
+      },
+      {
+        "word": "お父さん",
+        "reading": "おとうさん",
+        "meaning": "father"
+      },
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "work, job"
+      }
+    ],
+    "grammar": "られない is potential negative (cannot); の adds questioning tone"
+  },
+  {
+    "start": "18:05",
+    "end": "18:09",
+    "text": "当たり前だよ!あんな父親なんて!",
+    "audio_file": "clip_093.mp3",
+    "translation": "Of course I can't! A father like that!",
+    "vocabulary": [
+      {
+        "word": "当たり前",
+        "reading": "あたりまえ",
+        "meaning": "natural, obvious, of course"
+      },
+      {
+        "word": "あんな",
+        "reading": "あんな",
+        "meaning": "that kind of, such a"
+      },
+      {
+        "word": "父親",
+        "reading": "ちちおや",
+        "meaning": "father"
+      }
+    ],
+    "grammar": "なんて emphasizes negative feeling (a father like that!); exclamation shows emotional intensity"
+  },
+  {
+    "start": "18:31",
+    "end": "18:37",
+    "text": "レイ、大丈夫か? / レイ",
+    "audio_file": "clip_094.mp3",
+    "translation": "Rei, are you okay? / Rei",
+    "vocabulary": [
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "okay, all right"
+      },
+      {
+        "word": "か",
+        "reading": "か",
+        "meaning": "question particle"
+      }
+    ],
+    "grammar": "か makes it a question; name repetition shows concern"
+  },
+  {
+    "start": "18:38",
+    "end": "18:45",
+    "text": "その時 パイロットが中に閉じ込められてね / イカリ司令が彼女を助け出したね",
+    "audio_file": "clip_095.mp3",
+    "translation": "At that time, the pilot was trapped inside, you see / Commander Ikari rescued her",
+    "vocabulary": [
+      {
+        "word": "その時",
+        "reading": "そのとき",
+        "meaning": "at that time"
+      },
+      {
+        "word": "閉じ込める",
+        "reading": "とじこめる",
+        "meaning": "to trap, to confine"
+      },
+      {
+        "word": "助け出す",
+        "reading": "たすけだす",
+        "meaning": "to rescue, to save"
+      },
+      {
+        "word": "彼女",
+        "reading": "かのじょ",
+        "meaning": "she, her"
+      }
+    ],
+    "grammar": "られて is passive form (was trapped); ね at end of sentences adds explanatory/narrative tone; を marks direct object"
+  }
+]

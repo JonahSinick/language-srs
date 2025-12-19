@@ -1,0 +1,482 @@
+[
+  {
+    "start": "18:45",
+    "end": "18:52",
+    "text": "加熱したハッチを 無理やりこじ開けてね / 手のひらの火傷はその時のものよ",
+    "audio_file": "clip_096.mp3",
+    "translation": "He forced open the heated hatch. The burn on his palm is from that time.",
+    "vocabulary": [
+      {
+        "word": "加熱",
+        "reading": "かねつ",
+        "meaning": "heating, heated"
+      },
+      {
+        "word": "無理やり",
+        "reading": "むりやり",
+        "meaning": "forcibly, by force"
+      },
+      {
+        "word": "こじ開ける",
+        "reading": "こじあける",
+        "meaning": "to pry open, to force open"
+      },
+      {
+        "word": "火傷",
+        "reading": "やけど",
+        "meaning": "burn, scald"
+      }
+    ],
+    "grammar": "~てね at the end softens the statement. その時のもの means 'the one from that time'"
+  },
+  {
+    "start": "18:59",
+    "end": "19:03",
+    "text": "レイ 聞こえるか",
+    "audio_file": "clip_097.mp3",
+    "translation": "Rei, can you hear me?",
+    "vocabulary": [
+      {
+        "word": "聞こえる",
+        "reading": "きこえる",
+        "meaning": "to be audible, to be heard"
+      }
+    ],
+    "grammar": "~か at the end forms a yes/no question. 聞こえる is the potential form of 聞く"
+  },
+  {
+    "start": "19:03",
+    "end": "19:10",
+    "text": "はい / 距離0号機の再起動実験を行う / 第一次接続開始",
+    "audio_file": "clip_098.mp3",
+    "translation": "Yes. / We will conduct the restart experiment for Unit 00. / Begin first connection.",
+    "vocabulary": [
+      {
+        "word": "再起動",
+        "reading": "さいきどう",
+        "meaning": "restart, reboot"
+      },
+      {
+        "word": "実験",
+        "reading": "じっけん",
+        "meaning": "experiment, test"
+      },
+      {
+        "word": "接続",
+        "reading": "せつぞく",
+        "meaning": "connection"
+      },
+      {
+        "word": "開始",
+        "reading": "かいし",
+        "meaning": "start, beginning"
+      }
+    ],
+    "grammar": "~を行う means 'to conduct/carry out'. 第一次 means 'first, primary'"
+  },
+  {
+    "start": "19:10",
+    "end": "19:19",
+    "text": "主電源コンタクト / 稼働電圧、輪回転を突破 / 了解 / フォーマットフェーズ2へ行こう",
+    "audio_file": "clip_099.mp3",
+    "translation": "Main power contact. / Operating voltage, breakthrough critical threshold. / Roger. / Let's proceed to format phase 2.",
+    "vocabulary": [
+      {
+        "word": "主電源",
+        "reading": "しゅでんげん",
+        "meaning": "main power source"
+      },
+      {
+        "word": "稼働",
+        "reading": "かどう",
+        "meaning": "operation, working"
+      },
+      {
+        "word": "突破",
+        "reading": "とっぱ",
+        "meaning": "breakthrough, breaking through"
+      },
+      {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning": "roger, understood"
+      }
+    ],
+    "grammar": "~を突破 means 'to break through'. ~へ行こう means 'let's go to/proceed to'"
+  },
+  {
+    "start": "19:19",
+    "end": "19:23",
+    "text": "パイロット、0号機と接続開始 / 回線開きます",
+    "audio_file": "clip_100.mp3",
+    "translation": "Pilot, beginning connection with Unit 00. / Opening circuit.",
+    "vocabulary": [
+      {
+        "word": "接続",
+        "reading": "せつぞく",
+        "meaning": "connection"
+      },
+      {
+        "word": "開始",
+        "reading": "かいし",
+        "meaning": "start, beginning"
+      },
+      {
+        "word": "回線",
+        "reading": "かいせん",
+        "meaning": "circuit, line"
+      }
+    ],
+    "grammar": "~と means 'with'. ~を開きます is polite form of 'to open'"
+  },
+  {
+    "start": "19:25",
+    "end": "19:31",
+    "text": "パルス予備ハーモニクス、正常 / シンクロ、問題なし、",
+    "audio_file": "clip_101.mp3",
+    "translation": "Pulse reserve harmonics, normal. / Synch, no problems.",
+    "vocabulary": [
+      {
+        "word": "予備",
+        "reading": "よび",
+        "meaning": "reserve, spare"
+      },
+      {
+        "word": "正常",
+        "reading": "せいじょう",
+        "meaning": "normal, regular"
+      },
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "problem"
+      }
+    ],
+    "grammar": "~なし means 'without, none'. Technical status report format is commonly noun + status"
+  },
+  {
+    "start": "19:31",
+    "end": "19:38",
+    "text": "オルナーブリンク終了 / 再計算誤差修正なし",
+    "audio_file": "clip_102.mp3",
+    "translation": "All nerve link complete. / Recalculation error correction, none.",
+    "vocabulary": [
+      {
+        "word": "終了",
+        "reading": "しゅうりょう",
+        "meaning": "completion, end"
+      },
+      {
+        "word": "再計算",
+        "reading": "さいけいさん",
+        "meaning": "recalculation"
+      },
+      {
+        "word": "誤差",
+        "reading": "ごさ",
+        "meaning": "error, deviation"
+      },
+      {
+        "word": "修正",
+        "reading": "しゅうせい",
+        "meaning": "correction, revision"
+      }
+    ],
+    "grammar": "~なし indicates absence or negation. Technical compound nouns are common in scientific contexts"
+  },
+  {
+    "start": "19:38",
+    "end": "19:49",
+    "text": "チェック2590までリストクリア / 絶対境界線まであと2.5 / 1.7 / 1.2 / 1.0 / 0.8 / 0.6",
+    "audio_file": "clip_103.mp3",
+    "translation": "List clear up to check 2590. / To absolute borderline, 2.5 remaining... 1.7... 1.2... 1.0... 0.8... 0.6...",
+    "vocabulary": [
+      {
+        "word": "絶対",
+        "reading": "ぜったい",
+        "meaning": "absolute"
+      },
+      {
+        "word": "境界線",
+        "reading": "きょうかいせん",
+        "meaning": "boundary line, borderline"
+      }
+    ],
+    "grammar": "~まで means 'up to, until'. あと means 'remaining, left'"
+  },
+  {
+    "start": "19:50",
+    "end": "20:02",
+    "text": "0.5 / 0.4 / 0.3 / 0.2 / 0.1 / 突破 / ボーダーラインクリア / 0号機起動しました",
+    "audio_file": "clip_104.mp3",
+    "translation": "0.5... 0.4... 0.3... 0.2... 0.1... / Breakthrough! / Borderline cleared. / Unit 00 has been activated.",
+    "vocabulary": [
+      {
+        "word": "突破",
+        "reading": "とっぱ",
+        "meaning": "breakthrough"
+      },
+      {
+        "word": "起動",
+        "reading": "きどう",
+        "meaning": "startup, activation"
+      }
+    ],
+    "grammar": "~しました is past tense polite form indicating completed action"
+  },
+  {
+    "start": "20:03",
+    "end": "20:06",
+    "text": "了解",
+    "audio_file": "clip_105.mp3",
+    "translation": "Roger.",
+    "vocabulary": [
+      {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning": "roger, understood, acknowledged"
+      }
+    ],
+    "grammar": "Standard military/technical acknowledgment term"
+  },
+  {
+    "start": "20:28",
+    "end": "20:31",
+    "text": "はい。",
+    "audio_file": "clip_106.mp3",
+    "translation": "Yes.",
+    "vocabulary": [
+      {
+        "word": "はい",
+        "reading": "はい",
+        "meaning": "yes"
+      }
+    ],
+    "grammar": "Standard affirmative response"
+  },
+  {
+    "start": "20:31",
+    "end": "20:35",
+    "text": "再起動は成功した 戻れ",
+    "audio_file": "clip_107.mp3",
+    "translation": "The restart was successful. Return.",
+    "vocabulary": [
+      {
+        "word": "再起動",
+        "reading": "さいきどう",
+        "meaning": "restart, reboot"
+      },
+      {
+        "word": "成功",
+        "reading": "せいこう",
+        "meaning": "success"
+      },
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "to return, go back"
+      }
+    ],
+    "grammar": "~した is past tense. 戻れ is imperative form meaning 'return'"
+  },
+  {
+    "start": "20:58",
+    "end": "21:04",
+    "text": "目標はトーノサワ上空を通過 / 初号機発進準備に入ります",
+    "audio_file": "clip_108.mp3",
+    "translation": "Target is passing through airspace above Tonosawa. / Beginning launch preparations for Unit 01.",
+    "vocabulary": [
+      {
+        "word": "目標",
+        "reading": "もくひょう",
+        "meaning": "target, objective"
+      },
+      {
+        "word": "上空",
+        "reading": "じょうくう",
+        "meaning": "sky above, airspace"
+      },
+      {
+        "word": "通過",
+        "reading": "つうか",
+        "meaning": "passage, passing through"
+      },
+      {
+        "word": "発進",
+        "reading": "はっしん",
+        "meaning": "launch, departure"
+      }
+    ],
+    "grammar": "~を通過 means 'to pass through'. ~に入ります means 'to enter into, begin'"
+  },
+  {
+    "start": "21:04",
+    "end": "21:08",
+    "text": "第1ロックボルト発電",
+    "audio_file": "clip_109.mp3",
+    "translation": "First lock bolt release.",
+    "vocabulary": [
+      {
+        "word": "発電",
+        "reading": "はつでん",
+        "meaning": "power generation (likely 発 'release' in context)"
+      }
+    ],
+    "grammar": "Technical terminology for mechanical release systems"
+  },
+  {
+    "start": "21:08",
+    "end": "21:16",
+    "text": "解 / 除確認 / 了解 / 第2高速部発電 / 了軍 / 目標は足の子上空へ進入",
+    "audio_file": "clip_110.mp3",
+    "translation": "Release / confirmed. / Roger. / Second high-speed section release. / Roger. / Target entering airspace above Ashinoko.",
+    "vocabulary": [
+      {
+        "word": "解除",
+        "reading": "かいじょ",
+        "meaning": "release, cancellation"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "confirmation"
+      },
+      {
+        "word": "進入",
+        "reading": "しんにゅう",
+        "meaning": "entry, penetration"
+      }
+    ],
+    "grammar": "~へ進入 means 'entering into'. 了解/了軍 are acknowledgment terms"
+  },
+  {
+    "start": "21:16",
+    "end": "21:47",
+    "text": "エヴァ初号機発進準備よろしい / 発進",
+    "audio_file": "clip_111.mp3",
+    "translation": "Eva Unit 01 launch preparations complete. / Launch!",
+    "vocabulary": [
+      {
+        "word": "準備",
+        "reading": "じゅんび",
+        "meaning": "preparation"
+      },
+      {
+        "word": "よろしい",
+        "reading": "よろしい",
+        "meaning": "good, ready, acceptable"
+      },
+      {
+        "word": "発進",
+        "reading": "はっしん",
+        "meaning": "launch, departure"
+      }
+    ],
+    "grammar": "よろしい indicates readiness or approval in formal contexts"
+  },
+  {
+    "start": "21:48",
+    "end": "21:57",
+    "text": "「目標",
+    "audio_file": "clip_112.mp3",
+    "translation": "Target...",
+    "vocabulary": [
+      {
+        "word": "目標",
+        "reading": "もくひょう",
+        "meaning": "target, objective"
+      }
+    ],
+    "grammar": "Incomplete sentence indicating interrupted speech"
+  },
+  {
+    "start": "21:58",
+    "end": "22:00",
+    "text": "シンジカン!",
+    "audio_file": "clip_113.mp3",
+    "translation": "Shinji-kun!",
+    "vocabulary": [
+      {
+        "word": "君",
+        "reading": "くん",
+        "meaning": "honorific suffix for boys/young men"
+      }
+    ],
+    "grammar": "~君 (kun) is an informal honorific used for boys or junior males"
+  },
+  {
+    "start": "23:07",
+    "end": "23:13",
+    "text": "シンジは助かった / だがその傷は彼に甘え / た言葉を吐かす / 突き放すレイ",
+    "audio_file": "clip_114.mp3",
+    "translation": "Shinji was saved. But his wounds make him speak dependent words. Rei pushes him away.",
+    "vocabulary": [
+      {
+        "word": "助かる",
+        "reading": "たすかる",
+        "meaning": "to be saved, rescued"
+      },
+      {
+        "word": "甘える",
+        "reading": "あまえる",
+        "meaning": "to depend on, act spoiled"
+      },
+      {
+        "word": "吐かす",
+        "reading": "はかす",
+        "meaning": "to make say, to spit out"
+      },
+      {
+        "word": "突き放す",
+        "reading": "つきはなす",
+        "meaning": "to push away, reject"
+      }
+    ],
+    "grammar": "Preview/narration style. ~を吐かす is causative form 'to make (him) say'"
+  },
+  {
+    "start": "23:13",
+    "end": "23:17",
+    "text": "一方ミサトは首都に対し一点突破を試みる",
+    "audio_file": "clip_115.mp3",
+    "translation": "Meanwhile, Misato attempts a single-point breakthrough against the capital.",
+    "vocabulary": [
+      {
+        "word": "一方",
+        "reading": "いっぽう",
+        "meaning": "meanwhile, on the other hand"
+      },
+      {
+        "word": "一点突破",
+        "reading": "いってんとっぱ",
+        "meaning": "single-point breakthrough"
+      },
+      {
+        "word": "試みる",
+        "reading": "こころみる",
+        "meaning": "to attempt, try"
+      }
+    ],
+    "grammar": "~に対し means 'toward, against'. ~を試みる means 'to attempt'"
+  },
+  {
+    "start": "23:17",
+    "end": "23:20",
+    "text": "次回決戦第三新東京市",
+    "audio_file": "clip_116.mp3",
+    "translation": "Next episode: Decisive Battle, Third New Tokyo City.",
+    "vocabulary": [
+      {
+        "word": "次回",
+        "reading": "じかい",
+        "meaning": "next time, next episode"
+      },
+      {
+        "word": "決戦",
+        "reading": "けっせん",
+        "meaning": "decisive battle"
+      }
+    ],
+    "grammar": "Episode preview format: 次回 + title"
+  }
+]
