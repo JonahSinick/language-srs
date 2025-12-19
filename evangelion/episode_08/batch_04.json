@@ -1,0 +1,682 @@
+[
+  {
+    "start": "14:16",
+    "end": "14:25",
+    "text": "もったいない! / 目標! / 本間に急速設計中! / クリア!左限9時方向! / 外部電源に切り替え!",
+    "audio_file": "clip_080.mp3",
+    "translation": "What a waste! / Target! / Rapidly descending for real! / Clear! Left limit, 9 o'clock direction! / Switch to external power!",
+    "vocabulary": [
+      {
+        "word": "もったいない",
+        "reading": "もったいない",
+        "meaning": "wasteful, what a waste"
+      },
+      {
+        "word": "目標",
+        "reading": "もくひょう",
+        "meaning": "target, objective"
+      },
+      {
+        "word": "急速",
+        "reading": "きゅうそく",
+        "meaning": "rapid, quick"
+      },
+      {
+        "word": "外部電源",
+        "reading": "がいぶでんげん",
+        "meaning": "external power source"
+      }
+    ],
+    "grammar": "Commands and status reports in rapid succession using imperative form (切り替え!)"
+  },
+  {
+    "start": "14:27",
+    "end": "14:30",
+    "text": "切り替え終了!",
+    "audio_file": "clip_081.mp3",
+    "translation": "Switchover complete!",
+    "vocabulary": [
+      {
+        "word": "切り替え",
+        "reading": "きりかえ",
+        "meaning": "switch, changeover"
+      },
+      {
+        "word": "終了",
+        "reading": "しゅうりょう",
+        "meaning": "completion, end"
+      }
+    ],
+    "grammar": "Simple noun + noun construction for status report"
+  },
+  {
+    "start": "14:30",
+    "end": "14:35",
+    "text": "でも、不走がない! / ブログナイフで十分よ!",
+    "audio_file": "clip_082.mp3",
+    "translation": "But we don't have a gun! / A prog knife is enough!",
+    "vocabulary": [
+      {
+        "word": "でも",
+        "reading": "でも",
+        "meaning": "but, however"
+      },
+      {
+        "word": "十分",
+        "reading": "じゅうぶん",
+        "meaning": "sufficient, enough"
+      }
+    ],
+    "grammar": "がない indicates absence/lack; で十分 means 'is sufficient with'"
+  },
+  {
+    "start": "14:42",
+    "end": "14:46",
+    "text": "結構でかい / 思った通りよ",
+    "audio_file": "clip_083.mp3",
+    "translation": "It's pretty big / Just as I thought",
+    "vocabulary": [
+      {
+        "word": "結構",
+        "reading": "けっこう",
+        "meaning": "quite, fairly, pretty"
+      },
+      {
+        "word": "でかい",
+        "reading": "でかい",
+        "meaning": "big, huge (casual)"
+      },
+      {
+        "word": "思った通り",
+        "reading": "おもったとおり",
+        "meaning": "just as thought, as expected"
+      }
+    ],
+    "grammar": "通り means 'as/according to'; casual speech pattern"
+  },
+  {
+    "start": "14:46",
+    "end": "14:52",
+    "text": "どうするつもりだ / 使徒を倒すには近接戦闘がベストです",
+    "audio_file": "clip_084.mp3",
+    "translation": "What do you intend to do? / Close combat is best for defeating the Angel",
+    "vocabulary": [
+      {
+        "word": "つもり",
+        "reading": "つもり",
+        "meaning": "intention, plan"
+      },
+      {
+        "word": "使徒",
+        "reading": "しと",
+        "meaning": "angel, apostle"
+      },
+      {
+        "word": "倒す",
+        "reading": "たおす",
+        "meaning": "to defeat, to knock down"
+      },
+      {
+        "word": "近接戦闘",
+        "reading": "きんせつせんとう",
+        "meaning": "close combat, melee"
+      }
+    ],
+    "grammar": "には marks the purpose/method; つもり indicates intention"
+  },
+  {
+    "start": "15:04",
+    "end": "15:15",
+    "text": "アスカよく止めたわ / 冗談じゃない飛行甲板がめちゃめちゃじゃないか",
+    "audio_file": "clip_085.mp3",
+    "translation": "Asuka, you stopped it well / This is no joke - the flight deck is completely wrecked!",
+    "vocabulary": [
+      {
+        "word": "止める",
+        "reading": "とめる",
+        "meaning": "to stop, to halt"
+      },
+      {
+        "word": "冗談",
+        "reading": "じょうだん",
+        "meaning": "joke, jest"
+      },
+      {
+        "word": "飛行甲板",
+        "reading": "ひこうこうはん",
+        "meaning": "flight deck"
+      },
+      {
+        "word": "めちゃめちゃ",
+        "reading": "めちゃめちゃ",
+        "meaning": "messed up, wrecked"
+      }
+    ],
+    "grammar": "じゃない after noun expresses strong emphasis/complaint; わ is feminine sentence ender"
+  },
+  {
+    "start": "15:16",
+    "end": "15:25",
+    "text": "落ちたじゃないか / アスカ / B型装備じゃ水中戦闘は無理よ / そんなのやってみなくちゃ、わかんないでしょ?",
+    "audio_file": "clip_086.mp3",
+    "translation": "It fell, didn't it! / Asuka / Underwater combat is impossible with Type B equipment / You can't know that unless you try, right?",
+    "vocabulary": [
+      {
+        "word": "落ちる",
+        "reading": "おちる",
+        "meaning": "to fall, to drop"
+      },
+      {
+        "word": "装備",
+        "reading": "そうび",
+        "meaning": "equipment, gear"
+      },
+      {
+        "word": "水中戦闘",
+        "reading": "すいちゅうせんとう",
+        "meaning": "underwater combat"
+      },
+      {
+        "word": "無理",
+        "reading": "むり",
+        "meaning": "impossible, unreasonable"
+      }
+    ],
+    "grammar": "じゃ indicates condition/limitation; なくちゃ is contraction of なくては (must/unless)"
+  },
+  {
+    "start": "15:42",
+    "end": "15:47",
+    "text": "もったいない! / ケーブルの長さは?",
+    "audio_file": "clip_087.mp3",
+    "translation": "What a waste! / How long is the cable?",
+    "vocabulary": [
+      {
+        "word": "もったいない",
+        "reading": "もったいない",
+        "meaning": "wasteful, what a waste"
+      },
+      {
+        "word": "ケーブル",
+        "reading": "ケーブル",
+        "meaning": "cable"
+      },
+      {
+        "word": "長さ",
+        "reading": "ながさ",
+        "meaning": "length"
+      }
+    ],
+    "grammar": "は marks topic for question about cable length"
+  },
+  {
+    "start": "15:47",
+    "end": "15:55",
+    "text": "残り1200! / どうするんだね? / なんとかなります / なんとかしなくちゃ",
+    "audio_file": "clip_088.mp3",
+    "translation": "1200 remaining! / What are you going to do? / We'll manage somehow / We have to make it work somehow",
+    "vocabulary": [
+      {
+        "word": "残り",
+        "reading": "のこり",
+        "meaning": "remainder, remaining"
+      },
+      {
+        "word": "なんとか",
+        "reading": "なんとか",
+        "meaning": "somehow, one way or another"
+      },
+      {
+        "word": "しなくちゃ",
+        "reading": "しなくちゃ",
+        "meaning": "have to do (contraction of しなくては)"
+      }
+    ],
+    "grammar": "なんとかなる means 'it will work out somehow'; なくちゃ expresses necessity"
+  },
+  {
+    "start": "15:57",
+    "end": "16:02",
+    "text": "ケーブルがなくなるわ / 衝撃に備えて",
+    "audio_file": "clip_089.mp3",
+    "translation": "The cable is running out / Prepare for impact",
+    "vocabulary": [
+      {
+        "word": "なくなる",
+        "reading": "なくなる",
+        "meaning": "to run out, to disappear"
+      },
+      {
+        "word": "衝撃",
+        "reading": "しょうげき",
+        "meaning": "shock, impact"
+      },
+      {
+        "word": "備える",
+        "reading": "そなえる",
+        "meaning": "to prepare, to be ready"
+      }
+    ],
+    "grammar": "に備えて means 'in preparation for'; わ is feminine sentence ender"
+  },
+  {
+    "start": "16:06",
+    "end": "16:12",
+    "text": "しまった / レバー目標を喪失 / 今のうちにディスクを",
+    "audio_file": "clip_090.mp3",
+    "translation": "Damn it! / Lever target lost / Disconnect while we can",
+    "vocabulary": [
+      {
+        "word": "しまった",
+        "reading": "しまった",
+        "meaning": "damn it, oops (expression of regret)"
+      },
+      {
+        "word": "目標",
+        "reading": "もくひょう",
+        "meaning": "target"
+      },
+      {
+        "word": "喪失",
+        "reading": "そうしつ",
+        "meaning": "loss"
+      },
+      {
+        "word": "今のうちに",
+        "reading": "いまのうちに",
+        "meaning": "while we can, now (while there's time)"
+      }
+    ],
+    "grammar": "うちに indicates doing something while conditions allow"
+  },
+  {
+    "start": "16:13",
+    "end": "16:18",
+    "text": "約38回 / おーい 勝利",
+    "audio_file": "clip_091.mp3",
+    "translation": "Approximately 38 times / Hey, victory!",
+    "vocabulary": [
+      {
+        "word": "約",
+        "reading": "やく",
+        "meaning": "approximately, about"
+      },
+      {
+        "word": "回",
+        "reading": "かい",
+        "meaning": "times, counter for occurrences"
+      },
+      {
+        "word": "勝利",
+        "reading": "しょうり",
+        "meaning": "victory"
+      }
+    ],
+    "grammar": "約 prefixes numbers to indicate approximation; おーい is an interjection to call attention"
+  },
+  {
+    "start": "16:19",
+    "end": "16:23",
+    "text": "カジ / 俺先に行くわ!",
+    "audio_file": "clip_092.mp3",
+    "translation": "Kaji / I'm going ahead!",
+    "vocabulary": [
+      {
+        "word": "俺",
+        "reading": "おれ",
+        "meaning": "I, me (masculine, casual)"
+      },
+      {
+        "word": "先に",
+        "reading": "さきに",
+        "meaning": "ahead, first, before"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "to go"
+      }
+    ],
+    "grammar": "わ is emphatic particle (can be masculine in some contexts); 先に means 'ahead/first'"
+  },
+  {
+    "start": "16:23",
+    "end": "16:25",
+    "text": "出してくれ。",
+    "audio_file": "clip_093.mp3",
+    "translation": "Let me out.",
+    "vocabulary": [
+      {
+        "word": "出す",
+        "reading": "だす",
+        "meaning": "to take out, to let out"
+      },
+      {
+        "word": "くれ",
+        "reading": "くれ",
+        "meaning": "please (masculine imperative)"
+      }
+    ],
+    "grammar": "てくれ is masculine imperative request form"
+  },
+  {
+    "start": "16:25",
+    "end": "16:29",
+    "text": "じゃあよろしく! / 桂木市!",
+    "audio_file": "clip_094.mp3",
+    "translation": "Well then, I'm counting on you! / Kaji!",
+    "vocabulary": [
+      {
+        "word": "じゃあ",
+        "reading": "じゃあ",
+        "meaning": "well then, in that case"
+      },
+      {
+        "word": "よろしく",
+        "reading": "よろしく",
+        "meaning": "please (counting on you)"
+      }
+    ],
+    "grammar": "よろしく is casual way to ask for cooperation/favor"
+  },
+  {
+    "start": "16:30",
+    "end": "16:39",
+    "text": "逃げよった。 / 目標、 / 再びエヴァに接近中! / また来た! / 今度こそ仕留めてやるわ!",
+    "audio_file": "clip_095.mp3",
+    "translation": "He ran away. / Target / approaching Eva again! / Here it comes again! / This time I'll finish it off for sure!",
+    "vocabulary": [
+      {
+        "word": "逃げる",
+        "reading": "にげる",
+        "meaning": "to run away, to escape"
+      },
+      {
+        "word": "再び",
+        "reading": "ふたたび",
+        "meaning": "again, once more"
+      },
+      {
+        "word": "接近",
+        "reading": "せっきん",
+        "meaning": "approach, getting closer"
+      },
+      {
+        "word": "今度こそ",
+        "reading": "こんどこそ",
+        "meaning": "this time for sure"
+      },
+      {
+        "word": "仕留める",
+        "reading": "しとめる",
+        "meaning": "to finish off, to bring down"
+      }
+    ],
+    "grammar": "よった is Kansai dialect for した; こそ emphasizes 'for sure'; てやる shows determination"
+  },
+  {
+    "start": "16:41",
+    "end": "16:53",
+    "text": "何よ!動かないじゃない! / B型装備じゃね。 / どうすんのよ! / どうするって? / だらしないのね!サードチルトレンのくせに! / あ、来た!",
+    "audio_file": "clip_096.mp3",
+    "translation": "What! It won't move! / It's Type B equipment. / What are we going to do! / What do you mean 'what'? / How pathetic! And you call yourself Third Children! / Ah, it's coming!",
+    "vocabulary": [
+      {
+        "word": "動く",
+        "reading": "うごく",
+        "meaning": "to move"
+      },
+      {
+        "word": "だらしない",
+        "reading": "だらしない",
+        "meaning": "sloppy, pathetic"
+      },
+      {
+        "word": "くせに",
+        "reading": "くせに",
+        "meaning": "and yet, despite being"
+      }
+    ],
+    "grammar": "じゃない for emphasis/complaint; くせに expresses criticism 'despite being'; のね adds emotion"
+  },
+  {
+    "start": "16:56",
+    "end": "17:01",
+    "text": "くちぃ! / 使徒だな。",
+    "audio_file": "clip_097.mp3",
+    "translation": "Damn! / It's an Angel, alright.",
+    "vocabulary": [
+      {
+        "word": "使徒",
+        "reading": "しと",
+        "meaning": "angel, apostle"
+      }
+    ],
+    "grammar": "だな is masculine confirmatory particle expressing certainty"
+  },
+  {
+    "start": "17:02",
+    "end": "17:09",
+    "text": "レバー2号機、目標体内に侵入! / それって、食われたんだちゃうか?",
+    "audio_file": "clip_098.mp3",
+    "translation": "Eva Unit 02 has penetrated inside the target! / Doesn't that mean it got eaten?",
+    "vocabulary": [
+      {
+        "word": "体内",
+        "reading": "たいない",
+        "meaning": "inside the body"
+      },
+      {
+        "word": "侵入",
+        "reading": "しんにゅう",
+        "meaning": "invasion, penetration"
+      },
+      {
+        "word": "食われる",
+        "reading": "くわれる",
+        "meaning": "to be eaten (passive)"
+      }
+    ],
+    "grammar": "んだちゃうか is Kansai dialect for んじゃないか (isn't it?)"
+  },
+  {
+    "start": "17:09",
+    "end": "17:16",
+    "text": "こら、まるで釣りやな! / 釣り? / そう、釣りだわ!",
+    "audio_file": "clip_099.mp3",
+    "translation": "Hey, it's just like fishing! / Fishing? / Yes, it's fishing!",
+    "vocabulary": [
+      {
+        "word": "まるで",
+        "reading": "まるで",
+        "meaning": "just like, as if"
+      },
+      {
+        "word": "釣り",
+        "reading": "つり",
+        "meaning": "fishing"
+      }
+    ],
+    "grammar": "やな is Kansai dialect for だね; まるで used for comparisons"
+  },
+  {
+    "start": "17:16",
+    "end": "17:21",
+    "text": "これじゃピンチに逆戻りだ / うっさいわね",
+    "audio_file": "clip_100.mp3",
+    "translation": "At this rate we're right back in a crisis / Shut up",
+    "vocabulary": [
+      {
+        "word": "ピンチ",
+        "reading": "ピンチ",
+        "meaning": "crisis, pinch"
+      },
+      {
+        "word": "逆戻り",
+        "reading": "ぎゃくもどり",
+        "meaning": "reverting back, returning to"
+      },
+      {
+        "word": "うっさい",
+        "reading": "うっさい",
+        "meaning": "shut up, noisy (casual/rude)"
+      }
+    ],
+    "grammar": "じゃ indicates resulting condition; に逆戻り means 'reverting back to'"
+  },
+  {
+    "start": "17:21",
+    "end": "17:33",
+    "text": "いつまで乗ってんのよエッチ / でもなんとか離れないと / アスカ聞こえる? / 絶対に離さないでね / ん? / 艦長 / なんだ",
+    "audio_file": "clip_101.mp3",
+    "translation": "How long are you going to stay on, you pervert! / But we have to get away somehow / Asuka, can you hear me? / Absolutely don't let go, okay? / Hm? / Captain / What is it?",
+    "vocabulary": [
+      {
+        "word": "いつまで",
+        "reading": "いつまで",
+        "meaning": "how long, until when"
+      },
+      {
+        "word": "エッチ",
+        "reading": "エッチ",
+        "meaning": "pervert, lewd"
+      },
+      {
+        "word": "離れる",
+        "reading": "はなれる",
+        "meaning": "to separate, to get away"
+      },
+      {
+        "word": "絶対に",
+        "reading": "ぜったいに",
+        "meaning": "absolutely, definitely"
+      },
+      {
+        "word": "離す",
+        "reading": "はなす",
+        "meaning": "to let go, to release"
+      }
+    ],
+    "grammar": "てんの is contraction of ているの; ないと expresses necessity; ないでね is gentle prohibition"
+  },
+  {
+    "start": "17:33",
+    "end": "17:35",
+    "text": "ご協力をお願いします",
+    "audio_file": "clip_102.mp3",
+    "translation": "I request your cooperation",
+    "vocabulary": [
+      {
+        "word": "協力",
+        "reading": "きょうりょく",
+        "meaning": "cooperation"
+      },
+      {
+        "word": "お願いします",
+        "reading": "おねがいします",
+        "meaning": "please, I request"
+      }
+    ],
+    "grammar": "を + お願いします is formal request pattern with honorific prefix ご"
+  },
+  {
+    "start": "17:35",
+    "end": "17:41",
+    "text": "生き残った戦艦2隻によるゼロ距離射撃 / そうです",
+    "audio_file": "clip_103.mp3",
+    "translation": "Point-blank firing by the two surviving battleships / That's right",
+    "vocabulary": [
+      {
+        "word": "生き残る",
+        "reading": "いきのこる",
+        "meaning": "to survive"
+      },
+      {
+        "word": "戦艦",
+        "reading": "せんかん",
+        "meaning": "battleship"
+      },
+      {
+        "word": "隻",
+        "reading": "せき",
+        "meaning": "counter for ships"
+      },
+      {
+        "word": "ゼロ距離射撃",
+        "reading": "ゼロきょりしゃげき",
+        "meaning": "point-blank range firing"
+      }
+    ],
+    "grammar": "による indicates means/method 'by means of'"
+  },
+  {
+    "start": "17:41",
+    "end": "17:47",
+    "text": "アンビリカルケーブルの軸線上に無人の戦艦2隻を自身させ / 罠を張ります",
+    "audio_file": "clip_104.mp3",
+    "translation": "Position the two unmanned battleships along the umbilical cable axis / and set a trap",
+    "vocabulary": [
+      {
+        "word": "軸線",
+        "reading": "じくせん",
+        "meaning": "axis, axial line"
+      },
+      {
+        "word": "無人",
+        "reading": "むじん",
+        "meaning": "unmanned"
+      },
+      {
+        "word": "罠",
+        "reading": "わな",
+        "meaning": "trap"
+      },
+      {
+        "word": "張る",
+        "reading": "はる",
+        "meaning": "to set, to spread"
+      }
+    ],
+    "grammar": "上に means 'on/along'; させ is causative form (to make/position)"
+  },
+  {
+    "start": "17:47",
+    "end": "17:58",
+    "text": "その間にエヴァ2号機が目標の口を開口 / そこへ全艦突入し / 艦首首砲塔の直接砲撃の後 / さらに自爆 / 目標を撃破します / そんな無茶な",
+    "audio_file": "clip_105.mp3",
+    "translation": "Meanwhile Eva Unit 02 will open the target's mouth / then the ship will rush in / after direct fire from the bow turret / then self-destruct / and destroy the target / That's insane!",
+    "vocabulary": [
+      {
+        "word": "その間に",
+        "reading": "そのあいだに",
+        "meaning": "meanwhile, in the meantime"
+      },
+      {
+        "word": "開口",
+        "reading": "かいこう",
+        "meaning": "opening"
+      },
+      {
+        "word": "突入",
+        "reading": "とつにゅう",
+        "meaning": "rushing in, charging in"
+      },
+      {
+        "word": "自爆",
+        "reading": "じばく",
+        "meaning": "self-destruction"
+      },
+      {
+        "word": "撃破",
+        "reading": "げきは",
+        "meaning": "destruction, shooting down"
+      },
+      {
+        "word": "無茶",
+        "reading": "むちゃ",
+        "meaning": "reckless, absurd"
+      }
+    ],
+    "grammar": "の後 means 'after'; さらに means 'furthermore'; そんな emphasizes the absurdity"
+  }
+]

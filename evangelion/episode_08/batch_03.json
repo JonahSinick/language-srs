@@ -1,0 +1,647 @@
+[
+  {
+    "start": "08:47",
+    "end": "08:50",
+    "text": "爆発が近いわ",
+    "audio_file": "clip_054.mp3",
+    "translation": "The explosion is close.",
+    "vocabulary": [
+      {
+        "word": "爆発",
+        "reading": "ばくはつ",
+        "meaning": "explosion"
+      },
+      {
+        "word": "近い",
+        "reading": "ちかい",
+        "meaning": "near, close"
+      }
+    ],
+    "grammar": "わ sentence-final particle adds feminine emphasis"
+  },
+  {
+    "start": "08:50",
+    "end": "08:52",
+    "text": "あれは",
+    "audio_file": "clip_055.mp3",
+    "translation": "That is...",
+    "vocabulary": [
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "meaning": "that (over there)"
+      }
+    ],
+    "grammar": "は topic marker; sentence trails off indicating surprise or realization"
+  },
+  {
+    "start": "08:55",
+    "end": "09:00",
+    "text": "まさか下 / あれが本物の",
+    "audio_file": "clip_056.mp3",
+    "translation": "No way, below... / That's the real one...",
+    "vocabulary": [
+      {
+        "word": "まさか",
+        "reading": "まさか",
+        "meaning": "no way, surely not"
+      },
+      {
+        "word": "下",
+        "reading": "した",
+        "meaning": "below, down"
+      },
+      {
+        "word": "本物",
+        "reading": "ほんもの",
+        "meaning": "real thing, genuine article"
+      }
+    ],
+    "grammar": "Incomplete sentences convey shock and disbelief"
+  },
+  {
+    "start": "09:00",
+    "end": "09:05",
+    "text": "どうしよう!ミサツさんの所に戻らなくちゃ!",
+    "audio_file": "clip_057.mp3",
+    "translation": "What should we do?! We have to get back to Misato!",
+    "vocabulary": [
+      {
+        "word": "どうする",
+        "reading": "どうする",
+        "meaning": "what to do"
+      },
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "to return, go back"
+      }
+    ],
+    "grammar": "なくちゃ is casual contraction of なくてはならない (must do)"
+  },
+  {
+    "start": "09:06",
+    "end": "09:09",
+    "text": "シェアース!",
+    "audio_file": "clip_058.mp3",
+    "translation": "Shares!",
+    "vocabulary": [
+      {
+        "word": "シェアース",
+        "reading": "シェアース",
+        "meaning": "Shares (ship name)"
+      }
+    ],
+    "grammar": "Ship name being called out"
+  },
+  {
+    "start": "09:13",
+    "end": "09:19",
+    "text": "各艦、簡単距離に注意の上、回避運動! / 状況報告はどうした?",
+    "audio_file": "clip_059.mp3",
+    "translation": "All ships, maintain safe distance and take evasive action! / What about the status report?",
+    "vocabulary": [
+      {
+        "word": "各艦",
+        "reading": "かくかん",
+        "meaning": "each ship, all ships"
+      },
+      {
+        "word": "回避運動",
+        "reading": "かいひうんどう",
+        "meaning": "evasive maneuver"
+      },
+      {
+        "word": "状況報告",
+        "reading": "じょうきょうほうこく",
+        "meaning": "status report"
+      }
+    ],
+    "grammar": "の上 means 'while doing' or 'after doing'; military command structure"
+  },
+  {
+    "start": "09:19",
+    "end": "09:23",
+    "text": "シンベリン沈黙!タイタス・アンドロニカス!目標確認できません!",
+    "audio_file": "clip_060.mp3",
+    "translation": "Cymbeline is silent! Titus Andronicus! Cannot confirm target!",
+    "vocabulary": [
+      {
+        "word": "沈黙",
+        "reading": "ちんもく",
+        "meaning": "silence, radio silence"
+      },
+      {
+        "word": "目標",
+        "reading": "もくひょう",
+        "meaning": "target"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "confirmation"
+      }
+    ],
+    "grammar": "できません is polite negative potential form (cannot do)"
+  },
+  {
+    "start": "09:23",
+    "end": "09:31",
+    "text": "くそ!何が起こってるんだ? / ネルフですが見えない敵の情報と的確な対処はいかがですか",
+    "audio_file": "clip_061.mp3",
+    "translation": "Damn! What's happening? / This is NERV—how about some information on the invisible enemy and proper countermeasures?",
+    "vocabulary": [
+      {
+        "word": "起こる",
+        "reading": "おこる",
+        "meaning": "to happen, occur"
+      },
+      {
+        "word": "見えない",
+        "reading": "みえない",
+        "meaning": "invisible, cannot be seen"
+      },
+      {
+        "word": "的確",
+        "reading": "てきかく",
+        "meaning": "accurate, precise"
+      },
+      {
+        "word": "対処",
+        "reading": "たいしょ",
+        "meaning": "countermeasure, response"
+      }
+    ],
+    "grammar": "てるんだ emphasizes ongoing state; いかがですか is polite way to ask 'how about...'"
+  },
+  {
+    "start": "09:31",
+    "end": "09:41",
+    "text": "戦闘中だ見学者の立ち入りは許可できない / これは試験ですがどう見ても使徒の攻撃ですね / 全艦2位に迎撃 / 無駄な / こと",
+    "audio_file": "clip_062.mp3",
+    "translation": "We're in combat, observers cannot enter / This is just observation but no matter how you look at it, it's an Angel attack / All ships prepare to intercept on my command / It's futile...",
+    "vocabulary": [
+      {
+        "word": "戦闘中",
+        "reading": "せんとうちゅう",
+        "meaning": "in combat, during battle"
+      },
+      {
+        "word": "立ち入り",
+        "reading": "たちいり",
+        "meaning": "entry, admission"
+      },
+      {
+        "word": "許可",
+        "reading": "きょか",
+        "meaning": "permission"
+      },
+      {
+        "word": "迎撃",
+        "reading": "げいげき",
+        "meaning": "interception"
+      },
+      {
+        "word": "無駄",
+        "reading": "むだ",
+        "meaning": "futile, useless"
+      }
+    ],
+    "grammar": "どう見ても means 'no matter how you look at it'"
+  },
+  {
+    "start": "09:51",
+    "end": "09:56",
+    "text": "この程度じゃATフィールドは破れないか",
+    "audio_file": "clip_063.mp3",
+    "translation": "I guess this level of attack won't break through the AT Field.",
+    "vocabulary": [
+      {
+        "word": "程度",
+        "reading": "ていど",
+        "meaning": "degree, level, extent"
+      },
+      {
+        "word": "破れる",
+        "reading": "やぶれる",
+        "meaning": "to break through, tear"
+      }
+    ],
+    "grammar": "じゃ is casual contraction of では; ないか seeks confirmation with rhetorical nuance"
+  },
+  {
+    "start": "10:22",
+    "end": "10:25",
+    "text": "ああ、バカでスケベなのかしら!",
+    "audio_file": "clip_064.mp3",
+    "translation": "Ugh, is he stupid and perverted?!",
+    "vocabulary": [
+      {
+        "word": "バカ",
+        "reading": "ばか",
+        "meaning": "stupid, idiot"
+      },
+      {
+        "word": "スケベ",
+        "reading": "すけべ",
+        "meaning": "perverted, lecherous"
+      }
+    ],
+    "grammar": "かしら is feminine sentence-final particle expressing wonder or doubt"
+  },
+  {
+    "start": "10:31",
+    "end": "10:35",
+    "text": "アスカ、行くわよ",
+    "audio_file": "clip_065.mp3",
+    "translation": "Asuka, let's go!",
+    "vocabulary": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "to go"
+      }
+    ],
+    "grammar": "わよ is feminine assertive particle"
+  },
+  {
+    "start": "10:40",
+    "end": "10:45",
+    "text": "なぜ静まん? / やっぱ、エヴァやないって固いよなぁ",
+    "audio_file": "clip_066.mp3",
+    "translation": "Why won't you shut up? / As expected, they say EVA can't be stopped, right?",
+    "vocabulary": [
+      {
+        "word": "静まる",
+        "reading": "しずまる",
+        "meaning": "to become quiet, calm down"
+      },
+      {
+        "word": "やっぱ",
+        "reading": "やっぱ",
+        "meaning": "as expected (casual form of やっぱり)"
+      },
+      {
+        "word": "固い",
+        "reading": "かたい",
+        "meaning": "firm, solid, certain"
+      }
+    ],
+    "grammar": "やない is dialect negative; って is quotative particle"
+  },
+  {
+    "start": "10:50",
+    "end": "10:56",
+    "text": "さあ、行くわよ! / あんたも来るのよ!",
+    "audio_file": "clip_067.mp3",
+    "translation": "Now, let's go! / You're coming too!",
+    "vocabulary": [
+      {
+        "word": "さあ",
+        "reading": "さあ",
+        "meaning": "now, well then"
+      },
+      {
+        "word": "あんた",
+        "reading": "あんた",
+        "meaning": "you (casual/rough)"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "to come"
+      }
+    ],
+    "grammar": "のよ adds feminine assertive emphasis"
+  },
+  {
+    "start": "10:57",
+    "end": "11:06",
+    "text": "ねぇ、プラグスーツに着替えてどうすんだよ / あんたバカ?決まってるじゃない! / 2号機であれをやっつけんのよ!",
+    "audio_file": "clip_068.mp3",
+    "translation": "Hey, what are you going to do after changing into a plug suit? / Are you stupid? Isn't it obvious?! / We're going to defeat that thing with Unit-02!",
+    "vocabulary": [
+      {
+        "word": "着替える",
+        "reading": "きがえる",
+        "meaning": "to change clothes"
+      },
+      {
+        "word": "決まる",
+        "reading": "きまる",
+        "meaning": "to be decided, obvious"
+      },
+      {
+        "word": "やっつける",
+        "reading": "やっつける",
+        "meaning": "to defeat, beat"
+      }
+    ],
+    "grammar": "どうすんだよ is casual contraction of どうするんだよ; 決まってるじゃない emphasizes the obvious"
+  },
+  {
+    "start": "11:07",
+    "end": "11:13",
+    "text": "そんな!ミサトさんの許可は? / 勝った後にもらえばいいのよ!",
+    "audio_file": "clip_069.mp3",
+    "translation": "What?! What about Misato's permission? / We can just get it after we win!",
+    "vocabulary": [
+      {
+        "word": "許可",
+        "reading": "きょか",
+        "meaning": "permission"
+      },
+      {
+        "word": "勝つ",
+        "reading": "かつ",
+        "meaning": "to win"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "meaning": "to receive"
+      }
+    ],
+    "grammar": "ばいい means 'it's fine if...' or 'all you need to do is...'"
+  },
+  {
+    "start": "11:14",
+    "end": "11:20",
+    "text": "さあ、あたしの見事な操縦、目の前で見せてあげるわ",
+    "audio_file": "clip_070.mp3",
+    "translation": "Now, I'll show you my magnificent piloting right before your eyes.",
+    "vocabulary": [
+      {
+        "word": "あたし",
+        "reading": "あたし",
+        "meaning": "I, me (feminine)"
+      },
+      {
+        "word": "見事",
+        "reading": "みごと",
+        "meaning": "magnificent, splendid"
+      },
+      {
+        "word": "操縦",
+        "reading": "そうじゅう",
+        "meaning": "piloting, operation"
+      },
+      {
+        "word": "目の前",
+        "reading": "めのまえ",
+        "meaning": "before one's eyes"
+      }
+    ],
+    "grammar": "てあげる means 'to do for someone' (with sense of favor)"
+  },
+  {
+    "start": "11:20",
+    "end": "11:23",
+    "text": "ただし、邪魔はしないでね",
+    "audio_file": "clip_071.mp3",
+    "translation": "But don't get in my way, okay?",
+    "vocabulary": [
+      {
+        "word": "ただし",
+        "reading": "ただし",
+        "meaning": "however, but"
+      },
+      {
+        "word": "邪魔",
+        "reading": "じゃま",
+        "meaning": "obstruction, hindrance"
+      }
+    ],
+    "grammar": "ないでね is soft negative request with ね seeking agreement"
+  },
+  {
+    "start": "12:21",
+    "end": "12:25",
+    "text": "使え、日本語をベーシックに!",
+    "audio_file": "clip_072.mp3",
+    "translation": "Switch it! Set Japanese as the basic language!",
+    "vocabulary": [
+      {
+        "word": "使う",
+        "reading": "つかう",
+        "meaning": "to use, switch"
+      },
+      {
+        "word": "日本語",
+        "reading": "にほんご",
+        "meaning": "Japanese language"
+      },
+      {
+        "word": "ベーシック",
+        "reading": "べーしっく",
+        "meaning": "basic"
+      }
+    ],
+    "grammar": "Imperative command form; を marks the object being set as basic"
+  },
+  {
+    "start": "12:26",
+    "end": "12:37",
+    "text": "エヴァンゲリオン、2号機、起動! / オゼローより入電、エヴァ2号機、起動中! / なんだと!? / ナイスアスカ!",
+    "audio_file": "clip_073.mp3",
+    "translation": "Evangelion Unit-02, activate! / Incoming message from Over the Rainbow, EVA Unit-02 is activating! / What?! / Nice, Asuka!",
+    "vocabulary": [
+      {
+        "word": "起動",
+        "reading": "きどう",
+        "meaning": "activation, startup"
+      },
+      {
+        "word": "入電",
+        "reading": "にゅうでん",
+        "meaning": "incoming message"
+      }
+    ],
+    "grammar": "より indicates source/origin; なんだと expresses shock"
+  },
+  {
+    "start": "12:38",
+    "end": "12:46",
+    "text": "いかん!起動中した、元に戻せ! / 構わ / ないわアスカ、発進して! / なんだと!?",
+    "audio_file": "clip_074.mp3",
+    "translation": "No good! It started up, shut it down! / I don't care! Asuka, launch! / What?!",
+    "vocabulary": [
+      {
+        "word": "いかん",
+        "reading": "いかん",
+        "meaning": "no good, unacceptable"
+      },
+      {
+        "word": "元",
+        "reading": "もと",
+        "meaning": "original state"
+      },
+      {
+        "word": "戻す",
+        "reading": "もどす",
+        "meaning": "to return, restore"
+      },
+      {
+        "word": "構う",
+        "reading": "かまう",
+        "meaning": "to care, mind"
+      },
+      {
+        "word": "発進",
+        "reading": "はっしん",
+        "meaning": "launch, departure"
+      }
+    ],
+    "grammar": "構わない means 'don't care' or 'doesn't matter'; imperative command forms used"
+  },
+  {
+    "start": "12:46",
+    "end": "12:50",
+    "text": "エヴァおよびパイロットは我々の管轄下だ、勝手は許さん!",
+    "audio_file": "clip_075.mp3",
+    "translation": "The EVA and pilot are under our jurisdiction—we won't allow unauthorized actions!",
+    "vocabulary": [
+      {
+        "word": "および",
+        "reading": "および",
+        "meaning": "and, as well as"
+      },
+      {
+        "word": "管轄",
+        "reading": "かんかつ",
+        "meaning": "jurisdiction"
+      },
+      {
+        "word": "勝手",
+        "reading": "かって",
+        "meaning": "arbitrary action, doing as one pleases"
+      },
+      {
+        "word": "許す",
+        "reading": "ゆるす",
+        "meaning": "to allow, permit"
+      }
+    ],
+    "grammar": "ん is emphatic negative; formal military language"
+  },
+  {
+    "start": "13:20",
+    "end": "13:24",
+    "text": "どこ? / あっち",
+    "audio_file": "clip_076.mp3",
+    "translation": "Where? / Over there.",
+    "vocabulary": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "meaning": "where"
+      },
+      {
+        "word": "あっち",
+        "reading": "あっち",
+        "meaning": "over there (casual)"
+      }
+    ],
+    "grammar": "Short conversational exchange"
+  },
+  {
+    "start": "13:24",
+    "end": "13:37",
+    "text": "あと58秒しかないよ / わかってる / ミサト / 非常用の外部電源を簡単に用意しといて / わかったわ / 何をするつもりだ / さ / あ飛ぶわよ / 飛ぶ?",
+    "audio_file": "clip_077.mp3",
+    "translation": "We only have 58 seconds left! / I know! / Misato! / Get the emergency external power ready, quickly! / Got it! / What are you planning to do? / We're going to fly! / Fly?",
+    "vocabulary": [
+      {
+        "word": "非常用",
+        "reading": "ひじょうよう",
+        "meaning": "emergency use"
+      },
+      {
+        "word": "外部電源",
+        "reading": "がいぶでんげん",
+        "meaning": "external power"
+      },
+      {
+        "word": "用意",
+        "reading": "ようい",
+        "meaning": "preparation"
+      },
+      {
+        "word": "飛ぶ",
+        "reading": "とぶ",
+        "meaning": "to fly"
+      }
+    ],
+    "grammar": "しかない means 'only'; といて is contraction of ておいて (prepare in advance)"
+  },
+  {
+    "start": "13:54",
+    "end": "14:01",
+    "text": "夜明け出ました / リアフターと直結完了 / 飛行艦隊員 / メロン着艦準備を",
+    "audio_file": "clip_078.mp3",
+    "translation": "Dawn has emerged / Direct connection with rear hatch complete / Flight deck crew / Prepare for landing",
+    "vocabulary": [
+      {
+        "word": "夜明け",
+        "reading": "よあけ",
+        "meaning": "dawn, daybreak"
+      },
+      {
+        "word": "直結",
+        "reading": "ちょっけつ",
+        "meaning": "direct connection"
+      },
+      {
+        "word": "完了",
+        "reading": "かんりょう",
+        "meaning": "completion"
+      },
+      {
+        "word": "着艦",
+        "reading": "ちゃくかん",
+        "meaning": "landing on ship"
+      },
+      {
+        "word": "準備",
+        "reading": "じゅんび",
+        "meaning": "preparation"
+      }
+    ],
+    "grammar": "Technical military/naval terminology; を marks object of preparation"
+  },
+  {
+    "start": "14:01",
+    "end": "14:07",
+    "text": "総員大ショック姿勢 / デタラメだ / エ / ヴァ2号機 発艦しまーす!",
+    "audio_file": "clip_079.mp3",
+    "translation": "All hands, brace for impact! / This is crazy! / EVA Unit-02, launching!",
+    "vocabulary": [
+      {
+        "word": "総員",
+        "reading": "そういん",
+        "meaning": "all hands, entire crew"
+      },
+      {
+        "word": "ショック",
+        "reading": "しょっく",
+        "meaning": "shock, impact"
+      },
+      {
+        "word": "姿勢",
+        "reading": "しせい",
+        "meaning": "posture, position"
+      },
+      {
+        "word": "デタラメ",
+        "reading": "でたらめ",
+        "meaning": "nonsense, absurd"
+      },
+      {
+        "word": "発艦",
+        "reading": "はっかん",
+        "meaning": "launching from ship"
+      }
+    ],
+    "grammar": "しまーす is elongated polite form adding dramatic emphasis"
+  }
+]
