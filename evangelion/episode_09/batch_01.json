@@ -1,0 +1,652 @@
+[
+  {
+    "start": "01:30",
+    "end": "01:44",
+    "text": "おい、見たかよ / 見た、見た / 何が? / 知らねえのか、あの外人 / 外人? / ああ、2年A組に転校してきたんだよ / 先週",
+    "audio_file": "clip_000.mp3",
+    "translation": "Hey, did you see her? / Yeah, yeah / See what? / Don't you know? That foreigner / Foreigner? / Yeah, she transferred to class 2-A / Last week",
+    "vocabulary": [
+      {
+        "word": "外人",
+        "reading": "がいじん",
+        "meaning": "foreigner (casual/colloquial)"
+      },
+      {
+        "word": "転校",
+        "reading": "てんこう",
+        "meaning": "to transfer schools"
+      },
+      {
+        "word": "組",
+        "reading": "くみ",
+        "meaning": "class, group"
+      }
+    ],
+    "grammar": "かよ - masculine informal question particle showing surprise or seeking confirmation"
+  },
+  {
+    "start": "01:44",
+    "end": "01:46",
+    "text": "グー / だよな",
+    "audio_file": "clip_001.mp3",
+    "translation": "Nice / Right?",
+    "vocabulary": [
+      {
+        "word": "グー",
+        "reading": "ぐー",
+        "meaning": "good, great (slang)"
+      }
+    ],
+    "grammar": "だよな - seeking agreement, masculine casual speech"
+  },
+  {
+    "start": "01:46",
+    "end": "01:58",
+    "text": "ソウリュウアスカラングレって言うんだってさ / マジに可愛いじゃ / 帰国子女だろ / やっぱ住んでんのかな / バカ言え",
+    "audio_file": "clip_002.mp3",
+    "translation": "They say her name is Soryu Asuka Langley / She's seriously cute / She's a returnee, right? / I wonder if she really lives there / Don't be stupid",
+    "vocabulary": [
+      {
+        "word": "帰国子女",
+        "reading": "きこくしじょ",
+        "meaning": "person who grew up abroad, returnee"
+      },
+      {
+        "word": "マジ",
+        "reading": "まじ",
+        "meaning": "seriously, really (slang)"
+      },
+      {
+        "word": "やっぱ",
+        "reading": "やっぱ",
+        "meaning": "as expected, after all (casual form of やはり)"
+      }
+    ],
+    "grammar": "って言うんだってさ - hearsay marker (I heard that...); んだ - explanatory んです in casual form"
+  },
+  {
+    "start": "01:58",
+    "end": "02:06",
+    "text": "きっとドイツでつらい別れがあったんだ / 見知らぬ土地で傷ついた心も癒せずにいるんだよ / お / ー",
+    "audio_file": "clip_003.mp3",
+    "translation": "She must have had a painful separation in Germany / In an unfamiliar land, unable to heal her wounded heart / Oh...",
+    "vocabulary": [
+      {
+        "word": "別れ",
+        "reading": "わかれ",
+        "meaning": "separation, parting"
+      },
+      {
+        "word": "見知らぬ",
+        "reading": "みしらぬ",
+        "meaning": "unfamiliar, unknown"
+      },
+      {
+        "word": "癒す",
+        "reading": "いやす",
+        "meaning": "to heal, to cure"
+      },
+      {
+        "word": "傷つく",
+        "reading": "きずつく",
+        "meaning": "to be wounded, to be hurt"
+      }
+    ],
+    "grammar": "んだ - explanatory form expressing conjecture; ずにいる - continuing state of not doing something"
+  },
+  {
+    "start": "02:07",
+    "end": "02:18",
+    "text": "あーあー / 猫もシャクシも / アスカ。アスカか? / 皆平和なもんや。 / 前取り!",
+    "audio_file": "clip_004.mp3",
+    "translation": "Geez... / Every Tom, Dick, and Harry / Asuka. Asuka, huh? / Everyone's so carefree. / Front and center!",
+    "vocabulary": [
+      {
+        "word": "猫もシャクシも",
+        "reading": "ねこもしゃくしも",
+        "meaning": "every Tom, Dick, and Harry; everyone without exception"
+      },
+      {
+        "word": "平和",
+        "reading": "へいわ",
+        "meaning": "peaceful, carefree"
+      },
+      {
+        "word": "もんや",
+        "reading": "もんや",
+        "meaning": "Kansai dialect for もんだ (explanatory)"
+      }
+    ],
+    "grammar": "もんや - Kansai dialect explanatory ending (standard: ものだ)"
+  },
+  {
+    "start": "02:18",
+    "end": "02:23",
+    "text": "写真にあの性格はあらへんからな。",
+    "audio_file": "clip_005.mp3",
+    "translation": "A photo doesn't show that personality of hers.",
+    "vocabulary": [
+      {
+        "word": "性格",
+        "reading": "せいかく",
+        "meaning": "personality, character"
+      },
+      {
+        "word": "あらへん",
+        "reading": "あらへん",
+        "meaning": "doesn't exist (Kansai dialect for ない)"
+      }
+    ],
+    "grammar": "あらへん - Kansai dialect negative (standard: ない); からな - explanatory with emphasis"
+  },
+  {
+    "start": "02:23",
+    "end": "02:28",
+    "text": "ヘロー!シンジ! / ゴーテン・モーゲン!",
+    "audio_file": "clip_006.mp3",
+    "translation": "Hello! Shinji! / Guten Morgen!",
+    "vocabulary": [
+      {
+        "word": "ヘロー",
+        "reading": "へろー",
+        "meaning": "Hello (English loanword)"
+      },
+      {
+        "word": "ゴーテン・モーゲン",
+        "reading": "ごーてん・もーげん",
+        "meaning": "Good morning (German: Guten Morgen)"
+      }
+    ],
+    "grammar": "Katakana used for foreign words (English 'Hello' and German 'Guten Morgen')"
+  },
+  {
+    "start": "02:28",
+    "end": "02:38",
+    "text": "ゴ、ゴーテン・モーゲン… / また朝から新規くさい顔して、このあたしが声かけてんのよ。 / ジッターうれしそうな顔しなさいよ。",
+    "audio_file": "clip_007.mp3",
+    "translation": "G-Guten Morgen... / Once again, with that gloomy face in the morning, and I'm the one greeting you. / You should at least look happy.",
+    "vocabulary": [
+      {
+        "word": "新規くさい",
+        "reading": "しんきくさい",
+        "meaning": "gloomy, melancholy (colloquial)"
+      },
+      {
+        "word": "声をかける",
+        "reading": "こえをかける",
+        "meaning": "to greet, to speak to"
+      },
+      {
+        "word": "うれしそう",
+        "reading": "うれしそう",
+        "meaning": "looking happy, seeming happy"
+      }
+    ],
+    "grammar": "てんのよ - contracted form of ているのよ (continuous action + feminine emphasis); しなさいよ - imperative + feminine particle"
+  },
+  {
+    "start": "02:38",
+    "end": "02:43",
+    "text": "で、ここにいるんでしょ?もう一人 / 誰が?",
+    "audio_file": "clip_008.mp3",
+    "translation": "So, she's here, right? The other one / Who?",
+    "vocabulary": [
+      {
+        "word": "もう一人",
+        "reading": "もうひとり",
+        "meaning": "one more person, the other person"
+      }
+    ],
+    "grammar": "んでしょ - contracted form of のでしょう (seeking confirmation)"
+  },
+  {
+    "start": "02:43",
+    "end": "02:49",
+    "text": "あんたバカ?ファーストチルドレーに決まってるじゃない / ああ、綾波なら",
+    "audio_file": "clip_009.mp3",
+    "translation": "Are you stupid? It's obviously the First Children / Oh, if you mean Ayanami...",
+    "vocabulary": [
+      {
+        "word": "バカ",
+        "reading": "ばか",
+        "meaning": "stupid, idiot"
+      },
+      {
+        "word": "決まってる",
+        "reading": "きまってる",
+        "meaning": "it's decided, it's obvious"
+      },
+      {
+        "word": "ファーストチルドレー",
+        "reading": "ふぁーすとちるどれー",
+        "meaning": "First Children (Eva pilot designation)"
+      }
+    ],
+    "grammar": "に決まってるじゃない - it's obviously..., it must be... (strong assertion)"
+  },
+  {
+    "start": "02:57",
+    "end": "03:04",
+    "text": "ハロー! / あなたが綾波レイね、プロトタイプのパイロット",
+    "audio_file": "clip_010.mp3",
+    "translation": "Hello! / You're Ayanami Rei, right? The prototype's pilot",
+    "vocabulary": [
+      {
+        "word": "プロトタイプ",
+        "reading": "ぷろとたいぷ",
+        "meaning": "prototype"
+      },
+      {
+        "word": "パイロット",
+        "reading": "ぱいろっと",
+        "meaning": "pilot"
+      }
+    ],
+    "grammar": "ね - sentence-final particle seeking confirmation or agreement"
+  },
+  {
+    "start": "03:05",
+    "end": "03:16",
+    "text": "私、アスカ、双流アスカラングレー / エヴァ2号機のパイロット / 仲良くしましょう / どうして? / その方が都合がいいからよ / いろいろとね",
+    "audio_file": "clip_011.mp3",
+    "translation": "I'm Asuka, Soryu Asuka Langley / Pilot of Eva Unit-02 / Let's be friends / Why? / Because it's more convenient that way / In various ways",
+    "vocabulary": [
+      {
+        "word": "仲良く",
+        "reading": "なかよく",
+        "meaning": "friendly, on good terms"
+      },
+      {
+        "word": "都合",
+        "reading": "つごう",
+        "meaning": "convenience, circumstances"
+      },
+      {
+        "word": "いろいろと",
+        "reading": "いろいろと",
+        "meaning": "in various ways, variously"
+      }
+    ],
+    "grammar": "しましょう - volitional form (let's...); 方が - comparative (more...)"
+  },
+  {
+    "start": "03:17",
+    "end": "03:26",
+    "text": "命令があればそうするわ / 変わったかねえ / ほんま、エヴァのパイロットって / 変わり者が選ばれるんちゃうか?",
+    "audio_file": "clip_012.mp3",
+    "translation": "If there's an order, I'll do so / She's odd, isn't she? / Seriously, Eva pilots... / Aren't they all weirdos who get selected?",
+    "vocabulary": [
+      {
+        "word": "命令",
+        "reading": "めいれい",
+        "meaning": "order, command"
+      },
+      {
+        "word": "変わり者",
+        "reading": "かわりもの",
+        "meaning": "odd person, eccentric"
+      },
+      {
+        "word": "選ばれる",
+        "reading": "えらばれる",
+        "meaning": "to be chosen, to be selected"
+      },
+      {
+        "word": "ちゃうか",
+        "reading": "ちゃうか",
+        "meaning": "isn't it? (Kansai dialect for じゃないか)"
+      }
+    ],
+    "grammar": "があれば - conditional (if there is...); んちゃうか - Kansai dialect conjecture (standard: のではないか)"
+  },
+  {
+    "start": "03:34",
+    "end": "03:43",
+    "text": "少し痩せたかな / そう / 悲しい恋をしてるからだ / どうして / そんなことがわかるの",
+    "audio_file": "clip_013.mp3",
+    "translation": "Have you lost a little weight? / Really? / It's because you're having a sad romance / How do you / know something like that?",
+    "vocabulary": [
+      {
+        "word": "痩せる",
+        "reading": "やせる",
+        "meaning": "to lose weight, to become thin"
+      },
+      {
+        "word": "恋",
+        "reading": "こい",
+        "meaning": "love, romance"
+      },
+      {
+        "word": "悲しい",
+        "reading": "かなしい",
+        "meaning": "sad, sorrowful"
+      }
+    ],
+    "grammar": "たかな - past tense + かな (wondering if...); からだ - explanatory (it's because...)"
+  },
+  {
+    "start": "03:44",
+    "end": "03:49",
+    "text": "それはね / 涙の通り道にほくろのある人は",
+    "audio_file": "clip_014.mp3",
+    "translation": "Well, you see / People who have a mole on the path of tears...",
+    "vocabulary": [
+      {
+        "word": "涙",
+        "reading": "なみだ",
+        "meaning": "tears"
+      },
+      {
+        "word": "通り道",
+        "reading": "とおりみち",
+        "meaning": "path, passageway"
+      },
+      {
+        "word": "ほくろ",
+        "reading": "ほくろ",
+        "meaning": "mole (on skin)"
+      }
+    ],
+    "grammar": "それはね - explanatory opening (well, you see...); にある - existence at a location"
+  },
+  {
+    "start": "03:49",
+    "end": "03:57",
+    "text": "一生泣き続ける運命にあるからだよ / これからくどくつもり / でもダメよ / 怖い お姉さんが見ているわ",
+    "audio_file": "clip_015.mp3",
+    "translation": "...are destined to cry for their entire lives / Are you planning to hit on her now? / But that's no good / A scary big sister is watching",
+    "vocabulary": [
+      {
+        "word": "一生",
+        "reading": "いっしょう",
+        "meaning": "lifetime, whole life"
+      },
+      {
+        "word": "泣き続ける",
+        "reading": "なきつづける",
+        "meaning": "to keep crying"
+      },
+      {
+        "word": "運命",
+        "reading": "うんめい",
+        "meaning": "fate, destiny"
+      },
+      {
+        "word": "くどく",
+        "reading": "くどく",
+        "meaning": "to court, to woo, to hit on"
+      }
+    ],
+    "grammar": "にある - to be in a state of; つもり - intention (planning to...)"
+  },
+  {
+    "start": "03:59",
+    "end": "04:04",
+    "text": "お久しぶり カジ君 / いや しばらく",
+    "audio_file": "clip_016.mp3",
+    "translation": "Long time no see, Kaji-kun / Yeah, it's been a while",
+    "vocabulary": [
+      {
+        "word": "お久しぶり",
+        "reading": "おひさしぶり",
+        "meaning": "long time no see"
+      },
+      {
+        "word": "しばらく",
+        "reading": "しばらく",
+        "meaning": "a while, some time"
+      }
+    ],
+    "grammar": "お久しぶり - polite greeting for meeting after a long time (full form: お久しぶりです)"
+  },
+  {
+    "start": "04:04",
+    "end": "04:16",
+    "text": "しかし カジ君も意外とうかつね / こいつのバカは相変わらずなのよ / あんた 2号機の引き渡し済んだんなら さっさと帰りなさいよ / 今朝 執行の事例が届いたね",
+    "audio_file": "clip_017.mp3",
+    "translation": "However, Kaji-kun, you're surprisingly careless / This idiot is as foolish as ever / If you've finished the Unit-02 handover, hurry up and go home / The assignment notice arrived this morning",
+    "vocabulary": [
+      {
+        "word": "意外と",
+        "reading": "いがいと",
+        "meaning": "unexpectedly, surprisingly"
+      },
+      {
+        "word": "うかつ",
+        "reading": "うかつ",
+        "meaning": "careless, thoughtless"
+      },
+      {
+        "word": "相変わらず",
+        "reading": "あいかわらず",
+        "meaning": "as always, as ever"
+      },
+      {
+        "word": "引き渡し",
+        "reading": "ひきわたし",
+        "meaning": "handover, delivery"
+      },
+      {
+        "word": "執行",
+        "reading": "しっこう",
+        "meaning": "execution, assignment"
+      }
+    ],
+    "grammar": "済んだんなら - conditional (if...has finished); さっさと - quickly, hurriedly (onomatopoeia)"
+  },
+  {
+    "start": "04:16",
+    "end": "04:25",
+    "text": "ここに居続けだよ / また3人でつるめるな / 昔みたいに / 誰があんたなんかと / 敵襲!?",
+    "audio_file": "clip_018.mp3",
+    "translation": "I'll be staying here / We can hang out together again, the three of us / Just like the old days / Who would hang out with you? / Enemy attack!?",
+    "vocabulary": [
+      {
+        "word": "居続ける",
+        "reading": "いつづける",
+        "meaning": "to continue staying, to remain"
+      },
+      {
+        "word": "つるむ",
+        "reading": "つるむ",
+        "meaning": "to hang out together, to stick together"
+      },
+      {
+        "word": "昔",
+        "reading": "むかし",
+        "meaning": "old days, the past"
+      },
+      {
+        "word": "敵襲",
+        "reading": "てきしゅう",
+        "meaning": "enemy attack"
+      }
+    ],
+    "grammar": "続ける - continuation verb; みたいに - like, similar to; なんかと - dismissive particle (with someone like...)"
+  },
+  {
+    "start": "04:25",
+    "end": "04:37",
+    "text": "警戒中の巡洋艦、春名寄りに入電。我、キー半島を聞いて巨大な閃光物体を発見。データを送る。 / 受信データを称号。波長パターン青。湿度確認。",
+    "audio_file": "clip_019.mp3",
+    "translation": "Message from patrol cruiser Haruna. Detected massive luminescent object approaching Kii Peninsula. Sending data. / Analyzing received data. Wave pattern blue. Confirming Angel.",
+    "vocabulary": [
+      {
+        "word": "警戒",
+        "reading": "けいかい",
+        "meaning": "vigilance, alert"
+      },
+      {
+        "word": "巡洋艦",
+        "reading": "じゅんようかん",
+        "meaning": "cruiser (naval vessel)"
+      },
+      {
+        "word": "入電",
+        "reading": "にゅうでん",
+        "meaning": "incoming message, telegram received"
+      },
+      {
+        "word": "閃光",
+        "reading": "せんこう",
+        "meaning": "flash, luminescence"
+      },
+      {
+        "word": "波長",
+        "reading": "はちょう",
+        "meaning": "wavelength"
+      }
+    ],
+    "grammar": "中の - in the middle of (doing); を聞いて - te-form of 聞く used for sequential action"
+  },
+  {
+    "start": "04:37",
+    "end": "04:40",
+    "text": "総員、第一種戦闘配置。",
+    "audio_file": "clip_020.mp3",
+    "translation": "All hands, battle stations first class.",
+    "vocabulary": [
+      {
+        "word": "総員",
+        "reading": "そういん",
+        "meaning": "all hands, all personnel"
+      },
+      {
+        "word": "第一種",
+        "reading": "だいいっしゅ",
+        "meaning": "first class, type one"
+      },
+      {
+        "word": "戦闘配置",
+        "reading": "せんとうはいち",
+        "meaning": "battle stations"
+      }
+    ],
+    "grammar": "Military command structure - noun phrases without particles for brevity"
+  },
+  {
+    "start": "04:43",
+    "end": "04:50",
+    "text": "さきの戦闘によって第三神闘教師の迎撃システムは大きなダメージを受け",
+    "audio_file": "clip_021.mp3",
+    "translation": "Due to the previous battle, Tokyo-3's intercept system suffered major damage",
+    "vocabulary": [
+      {
+        "word": "さきの",
+        "reading": "さきの",
+        "meaning": "previous, earlier"
+      },
+      {
+        "word": "戦闘",
+        "reading": "せんとう",
+        "meaning": "battle, combat"
+      },
+      {
+        "word": "迎撃",
+        "reading": "げいげき",
+        "meaning": "intercept, interception"
+      },
+      {
+        "word": "ダメージ",
+        "reading": "だめーじ",
+        "meaning": "damage"
+      }
+    ],
+    "grammar": "によって - by means of, due to; を受け - te-form of 受ける (to receive)"
+  },
+  {
+    "start": "04:50",
+    "end": "04:56",
+    "text": "現在までの復旧率は26% / 実戦における稼働率はゼロと言っていいわ",
+    "audio_file": "clip_022.mp3",
+    "translation": "Recovery rate to date is 26% / The operational rate in actual combat can be said to be zero",
+    "vocabulary": [
+      {
+        "word": "復旧率",
+        "reading": "ふっきゅうりつ",
+        "meaning": "recovery rate, restoration rate"
+      },
+      {
+        "word": "実戦",
+        "reading": "じっせん",
+        "meaning": "actual combat"
+      },
+      {
+        "word": "稼働率",
+        "reading": "かどうりつ",
+        "meaning": "operational rate, availability rate"
+      }
+    ],
+    "grammar": "における - in, at (formal); と言っていい - can say that, it's fair to say"
+  },
+  {
+    "start": "04:56",
+    "end": "05:02",
+    "text": "したがって今回は上陸直前の目標を水際で一気に叩く",
+    "audio_file": "clip_023.mp3",
+    "translation": "Therefore, this time we'll strike the target at the water's edge in one blow just before it lands",
+    "vocabulary": [
+      {
+        "word": "したがって",
+        "reading": "したがって",
+        "meaning": "therefore, accordingly"
+      },
+      {
+        "word": "上陸",
+        "reading": "じょうりく",
+        "meaning": "landing (on shore)"
+      },
+      {
+        "word": "直前",
+        "reading": "ちょくぜん",
+        "meaning": "just before, immediately before"
+      },
+      {
+        "word": "水際",
+        "reading": "みずぎわ",
+        "meaning": "water's edge, shoreline"
+      },
+      {
+        "word": "一気に",
+        "reading": "いっきに",
+        "meaning": "in one go, at once"
+      }
+    ],
+    "grammar": "直前の - immediately before; で - location particle; に - adverbial particle with 一気"
+  },
+  {
+    "start": "05:02",
+    "end": "05:09",
+    "text": "初号機並びに2号機は交互に目標に対し波状攻撃 / 近接戦闘で行くわよ / 了解",
+    "audio_file": "clip_024.mp3",
+    "translation": "Unit-01 and Unit-02 will conduct alternating wave attacks against the target / We'll go with close combat / Roger",
+    "vocabulary": [
+      {
+        "word": "並びに",
+        "reading": "ならびに",
+        "meaning": "and, as well as (formal)"
+      },
+      {
+        "word": "交互に",
+        "reading": "こうごに",
+        "meaning": "alternately, in turn"
+      },
+      {
+        "word": "波状攻撃",
+        "reading": "はじょうこうげき",
+        "meaning": "wave attack"
+      },
+      {
+        "word": "近接戦闘",
+        "reading": "きんせつせんとう",
+        "meaning": "close combat, close-quarters combat"
+      },
+      {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning": "roger, understood"
+      }
+    ],
+    "grammar": "に対し - toward, against; で行く - to go with, to proceed with"
+  }
+]
