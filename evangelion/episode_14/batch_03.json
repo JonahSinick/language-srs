@@ -1,0 +1,277 @@
+[
+  {
+    "start": "14:18",
+    "end": "14:23",
+    "text": "シンクロ率はほぼ0号機の時と変わらないわね",
+    "audio_file": "clip_042.mp3",
+    "translation": "Her sync rate is almost the same as when she was in Unit-00.",
+    "vocabulary": [
+      {"word": "シンクロ率", "reading": "シンクロりつ", "meaning": "synchronization rate"},
+      {"word": "変わらない", "reading": "かわらない", "meaning": "unchanged, the same"},
+      {"word": "ほぼ", "reading": "ほぼ", "meaning": "almost, nearly"}
+    ],
+    "grammar": "The sentence-final particle 'わね' is feminine speech, combining 'わ' (assertion) with 'ね' (seeking agreement)."
+  },
+  {
+    "start": "14:23",
+    "end": "14:30",
+    "text": "パーソナルパターンも酷似してますからね / 0号機と初号機 / だからこそシンクロ可能なのよ",
+    "audio_file": "clip_043.mp3",
+    "translation": "The personal patterns are also very similar. Unit-00 and Unit-01. That's precisely why synchronization is possible.",
+    "vocabulary": [
+      {"word": "酷似", "reading": "こくじ", "meaning": "close resemblance, striking similarity"},
+      {"word": "だからこそ", "reading": "だからこそ", "meaning": "precisely because, that's exactly why"},
+      {"word": "可能", "reading": "かのう", "meaning": "possible, feasible"}
+    ],
+    "grammar": "'だからこそ' emphasizes causation - 'precisely because of that'. 'なのよ' is feminine explanatory ending."
+  },
+  {
+    "start": "14:30",
+    "end": "14:35",
+    "text": "誤差プラスマイナス0.03 / ハーモニクスは正常です",
+    "audio_file": "clip_044.mp3",
+    "translation": "Error margin plus or minus 0.03. Harmonics are normal.",
+    "vocabulary": [
+      {"word": "誤差", "reading": "ごさ", "meaning": "error, margin of error"},
+      {"word": "正常", "reading": "せいじょう", "meaning": "normal, healthy"},
+      {"word": "ハーモニクス", "reading": "ハーモニクス", "meaning": "harmonics"}
+    ],
+    "grammar": "Technical reporting style using direct noun phrases without verbs, common in operational contexts."
+  },
+  {
+    "start": "14:35",
+    "end": "14:45",
+    "text": "0と初号機の互換性に問題点は検出されず / ではテスト終了 / レイ、上がっていいわよ / はい",
+    "audio_file": "clip_045.mp3",
+    "translation": "No problems detected in the compatibility between Unit-00 and Unit-01. Test complete. Rei, you can come up now. Yes.",
+    "vocabulary": [
+      {"word": "互換性", "reading": "ごかんせい", "meaning": "compatibility, interchangeability"},
+      {"word": "検出", "reading": "けんしゅつ", "meaning": "detection"},
+      {"word": "上がる", "reading": "あがる", "meaning": "to go up, to come out"}
+    ],
+    "grammar": "'検出されず' uses the literary negative form 'ず' instead of 'ない', common in formal reports."
+  },
+  {
+    "start": "14:54",
+    "end": "15:03",
+    "text": "2号機のデータバンク、終了 / ハーモニクス、すべて正常地 / パイロット、異常なし / あったりまえでしょ",
+    "audio_file": "clip_046.mp3",
+    "translation": "Unit-02 data bank complete. Harmonics all normal. Pilot, no abnormalities. Of course!",
+    "vocabulary": [
+      {"word": "異常", "reading": "いじょう", "meaning": "abnormality, anomaly"},
+      {"word": "当たり前", "reading": "あたりまえ", "meaning": "natural, obvious, of course"},
+      {"word": "終了", "reading": "しゅうりょう", "meaning": "end, completion"}
+    ],
+    "grammar": "'あったりまえでしょ' is a casual/emphatic form of 'あたりまえ', expressing confidence that something is obvious."
+  },
+  {
+    "start": "15:06",
+    "end": "15:14",
+    "text": "0号機のパーソナルデータは? / 書き換えはすでに終了しています。現在再確認中。",
+    "audio_file": "clip_047.mp3",
+    "translation": "What about Unit-00's personal data? The rewrite has already been completed. Currently re-verifying.",
+    "vocabulary": [
+      {"word": "書き換え", "reading": "かきかえ", "meaning": "rewriting, overwriting"},
+      {"word": "すでに", "reading": "すでに", "meaning": "already"},
+      {"word": "再確認", "reading": "さいかくにん", "meaning": "reconfirmation, re-verification"}
+    ],
+    "grammar": "'中' (ちゅう) attached to nouns indicates 'in the middle of' or 'currently doing'."
+  },
+  {
+    "start": "15:14",
+    "end": "15:20",
+    "text": "被験者は? / 若干の緊張が見られますが、神経パターンに問題なし。",
+    "audio_file": "clip_048.mp3",
+    "translation": "How about the test subject? Some tension is observed, but no problems with the neural pattern.",
+    "vocabulary": [
+      {"word": "被験者", "reading": "ひけんしゃ", "meaning": "test subject, examinee"},
+      {"word": "若干", "reading": "じゃっかん", "meaning": "some, a little"},
+      {"word": "緊張", "reading": "きんちょう", "meaning": "tension, nervousness"}
+    ],
+    "grammar": "'見られる' is the passive/potential form of 'miru', here meaning 'can be observed/is observed'."
+  },
+  {
+    "start": "15:20",
+    "end": "15:25",
+    "text": "初めての0号機。他のエヴァですもの、無理ないわよ。",
+    "audio_file": "clip_049.mp3",
+    "translation": "It's his first time in Unit-00. It's a different Eva, so it's understandable.",
+    "vocabulary": [
+      {"word": "初めて", "reading": "はじめて", "meaning": "first time"},
+      {"word": "無理ない", "reading": "むりない", "meaning": "understandable, no wonder"},
+      {"word": "他", "reading": "ほか", "meaning": "other, another"}
+    ],
+    "grammar": "'ですもの' is a feminine explanatory expression giving reason, similar to 'because it is'. 'わよ' is feminine assertion."
+  },
+  {
+    "start": "15:25",
+    "end": "15:30",
+    "text": "バカね。そんなの気にせずに / 気楽にやればいいのに。",
+    "audio_file": "clip_050.mp3",
+    "translation": "What an idiot. He shouldn't worry about that. He should just relax and do it.",
+    "vocabulary": [
+      {"word": "気にする", "reading": "きにする", "meaning": "to worry about, to mind"},
+      {"word": "気楽", "reading": "きらく", "meaning": "carefree, relaxed"},
+      {"word": "バカ", "reading": "バカ", "meaning": "idiot, fool"}
+    ],
+    "grammar": "'ばいいのに' expresses a wish or suggestion that something should be done differently, often with mild frustration."
+  },
+  {
+    "start": "15:30",
+    "end": "15:35",
+    "text": "それができない子なのよ、シンジ君は。 / 知ってるわ。だからバカなのよ。",
+    "audio_file": "clip_051.mp3",
+    "translation": "He's the kind of kid who can't do that, Shinji is. I know. That's why he's an idiot.",
+    "vocabulary": [
+      {"word": "子", "reading": "こ", "meaning": "child, kid (informal reference to a person)"},
+      {"word": "知ってる", "reading": "しってる", "meaning": "to know (casual form)"},
+      {"word": "だから", "reading": "だから", "meaning": "that's why, therefore"}
+    ],
+    "grammar": "Placing the subject 'シンジ君は' at the end is a topic-fronting style that adds emphasis or clarification."
+  },
+  {
+    "start": "15:36",
+    "end": "15:42",
+    "text": "ところで、あの二人の機体交換テスト、私は参加しなくていいの?",
+    "audio_file": "clip_052.mp3",
+    "translation": "By the way, I don't need to participate in those two's unit swap test?",
+    "vocabulary": [
+      {"word": "機体", "reading": "きたい", "meaning": "aircraft/mecha body, unit"},
+      {"word": "交換", "reading": "こうかん", "meaning": "exchange, swap"},
+      {"word": "参加", "reading": "さんか", "meaning": "participation"}
+    ],
+    "grammar": "'しなくていい' means 'don't have to do'. Adding 'の?' makes it a question seeking confirmation."
+  },
+  {
+    "start": "15:42",
+    "end": "15:46",
+    "text": "どうせアスカは2号機以外乗る気ないでしょ?",
+    "audio_file": "clip_053.mp3",
+    "translation": "You don't feel like piloting anything other than Unit-02 anyway, right?",
+    "vocabulary": [
+      {"word": "どうせ", "reading": "どうせ", "meaning": "anyway, after all"},
+      {"word": "以外", "reading": "いがい", "meaning": "other than, except"},
+      {"word": "乗る気", "reading": "のるき", "meaning": "inclination to ride/pilot"}
+    ],
+    "grammar": "'乗る気ない' combines the noun 'noru ki' (will to ride) with 'nai' to express lack of desire."
+  },
+  {
+    "start": "15:46",
+    "end": "15:53",
+    "text": "まあ、そりゃそうだわ / 確かに、エヴァ2号機の互換性、聞かないわね",
+    "audio_file": "clip_054.mp3",
+    "translation": "Well, that's true. Indeed, you don't hear about Unit-02's compatibility.",
+    "vocabulary": [
+      {"word": "確かに", "reading": "たしかに", "meaning": "certainly, indeed"},
+      {"word": "互換性", "reading": "ごかんせい", "meaning": "compatibility"},
+      {"word": "そりゃ", "reading": "そりゃ", "meaning": "that (casual contraction of それは)"}
+    ],
+    "grammar": "'聞かない' in this context means 'one doesn't hear about' - a general statement about common knowledge."
+  },
+  {
+    "start": "15:53",
+    "end": "15:59",
+    "text": "エントリースタートしました! / LCL電化、第一次接続開始!",
+    "audio_file": "clip_055.mp3",
+    "translation": "Entry started! LCL electrification, first-stage connection initiated!",
+    "vocabulary": [
+      {"word": "電化", "reading": "でんか", "meaning": "electrification"},
+      {"word": "接続", "reading": "せつぞく", "meaning": "connection"},
+      {"word": "開始", "reading": "かいし", "meaning": "start, beginning"}
+    ],
+    "grammar": "Technical announcement style using '第一次' (first stage/primary) as an ordinal modifier."
+  },
+  {
+    "start": "15:59",
+    "end": "16:11",
+    "text": "どう、シンジ君、0号機のエントリープラグは? / なんだか、変な気分です / 違和感があるのかしら? / いや、ただ… / 綾波の匂いがする / 何が匂いよ!",
+    "audio_file": "clip_056.mp3",
+    "translation": "How is it, Shinji? The Unit-00 entry plug? / Somehow, I feel strange. / Is there some discomfort? / No, just... / It smells like Ayanami. / What do you mean smell!",
+    "vocabulary": [
+      {"word": "変な", "reading": "へんな", "meaning": "strange, weird"},
+      {"word": "気分", "reading": "きぶん", "meaning": "feeling, mood"},
+      {"word": "違和感", "reading": "いわかん", "meaning": "sense of discomfort, feeling something is off"},
+      {"word": "匂い", "reading": "におい", "meaning": "smell, scent"}
+    ],
+    "grammar": "'かしら' is a feminine wondering/questioning particle, softer than 'かな'."
+  },
+  {
+    "start": "16:12",
+    "end": "16:20",
+    "text": "変態じゃないの? / データ受信再確認! / パターンクリーン! / 主電源接続完了! / 各校則問題なし! / 了解!",
+    "audio_file": "clip_057.mp3",
+    "translation": "Isn't he a pervert? / Data reception reconfirmed! / Pattern clean! / Main power connection complete! / All systems, no problems! / Roger!",
+    "vocabulary": [
+      {"word": "変態", "reading": "へんたい", "meaning": "pervert, weirdo"},
+      {"word": "受信", "reading": "じゅしん", "meaning": "reception (of data/signals)"},
+      {"word": "了解", "reading": "りょうかい", "meaning": "understood, roger"}
+    ],
+    "grammar": "'じゃないの?' is a rhetorical question implying 'isn't he?' with mild accusation."
+  },
+  {
+    "start": "16:20",
+    "end": "16:24",
+    "text": "では総合感テスト、セカンドステージへ行こう!",
+    "audio_file": "clip_058.mp3",
+    "translation": "Alright, let's proceed to the second stage of the comprehensive sensitivity test!",
+    "vocabulary": [
+      {"word": "総合", "reading": "そうごう", "meaning": "comprehensive, overall"},
+      {"word": "感", "reading": "かん", "meaning": "sense, feeling"},
+      {"word": "行く", "reading": "いく", "meaning": "to go, to proceed"}
+    ],
+    "grammar": "'行こう' is the volitional form meaning 'let's go', used here to announce moving forward."
+  },
+  {
+    "start": "16:24",
+    "end": "16:31",
+    "text": "0号機、第二次コンタクトに入ります / どう? / やはり初号機ほどのシンクロ率は出ないわね",
+    "audio_file": "clip_059.mp3",
+    "translation": "Unit-00 entering second-stage contact. / How is it? / As expected, he can't achieve the same sync rate as with Unit-01.",
+    "vocabulary": [
+      {"word": "第二次", "reading": "だいにじ", "meaning": "second stage, secondary"},
+      {"word": "やはり", "reading": "やはり", "meaning": "as expected, after all"},
+      {"word": "ほど", "reading": "ほど", "meaning": "as much as, to the extent of"}
+    ],
+    "grammar": "'ほど' after a noun indicates comparison - 'to the extent of' or 'as much as'. 'は出ない' means 'doesn't come out/achieve'."
+  },
+  {
+    "start": "16:31",
+    "end": "16:35",
+    "text": "ハーモニクス、すべて正常位置",
+    "audio_file": "clip_060.mp3",
+    "translation": "Harmonics, all at normal positions.",
+    "vocabulary": [
+      {"word": "すべて", "reading": "すべて", "meaning": "all, everything"},
+      {"word": "正常", "reading": "せいじょう", "meaning": "normal"},
+      {"word": "位置", "reading": "いち", "meaning": "position, location"}
+    ],
+    "grammar": "Elliptical technical reporting - full sentence would be 'ハーモニクスはすべて正常位置にあります'."
+  },
+  {
+    "start": "16:35",
+    "end": "16:41",
+    "text": "これであの計画遂行できるわね / ダミーシステムですか",
+    "audio_file": "clip_061.mp3",
+    "translation": "With this, we can carry out that plan. / The dummy system?",
+    "vocabulary": [
+      {"word": "計画", "reading": "けいかく", "meaning": "plan, project"},
+      {"word": "遂行", "reading": "すいこう", "meaning": "execution, carrying out"},
+      {"word": "ダミー", "reading": "ダミー", "meaning": "dummy"}
+    ],
+    "grammar": "'これで' means 'with this' or 'now that this is done', indicating a condition being met."
+  },
+  {
+    "start": "16:41",
+    "end": "16:50",
+    "text": "先輩の前ですけど私はあまり / 感心しないのはわかるわ / しかし備えは常に必要なのよ / 人が生きていくためにはね",
+    "audio_file": "clip_062.mp3",
+    "translation": "With all due respect to my senior, I don't really... / I know you're not impressed. / But preparation is always necessary. / For people to go on living.",
+    "vocabulary": [
+      {"word": "先輩", "reading": "せんぱい", "meaning": "senior, superior"},
+      {"word": "感心", "reading": "かんしん", "meaning": "admiration, being impressed"},
+      {"word": "備え", "reading": "そなえ", "meaning": "preparation, provision"},
+      {"word": "常に", "reading": "つねに", "meaning": "always, constantly"}
+    ],
+    "grammar": "'ためには' indicates purpose - 'in order to' or 'for the sake of'. Combined with 'ていく' (to continue doing)."
+  }
+]

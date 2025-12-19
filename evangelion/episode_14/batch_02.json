@@ -1,0 +1,279 @@
+[
+  {
+    "start": "11:21",
+    "end": "11:27",
+    "text": "マギのレコーダーを調べてくださっても結構です。その事実は記録されておりません。",
+    "audio_file": "clip_021.mp3",
+    "translation": "You're welcome to examine MAGI's recorder. That fact is not recorded.",
+    "vocabulary": [
+      {"word": "調べる", "reading": "しらべる", "meaning": "to investigate, to examine"},
+      {"word": "結構", "reading": "けっこう", "meaning": "fine, acceptable (here: 'feel free to')"},
+      {"word": "事実", "reading": "じじつ", "meaning": "fact, truth"},
+      {"word": "記録", "reading": "きろく", "meaning": "record, documentation"}
+    ],
+    "grammar": "~てくださっても結構です is a polite way of saying 'you may do X' or 'feel free to do X', combining the te-form with 結構 (acceptable)."
+  },
+  {
+    "start": "11:27",
+    "end": "11:32",
+    "text": "笑わせるな。事実の隠蔽は君のお箱ではないか。",
+    "audio_file": "clip_022.mp3",
+    "translation": "Don't make me laugh. Covering up facts is your specialty, isn't it?",
+    "vocabulary": [
+      {"word": "笑わせる", "reading": "わらわせる", "meaning": "to make someone laugh (causative)"},
+      {"word": "隠蔽", "reading": "いんぺい", "meaning": "concealment, cover-up"},
+      {"word": "お箱", "reading": "おはこ", "meaning": "one's forte, specialty, trademark"}
+    ],
+    "grammar": "~ではないか is a rhetorical question form meaning 'isn't it?' or 'is it not?', used to make an accusation or strong assertion."
+  },
+  {
+    "start": "11:32",
+    "end": "11:41",
+    "text": "タイムスケジュールは司会文書の記述通りに進んでおります。 / まあいい。 / 今回の君の罪と責任は言及しない。",
+    "audio_file": "clip_023.mp3",
+    "translation": "The time schedule is proceeding according to the Dead Sea Scrolls' description. / Very well. / We won't mention your guilt and responsibility this time.",
+    "vocabulary": [
+      {"word": "記述", "reading": "きじゅつ", "meaning": "description, statement"},
+      {"word": "通り", "reading": "とおり", "meaning": "according to, as"},
+      {"word": "罪", "reading": "つみ", "meaning": "crime, sin, guilt"},
+      {"word": "責任", "reading": "せきにん", "meaning": "responsibility"},
+      {"word": "言及", "reading": "げんきゅう", "meaning": "reference, mention"}
+    ],
+    "grammar": "~通りに means 'according to' or 'as per', indicating something follows a pattern or plan exactly."
+  },
+  {
+    "start": "11:41",
+    "end": "11:49",
+    "text": "だが、君が新たなシナリオを作る必要はない。 / わかっております",
+    "audio_file": "clip_024.mp3",
+    "translation": "However, there's no need for you to create a new scenario. / I understand.",
+    "vocabulary": [
+      {"word": "新た", "reading": "あらた", "meaning": "new, fresh"},
+      {"word": "必要", "reading": "ひつよう", "meaning": "necessity, need"},
+      {"word": "わかる", "reading": "わかる", "meaning": "to understand"}
+    ],
+    "grammar": "~必要はない means 'there is no need to do X'. おります is the humble form of います, showing respect to the listener."
+  },
+  {
+    "start": "11:49",
+    "end": "11:53",
+    "text": "すべてはゼーレのシナリオ通りに",
+    "audio_file": "clip_025.mp3",
+    "translation": "Everything according to SEELE's scenario.",
+    "vocabulary": [
+      {"word": "すべて", "reading": "すべて", "meaning": "everything, all"},
+      {"word": "通り", "reading": "とおり", "meaning": "according to, as"}
+    ],
+    "grammar": "This is an incomplete sentence ending with 通りに, implying 'will proceed' or 'must go'. This trailing style adds dramatic weight."
+  },
+  {
+    "start": "12:02",
+    "end": "12:08",
+    "text": "山 重い山 時間をかけて変わるもの",
+    "audio_file": "clip_026.mp3",
+    "translation": "Mountain. Heavy mountain. Something that changes over time.",
+    "vocabulary": [
+      {"word": "山", "reading": "やま", "meaning": "mountain"},
+      {"word": "重い", "reading": "おもい", "meaning": "heavy"},
+      {"word": "時間をかける", "reading": "じかんをかける", "meaning": "to take time, to spend time"}
+    ],
+    "grammar": "もの at the end nominalizes the preceding clause, turning 'changes over time' into 'something that changes over time'."
+  },
+  {
+    "start": "12:09",
+    "end": "12:17",
+    "text": "空 青い空 目に見えないもの / 目に見えるもの",
+    "audio_file": "clip_027.mp3",
+    "translation": "Sky. Blue sky. Something invisible. / Something visible.",
+    "vocabulary": [
+      {"word": "空", "reading": "そら", "meaning": "sky"},
+      {"word": "青い", "reading": "あおい", "meaning": "blue"},
+      {"word": "目に見える", "reading": "めにみえる", "meaning": "visible, can be seen"}
+    ],
+    "grammar": "目に見える/見えない is an idiomatic expression meaning 'visible/invisible to the eye', using potential form of 見る."
+  },
+  {
+    "start": "12:17",
+    "end": "12:30",
+    "text": "太陽 / 一つしかないもの / 水 / 気持ちのいいこと / 怒り知れ / 花 / 同じものがいっぱい",
+    "audio_file": "clip_028.mp3",
+    "translation": "Sun. / Something there's only one of. / Water. / Something pleasant. / Commander Ikari. / Flower. / Many of the same thing.",
+    "vocabulary": [
+      {"word": "太陽", "reading": "たいよう", "meaning": "sun"},
+      {"word": "気持ちいい", "reading": "きもちいい", "meaning": "pleasant, feels good"},
+      {"word": "同じ", "reading": "おなじ", "meaning": "same"},
+      {"word": "いっぱい", "reading": "いっぱい", "meaning": "many, lots of, full"}
+    ],
+    "grammar": "~しかない means 'only', expressing limitation. When combined with counters like 一つ, it emphasizes uniqueness."
+  },
+  {
+    "start": "12:30",
+    "end": "12:43",
+    "text": "いらないものもいっぱい / 空 / 赤い赤い空 / 赤い色 / 赤い色は嫌い / 流れる水 / 血",
+    "audio_file": "clip_029.mp3",
+    "translation": "Lots of unnecessary things too. / Sky. / Red, red sky. / Red color. / I hate red. / Flowing water. / Blood.",
+    "vocabulary": [
+      {"word": "いらない", "reading": "いらない", "meaning": "unnecessary, unwanted"},
+      {"word": "赤い", "reading": "あかい", "meaning": "red"},
+      {"word": "嫌い", "reading": "きらい", "meaning": "dislike, hate"},
+      {"word": "流れる", "reading": "ながれる", "meaning": "to flow"},
+      {"word": "血", "reading": "ち", "meaning": "blood"}
+    ],
+    "grammar": "Repeating adjectives (赤い赤い) is used for emphasis, creating a poetic or intense feeling."
+  },
+  {
+    "start": "12:43",
+    "end": "12:49",
+    "text": "血の匂い / 血を流さない女 / 赤い土から作られた人間",
+    "audio_file": "clip_030.mp3",
+    "translation": "The smell of blood. / A woman who doesn't bleed. / Humans made from red earth.",
+    "vocabulary": [
+      {"word": "匂い", "reading": "におい", "meaning": "smell, scent"},
+      {"word": "流す", "reading": "ながす", "meaning": "to shed, to let flow"},
+      {"word": "土", "reading": "つち", "meaning": "earth, soil"},
+      {"word": "作られた", "reading": "つくられた", "meaning": "was made (passive)"}
+    ],
+    "grammar": "~から作られた uses passive form to express 'made from', indicating the material origin of something."
+  },
+  {
+    "start": "12:49",
+    "end": "12:52",
+    "text": "男と女から作られた人間",
+    "audio_file": "clip_031.mp3",
+    "translation": "Humans made from man and woman.",
+    "vocabulary": [
+      {"word": "男", "reading": "おとこ", "meaning": "man, male"},
+      {"word": "女", "reading": "おんな", "meaning": "woman, female"},
+      {"word": "人間", "reading": "にんげん", "meaning": "human being"}
+    ],
+    "grammar": "AとBから creates a compound source meaning 'from A and B together'."
+  },
+  {
+    "start": "12:52",
+    "end": "13:01",
+    "text": "街 / 人の作り出したもの / エヴァ / 人の作り出したもの / 人は何?",
+    "audio_file": "clip_032.mp3",
+    "translation": "City. / Something created by humans. / Eva. / Something created by humans. / What are humans?",
+    "vocabulary": [
+      {"word": "街", "reading": "まち", "meaning": "town, city, street"},
+      {"word": "作り出す", "reading": "つくりだす", "meaning": "to create, to produce, to bring forth"}
+    ],
+    "grammar": "作り出す is a compound verb (作る + 出す) meaning 'to create/produce', with 出す adding the nuance of bringing something into existence."
+  },
+  {
+    "start": "13:01",
+    "end": "13:12",
+    "text": "神様が作り出したもの / 人は人が作り出したもの / 私にあるものは命 / 心 / 心の入れ物 / エントリープラグ",
+    "audio_file": "clip_033.mp3",
+    "translation": "Something created by God. / Humans are something created by humans. / What I have is life. / Heart. / A container for the heart. / Entry plug.",
+    "vocabulary": [
+      {"word": "神様", "reading": "かみさま", "meaning": "God, deity"},
+      {"word": "命", "reading": "いのち", "meaning": "life"},
+      {"word": "心", "reading": "こころ", "meaning": "heart, mind, spirit"},
+      {"word": "入れ物", "reading": "いれもの", "meaning": "container, receptacle"}
+    ],
+    "grammar": "~にあるもの means 'something that exists in/belongs to X', expressing possession or attribution."
+  },
+  {
+    "start": "13:12",
+    "end": "13:24",
+    "text": "それは魂の座 / これは誰 / これは私 / 私は誰 / 私は何 / 私は何 / 私は何 / 私は何",
+    "audio_file": "clip_034.mp3",
+    "translation": "That is the seat of the soul. / Who is this? / This is me. / Who am I? / What am I? / What am I? / What am I? / What am I?",
+    "vocabulary": [
+      {"word": "魂", "reading": "たましい", "meaning": "soul, spirit"},
+      {"word": "座", "reading": "ざ", "meaning": "seat, place, position"},
+      {"word": "誰", "reading": "だれ", "meaning": "who"}
+    ],
+    "grammar": "The repetition of 私は何 creates an existential questioning effect, a rhetorical device emphasizing inner turmoil and loss of identity."
+  },
+  {
+    "start": "13:24",
+    "end": "13:33",
+    "text": "私は自分 / この物体が自分 / 自分を作っている形 / 目に見える私",
+    "audio_file": "clip_035.mp3",
+    "translation": "I am myself. / This object is myself. / The form that makes up myself. / The visible me.",
+    "vocabulary": [
+      {"word": "自分", "reading": "じぶん", "meaning": "oneself, myself"},
+      {"word": "物体", "reading": "ぶったい", "meaning": "object, physical body"},
+      {"word": "形", "reading": "かたち", "meaning": "form, shape"}
+    ],
+    "grammar": "~を作っている uses the progressive form to describe an ongoing state of 'making up' or 'constituting' something."
+  },
+  {
+    "start": "13:33",
+    "end": "13:37",
+    "text": "でも私が私でない感じ / とても変",
+    "audio_file": "clip_036.mp3",
+    "translation": "But a feeling that I am not me. / Very strange.",
+    "vocabulary": [
+      {"word": "感じ", "reading": "かんじ", "meaning": "feeling, sensation"},
+      {"word": "変", "reading": "へん", "meaning": "strange, weird, odd"}
+    ],
+    "grammar": "~でない is the plain negative copula form, creating 'not being X'. 私が私でない is a philosophical expression of alienation from self."
+  },
+  {
+    "start": "13:37",
+    "end": "13:47",
+    "text": "体が溶けていく感じ / 私がわからなくなる / 私の形が消えていく / 私でない人を感じる",
+    "audio_file": "clip_037.mp3",
+    "translation": "A feeling of my body melting away. / I'm becoming unable to understand myself. / My form is disappearing. / I sense someone who is not me.",
+    "vocabulary": [
+      {"word": "体", "reading": "からだ", "meaning": "body"},
+      {"word": "溶ける", "reading": "とける", "meaning": "to melt, to dissolve"},
+      {"word": "消える", "reading": "きえる", "meaning": "to disappear, to vanish"},
+      {"word": "感じる", "reading": "かんじる", "meaning": "to feel, to sense"}
+    ],
+    "grammar": "~ていく expresses gradual change moving away from the present state, often implying loss or fading."
+  },
+  {
+    "start": "13:47",
+    "end": "14:00",
+    "text": "誰かいるのこの先に / イカリ君 / この人知ってる / カツラギさんさ / 赤木博士 / みんな / クラスメイト / 2号機パイロット",
+    "audio_file": "clip_038.mp3",
+    "translation": "Is someone there ahead? / Ikari-kun. / I know this person. / Katsuragi-san. / Dr. Akagi. / Everyone. / Classmates. / The Unit-02 pilot.",
+    "vocabulary": [
+      {"word": "誰か", "reading": "だれか", "meaning": "someone"},
+      {"word": "先", "reading": "さき", "meaning": "ahead, beyond, future"},
+      {"word": "知る", "reading": "しる", "meaning": "to know"},
+      {"word": "博士", "reading": "はかせ", "meaning": "doctor, PhD"}
+    ],
+    "grammar": "~の at the end of 誰かいるの makes it a gentle question, softer than using か alone."
+  },
+  {
+    "start": "14:00",
+    "end": "14:07",
+    "text": "イカリ司令 / あなた誰 / あなた誰 / あなた誰",
+    "audio_file": "clip_039.mp3",
+    "translation": "Commander Ikari. / Who are you? / Who are you? / Who are you?",
+    "vocabulary": [
+      {"word": "司令", "reading": "しれい", "meaning": "commander"},
+      {"word": "あなた", "reading": "あなた", "meaning": "you"}
+    ],
+    "grammar": "The repeated あなた誰 (dropping は/が) shows stream-of-consciousness speech, typical of internal monologue in anime."
+  },
+  {
+    "start": "14:07",
+    "end": "14:12",
+    "text": "どう触れ / 初めて乗った消防機は",
+    "audio_file": "clip_040.mp3",
+    "translation": "How strange. / The first time I rode in Unit-01...",
+    "vocabulary": [
+      {"word": "初めて", "reading": "はじめて", "meaning": "for the first time"},
+      {"word": "乗る", "reading": "のる", "meaning": "to ride, to get on, to board"}
+    ],
+    "grammar": "初めて + past verb describes doing something for the first time. The trailing は leaves the sentence incomplete, creating suspense."
+  },
+  {
+    "start": "14:12",
+    "end": "14:16",
+    "text": "イカリ君の匂いが / する",
+    "audio_file": "clip_041.mp3",
+    "translation": "It smells like... / Ikari-kun.",
+    "vocabulary": [
+      {"word": "匂い", "reading": "におい", "meaning": "smell, scent"},
+      {"word": "する", "reading": "する", "meaning": "to do; (with 匂い) to smell of"}
+    ],
+    "grammar": "匂いがする is an idiomatic expression meaning 'there is a smell of' or 'it smells like'. The subject (what smells) is marked by の."
+  }
+]

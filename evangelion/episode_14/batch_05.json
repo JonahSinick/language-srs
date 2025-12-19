@@ -1,0 +1,260 @@
+[
+  {
+    "start": "19:50",
+    "end": "19:56",
+    "text": "0号機が殴りたかったのは 私ね 間違いなく",
+    "audio_file": "clip_084.mp3",
+    "translation": "The one Unit 00 wanted to hit was me, without a doubt.",
+    "vocabulary": [
+      {"word": "殴る", "reading": "なぐる", "meaning": "to hit, to punch, to strike"},
+      {"word": "間違いなく", "reading": "まちがいなく", "meaning": "without a doubt, certainly, definitely"}
+    ],
+    "grammar": "~たかった expresses past desire ('wanted to ~'). The のは...私 structure emphasizes that 'I' was the target."
+  },
+  {
+    "start": "19:56",
+    "end": "20:10",
+    "text": "それでは / 次のバンコクビックリさんは / 3の算数のできるワンちゃんの登場です / ああそれはすごい / はい新潟からお越しの天才ワンワンカナちゃんです / いいお返事ですね",
+    "audio_file": "clip_085.mp3",
+    "translation": "And now, next on Bangkok Surprise is the appearance of a puppy who can do arithmetic! Oh wow, that's amazing! Yes, from Niigata, the genius doggy Kana-chan! What a nice response!",
+    "vocabulary": [
+      {"word": "算数", "reading": "さんすう", "meaning": "arithmetic, math"},
+      {"word": "登場", "reading": "とうじょう", "meaning": "appearance (on stage), entrance"},
+      {"word": "天才", "reading": "てんさい", "meaning": "genius"},
+      {"word": "お越し", "reading": "おこし", "meaning": "coming, visiting (honorific)"}
+    ],
+    "grammar": "~からお越しの is an honorific expression meaning 'coming from ~', used in formal introductions."
+  },
+  {
+    "start": "20:10",
+    "end": "20:17",
+    "text": "言葉がわかるのかしら / あら本当に / では早速問題に答えてもらいましょうね",
+    "audio_file": "clip_086.mp3",
+    "translation": "I wonder if it understands words? Oh my, really! Well then, let's have it answer a question right away!",
+    "vocabulary": [
+      {"word": "言葉", "reading": "ことば", "meaning": "words, language"},
+      {"word": "早速", "reading": "さっそく", "meaning": "immediately, right away, at once"},
+      {"word": "問題", "reading": "もんだい", "meaning": "question, problem"}
+    ],
+    "grammar": "~のかしら is a feminine sentence-ending expressing wondering or uncertainty. ~てもらいましょう means 'let's have (someone) do ~'."
+  },
+  {
+    "start": "20:17",
+    "end": "20:21",
+    "text": "325324は",
+    "audio_file": "clip_087.mp3",
+    "translation": "325 minus 324 is...?",
+    "vocabulary": [
+      {"word": "引く", "reading": "ひく", "meaning": "to subtract (in math context)"}
+    ],
+    "grammar": "In Japanese math, 引く (hiku) means 'minus' or 'subtract'. Numbers are read digit by digit here."
+  },
+  {
+    "start": "20:21",
+    "end": "20:28",
+    "text": "す / っごい合ってます嫌 / だなまたこの天井だ",
+    "audio_file": "clip_088.mp3",
+    "translation": "(Dog barks) Amazing, that's correct! / Ugh, this ceiling again.",
+    "vocabulary": [
+      {"word": "すごい", "reading": "すごい", "meaning": "amazing, incredible"},
+      {"word": "合う", "reading": "あう", "meaning": "to be correct, to match"},
+      {"word": "天井", "reading": "てんじょう", "meaning": "ceiling"},
+      {"word": "嫌", "reading": "いや", "meaning": "unpleasant, disagreeable"}
+    ],
+    "grammar": "またこの天井だ is a callback to Shinji's recurring line when waking in hospital - 'this ceiling again' expressing resignation."
+  },
+  {
+    "start": "20:28",
+    "end": "20:33",
+    "text": "シンジ君の意識が戻りました / 汚染の後遺症はなし",
+    "audio_file": "clip_089.mp3",
+    "translation": "Shinji's consciousness has returned. No aftereffects from the contamination.",
+    "vocabulary": [
+      {"word": "意識", "reading": "いしき", "meaning": "consciousness, awareness"},
+      {"word": "戻る", "reading": "もどる", "meaning": "to return, to come back"},
+      {"word": "汚染", "reading": "おせん", "meaning": "contamination, pollution"},
+      {"word": "後遺症", "reading": "こういしょう", "meaning": "aftereffect, sequela"}
+    ],
+    "grammar": "~が戻りました is a polite past form reporting that something has returned/recovered."
+  },
+  {
+    "start": "20:33",
+    "end": "20:37",
+    "text": "彼自身は何も覚えてないそうです / そう",
+    "audio_file": "clip_090.mp3",
+    "translation": "He himself doesn't remember anything, apparently. / I see.",
+    "vocabulary": [
+      {"word": "自身", "reading": "じしん", "meaning": "oneself, himself"},
+      {"word": "覚える", "reading": "おぼえる", "meaning": "to remember, to memorize"}
+    ],
+    "grammar": "~そうです (hearsay) indicates reported information - 'I heard that ~' or 'apparently ~'."
+  },
+  {
+    "start": "20:40",
+    "end": "20:47",
+    "text": "ミサトもカジさんも教えてくれない / シンジは知りもしない",
+    "audio_file": "clip_091.mp3",
+    "translation": "Neither Misato nor Kaji will tell me. Shinji doesn't even know.",
+    "vocabulary": [
+      {"word": "教える", "reading": "おしえる", "meaning": "to teach, to tell, to inform"},
+      {"word": "知る", "reading": "しる", "meaning": "to know"}
+    ],
+    "grammar": "~も~も means 'neither ~ nor ~'. ~もしない is an emphatic negative meaning 'doesn't even ~'."
+  },
+  {
+    "start": "20:47",
+    "end": "20:51",
+    "text": "ファーストってどんな子なの?",
+    "audio_file": "clip_092.mp3",
+    "translation": "What kind of person is the First Child?",
+    "vocabulary": [
+      {"word": "ファースト", "reading": "ファースト", "meaning": "First (Child) - refers to Rei"},
+      {"word": "どんな", "reading": "どんな", "meaning": "what kind of"}
+    ],
+    "grammar": "~ってどんな is a casual way to ask 'what kind of ~ is it?' The って acts as a topic marker."
+  },
+  {
+    "start": "20:51",
+    "end": "20:58",
+    "text": "予定外の死と侵入 / その事実を知った人類補完委員会による突き上げか",
+    "audio_file": "clip_093.mp3",
+    "translation": "The unexpected Angel and intrusion. Pressure from the Human Instrumentality Committee who learned of these facts, huh.",
+    "vocabulary": [
+      {"word": "予定外", "reading": "よていがい", "meaning": "unscheduled, unexpected"},
+      {"word": "侵入", "reading": "しんにゅう", "meaning": "intrusion, invasion"},
+      {"word": "人類補完委員会", "reading": "じんるいほかんいいんかい", "meaning": "Human Instrumentality Committee"},
+      {"word": "突き上げ", "reading": "つきあげ", "meaning": "pressure (from below), pushing up"}
+    ],
+    "grammar": "~による means 'by ~' or 'due to ~', indicating the agent or cause."
+  },
+  {
+    "start": "20:58",
+    "end": "21:04",
+    "text": "ただ文句を言うことだけが仕事の / くだらない連中だがな",
+    "audio_file": "clip_094.mp3",
+    "translation": "They're just worthless people whose only job is to complain.",
+    "vocabulary": [
+      {"word": "文句", "reading": "もんく", "meaning": "complaint, objection"},
+      {"word": "仕事", "reading": "しごと", "meaning": "job, work"},
+      {"word": "くだらない", "reading": "くだらない", "meaning": "worthless, trivial, stupid"},
+      {"word": "連中", "reading": "れんちゅう", "meaning": "bunch (of people), group (often derogatory)"}
+    ],
+    "grammar": "~だけが仕事 means 'whose only job is ~'. The が emphasizes exclusivity."
+  },
+  {
+    "start": "21:04",
+    "end": "21:09",
+    "text": "切り札は全てこちらが用している / 彼らは何もできんよ",
+    "audio_file": "clip_095.mp3",
+    "translation": "We hold all the trump cards. They can't do anything.",
+    "vocabulary": [
+      {"word": "切り札", "reading": "きりふだ", "meaning": "trump card, ace"},
+      {"word": "用する", "reading": "ようする", "meaning": "to have, to possess, to prepare"}
+    ],
+    "grammar": "できん is a contracted, masculine form of できない (cannot do), giving a dismissive tone."
+  },
+  {
+    "start": "21:09",
+    "end": "21:21",
+    "text": "だからといってじらすこともあるまい / 今ゼーレが乗り出すと面倒だぞ / いろいろとな / 全て我々のシナリオ通りだ / 問題ない",
+    "audio_file": "clip_096.mp3",
+    "translation": "That said, there's no need to provoke them. It would be troublesome if SEELE gets involved now, in various ways. Everything is according to our scenario. No problem.",
+    "vocabulary": [
+      {"word": "じらす", "reading": "じらす", "meaning": "to tease, to tantalize, to provoke"},
+      {"word": "乗り出す", "reading": "のりだす", "meaning": "to get involved, to set out, to lean forward"},
+      {"word": "面倒", "reading": "めんどう", "meaning": "troublesome, bothersome"},
+      {"word": "シナリオ", "reading": "シナリオ", "meaning": "scenario, script"}
+    ],
+    "grammar": "~こともあるまい is a literary negative meaning 'there's no need to ~' or 'one shouldn't ~'."
+  },
+  {
+    "start": "21:21",
+    "end": "21:28",
+    "text": "ゼロ号機の事故はどうなんだ / 俺のシナリオにはないぞ、あれは / 支障はない",
+    "audio_file": "clip_097.mp3",
+    "translation": "What about the Unit 00 accident? That wasn't in my scenario. / There's no problem.",
+    "vocabulary": [
+      {"word": "事故", "reading": "じこ", "meaning": "accident, incident"},
+      {"word": "支障", "reading": "ししょう", "meaning": "hindrance, obstacle, problem"}
+    ],
+    "grammar": "~にはない means 'is not in ~'. The ぞ at the end adds masculine emphasis and mild assertion."
+  },
+  {
+    "start": "21:28",
+    "end": "21:32",
+    "text": "レイとゼロ号機の最新工路は成功している",
+    "audio_file": "clip_098.mp3",
+    "translation": "The re-synchronization between Rei and Unit 00 was successful.",
+    "vocabulary": [
+      {"word": "最新", "reading": "さいしん", "meaning": "latest, newest"},
+      {"word": "成功", "reading": "せいこう", "meaning": "success"}
+    ],
+    "grammar": "~している indicates a completed state that continues to be relevant - the sync was successful and remains so."
+  },
+  {
+    "start": "21:32",
+    "end": "21:37",
+    "text": "レイにこだわりすぎだな、イカリ / アダム計画はどうなんだ?",
+    "audio_file": "clip_099.mp3",
+    "translation": "You're too fixated on Rei, Ikari. How's the Adam Project going?",
+    "vocabulary": [
+      {"word": "こだわる", "reading": "こだわる", "meaning": "to be fixated on, to be particular about"},
+      {"word": "計画", "reading": "けいかく", "meaning": "plan, project"}
+    ],
+    "grammar": "~すぎ means 'too much ~' or 'excessively ~'. こだわりすぎ = too fixated/obsessed."
+  },
+  {
+    "start": "21:37",
+    "end": "21:46",
+    "text": "順調だ、2%も遅れていない / では、 / ロンギヌスの槍は? / 予定通りだ、作業はレイが行っている",
+    "audio_file": "clip_100.mp3",
+    "translation": "It's going smoothly, not even 2% behind schedule. / Then, what about the Lance of Longinus? / On schedule. Rei is handling the work.",
+    "vocabulary": [
+      {"word": "順調", "reading": "じゅんちょう", "meaning": "smooth, favorable, on track"},
+      {"word": "遅れる", "reading": "おくれる", "meaning": "to be late, to be delayed"},
+      {"word": "槍", "reading": "やり", "meaning": "spear, lance"},
+      {"word": "予定通り", "reading": "よていどおり", "meaning": "as scheduled, according to plan"}
+    ],
+    "grammar": "~も遅れていない with も emphasizes 'not even ~' - not delayed by even 2%."
+  },
+  {
+    "start": "23:07",
+    "end": "23:12",
+    "text": "友人が次々と結婚していく中、一人焦りを感じるミサト。",
+    "audio_file": "clip_101.mp3",
+    "translation": "As her friends get married one after another, Misato feels anxious being alone.",
+    "vocabulary": [
+      {"word": "友人", "reading": "ゆうじん", "meaning": "friend"},
+      {"word": "次々と", "reading": "つぎつぎと", "meaning": "one after another, in succession"},
+      {"word": "結婚", "reading": "けっこん", "meaning": "marriage"},
+      {"word": "焦り", "reading": "あせり", "meaning": "impatience, anxiety, rush"}
+    ],
+    "grammar": "~ていく中 means 'while ~ is happening' or 'amid ~'. It describes an ongoing background situation."
+  },
+  {
+    "start": "23:12",
+    "end": "23:19",
+    "text": "果たしてカジとの再会は彼女に与えられたラストチャンスなのか / 次回嘘と沈黙",
+    "audio_file": "clip_102.mp3",
+    "translation": "Could her reunion with Kaji be the last chance given to her? / Next episode: Lies and Silence.",
+    "vocabulary": [
+      {"word": "果たして", "reading": "はたして", "meaning": "really, actually, I wonder if"},
+      {"word": "再会", "reading": "さいかい", "meaning": "reunion, meeting again"},
+      {"word": "与える", "reading": "あたえる", "meaning": "to give, to grant"},
+      {"word": "沈黙", "reading": "ちんもく", "meaning": "silence"}
+    ],
+    "grammar": "果たして~のか is a rhetorical question structure meaning 'I wonder if ~' or 'could it really be that ~'."
+  },
+  {
+    "start": "23:38",
+    "end": "23:49",
+    "text": "ご視聴ありがとうございました",
+    "audio_file": "clip_103.mp3",
+    "translation": "Thank you for watching.",
+    "vocabulary": [
+      {"word": "視聴", "reading": "しちょう", "meaning": "viewing, watching (TV/video)"},
+      {"word": "ありがとうございました", "reading": "ありがとうございました", "meaning": "thank you (past tense, polite)"}
+    ],
+    "grammar": "ご~ is an honorific prefix. ありがとうございました uses past tense to thank for something that has been completed."
+  }
+]

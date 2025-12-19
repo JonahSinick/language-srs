@@ -1,0 +1,288 @@
+[
+  {
+    "start": "02:33",
+    "end": "02:36",
+    "text": "ご視聴ありがとうございました",
+    "audio_file": "clip_000.mp3",
+    "translation": "Thank you for watching.",
+    "vocabulary": [
+      {"word": "視聴", "reading": "しちょう", "meaning": "viewing, watching (TV/video)"},
+      {"word": "ありがとうございました", "reading": "ありがとうございました", "meaning": "thank you (past tense, formal)"}
+    ],
+    "grammar": "ご + noun + ありがとうございました is a polite expression of gratitude for someone's action."
+  },
+  {
+    "start": "02:58",
+    "end": "03:05",
+    "text": "水せしめた事実 光真嗣くんの功績は特質に値するものである",
+    "audio_file": "clip_001.mp3",
+    "translation": "The fact that [we achieved this result]... Shinji Ikari's achievements are worthy of special recognition.",
+    "vocabulary": [
+      {"word": "事実", "reading": "じじつ", "meaning": "fact, truth"},
+      {"word": "功績", "reading": "こうせき", "meaning": "achievement, meritorious deed"},
+      {"word": "特質", "reading": "とくしつ", "meaning": "special quality, characteristic"},
+      {"word": "値する", "reading": "あたいする", "meaning": "to be worth, to deserve"}
+    ],
+    "grammar": "~に値する (ni atai suru) means 'to be worthy of' or 'to deserve'. ものである adds formal assertion."
+  },
+  {
+    "start": "03:06",
+    "end": "03:16",
+    "text": "ただ作戦家としてはさらなる問題点を浮き彫りにし たたの反省点を残す苦渋の戦闘であった",
+    "audio_file": "clip_002.mp3",
+    "translation": "However, from a strategic standpoint, it was a bitter battle that brought further problems to light and left many points for reflection.",
+    "vocabulary": [
+      {"word": "作戦家", "reading": "さくせんか", "meaning": "strategist, tactician"},
+      {"word": "浮き彫り", "reading": "うきぼり", "meaning": "to bring to light, to highlight"},
+      {"word": "反省点", "reading": "はんせいてん", "meaning": "points for reflection/improvement"},
+      {"word": "苦渋", "reading": "くじゅう", "meaning": "bitterness, anguish"}
+    ],
+    "grammar": "~としては indicates 'from the perspective of' or 'as a'. であった is the formal past tense of である."
+  },
+  {
+    "start": "04:17",
+    "end": "04:24",
+    "text": "男の子は遠足気分で騒いでたし、私たちも怖いって感じはしませんでした。",
+    "audio_file": "clip_003.mp3",
+    "translation": "The boys were making noise like it was a field trip, and we didn't feel scared either.",
+    "vocabulary": [
+      {"word": "遠足", "reading": "えんそく", "meaning": "excursion, field trip"},
+      {"word": "気分", "reading": "きぶん", "meaning": "feeling, mood"},
+      {"word": "騒ぐ", "reading": "さわぐ", "meaning": "to make noise, to be rowdy"},
+      {"word": "怖い", "reading": "こわい", "meaning": "scary, frightening"}
+    ],
+    "grammar": "~って感じ is a casual way to express 'the feeling that~'. ~し at the end of a clause adds reasons in a listing manner."
+  },
+  {
+    "start": "05:54",
+    "end": "05:59",
+    "text": "怒りは何も言わないけど / あの時目標の下流手法から",
+    "audio_file": "clip_004.mp3",
+    "translation": "She doesn't say anything about her anger, but... at that time, from the target's downstream approach...",
+    "vocabulary": [
+      {"word": "怒り", "reading": "いかり", "meaning": "anger"},
+      {"word": "目標", "reading": "もくひょう", "meaning": "target, objective"},
+      {"word": "下流", "reading": "かりゅう", "meaning": "downstream, lower reaches"},
+      {"word": "手法", "reading": "しゅほう", "meaning": "technique, method"}
+    ],
+    "grammar": "けど at the end of a sentence implies there's more to say, creating a trailing thought or contrast."
+  },
+  {
+    "start": "06:00",
+    "end": "06:06",
+    "text": "ゼロ号機が身を挺して初号機を守ったんだと思う / いやそう確信する",
+    "audio_file": "clip_005.mp3",
+    "translation": "I think Unit-00 protected Unit-01 at the risk of its own body... No, I'm certain of it.",
+    "vocabulary": [
+      {"word": "身を挺する", "reading": "みをていする", "meaning": "to risk one's life, to sacrifice oneself"},
+      {"word": "守る", "reading": "まもる", "meaning": "to protect, to defend"},
+      {"word": "確信", "reading": "かくしん", "meaning": "conviction, certainty"},
+      {"word": "号機", "reading": "ごうき", "meaning": "unit number (for machines)"}
+    ],
+    "grammar": "~んだと思う expresses an explanatory thought. いや is used to correct or strengthen a previous statement."
+  },
+  {
+    "start": "06:06",
+    "end": "06:10",
+    "text": "その理由は一つ / 綾波だ",
+    "audio_file": "clip_006.mp3",
+    "translation": "There's only one reason for that: Ayanami.",
+    "vocabulary": [
+      {"word": "理由", "reading": "りゆう", "meaning": "reason, cause"},
+      {"word": "一つ", "reading": "ひとつ", "meaning": "one (thing)"},
+      {"word": "綾波", "reading": "あやなみ", "meaning": "Ayanami (character name)"}
+    ],
+    "grammar": "The structure 'X は Y だ' makes a definitive statement. Using a short sentence after a setup creates dramatic emphasis."
+  },
+  {
+    "start": "06:10",
+    "end": "06:15",
+    "text": "綾波は自分の存在を気迫に感じているように見えるからだ",
+    "audio_file": "clip_007.mp3",
+    "translation": "Because Ayanami seems to feel her own existence as something fragile/precarious.",
+    "vocabulary": [
+      {"word": "存在", "reading": "そんざい", "meaning": "existence, being"},
+      {"word": "気迫", "reading": "きはく", "meaning": "spirit, vigor (possibly mishearing for 希薄 kihaku - thin/weak)"},
+      {"word": "感じる", "reading": "かんじる", "meaning": "to feel, to sense"}
+    ],
+    "grammar": "~ように見える means 'it appears that~' or 'seems like~'. からだ at the end explains the reason."
+  },
+  {
+    "start": "06:15",
+    "end": "06:21",
+    "text": "ペシミズムとも違う何かを彼女はすでに持っていると思う",
+    "audio_file": "clip_008.mp3",
+    "translation": "I think she already possesses something different from pessimism.",
+    "vocabulary": [
+      {"word": "ペシミズム", "reading": "ペシミズム", "meaning": "pessimism"},
+      {"word": "違う", "reading": "ちがう", "meaning": "to be different"},
+      {"word": "すでに", "reading": "すでに", "meaning": "already"},
+      {"word": "持つ", "reading": "もつ", "meaning": "to have, to possess"}
+    ],
+    "grammar": "~とも違う means 'different from even~'. The particle を marks 何か as the object of 持っている."
+  },
+  {
+    "start": "06:21",
+    "end": "06:24",
+    "text": "同じ14歳とは思えないほどに",
+    "audio_file": "clip_009.mp3",
+    "translation": "To such an extent that you wouldn't think she's the same age - fourteen.",
+    "vocabulary": [
+      {"word": "同じ", "reading": "おなじ", "meaning": "same"},
+      {"word": "歳", "reading": "さい", "meaning": "years old"},
+      {"word": "思える", "reading": "おもえる", "meaning": "to be able to think, to seem"},
+      {"word": "ほど", "reading": "ほど", "meaning": "to the extent that"}
+    ],
+    "grammar": "~とは思えないほど expresses 'to such a degree that one cannot believe~'. に at the end emphasizes the extent."
+  },
+  {
+    "start": "06:30",
+    "end": "06:35",
+    "text": "シナリオから少し離れた事件だな",
+    "audio_file": "clip_010.mp3",
+    "translation": "This incident deviated slightly from the scenario.",
+    "vocabulary": [
+      {"word": "シナリオ", "reading": "シナリオ", "meaning": "scenario, script"},
+      {"word": "離れる", "reading": "はなれる", "meaning": "to separate, to deviate"},
+      {"word": "事件", "reading": "じけん", "meaning": "incident, event"}
+    ],
+    "grammar": "~から離れる means 'to deviate from~'. だな is a masculine sentence-ending particle expressing reflection or confirmation."
+  },
+  {
+    "start": "06:35",
+    "end": "06:40",
+    "text": "しかし結果は予測範囲内です / 修正は聞きます",
+    "audio_file": "clip_011.mp3",
+    "translation": "However, the results are within the predicted range. Corrections are possible.",
+    "vocabulary": [
+      {"word": "結果", "reading": "けっか", "meaning": "result, outcome"},
+      {"word": "予測", "reading": "よそく", "meaning": "prediction, forecast"},
+      {"word": "範囲", "reading": "はんい", "meaning": "range, scope"},
+      {"word": "修正", "reading": "しゅうせい", "meaning": "correction, amendment"}
+    ],
+    "grammar": "~範囲内 means 'within the range of~'. 聞く here likely means 'to be effective' or 'to work' (as in corrections being feasible)."
+  },
+  {
+    "start": "07:30",
+    "end": "07:43",
+    "text": "この遭遇戦で国連海 / 軍は全艦艇の三分の一を失った / 失ったのは君の国の船だろう / 本来は取りに足らん出来事だ / さよう",
+    "audio_file": "clip_012.mp3",
+    "translation": "In this encounter, the UN Navy lost one-third of all its vessels. / The ships lost were from your country, weren't they? / Originally, it's a trivial matter. / Indeed.",
+    "vocabulary": [
+      {"word": "遭遇戦", "reading": "そうぐうせん", "meaning": "encounter battle"},
+      {"word": "艦艇", "reading": "かんてい", "meaning": "naval vessels, warships"},
+      {"word": "三分の一", "reading": "さんぶんのいち", "meaning": "one-third"},
+      {"word": "取るに足らない", "reading": "とるにたらない", "meaning": "trivial, insignificant"}
+    ],
+    "grammar": "~分の一 is the fraction pattern (X parts of one). 取るに足らん is a classical/masculine form of 取るに足らない."
+  },
+  {
+    "start": "07:43",
+    "end": "07:47",
+    "text": "その程度で済んだのはまたしても幸運だよ",
+    "audio_file": "clip_013.mp3",
+    "translation": "That it ended with only that much damage is, once again, fortunate.",
+    "vocabulary": [
+      {"word": "程度", "reading": "ていど", "meaning": "degree, extent"},
+      {"word": "済む", "reading": "すむ", "meaning": "to be finished, to get by with"},
+      {"word": "またしても", "reading": "またしても", "meaning": "once again, yet again"},
+      {"word": "幸運", "reading": "こううん", "meaning": "good fortune, luck"}
+    ],
+    "grammar": "~で済む means 'to get by with~' or 'to be settled with~'. のは nominalizes the preceding clause."
+  },
+  {
+    "start": "08:04",
+    "end": "08:07",
+    "text": "次回予告",
+    "audio_file": "clip_014.mp3",
+    "translation": "Next episode preview.",
+    "vocabulary": [
+      {"word": "次回", "reading": "じかい", "meaning": "next time, next episode"},
+      {"word": "予告", "reading": "よこく", "meaning": "preview, advance notice"}
+    ],
+    "grammar": "A compound noun formed by combining 次回 (next time) and 予告 (preview). Common in TV/anime format."
+  },
+  {
+    "start": "10:45",
+    "end": "10:54",
+    "text": "これは…早すぎる / 西洋 使徒がネルフ本部に侵入するとは予定外だよ",
+    "audio_file": "clip_015.mp3",
+    "translation": "This is... too early. / It was unexpected for an Angel to infiltrate NERV headquarters.",
+    "vocabulary": [
+      {"word": "早すぎる", "reading": "はやすぎる", "meaning": "too early, too fast"},
+      {"word": "使徒", "reading": "しと", "meaning": "Angel (in Evangelion), apostle"},
+      {"word": "侵入", "reading": "しんにゅう", "meaning": "infiltration, intrusion"},
+      {"word": "予定外", "reading": "よていがい", "meaning": "unscheduled, unexpected"}
+    ],
+    "grammar": "~すぎる attached to adjective stems means 'too~'. ~とは emphasizes surprise at the stated fact."
+  },
+  {
+    "start": "10:54",
+    "end": "10:58",
+    "text": "もして セントラルドグマへの侵入を許すとはな",
+    "audio_file": "clip_016.mp3",
+    "translation": "To think that we allowed infiltration into Central Dogma...",
+    "vocabulary": [
+      {"word": "セントラルドグマ", "reading": "セントラルドグマ", "meaning": "Central Dogma (NERV's deepest level)"},
+      {"word": "侵入", "reading": "しんにゅう", "meaning": "infiltration, intrusion"},
+      {"word": "許す", "reading": "ゆるす", "meaning": "to allow, to permit"}
+    ],
+    "grammar": "~とは(な) expresses surprise or disbelief at what happened. The trailing な adds emotional weight."
+  },
+  {
+    "start": "10:58",
+    "end": "11:03",
+    "text": "もし接触が起これば 全ての計画が水泡と化したところだ",
+    "audio_file": "clip_017.mp3",
+    "translation": "If contact had occurred, all our plans would have come to nothing.",
+    "vocabulary": [
+      {"word": "接触", "reading": "せっしょく", "meaning": "contact, touch"},
+      {"word": "起こる", "reading": "おこる", "meaning": "to occur, to happen"},
+      {"word": "計画", "reading": "けいかく", "meaning": "plan, project"},
+      {"word": "水泡に帰す", "reading": "すいほうにきす", "meaning": "to come to nothing, to be wasted"}
+    ],
+    "grammar": "~ば...ところだ expresses 'if X had happened, Y would have resulted'. 水泡と化す means 'to turn into bubbles' (become nothing)."
+  },
+  {
+    "start": "11:03",
+    "end": "11:09",
+    "text": "委員会への報告は誤報 使徒侵入の事実はありませんが",
+    "audio_file": "clip_018.mp3",
+    "translation": "The report to the committee was a false alarm. There was no fact of Angel infiltration, but...",
+    "vocabulary": [
+      {"word": "委員会", "reading": "いいんかい", "meaning": "committee"},
+      {"word": "報告", "reading": "ほうこく", "meaning": "report"},
+      {"word": "誤報", "reading": "ごほう", "meaning": "false report, misinformation"},
+      {"word": "事実", "reading": "じじつ", "meaning": "fact, truth"}
+    ],
+    "grammar": "~への indicates direction/recipient of an action. が at the end suggests a contrast or continuation is coming."
+  },
+  {
+    "start": "11:09",
+    "end": "11:15",
+    "text": "では イカリ 第11使徒侵入の事実はないというのだな",
+    "audio_file": "clip_019.mp3",
+    "translation": "So then, Ikari, you're saying there was no fact of the 11th Angel's infiltration?",
+    "vocabulary": [
+      {"word": "第", "reading": "だい", "meaning": "ordinal number prefix (the Nth)"},
+      {"word": "使徒", "reading": "しと", "meaning": "Angel, apostle"},
+      {"word": "侵入", "reading": "しんにゅう", "meaning": "infiltration"},
+      {"word": "事実", "reading": "じじつ", "meaning": "fact"}
+    ],
+    "grammar": "~というのだな is a formal/stern way to confirm what someone is claiming. では signals a logical follow-up."
+  },
+  {
+    "start": "11:15",
+    "end": "11:21",
+    "text": "はい / おやべりたまえ、イカリ君。この席での偽証は真に値するぞ。",
+    "audio_file": "clip_020.mp3",
+    "translation": "Yes. / Be careful what you say, Ikari. Perjury in this forum is punishable by death.",
+    "vocabulary": [
+      {"word": "偽証", "reading": "ぎしょう", "meaning": "perjury, false testimony"},
+      {"word": "席", "reading": "せき", "meaning": "seat, occasion, forum"},
+      {"word": "値する", "reading": "あたいする", "meaning": "to be worthy of, to deserve"},
+      {"word": "死", "reading": "し", "meaning": "death"}
+    ],
+    "grammar": "~たまえ is an archaic/formal imperative used by superiors. ~に値する means 'deserving of~'."
+  }
+]
