@@ -1,0 +1,375 @@
+[
+  {
+    "start": "14:01",
+    "end": "14:08",
+    "text": "仕方がないよそんなの / ふん、なーにがうわーいよ、大げさによろこんだりしちゃってさ",
+    "audio_file": "clip_082.mp3",
+    "translation": "It can't be helped. / Hmph, what's with all that 'yay' stuff, getting all excited like that.",
+    "vocabulary": [
+      {"word": "仕方がない", "reading": "しかたがない", "meaning": "it can't be helped, there's no choice"},
+      {"word": "大げさ", "reading": "おおげさ", "meaning": "exaggerated, over the top"},
+      {"word": "喜ぶ", "reading": "よろこぶ", "meaning": "to be happy, to rejoice"}
+    ],
+    "grammar": "~たりする indicates doing things like X, often with a critical or dismissive nuance when combined with ~ちゃって (casual contraction of ~てしまって)."
+  },
+  {
+    "start": "14:08",
+    "end": "14:12",
+    "text": "それでミサトさんが気持ちよく指揮できるなら、いいじゃないか",
+    "audio_file": "clip_083.mp3",
+    "translation": "If that lets Misato-san command comfortably, then isn't it fine?",
+    "vocabulary": [
+      {"word": "気持ちよく", "reading": "きもちよく", "meaning": "comfortably, pleasantly"},
+      {"word": "指揮", "reading": "しき", "meaning": "command, direction"},
+      {"word": "できる", "reading": "できる", "meaning": "to be able to do"}
+    ],
+    "grammar": "~なら indicates a conditional 'if', and ~じゃないか is a rhetorical question implying 'isn't it fine?'"
+  },
+  {
+    "start": "14:12",
+    "end": "14:16",
+    "text": "さてと、せっかくご馳走してくれるって言うんだもの",
+    "audio_file": "clip_084.mp3",
+    "translation": "Well then, since she's going out of her way to treat us...",
+    "vocabulary": [
+      {"word": "さてと", "reading": "さてと", "meaning": "well then, now then"},
+      {"word": "せっかく", "reading": "せっかく", "meaning": "with effort, specially, going out of one's way"},
+      {"word": "ご馳走する", "reading": "ごちそうする", "meaning": "to treat someone to a meal"}
+    ],
+    "grammar": "~んだもの is a feminine sentence-ending particle expressing reason or justification, similar to ~んだから."
+  },
+  {
+    "start": "14:16",
+    "end": "14:25",
+    "text": "どこにしようかなと / あんたも今度は一緒に来るのよ / 私、行かない / どうして?",
+    "audio_file": "clip_085.mp3",
+    "translation": "I wonder where we should go... / You're coming with us this time too. / I'm not going. / Why not?",
+    "vocabulary": [
+      {"word": "今度", "reading": "こんど", "meaning": "this time, next time"},
+      {"word": "一緒", "reading": "いっしょ", "meaning": "together"},
+      {"word": "行く", "reading": "いく", "meaning": "to go"}
+    ],
+    "grammar": "~かな(と) expresses wondering or deliberation. ~のよ is a feminine assertive sentence ending."
+  },
+  {
+    "start": "14:25",
+    "end": "14:31",
+    "text": "肉、嫌いだもの / 下による電波拡大のため、目標を喪失",
+    "audio_file": "clip_086.mp3",
+    "translation": "I don't like meat. / Due to electromagnetic interference below, we've lost the target.",
+    "vocabulary": [
+      {"word": "肉", "reading": "にく", "meaning": "meat"},
+      {"word": "嫌い", "reading": "きらい", "meaning": "dislike, hate"},
+      {"word": "電波", "reading": "でんぱ", "meaning": "radio waves, electromagnetic waves"},
+      {"word": "喪失", "reading": "そうしつ", "meaning": "loss, losing"}
+    ],
+    "grammar": "~だもの is a casual feminine ending expressing reason. ~のため expresses cause or reason in formal speech."
+  },
+  {
+    "start": "14:32",
+    "end": "14:40",
+    "text": "正確な位置の測定ができないけど、ロスト直前までのデータから、マギア算出した落下予想地点が、これよ。",
+    "audio_file": "clip_087.mp3",
+    "translation": "We can't measure the exact position, but based on data up until just before we lost it, this is the predicted landing point that MAGI calculated.",
+    "vocabulary": [
+      {"word": "正確", "reading": "せいかく", "meaning": "accurate, precise"},
+      {"word": "測定", "reading": "そくてい", "meaning": "measurement"},
+      {"word": "算出", "reading": "さんしゅつ", "meaning": "calculation, computation"},
+      {"word": "落下", "reading": "らっか", "meaning": "fall, descent"},
+      {"word": "予想", "reading": "よそう", "meaning": "prediction, forecast"}
+    ],
+    "grammar": "~直前まで means 'until just before ~'. The particle から indicates the source of information."
+  },
+  {
+    "start": "14:40",
+    "end": "14:45",
+    "text": "こんなに範囲が広いの?端っこまでずいぶんありますよ。",
+    "audio_file": "clip_088.mp3",
+    "translation": "The range is this wide? It's quite a distance to the edge.",
+    "vocabulary": [
+      {"word": "範囲", "reading": "はんい", "meaning": "range, scope, extent"},
+      {"word": "広い", "reading": "ひろい", "meaning": "wide, broad"},
+      {"word": "端っこ", "reading": "はしっこ", "meaning": "edge, corner (casual)"},
+      {"word": "ずいぶん", "reading": "ずいぶん", "meaning": "considerably, quite"}
+    ],
+    "grammar": "こんなに emphasizes degree ('this much'). The question particle の at the end expresses surprise or seeking confirmation."
+  },
+  {
+    "start": "14:45",
+    "end": "14:57",
+    "text": "目標のATフィールドをもってすれば、そのどこに落ちても本部を根こそぎえぐることができるわ。 / ですから、エヴァ全機をこれら3カ所に配置します。 / この配置の根拠は?",
+    "audio_file": "clip_089.mp3",
+    "translation": "With the target's AT Field, it could completely devastate headquarters no matter where it lands within that area. / Therefore, we'll position all EVA units at these three locations. / What's the basis for this positioning?",
+    "vocabulary": [
+      {"word": "根こそぎ", "reading": "ねこそぎ", "meaning": "completely, from the roots"},
+      {"word": "えぐる", "reading": "えぐる", "meaning": "to gouge out, to scoop out"},
+      {"word": "配置", "reading": "はいち", "meaning": "positioning, deployment"},
+      {"word": "根拠", "reading": "こんきょ", "meaning": "basis, grounds, evidence"}
+    ],
+    "grammar": "~をもってすれば means 'if one uses/with'. どこに~ても means 'no matter where'."
+  },
+  {
+    "start": "14:57",
+    "end": "15:02",
+    "text": "勘よ。 / 勘? / そう、女の勘。",
+    "audio_file": "clip_090.mp3",
+    "translation": "Intuition. / Intuition? / That's right, a woman's intuition.",
+    "vocabulary": [
+      {"word": "勘", "reading": "かん", "meaning": "intuition, sixth sense"},
+      {"word": "女", "reading": "おんな", "meaning": "woman"}
+    ],
+    "grammar": "Short, emphatic statements using just nouns with よ for assertion. This is very direct speech."
+  },
+  {
+    "start": "15:02",
+    "end": "15:12",
+    "text": "なんたるアバウト、ますます奇跡ってのが遠くなっていくイメージね / ミサタさんのくじって、当たったことないんだ / ゲー",
+    "audio_file": "clip_091.mp3",
+    "translation": "How vague! I'm getting the image of a miracle becoming more and more distant. / Misato-san's lottery tickets have never won, huh. / Ugh!",
+    "vocabulary": [
+      {"word": "アバウト", "reading": "アバウト", "meaning": "vague, rough, approximate (from English 'about')"},
+      {"word": "奇跡", "reading": "きせき", "meaning": "miracle"},
+      {"word": "遠い", "reading": "とおい", "meaning": "far, distant"},
+      {"word": "くじ", "reading": "くじ", "meaning": "lottery, raffle"}
+    ],
+    "grammar": "なんたる is a classical/dramatic expression meaning 'what a ~!' ますます means 'more and more'. ~ってのが is casual for ~というのが."
+  },
+  {
+    "start": "15:12",
+    "end": "15:25",
+    "text": "ねえ / なによ / アスカはなぜエヴァン乗ってんの? / 決まってんじゃない、自分の才能を世の中に示すためよ / 自分の存在を? / まあ、似たようなもんね",
+    "audio_file": "clip_092.mp3",
+    "translation": "Hey / What? / Why do you pilot EVA, Asuka? / Isn't it obvious? To show my talent to the world. / Your existence? / Well, something like that.",
+    "vocabulary": [
+      {"word": "才能", "reading": "さいのう", "meaning": "talent, ability"},
+      {"word": "世の中", "reading": "よのなか", "meaning": "the world, society"},
+      {"word": "示す", "reading": "しめす", "meaning": "to show, to demonstrate"},
+      {"word": "存在", "reading": "そんざい", "meaning": "existence"},
+      {"word": "似た", "reading": "にた", "meaning": "similar"}
+    ],
+    "grammar": "決まってんじゃない is casual contraction of 決まっているじゃない ('isn't it decided/obvious'). ~ために expresses purpose."
+  },
+  {
+    "start": "15:25",
+    "end": "15:28",
+    "text": "あの子には聞かないの?",
+    "audio_file": "clip_093.mp3",
+    "translation": "Aren't you going to ask that girl?",
+    "vocabulary": [
+      {"word": "あの子", "reading": "あのこ", "meaning": "that child, that girl"},
+      {"word": "聞く", "reading": "きく", "meaning": "to ask, to listen"}
+    ],
+    "grammar": "~ないの? is a question form that can imply suggestion or mild surprise that the action isn't being taken."
+  },
+  {
+    "start": "15:28",
+    "end": "15:39",
+    "text": "アヤナミには、前聞いたんだ / うーん、仲のおよろしいこと / そんなんじゃないよ / シンジはどうなのよ / わからない",
+    "audio_file": "clip_094.mp3",
+    "translation": "I already asked Ayanami before. / Hmm, how close you two are. / It's not like that. / What about you, Shinji? / I don't know.",
+    "vocabulary": [
+      {"word": "前", "reading": "まえ", "meaning": "before, previously"},
+      {"word": "仲", "reading": "なか", "meaning": "relationship, terms (between people)"},
+      {"word": "よろしい", "reading": "よろしい", "meaning": "good, fine (polite/formal)"}
+    ],
+    "grammar": "仲のおよろしいこと is a sarcastic/teasing expression using formal およろしい ironically to comment on their closeness. ~んだ explains reason or background."
+  },
+  {
+    "start": "15:40",
+    "end": "15:46",
+    "text": "わからないって、あんたバカ? / そうかもしれない",
+    "audio_file": "clip_095.mp3",
+    "translation": "You don't know? Are you stupid? / Maybe I am.",
+    "vocabulary": [
+      {"word": "バカ", "reading": "バカ", "meaning": "idiot, stupid"},
+      {"word": "かもしれない", "reading": "かもしれない", "meaning": "might be, perhaps"}
+    ],
+    "grammar": "~って quotes what was just said, often with surprise or criticism. かもしれない expresses possibility or uncertainty."
+  },
+  {
+    "start": "15:48",
+    "end": "15:54",
+    "text": "本当にバカね / 落下予測時間まであと120 / 分です",
+    "audio_file": "clip_096.mp3",
+    "translation": "You really are an idiot. / 120 minutes until predicted fall time.",
+    "vocabulary": [
+      {"word": "本当に", "reading": "ほんとうに", "meaning": "really, truly"},
+      {"word": "落下", "reading": "らっか", "meaning": "fall, descent"},
+      {"word": "予測", "reading": "よそく", "meaning": "prediction, forecast"}
+    ],
+    "grammar": "~ね is a sentence-final particle seeking agreement or adding emphasis. まであと expresses 'X more until'."
+  },
+  {
+    "start": "15:54",
+    "end": "15:59",
+    "text": "みんなも退避して / ここは私一人でいいから",
+    "audio_file": "clip_097.mp3",
+    "translation": "Everyone evacuate too. / I'll be fine here alone.",
+    "vocabulary": [
+      {"word": "退避", "reading": "たいひ", "meaning": "evacuation, taking shelter"},
+      {"word": "一人", "reading": "ひとり", "meaning": "alone, one person"}
+    ],
+    "grammar": "~て is used as a soft command. ~でいい means 'it's fine with just ~'."
+  },
+  {
+    "start": "15:59",
+    "end": "16:07",
+    "text": "いや、これも仕事ですから / 子たちだけ危ない目には合わせらないっすよ / あの子たちは大丈夫",
+    "audio_file": "clip_098.mp3",
+    "translation": "No, this is also our job. / We can't let only the kids face danger. / Those kids will be fine.",
+    "vocabulary": [
+      {"word": "仕事", "reading": "しごと", "meaning": "work, job"},
+      {"word": "危ない目", "reading": "あぶないめ", "meaning": "dangerous situation"},
+      {"word": "合わせる", "reading": "あわせる", "meaning": "to make someone experience"},
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "safe, okay, all right"}
+    ],
+    "grammar": "~っすよ is casual/masculine contraction of ~ですよ. 目に合わせる means 'to make someone experience something (usually bad)'."
+  },
+  {
+    "start": "16:07",
+    "end": "16:13",
+    "text": "もしエヴァが大破しても / ATフィールドがあの子たちを守ってくれるわ",
+    "audio_file": "clip_099.mp3",
+    "translation": "Even if the EVA is completely destroyed, / the AT Field will protect those kids.",
+    "vocabulary": [
+      {"word": "大破", "reading": "たいは", "meaning": "complete destruction, badly damaged"},
+      {"word": "守る", "reading": "まもる", "meaning": "to protect, to guard"}
+    ],
+    "grammar": "もし~ても means 'even if'. ~てくれる indicates receiving a beneficial action."
+  },
+  {
+    "start": "16:13",
+    "end": "16:16",
+    "text": "エヴァの中が一番安全なのよ",
+    "audio_file": "clip_100.mp3",
+    "translation": "Inside the EVA is the safest place.",
+    "vocabulary": [
+      {"word": "中", "reading": "なか", "meaning": "inside"},
+      {"word": "一番", "reading": "いちばん", "meaning": "most, number one"},
+      {"word": "安全", "reading": "あんぜん", "meaning": "safe, safety"}
+    ],
+    "grammar": "~が一番 means '~ is the most'. ~なのよ is feminine emphasis with explanatory の."
+  },
+  {
+    "start": "16:21",
+    "end": "16:28",
+    "text": "シンジ君 / 昨日聞いてたわね / 私がどうしてネルフへ入ったのか",
+    "audio_file": "clip_101.mp3",
+    "translation": "Shinji-kun / You were listening yesterday, weren't you? / About why I joined NERV.",
+    "vocabulary": [
+      {"word": "昨日", "reading": "きのう", "meaning": "yesterday"},
+      {"word": "聞く", "reading": "きく", "meaning": "to listen, to hear"},
+      {"word": "入る", "reading": "はいる", "meaning": "to enter, to join"}
+    ],
+    "grammar": "~てたわね is feminine past progressive with confirmation-seeking ね. どうして~のか is an embedded question meaning 'why ~'."
+  },
+  {
+    "start": "16:28",
+    "end": "16:39",
+    "text": "私の父はね / 自分の研究、夢の中に生きる人だったわ / そんな父を許せなかった / 憎んで咲いたわ",
+    "audio_file": "clip_102.mp3",
+    "translation": "My father, you see / He was a person who lived in his own research, in his dreams. / I couldn't forgive that kind of father. / I hated him.",
+    "vocabulary": [
+      {"word": "父", "reading": "ちち", "meaning": "father"},
+      {"word": "研究", "reading": "けんきゅう", "meaning": "research"},
+      {"word": "夢", "reading": "ゆめ", "meaning": "dream"},
+      {"word": "許す", "reading": "ゆるす", "meaning": "to forgive"},
+      {"word": "憎む", "reading": "にくむ", "meaning": "to hate, to detest"}
+    ],
+    "grammar": "~の中に生きる means 'to live in/within ~'. ~だったわ is feminine past tense."
+  },
+  {
+    "start": "16:39",
+    "end": "16:47",
+    "text": "父さんと同じだ / 母や私、家族のことなど構ってくれなかった",
+    "audio_file": "clip_103.mp3",
+    "translation": "Just like my father. / He didn't care about mother or me, or the family at all.",
+    "vocabulary": [
+      {"word": "同じ", "reading": "おなじ", "meaning": "same"},
+      {"word": "母", "reading": "はは", "meaning": "mother"},
+      {"word": "家族", "reading": "かぞく", "meaning": "family"},
+      {"word": "構う", "reading": "かまう", "meaning": "to care about, to mind"}
+    ],
+    "grammar": "~と同じ means 'same as ~'. ~など dismissively lists things. ~てくれなかった indicates failure to do something for someone's benefit."
+  },
+  {
+    "start": "16:47",
+    "end": "16:58",
+    "text": "周りの人たちは繊細な人だと言ってたわ / でも本当は心の弱い / 現実から、私たち家族という現実から / 逃げてばかりいた人だったのよ",
+    "audio_file": "clip_104.mp3",
+    "translation": "People around him said he was a sensitive person. / But actually he was weak-hearted. / He was someone who was always running away from reality, from the reality of us, his family.",
+    "vocabulary": [
+      {"word": "周り", "reading": "まわり", "meaning": "surroundings, people around"},
+      {"word": "繊細", "reading": "せんさい", "meaning": "delicate, sensitive"},
+      {"word": "心", "reading": "こころ", "meaning": "heart, mind"},
+      {"word": "弱い", "reading": "よわい", "meaning": "weak"},
+      {"word": "現実", "reading": "げんじつ", "meaning": "reality"},
+      {"word": "逃げる", "reading": "にげる", "meaning": "to run away, to escape"}
+    ],
+    "grammar": "~てばかりいた means 'was always doing ~' with negative connotation. ~という modifies a noun with explanation."
+  },
+  {
+    "start": "16:58",
+    "end": "17:05",
+    "text": "子供みたいな人だったわ / 母が父と別れた時もすぐに賛成した",
+    "audio_file": "clip_105.mp3",
+    "translation": "He was like a child. / When my mother separated from my father, I immediately agreed.",
+    "vocabulary": [
+      {"word": "子供", "reading": "こども", "meaning": "child"},
+      {"word": "みたい", "reading": "みたい", "meaning": "like, similar to"},
+      {"word": "別れる", "reading": "わかれる", "meaning": "to separate, to part"},
+      {"word": "賛成", "reading": "さんせい", "meaning": "agreement, approval"}
+    ],
+    "grammar": "~みたいな means 'like ~, similar to ~'. ~た時 means 'when ~ happened'."
+  },
+  {
+    "start": "17:05",
+    "end": "17:09",
+    "text": "母はいつも泣いてばかりいたもの / 父はショックだったみたいだけど",
+    "audio_file": "clip_106.mp3",
+    "translation": "Mother was always crying, after all. / Father seemed to be shocked, though.",
+    "vocabulary": [
+      {"word": "泣く", "reading": "なく", "meaning": "to cry"},
+      {"word": "いつも", "reading": "いつも", "meaning": "always"},
+      {"word": "ショック", "reading": "ショック", "meaning": "shock"}
+    ],
+    "grammar": "~てばかりいた expresses 'was always doing nothing but ~'. ~みたいだ means 'seems like'. ~けど adds contrast."
+  },
+  {
+    "start": "17:10",
+    "end": "17:13",
+    "text": "その時は自業自得だと笑ったわ",
+    "audio_file": "clip_107.mp3",
+    "translation": "At that time, I laughed and said it served him right.",
+    "vocabulary": [
+      {"word": "自業自得", "reading": "じごうじとく", "meaning": "reaping what you sow, getting what you deserve"},
+      {"word": "笑う", "reading": "わらう", "meaning": "to laugh"}
+    ],
+    "grammar": "自業自得 is a four-character idiom (yojijukugo) meaning one gets what they deserve. ~だと indicates quoted thought."
+  },
+  {
+    "start": "17:13",
+    "end": "17:18",
+    "text": "けど最後は私の身代わりになって死んだの",
+    "audio_file": "clip_108.mp3",
+    "translation": "But in the end, he died taking my place.",
+    "vocabulary": [
+      {"word": "最後", "reading": "さいご", "meaning": "the end, last"},
+      {"word": "身代わり", "reading": "みがわり", "meaning": "substitute, taking someone's place"},
+      {"word": "死ぬ", "reading": "しぬ", "meaning": "to die"}
+    ],
+    "grammar": "~になって means 'becoming ~'. ~の at the end is feminine explanatory ending."
+  },
+  {
+    "start": "17:18",
+    "end": "17:24",
+    "text": "セカンドインパクトの時にね / 私にはわからなくなったわ",
+    "audio_file": "clip_109.mp3",
+    "translation": "During Second Impact, you see. / I no longer understood.",
+    "vocabulary": [
+      {"word": "時", "reading": "とき", "meaning": "time, when"},
+      {"word": "わかる", "reading": "わかる", "meaning": "to understand"}
+    ],
+    "grammar": "~なくなった expresses a change of state to 'no longer ~'. The pattern is verb negative stem + なる."
+  }
+]

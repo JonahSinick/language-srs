@@ -1,0 +1,356 @@
+[
+  {
+    "start": "07:04",
+    "end": "07:10",
+    "text": "ふーん、カジさん遅いわね / そんなにかっこいいのカジさんって / そりゃもう!",
+    "audio_file": "clip_028.mp3",
+    "translation": "Hmm, Kaji is late. / Is Kaji really that handsome? / Oh, absolutely!",
+    "vocabulary": [
+      {"word": "遅い", "reading": "おそい", "meaning": "late, slow"},
+      {"word": "かっこいい", "reading": "かっこいい", "meaning": "cool, handsome, good-looking"},
+      {"word": "そりゃ", "reading": "そりゃ", "meaning": "contraction of それは, 'that is' (emphatic)"}
+    ],
+    "grammar": "そりゃもう is an emphatic expression meaning 'absolutely!' or 'you bet!' - a colloquial way to strongly affirm something."
+  },
+  {
+    "start": "07:10",
+    "end": "07:16",
+    "text": "ここにいる芋の塊とは月とすっぽん / 比べるだけカジさんに申し訳ない / わ / だいやてえ",
+    "audio_file": "clip_029.mp3",
+    "translation": "Compared to these lumps of potatoes here, they're like night and day. / It's insulting to Kaji to even compare. / Hey!",
+    "vocabulary": [
+      {"word": "芋", "reading": "いも", "meaning": "potato (here used as insult: country bumpkin)"},
+      {"word": "塊", "reading": "かたまり", "meaning": "lump, mass, cluster"},
+      {"word": "月とすっぽん", "reading": "つきとすっぽん", "meaning": "like night and day (idiom: moon and soft-shelled turtle)"},
+      {"word": "申し訳ない", "reading": "もうしわけない", "meaning": "sorry, inexcusable"}
+    ],
+    "grammar": "月とすっぽん is a Japanese idiom comparing two things that look similar but are vastly different in quality - like comparing the moon to a turtle (both round, but incomparable)."
+  },
+  {
+    "start": "07:16",
+    "end": "07:21",
+    "text": "まだだめなの / こういうの",
+    "audio_file": "clip_030.mp3",
+    "translation": "Are you still no good at this? / This kind of thing...",
+    "vocabulary": [
+      {"word": "まだ", "reading": "まだ", "meaning": "still, yet"},
+      {"word": "だめ", "reading": "だめ", "meaning": "no good, useless"},
+      {"word": "こういう", "reading": "こういう", "meaning": "this kind of, like this"}
+    ],
+    "grammar": "こういうの uses の as a nominalizer, turning 'this kind of' into 'this kind of thing.'"
+  },
+  {
+    "start": "07:21",
+    "end": "07:25",
+    "text": "いやただ苦手なんです / 人が多いのって",
+    "audio_file": "clip_031.mp3",
+    "translation": "No, it's just that I'm not good with... / ...places with lots of people.",
+    "vocabulary": [
+      {"word": "苦手", "reading": "にがて", "meaning": "weak point, not good at"},
+      {"word": "人が多い", "reading": "ひとがおおい", "meaning": "crowded, lots of people"}
+    ],
+    "grammar": "苦手なんです uses んです (explanatory の + です) to provide explanation or justification for a statement."
+  },
+  {
+    "start": "07:25",
+    "end": "07:30",
+    "text": "なんでわざわざ / お騒ぎしなきゃならないんだろう",
+    "audio_file": "clip_032.mp3",
+    "translation": "Why do we have to go out of our way / to make such a fuss?",
+    "vocabulary": [
+      {"word": "わざわざ", "reading": "わざわざ", "meaning": "go out of one's way, purposely"},
+      {"word": "騒ぎ", "reading": "さわぎ", "meaning": "commotion, fuss, uproar"},
+      {"word": "しなきゃならない", "reading": "しなきゃならない", "meaning": "have to do, must do"}
+    ],
+    "grammar": "しなきゃならない is a colloquial contraction of しなければならない meaning 'must do.' んだろう adds a wondering/questioning nuance."
+  },
+  {
+    "start": "07:34",
+    "end": "07:43",
+    "text": "正真ですか / それって / 美里さんが人に認められたってことですよね / まそうなるわね",
+    "audio_file": "clip_033.mp3",
+    "translation": "A promotion? / That means... / Misato-san has been recognized by others, right? / Well, I suppose so.",
+    "vocabulary": [
+      {"word": "昇進", "reading": "しょうしん", "meaning": "promotion (in rank)"},
+      {"word": "認める", "reading": "みとめる", "meaning": "to recognize, acknowledge, approve"},
+      {"word": "そうなる", "reading": "そうなる", "meaning": "to become so, to turn out that way"}
+    ],
+    "grammar": "ってことですよね uses って (quotative) + こと (nominalizer) + ですよね (seeking confirmation) - 'it means X, right?'"
+  },
+  {
+    "start": "07:43",
+    "end": "07:51",
+    "text": "だからこうしてみんな喜んでるわけですよね / でも嬉しくないんですか / 全然嬉しくないってことはないのよ / 少しはあるわ",
+    "audio_file": "clip_034.mp3",
+    "translation": "That's why everyone is celebrating like this, right? / But aren't you happy? / It's not that I'm not happy at all. / There's a little bit of happiness.",
+    "vocabulary": [
+      {"word": "喜ぶ", "reading": "よろこぶ", "meaning": "to be happy, rejoice, be delighted"},
+      {"word": "嬉しい", "reading": "うれしい", "meaning": "happy, glad, pleased"},
+      {"word": "全然", "reading": "ぜんぜん", "meaning": "not at all (with negative), completely"}
+    ],
+    "grammar": "わけですよね - わけ indicates reason/explanation, so this means 'that's why/the reason is.' 全然〜ないってことはない is a double negative meaning 'it's not that I'm completely not...'"
+  },
+  {
+    "start": "07:51",
+    "end": "07:56",
+    "text": "でもそれがここにいる目的じゃないから / じゃあなんでここに",
+    "audio_file": "clip_035.mp3",
+    "translation": "But that's not why I'm here. / Then why are you here...",
+    "vocabulary": [
+      {"word": "目的", "reading": "もくてき", "meaning": "purpose, objective, goal"},
+      {"word": "じゃあ", "reading": "じゃあ", "meaning": "well then, in that case"}
+    ],
+    "grammar": "ここにいる目的 - uses a relative clause (ここにいる) modifying 目的, meaning 'the purpose of being here.'"
+  },
+  {
+    "start": "07:56",
+    "end": "08:02",
+    "text": "NERVに入ったんですか / さて / 昔のことなんて忘れちゃった",
+    "audio_file": "clip_036.mp3",
+    "translation": "...did you join NERV? / Well... / I've forgotten things from the past.",
+    "vocabulary": [
+      {"word": "入る", "reading": "はいる", "meaning": "to enter, join"},
+      {"word": "昔", "reading": "むかし", "meaning": "the past, long ago, former times"},
+      {"word": "忘れる", "reading": "わすれる", "meaning": "to forget"}
+    ],
+    "grammar": "忘れちゃった is a contraction of 忘れてしまった - しまう indicates completion, often with regret or finality. なんて is dismissive: 'things like...'"
+  },
+  {
+    "start": "08:06",
+    "end": "08:09",
+    "text": "きっとカジさんだわ",
+    "audio_file": "clip_037.mp3",
+    "translation": "That must be Kaji!",
+    "vocabulary": [
+      {"word": "きっと", "reading": "きっと", "meaning": "surely, certainly, without doubt"}
+    ],
+    "grammar": "だわ is a feminine sentence-ending particle that adds assertion or emphasis, commonly used by female speakers."
+  },
+  {
+    "start": "08:09",
+    "end": "08:20",
+    "text": "本部から直なんでね / そこで一緒になったんだ / 怪しい / わね / あらやきもち? / そんなわけないでしょ",
+    "audio_file": "clip_038.mp3",
+    "translation": "I came straight from headquarters. / We happened to meet there. / Suspicious... / Oh my, jealous? / Of course not!",
+    "vocabulary": [
+      {"word": "本部", "reading": "ほんぶ", "meaning": "headquarters"},
+      {"word": "怪しい", "reading": "あやしい", "meaning": "suspicious, dubious, questionable"},
+      {"word": "やきもち", "reading": "やきもち", "meaning": "jealousy (romantic)"}
+    ],
+    "grammar": "そんなわけないでしょ - わけない means 'there's no way' or 'impossible,' でしょ seeks confirmation/adds emphasis."
+  },
+  {
+    "start": "08:20",
+    "end": "08:24",
+    "text": "いやこの度はおめでとうございます / 桂木さんさ",
+    "audio_file": "clip_039.mp3",
+    "translation": "Well, congratulations on this occasion. / Katsuragi-san...",
+    "vocabulary": [
+      {"word": "この度", "reading": "このたび", "meaning": "this time, this occasion"},
+      {"word": "おめでとうございます", "reading": "おめでとうございます", "meaning": "congratulations (polite)"}
+    ],
+    "grammar": "この度は is a formal expression used when congratulating someone on a specific occasion or achievement."
+  },
+  {
+    "start": "08:24",
+    "end": "08:37",
+    "text": "これからはため口聞けなくなったな / なんで言ってんのよ / しかし / 司令と副司令が揃って日本を離れるなんて / 前例のなかったことだ / これも嘘を任せた桂木を信頼してるってことさ",
+    "audio_file": "clip_040.mp3",
+    "translation": "From now on I won't be able to speak casually with you. / What are you talking about? / However... / For both the Commander and Vice Commander to leave Japan together... / That's unprecedented. / It means they trust Katsuragi, who was left in charge.",
+    "vocabulary": [
+      {"word": "ため口", "reading": "ためぐち", "meaning": "casual speech, speaking without honorifics"},
+      {"word": "司令", "reading": "しれい", "meaning": "commander"},
+      {"word": "前例", "reading": "ぜんれい", "meaning": "precedent"},
+      {"word": "信頼", "reading": "しんらい", "meaning": "trust, confidence"}
+    ],
+    "grammar": "聞けなくなった - potential form (聞ける) + なる indicates a change of state: 'became unable to speak.' 揃って means 'together' when multiple people do something."
+  },
+  {
+    "start": "08:37",
+    "end": "08:42",
+    "text": "父さんここにいないんですか / 碇司令は今南極に行ってるわ",
+    "audio_file": "clip_041.mp3",
+    "translation": "Father isn't here? / Commander Ikari has gone to Antarctica.",
+    "vocabulary": [
+      {"word": "南極", "reading": "なんきょく", "meaning": "South Pole, Antarctica"},
+      {"word": "行く", "reading": "いく", "meaning": "to go"}
+    ],
+    "grammar": "行ってる is a contraction of 行っている, indicating a current state resulting from going - 'has gone and is (still) there.'"
+  },
+  {
+    "start": "08:44",
+    "end": "08:50",
+    "text": "いかなる生命の存在も許さない死の世界南極",
+    "audio_file": "clip_042.mp3",
+    "translation": "Antarctica - a world of death that permits no form of life to exist.",
+    "vocabulary": [
+      {"word": "いかなる", "reading": "いかなる", "meaning": "any kind of, whatever (formal)"},
+      {"word": "生命", "reading": "せいめい", "meaning": "life"},
+      {"word": "存在", "reading": "そんざい", "meaning": "existence"},
+      {"word": "許す", "reading": "ゆるす", "meaning": "to permit, allow"}
+    ],
+    "grammar": "いかなる〜も〜ない is a formal literary construction meaning 'no... whatsoever' or 'not any kind of...'"
+  },
+  {
+    "start": "08:50",
+    "end": "09:04",
+    "text": "いや地獄と言うべきかな / だが我々人類はここに立っている / 生物として生きたままだ / 科学の力 / で守られているからな / 科 / 学は人の力だよ",
+    "audio_file": "clip_043.mp3",
+    "translation": "No, perhaps we should call it hell. / But we humans are standing here. / Still alive as living beings. / Protected by the power of science. / Science is the power of humanity.",
+    "vocabulary": [
+      {"word": "地獄", "reading": "じごく", "meaning": "hell"},
+      {"word": "人類", "reading": "じんるい", "meaning": "humanity, mankind"},
+      {"word": "生物", "reading": "せいぶつ", "meaning": "living thing, organism"},
+      {"word": "科学", "reading": "かがく", "meaning": "science"}
+    ],
+    "grammar": "言うべき uses べき (should/ought to), making it 'should say' or 'ought to call.' かな adds uncertainty/wondering."
+  },
+  {
+    "start": "09:04",
+    "end": "09:09",
+    "text": "その傲慢が15年前の悲劇 / セカンドインパクトを引き起こしたのだ",
+    "audio_file": "clip_044.mp3",
+    "translation": "That arrogance caused the tragedy of 15 years ago - / Second Impact.",
+    "vocabulary": [
+      {"word": "傲慢", "reading": "ごうまん", "meaning": "arrogance, haughtiness"},
+      {"word": "悲劇", "reading": "ひげき", "meaning": "tragedy"},
+      {"word": "引き起こす", "reading": "ひきおこす", "meaning": "to cause, trigger, bring about"}
+    ],
+    "grammar": "のだ (explanatory) at the end emphasizes this as an explanation or revelation of truth."
+  },
+  {
+    "start": "09:09",
+    "end": "09:17",
+    "text": "結果この有様だ / 与えられた罰にしてはあまりに大きすぎる / まさに死海そのものだよ",
+    "audio_file": "clip_045.mp3",
+    "translation": "And this is the result. / As punishment, it's far too severe. / It's truly the Dead Sea itself.",
+    "vocabulary": [
+      {"word": "結果", "reading": "けっか", "meaning": "result, consequence"},
+      {"word": "有様", "reading": "ありさま", "meaning": "state, condition, sight"},
+      {"word": "罰", "reading": "ばつ", "meaning": "punishment, penalty"},
+      {"word": "死海", "reading": "しかい", "meaning": "Dead Sea"}
+    ],
+    "grammar": "にしては means 'for,' 'considering,' used to indicate something is unexpected given the circumstances. あまりに〜すぎる means 'far too...'"
+  },
+  {
+    "start": "09:17",
+    "end": "09:21",
+    "text": "だが現在の穢れなき浄化された世界だ",
+    "audio_file": "clip_046.mp3",
+    "translation": "But it is now a purified world without impurity.",
+    "vocabulary": [
+      {"word": "穢れ", "reading": "けがれ", "meaning": "impurity, defilement"},
+      {"word": "浄化", "reading": "じょうか", "meaning": "purification, cleansing"},
+      {"word": "世界", "reading": "せかい", "meaning": "world"}
+    ],
+    "grammar": "穢れなき is classical/literary form of 穢れない (without impurity). This archaic なき form adds gravitas."
+  },
+  {
+    "start": "09:21",
+    "end": "09:29",
+    "text": "俺は罪にまみれても人が生きている世界を望むよ / 報告します / ネルフ本部より入電",
+    "audio_file": "clip_047.mp3",
+    "translation": "I prefer a world where people live, even if stained with sin. / Reporting! / Incoming transmission from NERV Headquarters.",
+    "vocabulary": [
+      {"word": "罪", "reading": "つみ", "meaning": "sin, crime, guilt"},
+      {"word": "まみれる", "reading": "まみれる", "meaning": "to be covered with, stained with"},
+      {"word": "望む", "reading": "のぞむ", "meaning": "to desire, wish for, hope"},
+      {"word": "入電", "reading": "にゅうでん", "meaning": "incoming message/telegram"}
+    ],
+    "grammar": "〜ても means 'even if.' まみれても is te-form + も, creating 'even if covered/stained with.'"
+  },
+  {
+    "start": "09:29",
+    "end": "09:41",
+    "text": "インド洋上空衛星軌道上に使徒発見 / 2分前に突然現れました / 第6サーチ衛星軌道上へ / 接触まで / あと2分 / 目標を映像で補足",
+    "audio_file": "clip_048.mp3",
+    "translation": "Angel discovered in satellite orbit above the Indian Ocean! / It appeared suddenly 2 minutes ago. / Moving to Search Satellite 6's orbit. / 2 minutes until contact. / Visual confirmation of the target.",
+    "vocabulary": [
+      {"word": "衛星", "reading": "えいせい", "meaning": "satellite"},
+      {"word": "軌道", "reading": "きどう", "meaning": "orbit"},
+      {"word": "使徒", "reading": "しと", "meaning": "Angel (in Evangelion context), apostle"},
+      {"word": "接触", "reading": "せっしょく", "meaning": "contact"},
+      {"word": "補足", "reading": "ほそく", "meaning": "capture, supplement, acquisition"}
+    ],
+    "grammar": "Military/technical register uses noun phrases without particles for brevity: 目標を映像で補足 (target visual acquisition)."
+  },
+  {
+    "start": "09:41",
+    "end": "09:48",
+    "text": "ああ、こりゃすごい / 常識を疑うわね / 目標と接触します",
+    "audio_file": "clip_049.mp3",
+    "translation": "Wow, this is incredible. / It defies common sense. / Making contact with target.",
+    "vocabulary": [
+      {"word": "常識", "reading": "じょうしき", "meaning": "common sense, common knowledge"},
+      {"word": "疑う", "reading": "うたがう", "meaning": "to doubt, question, suspect"}
+    ],
+    "grammar": "常識を疑う literally means 'to doubt common sense' - an idiomatic way to say something is unbelievable or defies expectations."
+  },
+  {
+    "start": "09:51",
+    "end": "09:58",
+    "text": "3時スタート / データ送信開始します / 受信確認",
+    "audio_file": "clip_050.mp3",
+    "translation": "3 o'clock start! / Beginning data transmission. / Reception confirmed.",
+    "vocabulary": [
+      {"word": "送信", "reading": "そうしん", "meaning": "transmission, sending"},
+      {"word": "開始", "reading": "かいし", "meaning": "start, beginning"},
+      {"word": "受信", "reading": "じゅしん", "meaning": "reception"},
+      {"word": "確認", "reading": "かくにん", "meaning": "confirmation"}
+    ],
+    "grammar": "Military communications use terse, formal language. 開始します (polite form) for announcing actions."
+  },
+  {
+    "start": "09:59",
+    "end": "10:03",
+    "text": "エーティフィールド / 新しい使い方ね",
+    "audio_file": "clip_051.mp3",
+    "translation": "An AT Field... / A new way of using it.",
+    "vocabulary": [
+      {"word": "使い方", "reading": "つかいかた", "meaning": "way of using, usage method"},
+      {"word": "新しい", "reading": "あたらしい", "meaning": "new"}
+    ],
+    "grammar": "〜方 (かた) attached to verb stems creates nouns meaning 'way of doing X.' 使い方 = way of using."
+  },
+  {
+    "start": "10:08",
+    "end": "10:16",
+    "text": "大した破壊力ね / さすがATフィールド / 落下のエネルギーをもう利用しています",
+    "audio_file": "clip_052.mp3",
+    "translation": "Incredible destructive power. / As expected of an AT Field. / It's already using the energy from the fall.",
+    "vocabulary": [
+      {"word": "破壊力", "reading": "はかいりょく", "meaning": "destructive power"},
+      {"word": "さすが", "reading": "さすが", "meaning": "as expected, indeed"},
+      {"word": "落下", "reading": "らっか", "meaning": "fall, descent"},
+      {"word": "利用", "reading": "りよう", "meaning": "use, utilization"}
+    ],
+    "grammar": "さすが expresses 'as expected of' or 'that's X for you' - acknowledging something living up to its reputation."
+  },
+  {
+    "start": "10:16",
+    "end": "10:22",
+    "text": "使徒そのものが爆弾みたいなものですね / とりあえず初弾は太平洋に大外れ",
+    "audio_file": "clip_053.mp3",
+    "translation": "The Angel itself is like a bomb. / For now, the first shot missed completely, landing in the Pacific.",
+    "vocabulary": [
+      {"word": "そのもの", "reading": "そのもの", "meaning": "itself, the very thing"},
+      {"word": "爆弾", "reading": "ばくだん", "meaning": "bomb"},
+      {"word": "初弾", "reading": "しょだん", "meaning": "first shot/round"},
+      {"word": "大外れ", "reading": "おおはずれ", "meaning": "complete miss, way off"}
+    ],
+    "grammar": "みたいなもの means 'something like' or 'is like.' とりあえず means 'for now' or 'for the time being.'"
+  },
+  {
+    "start": "10:22",
+    "end": "10:27",
+    "text": "で2時間後の第二者がそこ / あとは確実に誤差修正してるわ",
+    "audio_file": "clip_054.mp3",
+    "translation": "And the second one, 2 hours later, landed there. / It's definitely correcting its errors now.",
+    "vocabulary": [
+      {"word": "誤差", "reading": "ごさ", "meaning": "error, margin of error"},
+      {"word": "修正", "reading": "しゅうせい", "meaning": "correction, revision"},
+      {"word": "確実", "reading": "かくじつ", "meaning": "certain, definite, reliable"}
+    ],
+    "grammar": "してる is colloquial contraction of している (continuous form). 確実に is adverbial form meaning 'definitely' or 'certainly.'"
+  }
+]

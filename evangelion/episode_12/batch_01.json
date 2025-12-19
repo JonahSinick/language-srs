@@ -1,0 +1,356 @@
+[
+  {
+    "start": "02:00",
+    "end": "02:03",
+    "text": "Кто это?",
+    "audio_file": "clip_000.mp3",
+    "translation": "[Russian text - 'Who is this?']",
+    "vocabulary": [],
+    "grammar": "Non-Japanese segment (Russian)"
+  },
+  {
+    "start": "03:00",
+    "end": "03:09",
+    "text": "仕",
+    "audio_file": "clip_001.mp3",
+    "translation": "[Incomplete/truncated text]",
+    "vocabulary": [
+      {"word": "仕", "reading": "し", "meaning": "work, serve (incomplete kanji)"}
+    ],
+    "grammar": "Fragment - likely part of a word like 仕事 (shigoto, work)"
+  },
+  {
+    "start": "03:31",
+    "end": "03:39",
+    "text": "お / 邪魔してます / あら、二人ともいらっしゃい / おかえりなさい",
+    "audio_file": "clip_002.mp3",
+    "translation": "Oh / I'm intruding / Oh my, welcome you two / Welcome back",
+    "vocabulary": [
+      {"word": "邪魔", "reading": "じゃま", "meaning": "hindrance, intrusion"},
+      {"word": "いらっしゃい", "reading": "いらっしゃい", "meaning": "welcome (informal)"},
+      {"word": "おかえりなさい", "reading": "おかえりなさい", "meaning": "welcome home"}
+    ],
+    "grammar": "邪魔してます is a humble expression meaning 'I am intruding/bothering you', commonly used when visiting someone's home or office."
+  },
+  {
+    "start": "03:39",
+    "end": "03:46",
+    "text": "今夜はハーモニクスのテストがあるから遅れないようにね / はい / アスカも、わかってるわね / はーい",
+    "audio_file": "clip_003.mp3",
+    "translation": "There's a harmonics test tonight, so don't be late / Yes / Asuka, you understand too, right? / Yeeees",
+    "vocabulary": [
+      {"word": "今夜", "reading": "こんや", "meaning": "tonight"},
+      {"word": "遅れる", "reading": "おくれる", "meaning": "to be late"},
+      {"word": "わかる", "reading": "わかる", "meaning": "to understand"}
+    ],
+    "grammar": "ようにね is a gentle command/reminder form. 遅れないように means 'so that you don't be late'."
+  },
+  {
+    "start": "03:48",
+    "end": "03:57",
+    "text": "この度はご昇進おめでとうございます / おめでとうございます / ありがとう / いえ、どういたしまして",
+    "audio_file": "clip_004.mp3",
+    "translation": "Congratulations on your promotion / Congratulations / Thank you / No, you're welcome",
+    "vocabulary": [
+      {"word": "この度", "reading": "このたび", "meaning": "this time, on this occasion"},
+      {"word": "昇進", "reading": "しょうしん", "meaning": "promotion"},
+      {"word": "どういたしまして", "reading": "どういたしまして", "meaning": "you're welcome"}
+    ],
+    "grammar": "ご昇進 uses the honorific prefix ご to show respect. この度は is a formal expression for 'on this occasion'."
+  },
+  {
+    "start": "03:57",
+    "end": "04:06",
+    "text": "じゃあ、行ってくるわね / いってらっしゃい / どうしたの? / ミサトさんに何かあったの?",
+    "audio_file": "clip_005.mp3",
+    "translation": "Well then, I'm off / Have a safe trip / What's wrong? / Did something happen to Misato?",
+    "vocabulary": [
+      {"word": "行ってくる", "reading": "いってくる", "meaning": "to go and come back"},
+      {"word": "いってらっしゃい", "reading": "いってらっしゃい", "meaning": "have a safe trip (said to someone leaving)"},
+      {"word": "何か", "reading": "なにか", "meaning": "something"}
+    ],
+    "grammar": "行ってくる is a compound verb showing the action of going somewhere and returning. わね is a feminine sentence ending particle."
+  },
+  {
+    "start": "04:06",
+    "end": "04:10",
+    "text": "ミサトさんの襟衝だよ / 線が2本になってる",
+    "audio_file": "clip_006.mp3",
+    "translation": "It's Misato's collar insignia / There are now two stripes",
+    "vocabulary": [
+      {"word": "襟", "reading": "えり", "meaning": "collar"},
+      {"word": "線", "reading": "せん", "meaning": "line, stripe"},
+      {"word": "本", "reading": "ほん", "meaning": "counter for long thin objects"}
+    ],
+    "grammar": "になってる is the casual form of になっている, indicating a change of state - 'has become'."
+  },
+  {
+    "start": "04:10",
+    "end": "04:20",
+    "text": "1位から3位に昇進したんだ / へえ知らなかった / いつの間に / マジに言うとるんけ / 情けないやっちゃな",
+    "audio_file": "clip_007.mp3",
+    "translation": "She got promoted from 1st to 3rd class / Huh, I didn't know / When did that happen? / Are you serious? / How pathetic",
+    "vocabulary": [
+      {"word": "昇進", "reading": "しょうしん", "meaning": "promotion"},
+      {"word": "いつの間に", "reading": "いつのまに", "meaning": "when, before one knows it"},
+      {"word": "情けない", "reading": "なさけない", "meaning": "pathetic, miserable"}
+    ],
+    "grammar": "言うとるんけ and やっちゃな are Kansai dialect. 言うとる = 言っている, やっちゃ = やつは (that guy/person)."
+  },
+  {
+    "start": "04:20",
+    "end": "04:24",
+    "text": "君たちには人を思いやる気持ちはないのだろうか",
+    "audio_file": "clip_008.mp3",
+    "translation": "Don't you people have any consideration for others?",
+    "vocabulary": [
+      {"word": "思いやる", "reading": "おもいやる", "meaning": "to be considerate, to sympathize"},
+      {"word": "気持ち", "reading": "きもち", "meaning": "feeling, emotion"},
+      {"word": "君たち", "reading": "きみたち", "meaning": "you (plural)"}
+    ],
+    "grammar": "のだろうか is a rhetorical question form expressing doubt or criticism, more formal than のかな."
+  },
+  {
+    "start": "04:24",
+    "end": "04:33",
+    "text": "あの若さで中学生2人を預かるなんて / 大変なことだぞ / わしらだけやな。人の心持っとるのは。",
+    "audio_file": "clip_009.mp3",
+    "translation": "Taking care of two middle schoolers at her young age / That's a tough thing / We're the only ones with a heart, aren't we.",
+    "vocabulary": [
+      {"word": "若さ", "reading": "わかさ", "meaning": "youth"},
+      {"word": "預かる", "reading": "あずかる", "meaning": "to take care of, to look after"},
+      {"word": "大変", "reading": "たいへん", "meaning": "difficult, tough"}
+    ],
+    "grammar": "なんて expresses surprise or emphasis. わしら and 持っとる are Kansai dialect (わしら = 私たち, 持っとる = 持っている)."
+  },
+  {
+    "start": "04:43",
+    "end": "04:53",
+    "text": "0番、2番。ともに汚染区域に隣接。限界です。 / 1番にはまだ余裕があるわね。グラフ振動、あと0.3下げてみて。",
+    "audio_file": "clip_010.mp3",
+    "translation": "Unit 0, Unit 2. Both adjacent to contamination zone. At their limits. / Unit 1 still has some margin. Try lowering the graph oscillation by 0.3.",
+    "vocabulary": [
+      {"word": "汚染", "reading": "おせん", "meaning": "contamination, pollution"},
+      {"word": "隣接", "reading": "りんせつ", "meaning": "adjacent, neighboring"},
+      {"word": "余裕", "reading": "よゆう", "meaning": "margin, room, leeway"}
+    ],
+    "grammar": "てみて is the te-form + みる, meaning 'try doing'. 下げてみて = 'try lowering'."
+  },
+  {
+    "start": "04:58",
+    "end": "05:10",
+    "text": "汚染区域ギリギリです / それでこの数値?大したものだわ / ハーモニクス、シンクロ率もアスカに迫ってますね / これを才能というのかしら",
+    "audio_file": "clip_011.mp3",
+    "translation": "Right at the edge of the contamination zone / And these numbers? Impressive / His harmonics and sync rate are approaching Asuka's / I wonder if you'd call this talent",
+    "vocabulary": [
+      {"word": "ギリギリ", "reading": "ギリギリ", "meaning": "just barely, at the limit"},
+      {"word": "数値", "reading": "すうち", "meaning": "numerical value"},
+      {"word": "才能", "reading": "さいのう", "meaning": "talent, ability"}
+    ],
+    "grammar": "のかしら is a feminine wondering expression, similar to のかな but softer. 迫る means 'to approach/close in on'."
+  },
+  {
+    "start": "05:10",
+    "end": "05:16",
+    "text": "まさにエヴァに乗るために生まれてきたような子供ですね / 本人が望んでいなくてもね",
+    "audio_file": "clip_012.mp3",
+    "translation": "He's truly a child who seems born to pilot Eva / Even if he doesn't want it himself",
+    "vocabulary": [
+      {"word": "まさに", "reading": "まさに", "meaning": "truly, exactly"},
+      {"word": "生まれる", "reading": "うまれる", "meaning": "to be born"},
+      {"word": "望む", "reading": "のぞむ", "meaning": "to desire, to wish for"}
+    ],
+    "grammar": "ために indicates purpose ('in order to'). ような means 'like, as if'. 望んでいなくても = 'even if not wanting'."
+  },
+  {
+    "start": "05:16",
+    "end": "05:19",
+    "text": "きっとあの子は嬉しくないわよ",
+    "audio_file": "clip_013.mp3",
+    "translation": "That child is surely not happy about it",
+    "vocabulary": [
+      {"word": "きっと", "reading": "きっと", "meaning": "surely, certainly"},
+      {"word": "嬉しい", "reading": "うれしい", "meaning": "happy, glad"},
+      {"word": "あの子", "reading": "あのこ", "meaning": "that child"}
+    ],
+    "grammar": "わよ is a feminine sentence ending that adds assertion and mild emphasis."
+  },
+  {
+    "start": "05:20",
+    "end": "05:23",
+    "text": "3人ともお疲れ様",
+    "audio_file": "clip_014.mp3",
+    "translation": "Good work, all three of you",
+    "vocabulary": [
+      {"word": "お疲れ様", "reading": "おつかれさま", "meaning": "good work, thank you for your hard work"},
+      {"word": "人", "reading": "にん", "meaning": "counter for people"},
+      {"word": "とも", "reading": "とも", "meaning": "all, both"}
+    ],
+    "grammar": "とも after a number means 'all (number) of them'. お疲れ様 is a set phrase used to acknowledge someone's effort."
+  },
+  {
+    "start": "05:25",
+    "end": "05:39",
+    "text": "シンジ君、よくやったわ / 何をですか? / ハーモニクスが前回より8も伸びているわ / 大した数字よ / でも私より50も少ないじゃん / あら、10日で8よ / 大したものだわ",
+    "audio_file": "clip_015.mp3",
+    "translation": "Shinji, you did well / What did I do? / Your harmonics improved by 8 from last time / That's an impressive number / But it's still 50 less than mine / My, 8 points in 10 days / That's quite something",
+    "vocabulary": [
+      {"word": "伸びる", "reading": "のびる", "meaning": "to increase, to improve"},
+      {"word": "前回", "reading": "ぜんかい", "meaning": "last time, previous time"},
+      {"word": "大した", "reading": "たいした", "meaning": "considerable, impressive"}
+    ],
+    "grammar": "も after a number emphasizes quantity ('as much as'). じゃん is casual contraction of じゃない (isn't it)."
+  },
+  {
+    "start": "05:39",
+    "end": "05:45",
+    "text": "大したことないわよ / よかったわね / お褒めの言葉をいただいて",
+    "audio_file": "clip_016.mp3",
+    "translation": "It's nothing special / Good for you / Getting such praise",
+    "vocabulary": [
+      {"word": "大したことない", "reading": "たいしたことない", "meaning": "nothing special, no big deal"},
+      {"word": "褒める", "reading": "ほめる", "meaning": "to praise"},
+      {"word": "いただく", "reading": "いただく", "meaning": "to receive (humble)"}
+    ],
+    "grammar": "お褒めの言葉 uses the honorific お prefix. いただいて is the humble form of receiving, showing sarcasm here."
+  },
+  {
+    "start": "05:46",
+    "end": "05:49",
+    "text": "先に帰るわ / バーカ!",
+    "audio_file": "clip_017.mp3",
+    "translation": "I'm going home first / Idiot!",
+    "vocabulary": [
+      {"word": "先に", "reading": "さきに", "meaning": "first, ahead"},
+      {"word": "帰る", "reading": "かえる", "meaning": "to go home, to return"},
+      {"word": "バカ", "reading": "バカ", "meaning": "idiot, fool"}
+    ],
+    "grammar": "先に indicates doing something before others. The elongated バーカ shows emotional emphasis/frustration."
+  },
+  {
+    "start": "05:54",
+    "end": "06:00",
+    "text": "あ、あの、送信おめでとうございます / ありがとう",
+    "audio_file": "clip_018.mp3",
+    "translation": "Um, congratulations on your promotion / Thank you",
+    "vocabulary": [
+      {"word": "あの", "reading": "あの", "meaning": "um, well (hesitation)"},
+      {"word": "昇進", "reading": "しょうしん", "meaning": "promotion (note: 送信 in text appears to be transcription error for 昇進)"},
+      {"word": "おめでとうございます", "reading": "おめでとうございます", "meaning": "congratulations (polite)"}
+    ],
+    "grammar": "The stammering あ、あの shows nervousness or hesitation before speaking."
+  },
+  {
+    "start": "06:00",
+    "end": "06:09",
+    "text": "でも正直あんまり嬉しくないのよね / それわかります / 僕もさっきみたいに褒められてもあまり嬉しくないし",
+    "audio_file": "clip_019.mp3",
+    "translation": "But honestly, I'm not that happy about it / I understand that / I'm not really happy either when I get praised like earlier",
+    "vocabulary": [
+      {"word": "正直", "reading": "しょうじき", "meaning": "honestly, frankly"},
+      {"word": "あんまり", "reading": "あんまり", "meaning": "not very, not much (casual)"},
+      {"word": "褒められる", "reading": "ほめられる", "meaning": "to be praised (passive)"}
+    ],
+    "grammar": "のよね is a feminine sentence ending seeking agreement. みたいに means 'like' when describing manner."
+  },
+  {
+    "start": "06:09",
+    "end": "06:12",
+    "text": "逆にアスカを怒らせるだけだし",
+    "audio_file": "clip_020.mp3",
+    "translation": "On the contrary, it just makes Asuka angry",
+    "vocabulary": [
+      {"word": "逆に", "reading": "ぎゃくに", "meaning": "on the contrary, conversely"},
+      {"word": "怒らせる", "reading": "おこらせる", "meaning": "to make angry (causative)"},
+      {"word": "だけ", "reading": "だけ", "meaning": "only, just"}
+    ],
+    "grammar": "怒らせる is the causative form of 怒る. だけだし = 'it just/only (does something)', with し adding reason."
+  },
+  {
+    "start": "06:12",
+    "end": "06:15",
+    "text": "どうして怒ったんだろう",
+    "audio_file": "clip_021.mp3",
+    "translation": "I wonder why she got angry",
+    "vocabulary": [
+      {"word": "どうして", "reading": "どうして", "meaning": "why"},
+      {"word": "怒る", "reading": "おこる", "meaning": "to get angry"}
+    ],
+    "grammar": "んだろう expresses wondering or speculation about a reason. The ん is explanatory."
+  },
+  {
+    "start": "06:15",
+    "end": "06:18",
+    "text": "何が悪かったんだろう",
+    "audio_file": "clip_022.mp3",
+    "translation": "I wonder what I did wrong",
+    "vocabulary": [
+      {"word": "何", "reading": "なに", "meaning": "what"},
+      {"word": "悪い", "reading": "わるい", "meaning": "bad, wrong"}
+    ],
+    "grammar": "悪かった is past tense of 悪い. が marks the subject of the question 'what was bad'."
+  },
+  {
+    "start": "06:18",
+    "end": "06:25",
+    "text": "さっきの気になる / はい / そうして人の顔色ばかり気にしてるからよ",
+    "audio_file": "clip_023.mp3",
+    "translation": "What happened earlier bothers me / Yes? / It's because you're always worrying about what others think",
+    "vocabulary": [
+      {"word": "気になる", "reading": "きになる", "meaning": "to be on one's mind, to bother"},
+      {"word": "顔色", "reading": "かおいろ", "meaning": "complexion; one's mood/expression"},
+      {"word": "ばかり", "reading": "ばかり", "meaning": "only, always"}
+    ],
+    "grammar": "顔色を気にする is an idiom meaning 'to worry about others' opinions/reactions'. からよ explains the reason with feminine emphasis."
+  },
+  {
+    "start": "06:27",
+    "end": "06:31",
+    "text": "おめでとうございまーす",
+    "audio_file": "clip_024.mp3",
+    "translation": "Congratulaaations!",
+    "vocabulary": [
+      {"word": "おめでとうございます", "reading": "おめでとうございます", "meaning": "congratulations (polite)"}
+    ],
+    "grammar": "The elongated まーす shows enthusiasm and celebration in the delivery."
+  },
+  {
+    "start": "06:32",
+    "end": "06:44",
+    "text": "ありがとう / ありがとう鈴原くん / ちゃうちゃういい出しっぺは / こいつですね / そう / 企画人さんはこの間健介間健介です",
+    "audio_file": "clip_025.mp3",
+    "translation": "Thank you / Thank you, Suzuhara / No no, the one who suggested it was / This guy here / That's right / The organizer is Kensuke, Kensuke",
+    "vocabulary": [
+      {"word": "言い出しっぺ", "reading": "いいだしっぺ", "meaning": "the one who suggested/started it"},
+      {"word": "企画", "reading": "きかく", "meaning": "plan, project"},
+      {"word": "こいつ", "reading": "こいつ", "meaning": "this guy (casual/rude)"}
+    ],
+    "grammar": "ちゃうちゃう is Kansai dialect for 違う違う (no, no, that's wrong). 言い出しっぺ is casual for 'the person who first suggested something'."
+  },
+  {
+    "start": "06:44",
+    "end": "06:51",
+    "text": "ありがとう間くん / いえ、 / 礼を言われるほどのことは何も当然のことですよ",
+    "audio_file": "clip_026.mp3",
+    "translation": "Thank you, Aida / No, / It's nothing worth thanking me for, it's only natural",
+    "vocabulary": [
+      {"word": "礼", "reading": "れい", "meaning": "thanks, gratitude"},
+      {"word": "当然", "reading": "とうぜん", "meaning": "natural, obvious"},
+      {"word": "ほど", "reading": "ほど", "meaning": "to the extent that"}
+    ],
+    "grammar": "礼を言われるほどのことは何も is a humble expression meaning 'it's nothing worthy of thanks'. ほど indicates degree."
+  },
+  {
+    "start": "06:51",
+    "end": "07:04",
+    "text": "せやけど、なんで委員長はここにおるんや? / 私が誘 / ったのよ / ねえ / ん? / 礼は? / 誘ったわよちゃんと / でも付き合い悪いのよね、あの子",
+    "audio_file": "clip_027.mp3",
+    "translation": "But why is the class rep here? / I invited / her / Hey / Hm? / Where's my thanks? / I properly invited her / But she's not very sociable, that girl",
+    "vocabulary": [
+      {"word": "委員長", "reading": "いいんちょう", "meaning": "class representative, committee chairman"},
+      {"word": "誘う", "reading": "さそう", "meaning": "to invite"},
+      {"word": "付き合い", "reading": "つきあい", "meaning": "association, socializing"}
+    ],
+    "grammar": "せやけど and おるんや are Kansai dialect (せやけど = それでも/だけど, おる = いる). 付き合いが悪い means 'unsociable' or 'doesn't hang out much'."
+  }
+]
