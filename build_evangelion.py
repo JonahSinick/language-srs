@@ -42,6 +42,9 @@ DROP_TEXTS = {
     "えっ",
 }
 
+# Skip opening theme (first ~1:30 of each episode)
+SKIP_BEFORE_SECONDS = 90  # Skip segments that start before 1:30
+
 def time_to_seconds(time_str):
     parts = time_str.split(":")
     if len(parts) == 2:
@@ -99,7 +102,7 @@ def parse_transcript(filepath):
 
             text = ' '.join(text_lines)
 
-            if text and not is_english(text) and not should_drop(text):
+            if text and not is_english(text) and not should_drop(text) and start_sec >= SKIP_BEFORE_SECONDS:
                 segments.append({
                     'start_sec': start_sec,
                     'end_sec': end_sec,
