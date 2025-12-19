@@ -1,0 +1,822 @@
+[
+  {
+    "start": "14:24",
+    "end": "14:32",
+    "text": "第二循環パイプに亀裂発生。 / 震度1480。 / 限界震度オーバー。",
+    "audio_file": "clip_096.mp3",
+    "translation": "Cracks developing in the second circulation pipe. / Depth 1480. / Exceeding critical depth limit.",
+    "vocabulary": [
+      {
+        "word": "循環",
+        "reading": "じゅんかん",
+        "meaning": "circulation"
+      },
+      {
+        "word": "亀裂",
+        "reading": "きれつ",
+        "meaning": "crack, fissure"
+      },
+      {
+        "word": "発生",
+        "reading": "はっせい",
+        "meaning": "occurrence, generation"
+      },
+      {
+        "word": "限界",
+        "reading": "げんかい",
+        "meaning": "limit, critical point"
+      }
+    ],
+    "grammar": "に (location particle) + 発生 (occurrence) - indicates where something is occurring"
+  },
+  {
+    "start": "14:32",
+    "end": "14:38",
+    "text": "目標とまだ接触していないわ。 / 続けて。 / アスカ、どう? / まだ持ちそう。",
+    "audio_file": "clip_097.mp3",
+    "translation": "We haven't made contact with the target yet. / Continue. / Asuka, how is it? / I can still hold on.",
+    "vocabulary": [
+      {
+        "word": "接触",
+        "reading": "せっしょく",
+        "meaning": "contact, touch"
+      },
+      {
+        "word": "続ける",
+        "reading": "つづける",
+        "meaning": "to continue"
+      },
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "to hold, endure"
+      }
+    ],
+    "grammar": "〜ていない (negative progressive form) - indicates action has not yet occurred; 〜そう (auxiliary) - appears that/seems like"
+  },
+  {
+    "start": "14:38",
+    "end": "14:45",
+    "text": "さっさと終わらせてシャワー浴びたい。 / 近くにいい温泉があるわ。終わったらいきましょう。もう少し頑張って。",
+    "audio_file": "clip_098.mp3",
+    "translation": "I want to finish this quickly and take a shower. / There's a nice hot spring nearby. Let's go when we're done. Hang in there a little longer.",
+    "vocabulary": [
+      {
+        "word": "さっさと",
+        "reading": "さっさと",
+        "meaning": "quickly, hurriedly"
+      },
+      {
+        "word": "温泉",
+        "reading": "おんせん",
+        "meaning": "hot spring"
+      },
+      {
+        "word": "頑張る",
+        "reading": "がんばる",
+        "meaning": "to do one's best, persevere"
+      }
+    ],
+    "grammar": "〜たい (desiderative) - expresses desire; 〜たら (conditional) - when/if; 〜て form (imperative) - command/request"
+  },
+  {
+    "start": "14:47",
+    "end": "14:51",
+    "text": "限界深度、プラス120。",
+    "audio_file": "clip_099.mp3",
+    "translation": "Critical depth, plus 120.",
+    "vocabulary": [
+      {
+        "word": "限界",
+        "reading": "げんかい",
+        "meaning": "limit, critical point"
+      },
+      {
+        "word": "深度",
+        "reading": "しんど",
+        "meaning": "depth"
+      }
+    ],
+    "grammar": "Technical measurement statement - noun + numeric value"
+  },
+  {
+    "start": "14:52",
+    "end": "15:02",
+    "text": "EVA2号機、プログライフ喪失。限界深度、プラス200。 / 勝脇さん、もうこれ以上は、今 / 度は人が乗っているんですよ。",
+    "audio_file": "clip_100.mp3",
+    "translation": "EVA Unit 02, progressive knife lost. Critical depth, plus 200. / Katsuragi-san, we can't go any further, this time / there's a person riding in it.",
+    "vocabulary": [
+      {
+        "word": "喪失",
+        "reading": "そうしつ",
+        "meaning": "loss"
+      },
+      {
+        "word": "今度",
+        "reading": "こんど",
+        "meaning": "this time"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "to ride, board"
+      }
+    ],
+    "grammar": "〜ている (progressive) - indicates ongoing state; これ以上 (no more than this) - expression of limit"
+  },
+  {
+    "start": "15:02",
+    "end": "15:07",
+    "text": "この作戦の責任者は私です。続けてください。",
+    "audio_file": "clip_101.mp3",
+    "translation": "I am the person in charge of this operation. Please continue.",
+    "vocabulary": [
+      {
+        "word": "作戦",
+        "reading": "さくせん",
+        "meaning": "operation, strategy"
+      },
+      {
+        "word": "責任者",
+        "reading": "せきにんしゃ",
+        "meaning": "person in charge, responsible party"
+      },
+      {
+        "word": "続ける",
+        "reading": "つづける",
+        "meaning": "to continue"
+      }
+    ],
+    "grammar": "〜です (copula) - formal statement of identity; 〜てください (polite request) - please do"
+  },
+  {
+    "start": "15:07",
+    "end": "15:11",
+    "text": "ミサトの言う通りよ。大丈夫、まだ行けるわ。",
+    "audio_file": "clip_102.mp3",
+    "translation": "Just as Misato says. It's okay, I can still go.",
+    "vocabulary": [
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      },
+      {
+        "word": "通り",
+        "reading": "とおり",
+        "meaning": "as, just as"
+      },
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "okay, all right"
+      },
+      {
+        "word": "行ける",
+        "reading": "いける",
+        "meaning": "can go, can manage"
+      }
+    ],
+    "grammar": "〜通り (just as, according to) - indicates conformity; 〜る/える potential form - expresses ability"
+  },
+  {
+    "start": "15:15",
+    "end": "15:21",
+    "text": "深度1780。目標予測修正地点です。",
+    "audio_file": "clip_103.mp3",
+    "translation": "Depth 1780. This is the revised target prediction point.",
+    "vocabulary": [
+      {
+        "word": "深度",
+        "reading": "しんど",
+        "meaning": "depth"
+      },
+      {
+        "word": "予測",
+        "reading": "よそく",
+        "meaning": "prediction, forecast"
+      },
+      {
+        "word": "修正",
+        "reading": "しゅうせい",
+        "meaning": "revision, correction"
+      },
+      {
+        "word": "地点",
+        "reading": "ちてん",
+        "meaning": "point, location"
+      }
+    ],
+    "grammar": "Compound noun construction - multiple nouns stacked to create technical term"
+  },
+  {
+    "start": "15:23",
+    "end": "15:25",
+    "text": "いた。",
+    "audio_file": "clip_104.mp3",
+    "translation": "There it is.",
+    "vocabulary": [
+      {
+        "word": "いる",
+        "reading": "いる",
+        "meaning": "to exist, be (animate)"
+      }
+    ],
+    "grammar": "Past tense た form of いる - sudden realization/discovery"
+  },
+  {
+    "start": "15:28",
+    "end": "15:32",
+    "text": "目標を映像で確認。 / 捕獲準備。",
+    "audio_file": "clip_105.mp3",
+    "translation": "Target confirmed on visual. / Prepare for capture.",
+    "vocabulary": [
+      {
+        "word": "映像",
+        "reading": "えいぞう",
+        "meaning": "video, visual image"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "confirmation"
+      },
+      {
+        "word": "捕獲",
+        "reading": "ほかく",
+        "meaning": "capture, seizure"
+      },
+      {
+        "word": "準備",
+        "reading": "じゅんび",
+        "meaning": "preparation"
+      }
+    ],
+    "grammar": "を + で (particle combination) - object marker + method/means; Noun-only statements common in military/operational contexts"
+  },
+  {
+    "start": "15:33",
+    "end": "15:44",
+    "text": "お互いに大流で流されているから、接触のチャンスは… / 一度しかないわよ / わかってる、任せて / 目標 / は接触まで、 / あと30",
+    "audio_file": "clip_106.mp3",
+    "translation": "We're both being carried by the current, so the chance for contact is... / Only once. / I know, leave it to me. / Target / until contact, / 30 more.",
+    "vocabulary": [
+      {
+        "word": "お互い",
+        "reading": "おたがい",
+        "meaning": "each other, mutual"
+      },
+      {
+        "word": "流される",
+        "reading": "ながされる",
+        "meaning": "to be swept along, carried"
+      },
+      {
+        "word": "接触",
+        "reading": "せっしょく",
+        "meaning": "contact"
+      },
+      {
+        "word": "任せる",
+        "reading": "まかせる",
+        "meaning": "to entrust, leave to"
+      }
+    ],
+    "grammar": "〜ている (progressive) - ongoing action; 〜しかない (only) - exclusive limit; 〜て form (imperative) - casual command"
+  },
+  {
+    "start": "15:44",
+    "end": "15:47",
+    "text": "相対速度2.2、軸戦に乗ったわ",
+    "audio_file": "clip_107.mp3",
+    "translation": "Relative velocity 2.2, I'm on axis.",
+    "vocabulary": [
+      {
+        "word": "相対",
+        "reading": "そうたい",
+        "meaning": "relative"
+      },
+      {
+        "word": "速度",
+        "reading": "そくど",
+        "meaning": "speed, velocity"
+      },
+      {
+        "word": "軸",
+        "reading": "じく",
+        "meaning": "axis"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "to get on, align with"
+      }
+    ],
+    "grammar": "〜た (past tense) - completed action; Technical/military terminology for alignment"
+  },
+  {
+    "start": "15:51",
+    "end": "15:57",
+    "text": "電磁柵展開、問題なし / 目標、捕獲しました",
+    "audio_file": "clip_108.mp3",
+    "translation": "Electromagnetic cage deployed, no problems. / Target captured.",
+    "vocabulary": [
+      {
+        "word": "電磁",
+        "reading": "でんじ",
+        "meaning": "electromagnetic"
+      },
+      {
+        "word": "柵",
+        "reading": "さく",
+        "meaning": "fence, cage"
+      },
+      {
+        "word": "展開",
+        "reading": "てんかい",
+        "meaning": "deployment, development"
+      },
+      {
+        "word": "捕獲",
+        "reading": "ほかく",
+        "meaning": "capture"
+      }
+    ],
+    "grammar": "〜なし (without) - negative noun; 〜ました (polite past) - formal completion report"
+  },
+  {
+    "start": "15:57",
+    "end": "16:00",
+    "text": "ナイスアスカ",
+    "audio_file": "clip_109.mp3",
+    "translation": "Nice, Asuka!",
+    "vocabulary": [
+      {
+        "word": "ナイス",
+        "reading": "ナイス",
+        "meaning": "nice (from English)"
+      }
+    ],
+    "grammar": "English loanword used as exclamation of approval"
+  },
+  {
+    "start": "16:01",
+    "end": "16:06",
+    "text": "捕獲作業終了 / これより浮上します",
+    "audio_file": "clip_110.mp3",
+    "translation": "Capture operation complete. / Now surfacing.",
+    "vocabulary": [
+      {
+        "word": "作業",
+        "reading": "さぎょう",
+        "meaning": "work, operation"
+      },
+      {
+        "word": "終了",
+        "reading": "しゅうりょう",
+        "meaning": "completion, end"
+      },
+      {
+        "word": "これより",
+        "reading": "これより",
+        "meaning": "from now, hereafter"
+      },
+      {
+        "word": "浮上",
+        "reading": "ふじょう",
+        "meaning": "surfacing, rising"
+      }
+    ],
+    "grammar": "これより (from this point) - formal transition marker; 〜ます (polite form) - formal announcement"
+  },
+  {
+    "start": "16:10",
+    "end": "16:18",
+    "text": "アスカ大丈夫 / あったりまえよ / アンズルより産むがやすしってね / やっぱ楽勝じゃん",
+    "audio_file": "clip_111.mp3",
+    "translation": "Asuka, are you okay? / Of course! / You know, giving birth is easier than worrying about it. / I knew it would be a piece of cake.",
+    "vocabulary": [
+      {
+        "word": "あたりまえ",
+        "reading": "あたりまえ",
+        "meaning": "of course, natural"
+      },
+      {
+        "word": "案ずるより産むが易し",
+        "reading": "あんずるよりうむがやすし",
+        "meaning": "giving birth is easier than worrying (proverb)"
+      },
+      {
+        "word": "やっぱ",
+        "reading": "やっぱ",
+        "meaning": "as expected (casual)"
+      },
+      {
+        "word": "楽勝",
+        "reading": "らくしょう",
+        "meaning": "easy victory"
+      }
+    ],
+    "grammar": "〜ってね (casual quotative) - you know; じゃん (casual copula) - casual assertion, typical of youth speech"
+  },
+  {
+    "start": "16:18",
+    "end": "16:23",
+    "text": "でもこれじゃプラグスーツというよりサウナスーツよ",
+    "audio_file": "clip_112.mp3",
+    "translation": "But this is more like a sauna suit than a plug suit.",
+    "vocabulary": [
+      {
+        "word": "プラグスーツ",
+        "reading": "プラグスーツ",
+        "meaning": "plug suit"
+      },
+      {
+        "word": "サウナスーツ",
+        "reading": "サウナスーツ",
+        "meaning": "sauna suit"
+      }
+    ],
+    "grammar": "〜というより (rather than) - comparison marker indicating one thing is more appropriate than another"
+  },
+  {
+    "start": "16:23",
+    "end": "16:32",
+    "text": "はぁ早いとコーンセンに入りたい / 緊張がいっぺんに溶けたみたいね / そう / あなたも今日の作戦怖かったんでしょ",
+    "audio_file": "clip_113.mp3",
+    "translation": "I want to get in the hot spring quickly. / It seems like all your tension melted away at once, huh? / Yeah. / You were scared of today's operation too, weren't you?",
+    "vocabulary": [
+      {
+        "word": "温泉",
+        "reading": "おんせん",
+        "meaning": "hot spring"
+      },
+      {
+        "word": "緊張",
+        "reading": "きんちょう",
+        "meaning": "tension, nervousness"
+      },
+      {
+        "word": "いっぺんに",
+        "reading": "いっぺんに",
+        "meaning": "all at once"
+      },
+      {
+        "word": "溶ける",
+        "reading": "とける",
+        "meaning": "to melt, dissolve"
+      },
+      {
+        "word": "怖い",
+        "reading": "こわい",
+        "meaning": "scary, frightening"
+      }
+    ],
+    "grammar": "〜たい (desiderative) - want to; 〜みたい (resemblance) - seems like; 〜んでしょ (explanatory + presumption) - seeking confirmation"
+  },
+  {
+    "start": "16:33",
+    "end": "16:42",
+    "text": "まあね、下手に手を出せば、あれの二の前ですものね / そうね、セカンドインパクト / 二度とごめんだわ",
+    "audio_file": "clip_114.mp3",
+    "translation": "Well yeah, if we handled it poorly, we'd end up just like that. / Right, Second Impact. / Never again.",
+    "vocabulary": [
+      {
+        "word": "下手",
+        "reading": "へた",
+        "meaning": "poor, unskillful"
+      },
+      {
+        "word": "手を出す",
+        "reading": "てをだす",
+        "meaning": "to interfere, meddle"
+      },
+      {
+        "word": "二の舞",
+        "reading": "にのまい",
+        "meaning": "repeating the same mistake"
+      },
+      {
+        "word": "二度と",
+        "reading": "にどと",
+        "meaning": "never again"
+      },
+      {
+        "word": "ごめん",
+        "reading": "ごめん",
+        "meaning": "no thanks, refuse"
+      }
+    ],
+    "grammar": "〜ば (conditional) - if; 〜ですもの (explanatory) - because/you see; だわ (feminine sentence ending)"
+  },
+  {
+    "start": "16:43",
+    "end": "16:49",
+    "text": "なによこれ",
+    "audio_file": "clip_115.mp3",
+    "translation": "What the heck is this?",
+    "vocabulary": [
+      {
+        "word": "なに",
+        "reading": "なに",
+        "meaning": "what"
+      }
+    ],
+    "grammar": "なによ (what + よ particle) - emphatic/annoyed question, feminine speech"
+  },
+  {
+    "start": "16:50",
+    "end": "16:57",
+    "text": "まずいわ、ウッカを始めたのよ / 計算より早すぎるわ / キャッチャーは? / とても持ちません",
+    "audio_file": "clip_116.mp3",
+    "translation": "This is bad, it's started to hatch. / It's way too fast compared to our calculations. / What about the catcher? / It can't hold at all.",
+    "vocabulary": [
+      {
+        "word": "まずい",
+        "reading": "まずい",
+        "meaning": "bad, problematic"
+      },
+      {
+        "word": "羽化",
+        "reading": "うか",
+        "meaning": "emergence, hatching"
+      },
+      {
+        "word": "計算",
+        "reading": "けいさん",
+        "meaning": "calculation"
+      },
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "to hold, endure"
+      }
+    ],
+    "grammar": "〜始める (start doing) - auxiliary verb; 〜より (than) - comparison; 〜すぎる (too much) - excess"
+  },
+  {
+    "start": "16:59",
+    "end": "17:03",
+    "text": "捕獲中止、キャッチャ / ーを破棄 / くっ!",
+    "audio_file": "clip_117.mp3",
+    "translation": "Abort capture, discard the catcher. / Damn!",
+    "vocabulary": [
+      {
+        "word": "中止",
+        "reading": "ちゅうし",
+        "meaning": "cancellation, suspension"
+      },
+      {
+        "word": "破棄",
+        "reading": "はき",
+        "meaning": "discard, abandon"
+      }
+    ],
+    "grammar": "Noun-based commands common in emergency situations; くっ - interjection of frustration"
+  },
+  {
+    "start": "17:04",
+    "end": "17:09",
+    "text": "作戦変更!使徒殲滅を最優先!",
+    "audio_file": "clip_118.mp3",
+    "translation": "Change of operation! Angel annihilation is top priority!",
+    "vocabulary": [
+      {
+        "word": "変更",
+        "reading": "へんこう",
+        "meaning": "change, modification"
+      },
+      {
+        "word": "使徒",
+        "reading": "しと",
+        "meaning": "Angel (in Evangelion)"
+      },
+      {
+        "word": "殲滅",
+        "reading": "せんめつ",
+        "meaning": "annihilation, extermination"
+      },
+      {
+        "word": "最優先",
+        "reading": "さいゆうせん",
+        "meaning": "top priority"
+      }
+    ],
+    "grammar": "〜を (object marker) + 最優先 (top priority) - marking what receives priority status"
+  },
+  {
+    "start": "17:09",
+    "end": "17:14",
+    "text": "2号機は撤収作業しつつ、検討準備! / 待ってました!",
+    "audio_file": "clip_119.mp3",
+    "translation": "Unit 02, prepare for combat while withdrawing! / I've been waiting for this!",
+    "vocabulary": [
+      {
+        "word": "撤収",
+        "reading": "てっしゅう",
+        "meaning": "withdrawal, retreat"
+      },
+      {
+        "word": "作業",
+        "reading": "さぎょう",
+        "meaning": "work, operation"
+      },
+      {
+        "word": "検討",
+        "reading": "けんとう",
+        "meaning": "combat, battle"
+      },
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      }
+    ],
+    "grammar": "〜しつつ (while doing) - simultaneous actions; 〜ました (polite past) - expresses completion/anticipation"
+  },
+  {
+    "start": "17:16",
+    "end": "17:25",
+    "text": "しまった!ナイフは落としちゃったんだわ! / 正面! / ダラスト放出!",
+    "audio_file": "clip_120.mp3",
+    "translation": "Oh no! I dropped the knife! / Dead ahead! / Release ballast!",
+    "vocabulary": [
+      {
+        "word": "しまった",
+        "reading": "しまった",
+        "meaning": "oh no, damn"
+      },
+      {
+        "word": "落とす",
+        "reading": "おとす",
+        "meaning": "to drop"
+      },
+      {
+        "word": "正面",
+        "reading": "しょうめん",
+        "meaning": "front, straight ahead"
+      },
+      {
+        "word": "バラスト",
+        "reading": "バラスト",
+        "meaning": "ballast"
+      },
+      {
+        "word": "放出",
+        "reading": "ほうしゅつ",
+        "meaning": "release, discharge"
+      }
+    ],
+    "grammar": "〜ちゃった (casual past completion) - regretful completion; 〜んだわ (explanatory + feminine ending)"
+  },
+  {
+    "start": "17:27",
+    "end": "17:30",
+    "text": "は、早 / い!",
+    "audio_file": "clip_121.mp3",
+    "translation": "It's f-fast!",
+    "vocabulary": [
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "meaning": "fast, quick"
+      }
+    ],
+    "grammar": "Exclamatory い-adjective; stuttering indicated by splitting the word"
+  },
+  {
+    "start": "17:34",
+    "end": "17:44",
+    "text": "おまけに視界は悪い、やたらと熱い、スーツがべったりしてて気持ち悪い、もう最低ね / アツカ?",
+    "audio_file": "clip_122.mp3",
+    "translation": "On top of that, visibility is bad, it's ridiculously hot, the suit is clinging and feels gross—this is the worst. / Asuka?",
+    "vocabulary": [
+      {
+        "word": "おまけに",
+        "reading": "おまけに",
+        "meaning": "on top of that, furthermore"
+      },
+      {
+        "word": "視界",
+        "reading": "しかい",
+        "meaning": "visibility, field of vision"
+      },
+      {
+        "word": "やたらと",
+        "reading": "やたらと",
+        "meaning": "excessively, overly"
+      },
+      {
+        "word": "べったり",
+        "reading": "べったり",
+        "meaning": "clinging, sticking"
+      },
+      {
+        "word": "気持ち悪い",
+        "reading": "きもちわるい",
+        "meaning": "feels bad, disgusting"
+      },
+      {
+        "word": "最低",
+        "reading": "さいてい",
+        "meaning": "the worst"
+      }
+    ],
+    "grammar": "〜てて (casual progressive) - casual form of ている; List of complaints connected with commas"
+  },
+  {
+    "start": "17:44",
+    "end": "17:49",
+    "text": "今のうちに初号機のナイフを落とすわ、受け取って、了解",
+    "audio_file": "clip_123.mp3",
+    "translation": "I'll drop Unit 01's knife while I can. Catch it. Roger.",
+    "vocabulary": [
+      {
+        "word": "今のうちに",
+        "reading": "いまのうちに",
+        "meaning": "while there's still time"
+      },
+      {
+        "word": "落とす",
+        "reading": "おとす",
+        "meaning": "to drop"
+      },
+      {
+        "word": "受け取る",
+        "reading": "うけとる",
+        "meaning": "to receive, catch"
+      },
+      {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning": "roger, understood"
+      }
+    ],
+    "grammar": "〜のうちに (while) - doing something during a limited time window; 〜て (imperative) - command form"
+  },
+  {
+    "start": "17:49",
+    "end": "17:53",
+    "text": "やば、まだなの?ジンジー!",
+    "audio_file": "clip_124.mp3",
+    "translation": "Oh no, not yet? Shinji!",
+    "vocabulary": [
+      {
+        "word": "やば",
+        "reading": "やば",
+        "meaning": "oh no, bad (slang)"
+      },
+      {
+        "word": "まだ",
+        "reading": "まだ",
+        "meaning": "still, yet"
+      }
+    ],
+    "grammar": "〜なの (explanatory question) - feminine questioning; Elongated name (シンジー) shows urgency/distress"
+  },
+  {
+    "start": "17:55",
+    "end": "18:01",
+    "text": "ナイフ到達まで、あと40 / 使徒急速接近中!",
+    "audio_file": "clip_125.mp3",
+    "translation": "40 more until knife arrival. / Angel approaching rapidly!",
+    "vocabulary": [
+      {
+        "word": "到達",
+        "reading": "とうたつ",
+        "meaning": "arrival, reaching"
+      },
+      {
+        "word": "急速",
+        "reading": "きゅうそく",
+        "meaning": "rapid, quick"
+      },
+      {
+        "word": "接近",
+        "reading": "せっきん",
+        "meaning": "approach, closing in"
+      }
+    ],
+    "grammar": "〜まで (until) - time limit marker; 〜中 (in progress) - ongoing action marker"
+  },
+  {
+    "start": "18:01",
+    "end": "18:06",
+    "text": "いやー!来ないでー! / あー!早く来てー!",
+    "audio_file": "clip_126.mp3",
+    "translation": "Nooo! Don't come! / Ahh! Come quickly!",
+    "vocabulary": [
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "to come"
+      },
+      {
+        "word": "早く",
+        "reading": "はやく",
+        "meaning": "quickly"
+      }
+    ],
+    "grammar": "〜ないで (negative request) - please don't; 〜て (request) - please do; Extended vowels (ー) show emotional distress"
+  }
+]
