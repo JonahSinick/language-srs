@@ -1,0 +1,341 @@
+[
+  {
+    "start": "01:34",
+    "end": "01:40",
+    "text": "第2第3足の子か / これ以上増えないことを望むな",
+    "audio_file": "clip_000.mp3",
+    "translation": "The second and third children, huh. / I hope no more appear.",
+    "vocabulary": [
+      {"word": "第", "reading": "だい", "meaning": "ordinal number prefix (first, second, etc.)"},
+      {"word": "足", "reading": "あし", "meaning": "leg/foot (here likely 'child' transcription error)"},
+      {"word": "増える", "reading": "ふえる", "meaning": "to increase"},
+      {"word": "望む", "reading": "のぞむ", "meaning": "to hope, to wish"}
+    ],
+    "grammar": "これ以上 + negative verb expresses 'no more than this' or 'not any further'"
+  },
+  {
+    "start": "01:40",
+    "end": "01:48",
+    "text": "昨日キール議長から計画遅延の文句が来たぞ / 俺のとこに直接 / 相当イラついてたな",
+    "audio_file": "clip_001.mp3",
+    "translation": "Yesterday Chairman Keel sent a complaint about the plan delays. / Directly to me. / He was pretty irritated.",
+    "vocabulary": [
+      {"word": "議長", "reading": "ぎちょう", "meaning": "chairman"},
+      {"word": "計画", "reading": "けいかく", "meaning": "plan, project"},
+      {"word": "遅延", "reading": "ちえん", "meaning": "delay"},
+      {"word": "文句", "reading": "もんく", "meaning": "complaint"},
+      {"word": "相当", "reading": "そうとう", "meaning": "considerably, quite"}
+    ],
+    "grammar": "ぞ is a masculine sentence-ending particle adding emphasis or assertion"
+  },
+  {
+    "start": "01:48",
+    "end": "01:59",
+    "text": "しまいにはお前の解任もほのめかしていたぞ / アダムは順調だ / エヴァ計画もダミープラグに着手している / ゼーレの老人は / 何が不満なんだ",
+    "audio_file": "clip_002.mp3",
+    "translation": "In the end, he even hinted at your dismissal. / Adam is progressing well. / The Eva project has also begun work on the dummy plug. / What are those SEELE elders dissatisfied with?",
+    "vocabulary": [
+      {"word": "解任", "reading": "かいにん", "meaning": "dismissal, removal from office"},
+      {"word": "ほのめかす", "reading": "ほのめかす", "meaning": "to hint, to suggest"},
+      {"word": "順調", "reading": "じゅんちょう", "meaning": "smooth, favorable progress"},
+      {"word": "着手", "reading": "ちゃくしゅ", "meaning": "to start, to embark on"},
+      {"word": "不満", "reading": "ふまん", "meaning": "dissatisfaction"}
+    ],
+    "grammar": "しまいには means 'in the end' or 'finally' often with negative connotation"
+  },
+  {
+    "start": "01:59",
+    "end": "02:03",
+    "text": "肝心の人類補完計画が遅れてる",
+    "audio_file": "clip_003.mp3",
+    "translation": "The crucial Human Instrumentality Project is behind schedule.",
+    "vocabulary": [
+      {"word": "肝心", "reading": "かんじん", "meaning": "essential, crucial"},
+      {"word": "人類", "reading": "じんるい", "meaning": "humanity, mankind"},
+      {"word": "補完", "reading": "ほかん", "meaning": "complementation, completion"},
+      {"word": "遅れる", "reading": "おくれる", "meaning": "to be late, to fall behind"}
+    ],
+    "grammar": "肝心の + noun emphasizes that something is 'the crucial/essential' thing"
+  },
+  {
+    "start": "02:03",
+    "end": "02:09",
+    "text": "全ての計画はリンクしている / 問題はない / レイもか?",
+    "audio_file": "clip_004.mp3",
+    "translation": "All the plans are linked. / There's no problem. / Even Rei?",
+    "vocabulary": [
+      {"word": "全て", "reading": "すべて", "meaning": "all, everything"},
+      {"word": "リンク", "reading": "リンク", "meaning": "link, connection"},
+      {"word": "問題", "reading": "もんだい", "meaning": "problem"}
+    ],
+    "grammar": "も + か at the end expresses surprise or seeks confirmation about inclusion"
+  },
+  {
+    "start": "02:09",
+    "end": "02:11",
+    "text": "まあいい",
+    "audio_file": "clip_005.mp3",
+    "translation": "Well, fine.",
+    "vocabulary": [
+      {"word": "まあ", "reading": "まあ", "meaning": "well, I suppose"}
+    ],
+    "grammar": "まあいい is a set phrase meaning 'whatever' or 'fine, let it go'"
+  },
+  {
+    "start": "02:11",
+    "end": "02:21",
+    "text": "ところであの男はどうする? / 好きにさせておくさ マルドゥック機関と同じだ / もうしばらくは役に立ってもらうか",
+    "audio_file": "clip_006.mp3",
+    "translation": "By the way, what do we do about that man? / Let him do as he likes. Same as the Marduk Institute. / We'll have him be useful for a while longer.",
+    "vocabulary": [
+      {"word": "ところで", "reading": "ところで", "meaning": "by the way"},
+      {"word": "好き", "reading": "すき", "meaning": "liking, preference"},
+      {"word": "機関", "reading": "きかん", "meaning": "organization, agency"},
+      {"word": "役に立つ", "reading": "やくにたつ", "meaning": "to be useful"}
+    ],
+    "grammar": "させておく (causative + ておく) means to let someone do something and leave it that way"
+  },
+  {
+    "start": "02:24",
+    "end": "02:29",
+    "text": "16年前 ここで何が始まったんだ",
+    "audio_file": "clip_007.mp3",
+    "translation": "16 years ago... what started here?",
+    "vocabulary": [
+      {"word": "年前", "reading": "ねんまえ", "meaning": "years ago"},
+      {"word": "始まる", "reading": "はじまる", "meaning": "to begin, to start"}
+    ],
+    "grammar": "んだ (explanatory の + だ) seeks explanation or expresses seeking understanding"
+  },
+  {
+    "start": "02:49",
+    "end": "02:52",
+    "text": "私だ",
+    "audio_file": "clip_008.mp3",
+    "translation": "It's me.",
+    "vocabulary": [
+      {"word": "私", "reading": "わたし", "meaning": "I, me"}
+    ],
+    "grammar": "Simple copula statement used when answering a phone or door"
+  },
+  {
+    "start": "02:52",
+    "end": "03:00",
+    "text": "ああ 何だか / シャノンバイオー 外資系のケミカル会社",
+    "audio_file": "clip_009.mp3",
+    "translation": "Oh, what is it? / Shannon Bio - a foreign-owned chemical company.",
+    "vocabulary": [
+      {"word": "外資系", "reading": "がいしけい", "meaning": "foreign-owned, foreign-affiliated"},
+      {"word": "会社", "reading": "かいしゃ", "meaning": "company"}
+    ],
+    "grammar": "外資系 is a compound noun describing companies with foreign capital investment"
+  },
+  {
+    "start": "03:00",
+    "end": "03:05",
+    "text": "9年前からここにあるが 9年前からこの姿のままだ",
+    "audio_file": "clip_010.mp3",
+    "translation": "It's been here since 9 years ago, but it's remained in this state since 9 years ago.",
+    "vocabulary": [
+      {"word": "姿", "reading": "すがた", "meaning": "form, appearance, state"},
+      {"word": "まま", "reading": "まま", "meaning": "as is, unchanged"}
+    ],
+    "grammar": "から...まま indicates something has remained unchanged since a point in time"
+  },
+  {
+    "start": "03:05",
+    "end": "03:11",
+    "text": "マルドゥック機関とつながる 108の企業のうち 106がダミーだったよ",
+    "audio_file": "clip_011.mp3",
+    "translation": "Of the 108 companies connected to the Marduk Institute, 106 were dummies.",
+    "vocabulary": [
+      {"word": "つながる", "reading": "つながる", "meaning": "to be connected"},
+      {"word": "企業", "reading": "きぎょう", "meaning": "enterprise, company"},
+      {"word": "ダミー", "reading": "ダミー", "meaning": "dummy, fake"}
+    ],
+    "grammar": "のうち means 'among' or 'out of' when discussing parts of a whole"
+  },
+  {
+    "start": "03:11",
+    "end": "03:18",
+    "text": "ここが107個目というわけだ / この会社の等規模だ / 取締役の乱を見ろったろ",
+    "audio_file": "clip_012.mp3",
+    "translation": "So this is the 107th one. / This is the scale of this company. / You saw the board of directors list, right?",
+    "vocabulary": [
+      {"word": "個目", "reading": "こめ", "meaning": "counter suffix for ordinal items"},
+      {"word": "規模", "reading": "きぼ", "meaning": "scale, scope"},
+      {"word": "取締役", "reading": "とりしまりやく", "meaning": "director, board member"}
+    ],
+    "grammar": "というわけだ expresses a logical conclusion - 'so that means' or 'in other words'"
+  },
+  {
+    "start": "03:18",
+    "end": "03:21",
+    "text": "もう知っていたか / 知ってる名前ばかりだしな",
+    "audio_file": "clip_013.mp3",
+    "translation": "You already knew? / They're all names I recognize.",
+    "vocabulary": [
+      {"word": "知る", "reading": "しる", "meaning": "to know"},
+      {"word": "名前", "reading": "なまえ", "meaning": "name"},
+      {"word": "ばかり", "reading": "ばかり", "meaning": "only, nothing but"}
+    ],
+    "grammar": "ばかり emphasizes exclusivity - 'nothing but' or 'only'"
+  },
+  {
+    "start": "03:22",
+    "end": "03:31",
+    "text": "マルドゥック機関エヴァンゲリオン操縦者選出のために設けられた人類補完委員会直属の指紋機関組織の実態はいまだ不透明",
+    "audio_file": "clip_014.mp3",
+    "translation": "The Marduk Institute - established for selecting Evangelion pilots, directly under the Human Instrumentality Committee. The true nature of this organization remains unclear.",
+    "vocabulary": [
+      {"word": "操縦者", "reading": "そうじゅうしゃ", "meaning": "pilot, operator"},
+      {"word": "選出", "reading": "せんしゅつ", "meaning": "selection, election"},
+      {"word": "設ける", "reading": "もうける", "meaning": "to establish, to set up"},
+      {"word": "直属", "reading": "ちょくぞく", "meaning": "directly under, directly attached"},
+      {"word": "実態", "reading": "じったい", "meaning": "true state, actual condition"}
+    ],
+    "grammar": "ために indicates purpose - 'for the purpose of'"
+  },
+  {
+    "start": "03:32",
+    "end": "03:37",
+    "text": "貴様の仕事はネルフの内定だマルドゥックに顔を出すのはまずいぞま",
+    "audio_file": "clip_015.mp3",
+    "translation": "Your job is NERV's internal affairs. Showing up at Marduk is risky.",
+    "vocabulary": [
+      {"word": "貴様", "reading": "きさま", "meaning": "you (derogatory)"},
+      {"word": "内定", "reading": "ないてい", "meaning": "internal decision/affairs"},
+      {"word": "顔を出す", "reading": "かおをだす", "meaning": "to show one's face, to appear"},
+      {"word": "まずい", "reading": "まずい", "meaning": "bad, problematic"}
+    ],
+    "grammar": "顔を出す is an idiom meaning to make an appearance or show up somewhere"
+  },
+  {
+    "start": "03:38",
+    "end": "03:44",
+    "text": "何事もね自分の目で確かめないと気が済まないたちだからはい",
+    "audio_file": "clip_016.mp3",
+    "translation": "I'm the type who can't rest until I see everything with my own eyes.",
+    "vocabulary": [
+      {"word": "何事", "reading": "なにごと", "meaning": "everything, anything"},
+      {"word": "確かめる", "reading": "たしかめる", "meaning": "to confirm, to verify"},
+      {"word": "気が済む", "reading": "きがすむ", "meaning": "to be satisfied, to feel at ease"},
+      {"word": "たち", "reading": "たち", "meaning": "nature, disposition, type"}
+    ],
+    "grammar": "気が済まない expresses being unable to feel satisfied until something is done"
+  },
+  {
+    "start": "03:45",
+    "end": "03:52",
+    "text": "カジですただいま外出していますご用の方はお名前とメッセージをどうぞ",
+    "audio_file": "clip_017.mp3",
+    "translation": "This is Kaji. I'm currently out. If you need something, please leave your name and message.",
+    "vocabulary": [
+      {"word": "外出", "reading": "がいしゅつ", "meaning": "going out"},
+      {"word": "ご用", "reading": "ごよう", "meaning": "business, errand (polite)"},
+      {"word": "方", "reading": "かた", "meaning": "person (polite)"}
+    ],
+    "grammar": "ご用の方 is a polite way to say 'those who have business/need something'"
+  },
+  {
+    "start": "03:52",
+    "end": "03:56",
+    "text": "ああああああああああああああああああああ",
+    "audio_file": "clip_018.mp3",
+    "translation": "Aaaaaaah!",
+    "vocabulary": [
+      {"word": "ああ", "reading": "ああ", "meaning": "exclamation of frustration or surprise"}
+    ],
+    "grammar": "Extended vocalization expressing strong emotion"
+  },
+  {
+    "start": "03:57",
+    "end": "04:02",
+    "text": "なんちゃって どうしたの",
+    "audio_file": "clip_019.mp3",
+    "translation": "Just kidding! What's up?",
+    "vocabulary": [
+      {"word": "なんちゃって", "reading": "なんちゃって", "meaning": "just kidding, joking"}
+    ],
+    "grammar": "なんちゃって is casual slang meaning 'just kidding' or 'gotcha'"
+  },
+  {
+    "start": "04:02",
+    "end": "04:09",
+    "text": "明日の日曜日さ カジさんにどっかつれてってもらおうかなと思って電話したんだけども",
+    "audio_file": "clip_020.mp3",
+    "translation": "It's Sunday tomorrow, so I called thinking I'd get Kaji to take me somewhere, but...",
+    "vocabulary": [
+      {"word": "日曜日", "reading": "にちようび", "meaning": "Sunday"},
+      {"word": "連れて行く", "reading": "つれていく", "meaning": "to take someone somewhere"},
+      {"word": "電話", "reading": "でんわ", "meaning": "telephone, phone call"}
+    ],
+    "grammar": "てもらおうかな expresses thinking about having someone do something for you"
+  },
+  {
+    "start": "04:09",
+    "end": "04:20",
+    "text": "ずっといないの ここんとこいつかけてもルスってことは明日ヒマなのね / 残念ながらそういうことじゃあさ ちょっと頼みがあるんだけど",
+    "audio_file": "clip_021.mp3",
+    "translation": "He's never there. Every time I call lately it's his answering machine... so that means you're free tomorrow? / Unfortunately, that's the case. Hey, I have a favor to ask.",
+    "vocabulary": [
+      {"word": "留守", "reading": "るす", "meaning": "absence, not home"},
+      {"word": "暇", "reading": "ひマ", "meaning": "free time, not busy"},
+      {"word": "残念", "reading": "ざんねん", "meaning": "unfortunate, regrettable"},
+      {"word": "頼み", "reading": "たのみ", "meaning": "request, favor"}
+    ],
+    "grammar": "ってことは indicates drawing a conclusion - 'that means' or 'so then'"
+  },
+  {
+    "start": "04:21",
+    "end": "04:24",
+    "text": "ほっ実はさ",
+    "audio_file": "clip_022.mp3",
+    "translation": "Actually...",
+    "vocabulary": [
+      {"word": "実は", "reading": "じつは", "meaning": "actually, in fact"}
+    ],
+    "grammar": "実は is used to introduce something the speaker is about to confess or reveal"
+  },
+  {
+    "start": "04:24",
+    "end": "04:34",
+    "text": "a デートー / 小玉お姉ちゃんの友達なんだけどどうしても紹介してくれって頼まれちゃってさ お願い",
+    "audio_file": "clip_023.mp3",
+    "translation": "A date?! / It's my friend's older sister's friend, and they kept asking me to introduce you. Please!",
+    "vocabulary": [
+      {"word": "デート", "reading": "デート", "meaning": "date"},
+      {"word": "友達", "reading": "ともだち", "meaning": "friend"},
+      {"word": "紹介", "reading": "しょうかい", "meaning": "introduction"},
+      {"word": "頼む", "reading": "たのむ", "meaning": "to request, to ask"}
+    ],
+    "grammar": "てくれって頼まれる is passive of request - 'was asked to do X for someone'"
+  },
+  {
+    "start": "04:35",
+    "end": "04:37",
+    "text": "ています",
+    "audio_file": "clip_024.mp3",
+    "translation": "(fragment - unclear context)",
+    "vocabulary": [],
+    "grammar": "Incomplete segment, likely part of ています (continuous form)"
+  },
+  {
+    "start": "04:41",
+    "end": "04:44",
+    "text": "きっ",
+    "audio_file": "clip_025.mp3",
+    "translation": "(sound effect / incomplete)",
+    "vocabulary": [],
+    "grammar": "Fragment or sound effect"
+  },
+  {
+    "start": "04:45",
+    "end": "04:48",
+    "text": "きっ",
+    "audio_file": "clip_026.mp3",
+    "translation": "(sound effect / incomplete)",
+    "vocabulary": [],
+    "grammar": "Fragment or sound effect"
+  }
+]
