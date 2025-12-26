@@ -532,7 +532,7 @@
         let touchStartY = 0;
         let touchEndX = 0;
         let touchEndY = 0;
-        const minSwipeDistance = 50;
+        const minSwipeDistance = 100;
 
         document.addEventListener('touchstart', (e) => {
             touchStartX = e.changedTouches[0].screenX;
@@ -561,7 +561,8 @@
                     toggleReveal();
                 }
             } else {
-                // Horizontal swipe
+                // Horizontal swipe - require it to be predominantly horizontal (2x ratio)
+                if (absDeltaX < absDeltaY * 2) return;
                 if (deltaX > 0) {
                     // Swipe right = previous
                     goToPrevious();
