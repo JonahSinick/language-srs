@@ -301,9 +301,15 @@
     <h1>Final Fantasy VII Remake</h1>
 
     <div class="chapter-select">
-        <select id="chapterSelect" onchange="loadChapter(this.value)">
+        <select id="chapterSelect" onchange="onChapterChange(this.value)">
             <option value="">-- Select Chapter --</option>
             <option value="ch03">Chapter 3: Home Sweet Slum</option>
+        </select>
+    </div>
+
+    <div class="chapter-select" id="sectionSelectContainer" style="display: none;">
+        <select id="sectionSelect" onchange="loadSection(this.value)">
+            <option value="">-- Select Section --</option>
         </select>
     </div>
 
@@ -335,11 +341,32 @@
     </div>
 
     <script>
+        let allData = [];
         let data = [];
         let currentIndex = 0;
         let revealed = false;
         let currentChapter = '';
+        let currentSection = '';
         let showByDefault = localStorage.getItem('ff7_show_by_default') === 'true';
+
+        // Section definitions for Chapter 3
+        const sections = {
+            'ch03': [
+                { id: 'all', name: 'All Sections (603 cards)', start: 0, end: 602 },
+                { id: 's01', name: '1. Return from Mission', start: 0, end: 40 },
+                { id: 's02', name: '2. Cloud\'s Apartment', start: 41, end: 94 },
+                { id: 's03', name: '3. Meeting Marle', start: 95, end: 107 },
+                { id: 's04', name: '4. Filter Collection', start: 108, end: 160 },
+                { id: 's05', name: '5. Neighborhood Watch', start: 161, end: 236 },
+                { id: 's06', name: '6. Wymer & Chadley', start: 237, end: 267 },
+                { id: 's07', name: '7. Monster Hunts', start: 268, end: 340 },
+                { id: 's08', name: '8. Johnny Rescue', start: 341, end: 397 },
+                { id: 's09', name: '9. Lost Cats & Errands', start: 398, end: 450 },
+                { id: 's10', name: '10. Winding Down', start: 451, end: 529 },
+                { id: 's11', name: '11. Avalanche Meeting', start: 530, end: 563 },
+                { id: 's12', name: '12. Jessie\'s Request', start: 564, end: 602 }
+            ]
+        };
 
         // Initialize toggle on page load
         document.getElementById('showByDefault').checked = showByDefault;
@@ -349,39 +376,69 @@
             localStorage.setItem('ff7_show_by_default', showByDefault);
         }
 
-        async function loadChapter(chapter) {
-            if (!chapter) return;
+        async function onChapterChange(chapter) {
+            if (!chapter) {
+                document.getElementById('sectionSelectContainer').style.display = 'none';
+                document.getElementById('navButtons').style.display = 'none';
+                document.getElementById('keyboardHints').style.display = 'none';
+                document.getElementById('swipeHints').style.display = 'none';
+                document.getElementById('cardContainer').innerHTML = '';
+                document.getElementById('progressInfo').textContent = 'Select a chapter to begin';
+                return;
+            }
 
             currentChapter = chapter;
-            currentIndex = 0;
-            revealed = false;
 
             try {
                 const response = await fetch(`${chapter}/data.json`);
-                if (!response.ok) {
-                    // Try segments.json if data.json doesn't exist
-                    const segResponse = await fetch(`${chapter}/segments.json`);
-                    if (!segResponse.ok) throw new Error('No data found');
-                    data = await segResponse.json();
-                } else {
-                    data = await response.json();
+                if (!response.ok) throw new Error('No data found');
+                allData = await response.json();
+
+                // Populate section dropdown
+                const sectionSelect = document.getElementById('sectionSelect');
+                sectionSelect.innerHTML = '<option value="">-- Select Section --</option>';
+
+                if (sections[chapter]) {
+                    sections[chapter].forEach(s => {
+                        const count = s.end - s.start + 1;
+                        const option = document.createElement('option');
+                        option.value = s.id;
+                        option.textContent = `${s.name} (${count} cards)`;
+                        sectionSelect.appendChild(option);
+                    });
                 }
 
-                // Restore position
-                const saved = localStorage.getItem(`ff7_position_${chapter}`);
-                if (saved) {
-                    currentIndex = Math.min(parseInt(saved), data.length - 1);
-                }
+                document.getElementById('sectionSelectContainer').style.display = 'block';
+                document.getElementById('progressInfo').textContent = 'Select a section to begin';
 
-                document.getElementById('navButtons').style.display = 'flex';
-                document.getElementById('keyboardHints').style.display = 'block';
-                document.getElementById('swipeHints').style.display = 'block';
-                showCard();
             } catch (e) {
                 document.getElementById('cardContainer').innerHTML =
                     '<div class="card"><p>Chapter not yet processed. Run build_ff7.py first.</p></div>';
                 document.getElementById('progressInfo').textContent = 'Error loading chapter';
             }
+        }
+
+        function loadSection(sectionId) {
+            if (!sectionId || !sections[currentChapter]) return;
+
+            const section = sections[currentChapter].find(s => s.id === sectionId);
+            if (!section) return;
+
+            currentSection = sectionId;
+            data = allData.slice(section.start, section.end + 1);
+            currentIndex = 0;
+            revealed = false;
+
+            // Restore position for this section
+            const saved = localStorage.getItem(`ff7_position_${currentChapter}_${sectionId}`);
+            if (saved) {
+                currentIndex = Math.min(parseInt(saved), data.length - 1);
+            }
+
+            document.getElementById('navButtons').style.display = 'flex';
+            document.getElementById('keyboardHints').style.display = 'block';
+            document.getElementById('swipeHints').style.display = 'block';
+            showCard();
         }
 
         function showCard() {
@@ -390,7 +447,7 @@
             const card = data[currentIndex];
             revealed = false;
 
-            localStorage.setItem(`ff7_position_${currentChapter}`, currentIndex);
+            localStorage.setItem(`ff7_position_${currentChapter}_${currentSection}`, currentIndex);
 
             const progressEl = document.getElementById('progressInfo');
             progressEl.textContent = `Card ${currentIndex + 1} of ${data.length}`;
