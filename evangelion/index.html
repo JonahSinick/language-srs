@@ -254,6 +254,59 @@
             font-size: 13px;
         }
 
+        /* Progress slider */
+        .progress-slider-container {
+            display: none;
+            padding: 0 20px;
+            margin-bottom: 20px;
+        }
+        .progress-slider-container.visible {
+            display: block;
+        }
+        .progress-slider {
+            width: 100%;
+            height: 8px;
+            -webkit-appearance: none;
+            appearance: none;
+            background: #e0e0e0;
+            border-radius: 4px;
+            outline: none;
+            cursor: pointer;
+        }
+        .progress-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 24px;
+            height: 24px;
+            background: #5d6d7e;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        .progress-slider::-moz-range-thumb {
+            width: 24px;
+            height: 24px;
+            background: #5d6d7e;
+            border-radius: 50%;
+            cursor: pointer;
+            border: none;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        /* Make thumb larger on mobile for easier touch */
+        @media (max-width: 768px) {
+            .progress-slider {
+                height: 10px;
+            }
+            .progress-slider::-webkit-slider-thumb {
+                width: 32px;
+                height: 32px;
+            }
+            .progress-slider::-moz-range-thumb {
+                width: 32px;
+                height: 32px;
+            }
+        }
+
         /* Counter pulse animation */
         @keyframes counterPulse {
             0% { transform: scale(1); color: #666; }
@@ -336,6 +389,10 @@
 
     <div class="progress-info" id="progressInfo">Select a chapter to begin</div>
 
+    <div class="progress-slider-container" id="sliderContainer">
+        <input type="range" class="progress-slider" id="progressSlider" min="1" max="100" value="1">
+    </div>
+
     <div id="cardContainer"></div>
 
     <div class="nav-buttons" id="navButtons" style="display: none;">
@@ -348,7 +405,7 @@
     </div>
 
     <div class="swipe-hints" id="swipeHints" style="display: none;">
-        Swipe: ← Prev &nbsp;|&nbsp; ↓ Reveal &nbsp;|&nbsp; Next →
+        Tap edges or swipe: ← Prev &nbsp;|&nbsp; ↓ Reveal &nbsp;|&nbsp; Next →
     </div>
 
     <script>
@@ -393,6 +450,13 @@
                 document.getElementById('navButtons').style.display = 'flex';
                 document.getElementById('keyboardHints').style.display = 'block';
                 document.getElementById('swipeHints').style.display = 'block';
+
+                // Setup slider
+                const slider = document.getElementById('progressSlider');
+                slider.max = data.length;
+                slider.value = currentIndex + 1;
+                document.getElementById('sliderContainer').classList.add('visible');
+
                 showCard();
             } catch (e) {
                 document.getElementById('cardContainer').innerHTML =
@@ -458,6 +522,9 @@
             document.getElementById('prevBtn').disabled = currentIndex === 0;
             document.getElementById('nextBtn').disabled = currentIndex === data.length - 1;
 
+            // Update slider position
+            document.getElementById('progressSlider').value = currentIndex + 1;
+
             // Apply show by default setting
             if (showByDefault) {
                 revealed = true;
@@ -518,32 +585,97 @@
             }
         });
 
+        // Slider event handler
+        document.getElementById('progressSlider').addEventListener('input', (e) => {
+            const newIndex = parseInt(e.target.value) - 1;
+            if (newIndex !== currentIndex && newIndex >= 0 && newIndex < data.length) {
+                currentIndex = newIndex;
+                showCard();
+            }
+        });
+
         // Replay audio function for mobile button
         function replayAudio() {
             const audio = document.getElementById('cardAudio');
             if (audio) {
+                // If audio is in an error state, reload it first
+                if (audio.error || audio.networkState === 3) {
+                    audio.load();
+                }
                 audio.currentTime = 0;
-                audio.play().catch(() => {});
+                audio.play().catch(() => {
+                    // If play fails, try reloading and playing again
+                    audio.load();
+                    audio.oncanplay = () => {
+                        audio.play().catch(() => {});
+                        audio.oncanplay = null;
+                    };
+                });
             }
         }
 
         // Touch/swipe handling for mobile
         let touchStartX = 0;
         let touchStartY = 0;
+        let touchStartTime = 0;
         let touchEndX = 0;
         let touchEndY = 0;
-        const minSwipeDistance = 100;
+        const minSwipeDistance = 80;
+        const tapZoneWidth = 0.18; // 18% of screen width on each side
+        const maxTapDuration = 300; // ms - taps must be quick
+        const maxTapMovement = 15; // pixels - taps shouldn't move much
 
         document.addEventListener('touchstart', (e) => {
             touchStartX = e.changedTouches[0].screenX;
             touchStartY = e.changedTouches[0].screenY;
+            touchStartTime = Date.now();
         }, { passive: true });
 
         document.addEventListener('touchend', (e) => {
             touchEndX = e.changedTouches[0].screenX;
             touchEndY = e.changedTouches[0].screenY;
-            handleSwipe();
+
+            const duration = Date.now() - touchStartTime;
+            const deltaX = Math.abs(touchEndX - touchStartX);
+            const deltaY = Math.abs(touchEndY - touchStartY);
+
+            // Check if this is a tap (quick, minimal movement)
+            if (duration < maxTapDuration && deltaX < maxTapMovement && deltaY < maxTapMovement) {
+                handleTapZone(e);
+            } else {
+                handleSwipe();
+            }
         }, { passive: true });
+
+        function handleTapZone(e) {
+            const target = e.target;
+
+            // Don't intercept taps on interactive elements
+            if (target.tagName === 'BUTTON' ||
+                target.tagName === 'SELECT' ||
+                target.tagName === 'AUDIO' ||
+                target.tagName === 'INPUT' ||
+                target.tagName === 'A' ||
+                target.closest('button') ||
+                target.closest('select') ||
+                target.closest('audio') ||
+                target.closest('.toggle-switch') ||
+                target.closest('.progress-slider-container')) {
+                return;
+            }
+
+            const screenWidth = window.innerWidth;
+            const tapX = touchStartX;
+            const leftZone = screenWidth * tapZoneWidth;
+            const rightZone = screenWidth * (1 - tapZoneWidth);
+
+            if (tapX < leftZone) {
+                goToPrevious();
+            } else if (tapX > rightZone) {
+                goToNext();
+            }
+            // Taps in the middle do nothing (allows normal interaction)
+        }
 
         function handleSwipe() {
             const deltaX = touchEndX - touchStartX;
