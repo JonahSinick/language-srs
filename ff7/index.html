@@ -394,7 +394,7 @@
     </div>
 
     <div class="swipe-hints" id="swipeHints" style="display: none;">
-        Tap edges or swipe: ← Prev &nbsp;|&nbsp; ↓ Reveal &nbsp;|&nbsp; Next →
+        Tap edges or swipe: ← Prev &nbsp;|&nbsp; ↓ Reveal ↑ Hide &nbsp;|&nbsp; Next →
     </div>
 
     <script>
@@ -742,9 +742,11 @@
 
             // Determine if horizontal or vertical swipe
             if (absDeltaY > absDeltaX) {
-                // Vertical swipe - down to reveal
-                if (deltaY > 0) {
-                    toggleReveal();
+                // Vertical swipe - down to reveal, up to hide
+                if (deltaY > 0 && !revealed) {
+                    toggleReveal(); // Reveal
+                } else if (deltaY < 0 && revealed) {
+                    toggleReveal(); // Hide
                 }
             } else {
                 // Horizontal swipe - require it to be predominantly horizontal (2x ratio)
