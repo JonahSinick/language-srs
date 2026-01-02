@@ -1,0 +1,912 @@
+[
+  {
+    "start": "00:20",
+    "end": "00:24",
+    "text": "お疲れ様でした",
+    "audio_file": "clip_000.mp3",
+    "translation": "Good work today.",
+    "vocabulary": [
+      {
+        "word": "お疲れ様",
+        "reading": "おつかれさま",
+        "meaning": "thank you for your hard work"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:29",
+    "end": "00:33",
+    "text": "よし! 原因無事帰還! / 作戦大成功っす!",
+    "audio_file": "clip_001.mp3",
+    "translation": "Alright! Everyone returned safely! / Mission accomplished!",
+    "vocabulary": [
+      {
+        "word": "帰還",
+        "reading": "きかん",
+        "meaning": "return, repatriation"
+      },
+      {
+        "word": "無事",
+        "reading": "ぶじ",
+        "meaning": "safely, without incident"
+      },
+      {
+        "word": "作戦",
+        "reading": "さくせん",
+        "meaning": "strategy, mission"
+      },
+      {
+        "word": "大成功",
+        "reading": "だいせいこう",
+        "meaning": "great success"
+      }
+    ],
+    "grammar": "っす is casual form of です"
+  },
+  {
+    "start": "00:34",
+    "end": "00:38",
+    "text": "星を救う、でっかい始める一歩だ! / うん! / お前ら!",
+    "audio_file": "clip_002.mp3",
+    "translation": "This is the first big step to saving the planet! / Yeah! / You guys!",
+    "vocabulary": [
+      {
+        "word": "星",
+        "reading": "ほし",
+        "meaning": "star, planet"
+      },
+      {
+        "word": "救う",
+        "reading": "すくう",
+        "meaning": "to save, rescue"
+      },
+      {
+        "word": "一歩",
+        "reading": "いっぽ",
+        "meaning": "one step"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:39",
+    "end": "00:44",
+    "text": "ピーヒャラ喋るんじゃねえ! / 捕まるぞ! / カラペ!",
+    "audio_file": "clip_003.mp3",
+    "translation": "Stop yapping! / You'll get caught! / Scatter!",
+    "vocabulary": [
+      {
+        "word": "ピーヒャラ",
+        "reading": "ぴーひゃら",
+        "meaning": "chattering, yapping"
+      },
+      {
+        "word": "捕まる",
+        "reading": "つかまる",
+        "meaning": "to be caught"
+      }
+    ],
+    "grammar": "んじゃねえ is rough masculine prohibition (don't do)"
+  },
+  {
+    "start": "00:45",
+    "end": "00:48",
+    "text": "うん、次の作戦まで自由行動!",
+    "audio_file": "clip_004.mp3",
+    "translation": "Yeah, free time until the next mission!",
+    "vocabulary": [
+      {
+        "word": "自由行動",
+        "reading": "じゆうこうどう",
+        "meaning": "free time, free action"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "00:49",
+    "end": "00:53",
+    "text": "最高にうまいもんでも食っとけ! / うん! / うん!",
+    "audio_file": "clip_005.mp3",
+    "translation": "Go eat something delicious! / Yeah! / Yeah!",
+    "vocabulary": [
+      {
+        "word": "最高",
+        "reading": "さいこう",
+        "meaning": "the best"
+      },
+      {
+        "word": "うまい",
+        "reading": "うまい",
+        "meaning": "delicious, tasty"
+      }
+    ],
+    "grammar": "食っとけ is casual imperative of 食っておく (eat beforehand)"
+  },
+  {
+    "start": "01:22",
+    "end": "01:27",
+    "text": "一気に入れる",
+    "audio_file": "clip_006.mp3",
+    "translation": "Going all in at once.",
+    "vocabulary": [
+      {
+        "word": "一気に",
+        "reading": "いっきに",
+        "meaning": "all at once"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "meaning": "to put in, enter"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "01:52",
+    "end": "01:54",
+    "text": "ライト",
+    "audio_file": "clip_007.mp3",
+    "translation": "Light.",
+    "vocabulary": [
+      {
+        "word": "ライト",
+        "reading": "らいと",
+        "meaning": "light"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:22",
+    "end": "02:24",
+    "text": "どういう人だろう",
+    "audio_file": "clip_008.mp3",
+    "translation": "I wonder what kind of person they are.",
+    "vocabulary": [],
+    "grammar": "だろう expresses wondering/speculation"
+  },
+  {
+    "start": "02:26",
+    "end": "02:29",
+    "text": "プレートとスラムで差がある",
+    "audio_file": "clip_009.mp3",
+    "translation": "There's a difference between the Plate and the Slums.",
+    "vocabulary": [
+      {
+        "word": "プレート",
+        "reading": "ぷれーと",
+        "meaning": "the Plate (upper city)"
+      },
+      {
+        "word": "スラム",
+        "reading": "すらむ",
+        "meaning": "slums"
+      },
+      {
+        "word": "差",
+        "reading": "さ",
+        "meaning": "difference"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:31",
+    "end": "02:36",
+    "text": "魔晄炉? / 八番街がれきで道が塞がっちまったよ",
+    "audio_file": "clip_010.mp3",
+    "translation": "Mako reactor? / The road's blocked by rubble from Sector 8.",
+    "vocabulary": [
+      {
+        "word": "魔晄炉",
+        "reading": "まこうろ",
+        "meaning": "Mako reactor"
+      },
+      {
+        "word": "瓦礫",
+        "reading": "がれき",
+        "meaning": "rubble, debris"
+      },
+      {
+        "word": "塞がる",
+        "reading": "ふさがる",
+        "meaning": "to be blocked"
+      }
+    ],
+    "grammar": "ちまった is casual contraction of てしまった"
+  },
+  {
+    "start": "02:38",
+    "end": "02:42",
+    "text": "魔晄は星を巡る地って言われてもな",
+    "audio_file": "clip_011.mp3",
+    "translation": "Even if you say Mako is the lifeblood of the planet...",
+    "vocabulary": [
+      {
+        "word": "魔晄",
+        "reading": "まこう",
+        "meaning": "Mako (energy)"
+      },
+      {
+        "word": "巡る",
+        "reading": "めぐる",
+        "meaning": "to circulate"
+      }
+    ],
+    "grammar": "って言われてもな expresses skepticism about what's being said"
+  },
+  {
+    "start": "02:43",
+    "end": "02:46",
+    "text": "剥がしても剥がしてもすぐ元通り",
+    "audio_file": "clip_012.mp3",
+    "translation": "No matter how many times you peel them off, they're back right away.",
+    "vocabulary": [
+      {
+        "word": "剥がす",
+        "reading": "はがす",
+        "meaning": "to peel off, remove"
+      },
+      {
+        "word": "元通り",
+        "reading": "もとどおり",
+        "meaning": "back to normal, restored"
+      }
+    ],
+    "grammar": "ても...ても pattern means 'no matter how much'"
+  },
+  {
+    "start": "02:47",
+    "end": "02:51",
+    "text": "妄想じみた主張はともかく / しつこさには頭が下がるよ",
+    "audio_file": "clip_013.mp3",
+    "translation": "Setting aside their delusional claims / I have to hand it to their persistence.",
+    "vocabulary": [
+      {
+        "word": "妄想",
+        "reading": "もうそう",
+        "meaning": "delusion"
+      },
+      {
+        "word": "主張",
+        "reading": "しゅちょう",
+        "meaning": "claim, assertion"
+      },
+      {
+        "word": "しつこさ",
+        "reading": "しつこさ",
+        "meaning": "persistence"
+      },
+      {
+        "word": "頭が下がる",
+        "reading": "あたまがさがる",
+        "meaning": "to admire, take one's hat off to"
+      }
+    ],
+    "grammar": "はともかく means 'setting aside' or 'regardless of'"
+  },
+  {
+    "start": "02:53",
+    "end": "02:58",
+    "text": "見ろよ あの美しい鉄骨 / たまんねえな",
+    "audio_file": "clip_014.mp3",
+    "translation": "Look at those beautiful steel beams. / Can't get enough of it.",
+    "vocabulary": [
+      {
+        "word": "鉄骨",
+        "reading": "てっこつ",
+        "meaning": "steel frame, steel beam"
+      },
+      {
+        "word": "たまんねえ",
+        "reading": "たまんねえ",
+        "meaning": "can't stand it (in a good way), irresistible"
+      }
+    ],
+    "grammar": "たまんねえ is casual/masculine form of たまらない"
+  },
+  {
+    "start": "03:03",
+    "end": "03:06",
+    "text": "おい あんた どうした",
+    "audio_file": "clip_015.mp3",
+    "translation": "Hey, you there. What's wrong?",
+    "vocabulary": [
+      {
+        "word": "あんた",
+        "reading": "あんた",
+        "meaning": "you (casual)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:09",
+    "end": "03:13",
+    "text": "魔晄中毒かよ",
+    "audio_file": "clip_016.mp3",
+    "translation": "Mako poisoning, huh.",
+    "vocabulary": [
+      {
+        "word": "魔晄中毒",
+        "reading": "まこうちゅうどく",
+        "meaning": "Mako poisoning"
+      }
+    ],
+    "grammar": "かよ adds emphasis/exasperation"
+  },
+  {
+    "start": "03:20",
+    "end": "03:23",
+    "text": "またあいつか",
+    "audio_file": "clip_017.mp3",
+    "translation": "That guy again.",
+    "vocabulary": [
+      {
+        "word": "あいつ",
+        "reading": "あいつ",
+        "meaning": "that guy (casual)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:30",
+    "end": "03:35",
+    "text": "すすまみれふんじんまみれ / おまけに疲れてドロドロだ",
+    "audio_file": "clip_018.mp3",
+    "translation": "Covered in soot and dust / Plus I'm exhausted and filthy.",
+    "vocabulary": [
+      {
+        "word": "すすまみれ",
+        "reading": "すすまみれ",
+        "meaning": "covered in soot"
+      },
+      {
+        "word": "粉塵まみれ",
+        "reading": "ふんじんまみれ",
+        "meaning": "covered in dust"
+      },
+      {
+        "word": "ドロドロ",
+        "reading": "どろどろ",
+        "meaning": "muddy, filthy, exhausted"
+      }
+    ],
+    "grammar": "まみれ means 'covered in'"
+  },
+  {
+    "start": "03:36",
+    "end": "03:39",
+    "text": "待ってろシャワー / 俺はとにかくご飯ご飯",
+    "audio_file": "clip_019.mp3",
+    "translation": "Wait for me, shower. / I just want food, food.",
+    "vocabulary": [
+      {
+        "word": "シャワー",
+        "reading": "しゃわー",
+        "meaning": "shower"
+      },
+      {
+        "word": "ご飯",
+        "reading": "ごはん",
+        "meaning": "rice, meal, food"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:40",
+    "end": "03:45",
+    "text": "危険 / ゲート不具合によりモンスター多数滞留 / この先に用はない",
+    "audio_file": "clip_020.mp3",
+    "translation": "Danger / Many monsters gathered due to gate malfunction / No business ahead.",
+    "vocabulary": [
+      {
+        "word": "危険",
+        "reading": "きけん",
+        "meaning": "danger"
+      },
+      {
+        "word": "不具合",
+        "reading": "ふぐあい",
+        "meaning": "malfunction, defect"
+      },
+      {
+        "word": "滞留",
+        "reading": "たいりゅう",
+        "meaning": "accumulation, stagnation"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:46",
+    "end": "03:46",
+    "text": "戻るか",
+    "audio_file": "clip_021.mp3",
+    "translation": "Should I go back?",
+    "vocabulary": [
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "to return, go back"
+      }
+    ],
+    "grammar": "か at end makes it a question to oneself"
+  },
+  {
+    "start": "03:51",
+    "end": "03:56",
+    "text": "あの / 現在緊急事態につき",
+    "audio_file": "clip_022.mp3",
+    "translation": "Um, / Due to the current emergency...",
+    "vocabulary": [
+      {
+        "word": "現在",
+        "reading": "げんざい",
+        "meaning": "currently"
+      },
+      {
+        "word": "緊急事態",
+        "reading": "きんきゅうじたい",
+        "meaning": "emergency situation"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "03:57",
+    "end": "04:00",
+    "text": "こちらは通行禁止になっています / すみません",
+    "audio_file": "clip_023.mp3",
+    "translation": "This area is currently off-limits. / Sorry.",
+    "vocabulary": [
+      {
+        "word": "通行禁止",
+        "reading": "つうこうきんし",
+        "meaning": "no passage, off-limits"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:01",
+    "end": "04:03",
+    "text": "もっと堂々とせんか / はい",
+    "audio_file": "clip_024.mp3",
+    "translation": "Stand more confidently! / Yes sir!",
+    "vocabulary": [
+      {
+        "word": "堂々と",
+        "reading": "どうどうと",
+        "meaning": "confidently, boldly"
+      }
+    ],
+    "grammar": "せんか is emphatic command form"
+  },
+  {
+    "start": "04:33",
+    "end": "04:35",
+    "text": "すげえ",
+    "audio_file": "clip_025.mp3",
+    "translation": "Awesome.",
+    "vocabulary": [
+      {
+        "word": "すげえ",
+        "reading": "すげえ",
+        "meaning": "awesome, amazing (casual)"
+      }
+    ],
+    "grammar": "すげえ is casual form of すごい"
+  },
+  {
+    "start": "04:48",
+    "end": "04:49",
+    "text": "マリー",
+    "audio_file": "clip_026.mp3",
+    "translation": "Marlene.",
+    "vocabulary": [
+      {
+        "word": "マリー",
+        "reading": "まりー",
+        "meaning": "Marlene (name)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:53",
+    "end": "04:57",
+    "text": "父ちゃんお帰りなさい / ただいま",
+    "audio_file": "clip_027.mp3",
+    "translation": "Daddy, welcome home! / I'm home.",
+    "vocabulary": [
+      {
+        "word": "父ちゃん",
+        "reading": "とうちゃん",
+        "meaning": "daddy (casual)"
+      },
+      {
+        "word": "お帰りなさい",
+        "reading": "おかえりなさい",
+        "meaning": "welcome home"
+      },
+      {
+        "word": "ただいま",
+        "reading": "ただいま",
+        "meaning": "I'm home"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "04:58",
+    "end": "05:07",
+    "text": "お帰り / いい子にしてたか / うん、ティファと遊んでた / おー、そうかよーしよしよし",
+    "audio_file": "clip_028.mp3",
+    "translation": "Welcome back. / Were you a good girl? / Yeah, I was playing with Tifa. / Oh, is that so? Good girl, good girl.",
+    "vocabulary": [
+      {
+        "word": "いい子",
+        "reading": "いいこ",
+        "meaning": "good child"
+      },
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "meaning": "to play"
+      }
+    ],
+    "grammar": "よしよし is an affectionate expression like 'there there' or 'good good'"
+  },
+  {
+    "start": "05:08",
+    "end": "05:11",
+    "text": "お疲れ様",
+    "audio_file": "clip_029.mp3",
+    "translation": "Good work.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "05:11",
+    "end": "05:17",
+    "text": "それ、どうしたの? / 本物でしょ?珍しいね",
+    "audio_file": "clip_030.mp3",
+    "translation": "What's that? / It's real, right? That's rare.",
+    "vocabulary": [
+      {
+        "word": "本物",
+        "reading": "ほんもの",
+        "meaning": "the real thing, genuine"
+      },
+      {
+        "word": "珍しい",
+        "reading": "めずらしい",
+        "meaning": "rare, unusual"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:19",
+    "end": "05:20",
+    "text": "え?",
+    "audio_file": "clip_031.mp3",
+    "translation": "Huh?",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "05:22",
+    "end": "05:28",
+    "text": "意外だな / クラウドこんなことするんだ / 5年ぶりだ",
+    "audio_file": "clip_032.mp3",
+    "translation": "Surprising. / Cloud does things like this? / It's been 5 years.",
+    "vocabulary": [
+      {
+        "word": "意外",
+        "reading": "いがい",
+        "meaning": "unexpected, surprising"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:29",
+    "end": "05:31",
+    "text": "少しは変わるさ / え?",
+    "audio_file": "clip_033.mp3",
+    "translation": "People change a little. / Huh?",
+    "vocabulary": [
+      {
+        "word": "変わる",
+        "reading": "かわる",
+        "meaning": "to change"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:33",
+    "end": "05:38",
+    "text": "バレットに話がある / うん、入って入って",
+    "audio_file": "clip_034.mp3",
+    "translation": "I need to talk to Barret. / Yeah, come in, come in.",
+    "vocabulary": [
+      {
+        "word": "話",
+        "reading": "はなし",
+        "meaning": "talk, conversation"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:40",
+    "end": "05:46",
+    "text": "マコールが爆発したんだよ / ずっとニュースばっかりなの",
+    "audio_file": "clip_035.mp3",
+    "translation": "The Mako reactor exploded. / It's been nothing but news.",
+    "vocabulary": [
+      {
+        "word": "爆発",
+        "reading": "ばくはつ",
+        "meaning": "explosion"
+      },
+      {
+        "word": "ニュース",
+        "reading": "にゅーす",
+        "meaning": "news"
+      }
+    ],
+    "grammar": "ばっかり means 'nothing but'"
+  },
+  {
+    "start": "05:47",
+    "end": "05:51",
+    "text": "マリン / トちゃん、今夜はもうどこへも行かないから",
+    "audio_file": "clip_036.mp3",
+    "translation": "Marlene. / Daddy's not going anywhere tonight.",
+    "vocabulary": [
+      {
+        "word": "今夜",
+        "reading": "こんや",
+        "meaning": "tonight"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:52",
+    "end": "05:54",
+    "text": "テレビ消して、念念しような",
+    "audio_file": "clip_037.mp3",
+    "translation": "Turn off the TV and let's go to sleep.",
+    "vocabulary": [
+      {
+        "word": "消す",
+        "reading": "けす",
+        "meaning": "to turn off"
+      },
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "meaning": "to sleep"
+      }
+    ],
+    "grammar": "念念しよう seems to be mishearing, likely ねんねしよう (let's sleep)"
+  },
+  {
+    "start": "05:55",
+    "end": "06:00",
+    "text": "片付けが終わるまでマリンの相手してあげてて / 俺が?",
+    "audio_file": "clip_038.mp3",
+    "translation": "Keep Marlene company until I finish cleaning up. / Me?",
+    "vocabulary": [
+      {
+        "word": "片付け",
+        "reading": "かたづけ",
+        "meaning": "cleaning up, tidying"
+      },
+      {
+        "word": "相手",
+        "reading": "あいて",
+        "meaning": "companion, partner"
+      }
+    ],
+    "grammar": "してあげて is giving favor form"
+  },
+  {
+    "start": "06:01",
+    "end": "06:02",
+    "text": "もちろん",
+    "audio_file": "clip_039.mp3",
+    "translation": "Of course.",
+    "vocabulary": [
+      {
+        "word": "もちろん",
+        "reading": "もちろん",
+        "meaning": "of course"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:03",
+    "end": "06:06",
+    "text": "報酬の話はティファとしてくれ",
+    "audio_file": "clip_040.mp3",
+    "translation": "Talk to Tifa about the payment.",
+    "vocabulary": [
+      {
+        "word": "報酬",
+        "reading": "ほうしゅう",
+        "meaning": "reward, payment"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:06",
+    "end": "06:14",
+    "text": "会計担当だからよ / なお、今回の攻撃に対する / 暗黒声明はおやじにならず / どうぞ、すば",
+    "audio_file": "clip_041.mp3",
+    "translation": "She's in charge of accounting. / Furthermore, regarding this attack / No dark statement has been made / Please, go ahead.",
+    "vocabulary": [
+      {
+        "word": "会計",
+        "reading": "かいけい",
+        "meaning": "accounting"
+      },
+      {
+        "word": "担当",
+        "reading": "たんとう",
+        "meaning": "in charge"
+      },
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "attack"
+      },
+      {
+        "word": "声明",
+        "reading": "せいめい",
+        "meaning": "statement"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:19",
+    "end": "06:25",
+    "text": "てめえ / バレット / 何に、何にしやがった",
+    "audio_file": "clip_042.mp3",
+    "translation": "You bastard! / Barret! / What did you do?!",
+    "vocabulary": [
+      {
+        "word": "てめえ",
+        "reading": "てめえ",
+        "meaning": "you (very rude)"
+      },
+      {
+        "word": "何",
+        "reading": "なに",
+        "meaning": "what"
+      }
+    ],
+    "grammar": "しやがった is rude past tense (did something bad)"
+  },
+  {
+    "start": "06:26",
+    "end": "06:29",
+    "text": "知らない人とは喋っちゃダメって",
+    "audio_file": "clip_043.mp3",
+    "translation": "I was told not to talk to strangers.",
+    "vocabulary": [
+      {
+        "word": "知らない人",
+        "reading": "しらないひと",
+        "meaning": "stranger"
+      }
+    ],
+    "grammar": "ちゃダメ means 'must not'"
+  },
+  {
+    "start": "06:30",
+    "end": "06:37",
+    "text": "えらいぞーマリー / 父ちゃんとの約束忘れなかったな",
+    "audio_file": "clip_044.mp3",
+    "translation": "Good girl, Marlene! / You remembered daddy's promise!",
+    "vocabulary": [
+      {
+        "word": "約束",
+        "reading": "やくそく",
+        "meaning": "promise"
+      },
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "to forget"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:38",
+    "end": "06:43",
+    "text": "えらいえらいぞー / じゃお休みの時間も守らないとな",
+    "audio_file": "clip_045.mp3",
+    "translation": "Good girl, good girl! / Now you have to keep your bedtime too.",
+    "vocabulary": [
+      {
+        "word": "お休み",
+        "reading": "おやすみ",
+        "meaning": "bedtime, good night"
+      },
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      },
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to keep, protect"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:44",
+    "end": "06:49",
+    "text": "いやー父ちゃんとお話しする",
+    "audio_file": "clip_046.mp3",
+    "translation": "Nooo, I want to talk with daddy!",
+    "vocabulary": [],
+    "grammar": "いやー is a whining 'no'"
+  },
+  {
+    "start": "06:49",
+    "end": "06:52",
+    "text": "特別だぞー",
+    "audio_file": "clip_047.mp3",
+    "translation": "Just this once, special!",
+    "vocabulary": [
+      {
+        "word": "特別",
+        "reading": "とくべつ",
+        "meaning": "special"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:52",
+    "end": "06:58",
+    "text": "あそうだご飯食べる / いや報酬の話をしたい",
+    "audio_file": "clip_048.mp3",
+    "translation": "Oh right, are you hungry? / No, I want to talk about payment.",
+    "vocabulary": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "meaning": "to eat"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:59",
+    "end": "07:01",
+    "text": "ああそうだよね",
+    "audio_file": "clip_049.mp3",
+    "translation": "Oh, right.",
+    "vocabulary": [],
+    "grammar": null
+  }
+]

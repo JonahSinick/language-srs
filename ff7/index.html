@@ -431,6 +431,20 @@
         function saveShowByDefault() {
             showByDefault = document.getElementById('showByDefault').checked;
             localStorage.setItem('ff7_show_by_default', showByDefault);
+
+            // Also update the current card immediately
+            const translation = document.getElementById('translation');
+            const revealHint = document.getElementById('revealHint');
+            const vocabSection = document.getElementById('vocabSection');
+            const grammarSection = document.getElementById('grammarSection');
+
+            if (translation) {
+                revealed = showByDefault;
+                translation.classList.toggle('revealed', showByDefault);
+                if (revealHint) revealHint.classList.toggle('hidden', showByDefault);
+                if (vocabSection) vocabSection.classList.toggle('revealed', showByDefault);
+                if (grammarSection) grammarSection.classList.toggle('revealed', showByDefault);
+            }
         }
 
         async function onChapterChange(chapter) {
