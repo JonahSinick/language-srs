@@ -1,7 +1,7 @@
 [
   {
     "start": "00:00:00",
-    "end": "00:00:05",
+    "end": "00:00:06",
     "text": "すべての存在は滅びるようにデザインされている",
     "audio_file": "clip_000.mp3",
     "translation": "All existence is designed to perish",
@@ -25,8 +25,8 @@
     "grammar": "ように indicates purpose or manner - here 'designed such that it will perish'. される is passive form."
   },
   {
-    "start": "00:00:05",
-    "end": "00:00:11",
+    "start": "00:00:06",
+    "end": "00:00:12",
     "text": "生と死を繰り返す螺旋に / 私たちは囚われ続けている",
     "audio_file": "clip_001.mp3",
     "translation": "We remain trapped in a spiral of life and death repeating",
@@ -61,7 +61,7 @@
   },
   {
     "start": "00:00:13",
-    "end": "00:00:17",
+    "end": "00:00:18",
     "text": "これは呪いか、それとも罰か",
     "audio_file": "clip_002.mp3",
     "translation": "Is this a curse, or is it punishment?",
@@ -80,8 +80,8 @@
     "grammar": "それとも means 'or' when presenting alternatives in a question"
   },
   {
-    "start": "00:00:17",
-    "end": "00:00:24",
+    "start": "00:00:18",
+    "end": "00:00:25",
     "text": "不可解なパズルを渡した神に / いつか私たちは弓を引くのだろうか",
     "audio_file": "clip_003.mp3",
     "translation": "Will we someday draw our bows against the god who handed us this incomprehensible puzzle?",
@@ -156,7 +156,7 @@
   },
   {
     "start": "00:00:40",
-    "end": "00:00:44",
+    "end": "00:00:45",
     "text": "こちらオペレーター6O / 全機反応確認しました",
     "audio_file": "clip_005.mp3",
     "translation": "This is Operator 6O. All units' responses confirmed.",
@@ -175,7 +175,7 @@
     "grammar": null
   },
   {
-    "start": "00:00:44",
+    "start": "00:00:45",
     "end": "00:00:52",
     "text": "現在対目標50キロ地点を通過 / 敵防空圏内で突入後 / マニュアル攻撃形態に移行し / 目標の大型兵器の破壊と",
     "audio_file": "clip_006.mp3",
@@ -226,7 +226,7 @@
   },
   {
     "start": "00:00:53",
-    "end": "00:01:01",
+    "end": "00:00:58",
     "text": "情報の収集に当たってください / 了解",
     "audio_file": "clip_007.mp3",
     "translation": "Please gather information. Roger that.",
@@ -250,7 +250,7 @@
     "grammar": "に当たってください - please engage in/undertake"
   },
   {
-    "start": "00:01:02",
+    "start": "00:01:01",
     "end": "00:01:05",
     "text": "ロスト / 全機マニュアルモード起動 / 目視で回避",
     "audio_file": "clip_008.mp3",
@@ -311,7 +311,7 @@
   },
   {
     "start": "00:01:10",
-    "end": "00:01:19",
+    "end": "00:01:15",
     "text": "長距離レーザー / 発射点を確認",
     "audio_file": "clip_010.mp3",
     "translation": "Long-range laser / Launching point confirmed",
@@ -340,8 +340,8 @@
     "grammar": "Military report format using noun phrases connected by forward slashes"
   },
   {
-    "start": "00:01:20",
-    "end": "00:01:30",
+    "start": "00:01:19",
+    "end": "00:01:26",
     "text": "ロスト / 装備 / HO-229のキャンセラー / 効果なし",
     "audio_file": "clip_011.mp3",
     "translation": "Lost / Equipment / HO-229 canceller / No effect",
@@ -375,7 +375,7 @@
     "grammar": "Status report with noun phrases; 効果なし means 'no effect/ineffective'"
   },
   {
-    "start": "00:01:31",
+    "start": "00:01:30",
     "end": "00:01:34",
     "text": "前方に敵機確認",
     "audio_file": "clip_012.mp3",
@@ -401,7 +401,7 @@
   },
   {
     "start": "00:01:35",
-    "end": "00:01:44",
+    "end": "00:01:41",
     "text": "夏季使用申請 / 夏季使用の許可をします",
     "audio_file": "clip_013.mp3",
     "translation": "Weapons use request / Permission for weapons use granted",
@@ -425,8 +425,8 @@
     "grammar": "をします is the polite form granting permission"
   },
   {
-    "start": "00:01:45",
-    "end": "00:02:01",
+    "start": "00:01:44",
+    "end": "00:01:49",
     "text": "セブニー、ロスト",
     "audio_file": "clip_014.mp3",
     "translation": "Sevni, lost",
@@ -445,8 +445,8 @@
     "grammar": null
   },
   {
-    "start": "00:02:02",
-    "end": "00:02:25",
+    "start": "00:02:01",
+    "end": "00:02:10",
     "text": "ワンティローソン / 規定によりトーキ2Bが隊長任務を継承",
     "audio_file": "clip_015.mp3",
     "translation": "Unit 21 lost / According to regulations, Unit 2B will assume command duties",
@@ -480,8 +480,8 @@
     "grammar": "により indicates the basis or means; が marks the subject performing the action"
   },
   {
-    "start": "00:02:26",
-    "end": "00:02:42",
+    "start": "00:02:25",
+    "end": "00:02:35",
     "text": "周囲に敵機多数確認 / 機動形態への許可を申請 / 機動形態への移行を許可します",
     "audio_file": "clip_016.mp3",
     "translation": "Multiple enemy aircraft confirmed in vicinity / Requesting permission to shift to mobile form / Permission to shift to mobile form granted",
@@ -520,8 +520,8 @@
     "grammar": "への indicates direction/target of the action; を許可します grants permission"
   },
   {
-    "start": "00:02:43",
-    "end": "00:03:01",
+    "start": "00:02:42",
+    "end": "00:02:54",
     "text": "お疲れ様でした",
     "audio_file": "clip_017.mp3",
     "translation": "Good work",
@@ -535,8 +535,8 @@
     "grammar": "Standard polite phrase said after completing work"
   },
   {
-    "start": "00:03:02",
-    "end": "00:03:03",
+    "start": "00:03:01",
+    "end": "00:03:06",
     "text": "ロスト",
     "audio_file": "clip_018.mp3",
     "translation": "Lost",
@@ -636,7 +636,7 @@
   },
   {
     "start": "00:03:22",
-    "end": "00:04:31",
+    "end": "00:03:27",
     "text": "地形情報を入手してください / 了解",
     "audio_file": "clip_021.mp3",
     "translation": "Please obtain terrain information. Acknowledged.",
@@ -665,8 +665,8 @@
     "grammar": "てください is polite request form"
   },
   {
-    "start": "00:04:32",
-    "end": "00:04:56",
+    "start": "00:04:31",
+    "end": "00:04:37",
     "text": "アーメン",
     "audio_file": "clip_022.mp3",
     "translation": "Amen.",
@@ -680,8 +680,8 @@
     "grammar": null
   },
   {
-    "start": "00:04:57",
-    "end": "00:05:01",
+    "start": "00:04:56",
+    "end": "00:05:02",
     "text": "敵反応多数確認 / 見ればわかるよ",
     "audio_file": "clip_023.mp3",
     "translation": "Multiple enemy responses confirmed. I can see that.",
@@ -711,7 +711,7 @@
   },
   {
     "start": "00:05:09",
-    "end": "00:05:30",
+    "end": "00:05:23",
     "text": "お疲れ様でした",
     "audio_file": "clip_024.mp3",
     "translation": "Good work.",
@@ -725,8 +725,8 @@
     "grammar": "Standard phrase used to thank someone for their work"
   },
   {
-    "start": "00:05:31",
-    "end": "00:05:48",
+    "start": "00:05:30",
+    "end": "00:05:35",
     "text": "うっ いやっ",
     "audio_file": "clip_025.mp3",
     "translation": "Ugh! No!",
@@ -745,8 +745,8 @@
     "grammar": "Exclamations of distress"
   },
   {
-    "start": "00:05:49",
-    "end": "00:06:03",
+    "start": "00:05:48",
+    "end": "00:05:55",
     "text": "敵の破壊を確認 / いや",
     "audio_file": "clip_026.mp3",
     "translation": "Enemy destruction confirmed. No!",
@@ -775,7 +775,7 @@
     "grammar": null
   },
   {
-    "start": "00:06:04",
+    "start": "00:06:03",
     "end": "00:06:07",
     "text": "これが目標大型兵器",
     "audio_file": "clip_027.mp3",
@@ -841,7 +841,7 @@
   },
   {
     "start": "00:06:14",
-    "end": "00:06:21",
+    "end": "00:06:18",
     "text": "簡単に言う",
     "audio_file": "clip_029.mp3",
     "translation": "Easy for you to say.",
@@ -860,8 +860,8 @@
     "grammar": "に is used to mark the manner; implies criticism 'you say it easily (but it's not that easy)'"
   },
   {
-    "start": "00:06:22",
-    "end": "00:06:34",
+    "start": "00:06:21",
+    "end": "00:06:27",
     "text": "レーザー通信回復",
     "audio_file": "clip_030.mp3",
     "translation": "Laser communication restored",
@@ -885,8 +885,8 @@
     "grammar": null
   },
   {
-    "start": "00:06:35",
-    "end": "00:06:49",
+    "start": "00:06:34",
+    "end": "00:06:41",
     "text": "ホットプログラムのダウンロードを終了",
     "audio_file": "clip_031.mp3",
     "translation": "Hot program download complete",
@@ -910,8 +910,8 @@
     "grammar": null
   },
   {
-    "start": "00:06:50",
-    "end": "00:07:09",
+    "start": "00:06:49",
+    "end": "00:06:57",
     "text": "お疲れ様でした",
     "audio_file": "clip_032.mp3",
     "translation": "Good work",
@@ -925,8 +925,8 @@
     "grammar": "Common phrase used to acknowledge someone's effort or to mark the end of work"
   },
   {
-    "start": "00:07:10",
-    "end": "00:07:21",
+    "start": "00:07:09",
+    "end": "00:07:22",
     "text": "2Bさんですね、僕は9Sです / あなたのサポートをするように指令を受けています / 了解 / この大きなノコギリが目標の超大型兵器ですか?",
     "audio_file": "clip_033.mp3",
     "translation": "You're 2B, right? I'm 9S. I've been ordered to provide you with support. Is this the target weapon?",
@@ -965,7 +965,7 @@
     "grammar": "ように indicates purpose ('in order to'). ています indicates continuous state ('have been ordered')"
   },
   {
-    "start": "00:07:21",
+    "start": "00:07:22",
     "end": "00:07:27",
     "text": "違う、単なる防衛装置みたい / じゃあ、目標を探す必要がありますね",
     "audio_file": "clip_034.mp3",
@@ -1031,7 +1031,7 @@
   },
   {
     "start": "00:07:32",
-    "end": "00:07:35",
+    "end": "00:07:36",
     "text": "わかった、私は内部を中心に調べてみる",
     "audio_file": "clip_036.mp3",
     "translation": "Understood. I'll focus on investigating the interior.",
@@ -1066,7 +1066,7 @@
   },
   {
     "start": "00:08:39",
-    "end": "00:09:08",
+    "end": "00:08:49",
     "text": "2Bさん / 何? / 事前に調査しておいたマップデータを転送しておきますね / 了解",
     "audio_file": "clip_037.mp3",
     "translation": "2B. What? I'll transfer the map data I surveyed in advance. Thanks.",
@@ -1095,7 +1095,7 @@
     "grammar": "ておく indicates doing something in preparation for later. ますね is polite volitional ('I'll...')"
   },
   {
-    "start": "00:09:09",
+    "start": "00:09:08",
     "end": "00:09:12",
     "text": "ゲートの封鎖を確認 / 扉の解除 / 不可能",
     "audio_file": "clip_038.mp3",
@@ -1136,7 +1136,7 @@
   },
   {
     "start": "00:09:13",
-    "end": "00:10:02",
+    "end": "00:09:20",
     "text": "本エリアの席が妨害で搭載した / めんどくさい",
     "audio_file": "clip_039.mp3",
     "translation": "This area's systems have been jammed. What a pain.",
@@ -1160,7 +1160,7 @@
     "grammar": null
   },
   {
-    "start": "00:10:03",
+    "start": "00:10:02",
     "end": "00:10:12",
     "text": "2Bさん、僕、嬉しいです / 何の? / 僕たちスキャナータイプは単独での現地の事前調査が主です",
     "audio_file": "clip_040.mp3",
@@ -1281,7 +1281,7 @@
   },
   {
     "start": "00:10:30",
-    "end": "00:10:58",
+    "end": "00:10:34",
     "text": "わかりました",
     "audio_file": "clip_044.mp3",
     "translation": "Understood.",
@@ -1295,7 +1295,7 @@
     "grammar": null
   },
   {
-    "start": "00:10:59",
+    "start": "00:10:58",
     "end": "00:11:02",
     "text": "広いな、この廃墟",
     "audio_file": "clip_045.mp3",
@@ -1366,7 +1366,7 @@
   },
   {
     "start": "00:11:11",
-    "end": "00:11:30",
+    "end": "00:11:22",
     "text": "敵はこの工場を再利用して機械生命体を増産しているようです / 全滅させないと無限に湧いてくるってことか",
     "audio_file": "clip_047.mp3",
     "translation": "The enemy seems to be reusing this factory to mass-produce machine lifeforms. / If we don't wipe them all out, they'll spawn infinitely.",
@@ -1405,7 +1405,7 @@
     "grammar": "「～ようです」indicates conjecture or appearance. 「～ないと」means 'if we don't ~'. 「湧いてくる」means 'to keep spawning/appearing'."
   },
   {
-    "start": "00:11:31",
+    "start": "00:11:30",
     "end": "00:11:35",
     "text": "ブロック43から4機で、機材移動中。",
     "audio_file": "clip_048.mp3",
@@ -1551,7 +1551,7 @@
   },
   {
     "start": "00:11:54",
-    "end": "00:12:14",
+    "end": "00:12:02",
     "text": "4機で、お疲れ様でした。 / その喜びの感じに。",
     "audio_file": "clip_053.mp3",
     "translation": "Good work, you four units. / That feeling of joy.",
@@ -1575,8 +1575,8 @@
     "grammar": "でした is past tense polite copula."
   },
   {
-    "start": "00:12:15",
-    "end": "00:12:29",
+    "start": "00:12:14",
+    "end": "00:12:23",
     "text": "防弾隊との敵を掛け、建設攻撃を推奨 / わかってる",
     "audio_file": "clip_054.mp3",
     "translation": "Request defensive attack against enemies with the armored squad / I know",
@@ -1605,8 +1605,8 @@
     "grammar": null
   },
   {
-    "start": "00:12:30",
-    "end": "00:12:57",
+    "start": "00:12:29",
+    "end": "00:12:35",
     "text": "お疲れ様でした",
     "audio_file": "clip_055.mp3",
     "translation": "Good work.",
@@ -1620,8 +1620,8 @@
     "grammar": null
   },
   {
-    "start": "00:12:58",
-    "end": "00:13:37",
+    "start": "00:12:57",
+    "end": "00:13:07",
     "text": "お疲れ様でした",
     "audio_file": "clip_056.mp3",
     "translation": "Good work.",
@@ -1635,7 +1635,7 @@
     "grammar": null
   },
   {
-    "start": "00:13:38",
+    "start": "00:13:37",
     "end": "00:13:42",
     "text": "一通り工場を探索したけど目標らしき兵器は発見できず",
     "audio_file": "clip_057.mp3",
@@ -1681,7 +1681,7 @@
   },
   {
     "start": "00:13:43",
-    "end": "00:13:46",
+    "end": "00:13:47",
     "text": "もしかしたら別の場所に移動しちゃったかもしれませんね",
     "audio_file": "clip_058.mp3",
     "translation": "It might have moved to a different location.",
@@ -1711,7 +1711,7 @@
   },
   {
     "start": "00:13:48",
-    "end": "00:13:55",
+    "end": "00:13:56",
     "text": "あれは / ああ鳥ですか環境の変化があったのか",
     "audio_file": "clip_059.mp3",
     "translation": "That is... / Oh, is that a bird? There must have been an environmental change.",
@@ -1740,8 +1740,8 @@
     "grammar": "か adds questioning tone. ~があった is past tense of ある (to exist/occur). のか indicates explanatory question"
   },
   {
-    "start": "00:13:55",
-    "end": "00:14:00",
+    "start": "00:13:56",
+    "end": "00:14:01",
     "text": "動物や植物は旧世界の時よりも増えているみたいですね",
     "audio_file": "clip_060.mp3",
     "translation": "It seems like there are more animals and plants than there were in the old world.",
@@ -1776,7 +1776,7 @@
   },
   {
     "start": "00:14:08",
-    "end": "00:14:16",
+    "end": "00:14:17",
     "text": "その端の先に別の施設があるはずです / ちょっと遠いですが移動してみましょうか",
     "audio_file": "clip_061.mp3",
     "translation": "There should be another facility beyond that edge. It's a bit far, but shall we try moving there?",
@@ -1815,7 +1815,7 @@
     "grammar": "~はずです (should be, expected to be), ~てみましょうか (shall we try...?)"
   },
   {
-    "start": "00:14:16",
+    "start": "00:14:17",
     "end": "00:14:23",
     "text": "しかし司令部が敵兵器の予測位置を間違えるなんて珍しいですね",
     "audio_file": "clip_062.mp3",
@@ -1856,7 +1856,7 @@
   },
   {
     "start": "00:14:25",
-    "end": "00:14:44",
+    "end": "00:14:30",
     "text": "いやどうかな",
     "audio_file": "clip_063.mp3",
     "translation": "Well, I wonder about that.",
@@ -1875,7 +1875,7 @@
     "grammar": "Casual/doubtful response expressing uncertainty"
   },
   {
-    "start": "00:14:45",
+    "start": "00:14:44",
     "end": "00:14:48",
     "text": "強力なジャミングをタッチ 返去率進行投稿",
     "audio_file": "clip_064.mp3",
@@ -1906,7 +1906,7 @@
   },
   {
     "start": "00:14:49",
-    "end": "00:15:46",
+    "end": "00:14:53",
     "text": "倒せばいい",
     "audio_file": "clip_065.mp3",
     "translation": "Just destroy it.",
@@ -1920,8 +1920,8 @@
     "grammar": "~ばいい (just do..., all you need to do is...)"
   },
   {
-    "start": "00:15:47",
-    "end": "00:17:29",
+    "start": "00:15:46",
+    "end": "00:15:53",
     "text": "アイス",
     "audio_file": "clip_066.mp3",
     "translation": "Ice.",
@@ -1935,7 +1935,7 @@
     "grammar": null
   },
   {
-    "start": "00:17:30",
+    "start": "00:17:29",
     "end": "00:17:33",
     "text": "状況は? / これが目標の超大型兵器",
     "audio_file": "clip_067.mp3",
@@ -1966,7 +1966,7 @@
   },
   {
     "start": "00:17:34",
-    "end": "00:18:09",
+    "end": "00:17:39",
     "text": "破壊する / 援護します",
     "audio_file": "clip_068.mp3",
     "translation": "Destroy it. I'll provide support.",
@@ -1985,7 +1985,7 @@
     "grammar": null
   },
   {
-    "start": "00:18:10",
+    "start": "00:18:09",
     "end": "00:18:14",
     "text": "警告 / 敵兵器による下方向からの攻撃",
     "audio_file": "clip_069.mp3",
@@ -2016,7 +2016,7 @@
   },
   {
     "start": "00:18:15",
-    "end": "00:19:09",
+    "end": "00:18:20",
     "text": "推奨 / 退避",
     "audio_file": "clip_070.mp3",
     "translation": "Recommended / Evacuate",
@@ -2035,8 +2035,8 @@
     "grammar": null
   },
   {
-    "start": "00:19:10",
-    "end": "00:19:31",
+    "start": "00:19:09",
+    "end": "00:19:14",
     "text": "ハッキング開始します",
     "audio_file": "clip_071.mp3",
     "translation": "Commencing hacking",
@@ -2055,8 +2055,8 @@
     "grammar": "します is the polite form of する (to do)"
   },
   {
-    "start": "00:19:32",
-    "end": "00:19:34",
+    "start": "00:19:31",
+    "end": "00:19:36",
     "text": "ブースト!",
     "audio_file": "clip_072.mp3",
     "translation": "Boost!",
@@ -2071,7 +2071,7 @@
   },
   {
     "start": "00:19:38",
-    "end": "00:19:40",
+    "end": "00:19:41",
     "text": "マイエス!",
     "audio_file": "clip_073.mp3",
     "translation": "9S!",
@@ -2086,7 +2086,7 @@
   },
   {
     "start": "00:19:52",
-    "end": "00:19:56",
+    "end": "00:19:57",
     "text": "9Sのブラックボックス反応検知",
     "audio_file": "clip_074.mp3",
     "translation": "9S's black box reaction detected",
@@ -2110,8 +2110,8 @@
     "grammar": null
   },
   {
-    "start": "00:19:56",
-    "end": "00:20:00",
+    "start": "00:19:57",
+    "end": "00:20:02",
     "text": "通信応答なし / 救助する",
     "audio_file": "clip_075.mp3",
     "translation": "No communication response / Rescue",
@@ -2136,7 +2136,7 @@
   },
   {
     "start": "00:20:11",
-    "end": "00:20:57",
+    "end": "00:20:20",
     "text": "司令部への応援要請 / 妨害連覇機の通信は不完",
     "audio_file": "clip_076.mp3",
     "translation": "Request for reinforcements to command / Communication incomplete due to jamming",
@@ -2170,7 +2170,7 @@
     "grammar": null
   },
   {
-    "start": "00:20:58",
+    "start": "00:20:57",
     "end": "00:21:03",
     "text": "NNSを助けないと",
     "audio_file": "clip_077.mp3",
@@ -2190,7 +2190,7 @@
     "grammar": "ないと is short for なければならない (must do)"
   },
   {
-    "start": "00:21:04",
+    "start": "00:21:03",
     "end": "00:21:06",
     "text": "今から修復する",
     "audio_file": "clip_078.mp3",
@@ -2256,7 +2256,7 @@
   },
   {
     "start": "00:21:14",
-    "end": "00:21:17",
+    "end": "00:21:18",
     "text": "この場での応急性性能が止めること / いいから出して!",
     "audio_file": "clip_080.mp3",
     "translation": "I can stop the emergency performance function right here! / Just get it out!",
@@ -2291,7 +2291,7 @@
   },
   {
     "start": "00:21:21",
-    "end": "00:21:23",
+    "end": "00:21:24",
     "text": "痛て / 黙って!",
     "audio_file": "clip_081.mp3",
     "translation": "It hurts! / Be quiet!",
@@ -2311,7 +2311,7 @@
   },
   {
     "start": "00:21:26",
-    "end": "00:21:31",
+    "end": "00:21:32",
     "text": "僕たちは… / 兵士…です",
     "audio_file": "clip_082.mp3",
     "translation": "We are... soldiers...",
@@ -2330,8 +2330,8 @@
     "grammar": "The ellipses indicate labored speech, suggesting the speaker is injured or dying."
   },
   {
-    "start": "00:21:31",
-    "end": "00:21:36",
+    "start": "00:21:32",
+    "end": "00:21:37",
     "text": "その戦いに… / 誇りを…",
     "audio_file": "clip_083.mp3",
     "translation": "In that battle... we take pride...",
@@ -2351,7 +2351,7 @@
   },
   {
     "start": "00:21:42",
-    "end": "00:21:51",
+    "end": "00:21:52",
     "text": "装備 HO229 / コマンド677 受託 / 使用者をLINE Sから2Bに権限異常",
     "audio_file": "clip_084.mp3",
     "translation": "Equipment HO229 / Command 677 accepted / Transferring authority from User Line S to 2B",
@@ -2391,7 +2391,7 @@
   },
   {
     "start": "00:21:52",
-    "end": "00:21:55",
+    "end": "00:21:56",
     "text": "2Bの承認を求む / お願い…",
     "audio_file": "clip_085.mp3",
     "translation": "I request 2B's approval... / Please...",
@@ -2416,7 +2416,7 @@
   },
   {
     "start": "00:22:00",
-    "end": "00:22:02",
+    "end": "00:22:03",
     "text": "分かった",
     "audio_file": "clip_086.mp3",
     "translation": "Understood.",
@@ -2431,7 +2431,7 @@
   },
   {
     "start": "00:22:48",
-    "end": "00:23:06",
+    "end": "00:22:55",
     "text": "アーメ",
     "audio_file": "clip_087.mp3",
     "translation": "Amen",
@@ -2445,7 +2445,7 @@
     "grammar": "Religious terminology used by androids in Nier Automata."
   },
   {
-    "start": "00:23:07",
+    "start": "00:23:06",
     "end": "00:23:10",
     "text": "敵機体の脆弱性を発見しました",
     "audio_file": "clip_088.mp3",
@@ -2476,7 +2476,7 @@
   },
   {
     "start": "00:23:11",
-    "end": "00:23:23",
+    "end": "00:23:17",
     "text": "今から援護のためにハッキングします",
     "audio_file": "clip_089.mp3",
     "translation": "I'm going to hack now to provide support.",
@@ -2510,7 +2510,7 @@
     "grammar": "今から indicates 'from now/starting now'. ~のために means 'for the purpose of'."
   },
   {
-    "start": "00:23:24",
+    "start": "00:23:23",
     "end": "00:23:28",
     "text": "敵機体の上腕部のコントロールを",
     "audio_file": "clip_090.mp3",
@@ -2541,7 +2541,7 @@
   },
   {
     "start": "00:23:29",
-    "end": "00:23:52",
+    "end": "00:23:38",
     "text": "ポットを使う / 制御を取れるはず / いいから黙って",
     "audio_file": "clip_091.mp3",
     "translation": "Use the pod / You should be able to take control / Just shut up and do it",
@@ -2580,7 +2580,7 @@
     "grammar": "はず indicates expectation/assumption; いいから means 'just...'"
   },
   {
-    "start": "00:23:53",
+    "start": "00:23:52",
     "end": "00:23:57",
     "text": "敵機体の上腕部のコントロール",
     "audio_file": "clip_092.mp3",
@@ -2701,7 +2701,7 @@
   },
   {
     "start": "00:24:12",
-    "end": "00:24:45",
+    "end": "00:24:19",
     "text": "地勢制御バーニア コントロール 敵兵器の従属化を完了",
     "audio_file": "clip_095.mp3",
     "translation": "Terrain control vernier control, enemy weapon subordination complete",
@@ -2745,7 +2745,7 @@
     "grammar": null
   },
   {
-    "start": "00:24:46",
+    "start": "00:24:45",
     "end": "00:24:48",
     "text": "おう",
     "audio_file": "clip_096.mp3",
@@ -2761,7 +2761,7 @@
   },
   {
     "start": "00:25:15",
-    "end": "00:25:25",
+    "end": "00:25:21",
     "text": "行かないみたいです",
     "audio_file": "clip_097.mp3",
     "translation": "It doesn't seem to be working",
@@ -2780,8 +2780,8 @@
     "grammar": "行かない + みたい (seems like); here 行く means 'to work/function properly'"
   },
   {
-    "start": "00:25:26",
-    "end": "00:25:40",
+    "start": "00:25:25",
+    "end": "00:25:30",
     "text": "そんな…",
     "audio_file": "clip_098.mp3",
     "translation": "No way...",
@@ -2795,8 +2795,8 @@
     "grammar": "Exclamation of disbelief or disappointment"
   },
   {
-    "start": "00:25:41",
-    "end": "00:25:42",
+    "start": "00:25:40",
+    "end": "00:25:43",
     "text": "なかなかうまくは…",
     "audio_file": "clip_099.mp3",
     "translation": "It's not going very well...",
@@ -2816,7 +2816,7 @@
   },
   {
     "start": "00:25:44",
-    "end": "00:25:46",
+    "end": "00:25:47",
     "text": "行かないみたいです",
     "audio_file": "clip_100.mp3",
     "translation": "It doesn't seem to be working",
@@ -2836,7 +2836,7 @@
   },
   {
     "start": "00:25:50",
-    "end": "00:25:54",
+    "end": "00:25:57",
     "text": "準備はできました / ブラックボックスを",
     "audio_file": "clip_101.mp3",
     "translation": "Preparations complete / The black box",
@@ -2861,7 +2861,7 @@
   },
   {
     "start": "00:25:57",
-    "end": "00:25:58",
+    "end": "00:25:59",
     "text": "分かった",
     "audio_file": "clip_102.mp3",
     "translation": "Understood",
@@ -2921,7 +2921,7 @@
   },
   {
     "start": "00:26:17",
-    "end": "00:26:19",
+    "end": "00:26:22",
     "text": "戦艇を許可します",
     "audio_file": "clip_104.mp3",
     "translation": "Permission granted for combat",
@@ -2966,7 +2966,7 @@
   },
   {
     "start": "00:26:28",
-    "end": "00:26:30",
+    "end": "00:26:32",
     "text": "私もだ",
     "audio_file": "clip_106.mp3",
     "translation": "Same here.",
@@ -2986,7 +2986,7 @@
   },
   {
     "start": "00:27:20",
-    "end": "00:27:29",
+    "end": "00:27:30",
     "text": "作戦は成功でしたね / 敵大型兵器は破壊され、敵支配地域への侵入経路が確保されました",
     "audio_file": "clip_107.mp3",
     "translation": "The operation was a success. The enemy's heavy weaponry has been destroyed, and an infiltration route into enemy-controlled territory has been secured.",
@@ -3035,8 +3035,8 @@
     "grammar": "Passive form される indicating completed actions; formal report-style speech"
   },
   {
-    "start": "00:27:29",
-    "end": "00:27:36",
+    "start": "00:27:30",
+    "end": "00:27:37",
     "text": "今後の愛 / ありがとう / 最後に私たちのデータを基地にアップロードしてくれて",
     "audio_file": "clip_108.mp3",
     "translation": "Thank you for uploading our data to the base at the end.",
@@ -3076,7 +3076,7 @@
   },
   {
     "start": "00:27:39",
-    "end": "00:27:41",
+    "end": "00:27:42",
     "text": "ごめんなさい",
     "audio_file": "clip_109.mp3",
     "translation": "I'm sorry.",
@@ -3176,7 +3176,7 @@
   },
   {
     "start": "00:28:00",
-    "end": "00:28:02",
+    "end": "00:28:03",
     "text": "そう",
     "audio_file": "clip_112.mp3",
     "translation": "I see.",
@@ -3216,7 +3216,7 @@
   },
   {
     "start": "00:28:08",
-    "end": "00:28:11",
+    "end": "00:28:12",
     "text": "人類に栄光あれ",
     "audio_file": "clip_114.mp3",
     "translation": "Glory to mankind.",
@@ -3241,7 +3241,7 @@
   },
   {
     "start": "00:28:23",
-    "end": "00:28:29",
+    "end": "00:28:30",
     "text": "西暦5012年 / 人類の華やかな歴史に",
     "audio_file": "clip_115.mp3",
     "translation": "The year 5012 AD. Upon humanity's glorious history...",
@@ -3270,8 +3270,8 @@
     "grammar": "に particle indicating the topic/subject"
   },
   {
-    "start": "00:28:29",
-    "end": "00:28:35",
+    "start": "00:28:30",
+    "end": "00:28:36",
     "text": "突如終わりが訪れた / 外宇宙から飛来したエイリアンによる侵略",
     "audio_file": "clip_116.mp3",
     "translation": "An end suddenly came. An invasion by aliens who arrived from outer space.",
@@ -3316,7 +3316,7 @@
   },
   {
     "start": "00:28:36",
-    "end": "00:28:43",
+    "end": "00:28:44",
     "text": "異星人たちの繰り出す兵器 / 機械生命体によって / 人類文明は壊滅",
     "audio_file": "clip_117.mp3",
     "translation": "Human civilization was annihilated by the weapons deployed by the extraterrestrials—machine lifeforms.",
@@ -3361,7 +3361,7 @@
   },
   {
     "start": "00:28:44",
-    "end": "00:28:49",
+    "end": "00:28:50",
     "text": "生き延びた僅かな者たちは / 月に逃げ延びることになった",
     "audio_file": "clip_118.mp3",
     "translation": "The few who survived ended up fleeing to the moon.",
@@ -3396,7 +3396,7 @@
   },
   {
     "start": "00:28:50",
-    "end": "00:28:53",
+    "end": "00:28:54",
     "text": "西暦5204年",
     "audio_file": "clip_119.mp3",
     "translation": "The year 5204 AD.",
@@ -3411,7 +3411,7 @@
   },
   {
     "start": "00:28:54",
-    "end": "00:29:01",
+    "end": "00:29:02",
     "text": "平成軌道上に付設された基地軍より / アンドロイドを使った反抗作戦が開始される",
     "audio_file": "clip_120.mp3",
     "translation": "From the military base attached to the orbital station in lunar orbit, a resistance operation using androids will commence.",
@@ -3446,7 +3446,7 @@
   },
   {
     "start": "00:29:02",
-    "end": "00:29:06",
+    "end": "00:29:07",
     "text": "十数回に及ぶ大規模降下作戦を経てもなお",
     "audio_file": "clip_121.mp3",
     "translation": "Even after more than ten large-scale descent operations,",
@@ -3485,8 +3485,8 @@
     "grammar": "に及ぶ means 'amounting to'. を経てもなお means 'even after going through'"
   },
   {
-    "start": "00:29:06",
-    "end": "00:29:10",
+    "start": "00:29:07",
+    "end": "00:29:11",
     "text": "決定的な打撃を与えるには至っていない",
     "audio_file": "clip_122.mp3",
     "translation": "we have yet to deliver a decisive blow.",
@@ -3516,7 +3516,7 @@
   },
   {
     "start": "00:29:11",
-    "end": "00:29:19",
+    "end": "00:29:20",
     "text": "この硬着状態に陥った戦況を打破するために / 君たちヨルハ部隊は存在するのだ",
     "audio_file": "clip_123.mp3",
     "translation": "In order to break through this deadlocked war situation, you of the YoRHa unit exist.",
@@ -3551,7 +3551,7 @@
   },
   {
     "start": "00:29:20",
-    "end": "00:29:25",
+    "end": "00:29:26",
     "text": "最終決戦兵器としての役割を果たしてほしい",
     "audio_file": "clip_124.mp3",
     "translation": "I want you to fulfill your role as the final decisive weapon.",
@@ -3585,8 +3585,8 @@
     "grammar": "としての means 'as'. てほしい expresses a request/desire for someone to do something"
   },
   {
-    "start": "00:29:25",
-    "end": "00:29:30",
+    "start": "00:29:26",
+    "end": "00:29:31",
     "text": "はっ 承知しております / 健闘を祈る",
     "audio_file": "clip_125.mp3",
     "translation": "Yes! Understood. I wish you success in battle.",
@@ -3615,8 +3615,8 @@
     "grammar": "はっ is a sharp military affirmative. を祈る means 'pray for/wish for'"
   },
   {
-    "start": "00:29:30",
-    "end": "00:29:35",
+    "start": "00:29:31",
+    "end": "00:29:36",
     "text": "人類に栄光あれ / 人類に栄光あれ",
     "audio_file": "clip_126.mp3",
     "translation": "Glory to mankind. Glory to mankind.",
@@ -3641,7 +3641,7 @@
   },
   {
     "start": "00:29:36",
-    "end": "00:29:39",
+    "end": "00:29:40",
     "text": "人類に栄光あれ",
     "audio_file": "clip_127.mp3",
     "translation": "Glory to mankind.",
@@ -3666,7 +3666,7 @@
   },
   {
     "start": "00:29:44",
-    "end": "00:29:46",
+    "end": "00:29:47",
     "text": "おはようございます",
     "audio_file": "clip_128.mp3",
     "translation": "Good morning.",
@@ -3711,7 +3711,7 @@
   },
   {
     "start": "00:30:04",
-    "end": "00:30:06",
+    "end": "00:30:07",
     "text": "これから定期的にチェックしますね",
     "audio_file": "clip_130.mp3",
     "translation": "I'll be checking on you regularly from now on.",
@@ -3771,7 +3771,7 @@
   },
   {
     "start": "00:30:16",
-    "end": "00:30:20",
+    "end": "00:30:21",
     "text": "で、自分で言うことじゃないか",
     "audio_file": "clip_132.mp3",
     "translation": "Well, maybe that's not something I should be saying myself.",
@@ -3796,7 +3796,7 @@
   },
   {
     "start": "00:30:23",
-    "end": "00:30:27",
+    "end": "00:30:28",
     "text": "えっ、何でしょう? / 継承はいらない",
     "audio_file": "clip_133.mp3",
     "translation": "Huh, what is it? There's no need for inheritance.",
@@ -3826,7 +3826,7 @@
   },
   {
     "start": "00:30:28",
-    "end": "00:30:33",
+    "end": "00:30:34",
     "text": "えっ? / 私の名前に3は付けなくていい",
     "audio_file": "clip_134.mp3",
     "translation": "Huh? You don't need to add a '3' to my name.",
@@ -3855,7 +3855,7 @@
     "grammar": "に is the target particle. なくていい means 'don't need to'"
   },
   {
-    "start": "00:30:33",
+    "start": "00:30:34",
     "end": "00:30:43",
     "text": "あ、はい、わかりました / そうだ!司令官が呼んでたから一緒に行きましょう",
     "audio_file": "clip_135.mp3",
@@ -3941,7 +3941,7 @@
   },
   {
     "start": "00:30:59",
-    "end": "00:31:02",
+    "end": "00:31:03",
     "text": "近距離マップで確認してこまめにセーブしましょう",
     "audio_file": "clip_137.mp3",
     "translation": "Check the short-range map and save frequently",
@@ -3976,7 +3976,7 @@
   },
   {
     "start": "00:31:21",
-    "end": "00:31:26",
+    "end": "00:31:27",
     "text": "ああ、2Bか / メンテナンスは終わったのか? / はい",
     "audio_file": "clip_138.mp3",
     "translation": "Ah, 2B, is it? / Has your maintenance finished? / Yes",
@@ -4000,8 +4000,8 @@
     "grammar": "〜のか is a masculine sentence-ending particle used for questions."
   },
   {
-    "start": "00:31:26",
-    "end": "00:31:32",
+    "start": "00:31:27",
+    "end": "00:31:33",
     "text": "ブラックボックスの暴走による敵殲滅 / あまり無茶をするなよ",
     "audio_file": "clip_139.mp3",
     "translation": "Enemy annihilation through Black Box runaway / Don't overdo it",
@@ -4040,8 +4040,8 @@
     "grammar": "による indicates 'by means of, through'. 〜するなよ is a casual negative command."
   },
   {
-    "start": "00:31:32",
-    "end": "00:31:39",
+    "start": "00:31:33",
+    "end": "00:31:40",
     "text": "メンテナンス明けで悪いが任務がある / 地上にいるレジスタンスたちと合流し情報収集をしてくれ",
     "audio_file": "clip_140.mp3",
     "translation": "Sorry to bother you right after maintenance, but there's a mission / Rendezvous with the Resistance members on the surface and gather information",
@@ -4126,7 +4126,7 @@
   },
   {
     "start": "00:31:46",
-    "end": "00:31:53",
+    "end": "00:31:54",
     "text": "専任の担当者とは連絡が取れていない / その原因究明も兼ねて現地調査を頼みたい / 了解しました",
     "audio_file": "clip_142.mp3",
     "translation": "We haven't been able to contact the dedicated liaison / I'd like to ask you to investigate on-site, which will also serve to determine the cause / Understood",
@@ -4206,7 +4206,7 @@
   },
   {
     "start": "00:32:09",
-    "end": "00:32:15",
+    "end": "00:32:16",
     "text": "格納庫に行きましょう / 飛行ユニットの運用コストは高いからあんまり使わせてもらえないんですよね",
     "audio_file": "clip_144.mp3",
     "translation": "Let's go to the hangar / Flight units have high operating costs, so they don't let us use them very much",
@@ -4241,7 +4241,7 @@
   },
   {
     "start": "00:32:16",
-    "end": "00:32:20",
+    "end": "00:32:21",
     "text": "もっと安い機体を生産すればいいのにな / この先が格納庫ですね",
     "audio_file": "clip_145.mp3",
     "translation": "They should just produce cheaper units / The hangar is just ahead",
@@ -4281,7 +4281,7 @@
   },
   {
     "start": "00:32:21",
-    "end": "00:32:22",
+    "end": "00:32:23",
     "text": "行きましょう",
     "audio_file": "clip_146.mp3",
     "translation": "Let's go",
@@ -4331,7 +4331,7 @@
   },
   {
     "start": "00:33:02",
-    "end": "00:33:17",
+    "end": "00:33:12",
     "text": "現地調査なら僕たちスキャナーモデルだけで十分なのに / 命令に文句を言わない / はーい",
     "audio_file": "clip_148.mp3",
     "translation": "For on-site investigation, just us scanner models would be sufficient / Don't complain about orders / Okay~",
@@ -4370,7 +4370,7 @@
     "grammar": "〜なら indicates conditional 'if/for'. 〜だけで means 'just with~'. 〜のに expresses frustration."
   },
   {
-    "start": "00:33:18",
+    "start": "00:33:17",
     "end": "00:33:21",
     "text": "2Bさん、今回から新装備が搭載されています。",
     "audio_file": "clip_149.mp3",
@@ -4396,7 +4396,7 @@
   },
   {
     "start": "00:33:22",
-    "end": "00:34:10",
+    "end": "00:33:28",
     "text": "使用方法を表示しますので確認してください。 / 了解。",
     "audio_file": "clip_150.mp3",
     "translation": "I'll display the usage instructions, so please check them. / Understood.",
@@ -4425,7 +4425,7 @@
     "grammar": "〜ますので is polite form of 'because~, so~'. 〜てください is a polite request."
   },
   {
-    "start": "00:34:11",
+    "start": "00:34:10",
     "end": "00:34:14",
     "text": "バンカーより2Bさんへ / 飛行ユニットの降下地点を設定しました",
     "audio_file": "clip_151.mp3",
@@ -4511,7 +4511,7 @@
   },
   {
     "start": "00:34:22",
-    "end": "00:34:24",
+    "end": "00:34:27",
     "text": "了解 / 頑張ってくださいね",
     "audio_file": "clip_153.mp3",
     "translation": "Understood / Good luck",

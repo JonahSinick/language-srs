@@ -9,6 +9,8 @@ import json
 import subprocess
 import os
 import sys
+import numpy as np
+import librosa
 
 TRANSCRIPT_PATH = "source_media/nier_automata_full.txt"
 AUDIO_PATH = "source_media/nier_automata_full.mp3"
@@ -71,6 +73,17 @@ DROP_IF_ISOLATED = {
     "はい",
     "そう",
 }
+
+# Audio endpoint detection settings
+MIN_EXTENSION = 1.0  # Minimum extension past transcript end before searching for silence
+SEARCH_WINDOW = 2.0
+SILENCE_THRESHOLD = 0.08  # Lower = more conservative (less likely to cut speech)
+MIN_SILENCE_DURATION = 0.15  # Require longer silence to be sure it's actually silence
+FALLBACK_BUFFER = 1.5  # Buffer to add if no silence found and no next segment
+END_BUFFER = 0.20  # Buffer after detected silence at end
+START_BUFFER = 0.10  # Buffer before detected silence at start
+START_SEARCH_WINDOW = 1.0  # How far back to search for start silence
+MAX_EXTENSION = 3.0  # Maximum extension past transcript end (prevents runaway with background music)
 
 
 def hms_to_seconds(time_str):
@@ -267,6 +280,146 @@ def finalize_segment(current):
     }
 
 
+def find_silence_after(audio, sr, start_time, max_search_time, next_start_time=None, global_rms_max=None, original_end=None):
+    """
+    Find where speech ends by looking for silence after the transcript endpoint.
+    Uses global_rms_max for normalization so background music doesn't confuse detection.
+    Times are relative to the loaded audio chunk.
+    """
+    search_start_time = start_time
+    start_sample = int(search_start_time * sr)
+    end_sample = int((search_start_time + max_search_time) * sr)
+
+    if next_start_time is not None:
+        max_end_sample = int((next_start_time - 0.05) * sr)
+        end_sample = min(end_sample, max_end_sample)
+
+    end_sample = min(end_sample, len(audio))
+
+    # Fallback when we can't find silence - use MAX_EXTENSION instead of extending to next segment
+    if original_end is not None:
+        fallback_end = original_end + MAX_EXTENSION
+    else:
+        fallback_end = start_time + FALLBACK_BUFFER
+
+    # But don't extend past next segment
+    if next_start_time is not None:
+        fallback_end = min(fallback_end, next_start_time - 0.05)
+
+    if start_sample >= end_sample:
+        return fallback_end
+
+    search_audio = audio[start_sample:end_sample]
+
+    if len(search_audio) < int(MIN_SILENCE_DURATION * sr):
+        return fallback_end
+
+    frame_length = int(0.025 * sr)
+    hop_length = int(0.010 * sr)
+
+    rms = librosa.feature.rms(y=search_audio, frame_length=frame_length, hop_length=hop_length)[0]
+
+    if global_rms_max is not None and global_rms_max > 0:
+        rms_norm = rms / global_rms_max
+    elif rms.max() > 0:
+        rms_norm = rms / rms.max()
+    else:
+        return fallback_end
+
+    min_silence_frames = int(MIN_SILENCE_DURATION * sr / hop_length)
+
+    for i in range(len(rms_norm) - min_silence_frames):
+        if np.all(rms_norm[i:i+min_silence_frames] < SILENCE_THRESHOLD):
+            silence_start_sample = i * hop_length
+            result = search_start_time + (silence_start_sample / sr) + END_BUFFER
+            result = max(result, start_time + MIN_EXTENSION)
+            return result
+
+    return fallback_end
+
+
+def find_silence_before(audio, sr, start_time, prev_end_time=None, global_rms_max=None):
+    """Search backward from transcript start to find where speech actually begins."""
+    earliest_time = 0.0
+    if prev_end_time is not None:
+        earliest_time = prev_end_time + 0.05
+
+    search_start = max(earliest_time, start_time - START_SEARCH_WINDOW)
+    search_end = start_time
+
+    start_sample = int(search_start * sr)
+    end_sample = int(search_end * sr)
+
+    if start_sample >= end_sample or start_sample < 0:
+        return start_time
+
+    search_audio = audio[start_sample:end_sample]
+
+    if len(search_audio) < int(MIN_SILENCE_DURATION * sr):
+        return start_time
+
+    frame_length = int(0.025 * sr)
+    hop_length = int(0.010 * sr)
+
+    rms = librosa.feature.rms(y=search_audio, frame_length=frame_length, hop_length=hop_length)[0]
+
+    if global_rms_max is not None and global_rms_max > 0:
+        rms_norm = rms / global_rms_max
+    elif rms.max() > 0:
+        rms_norm = rms / rms.max()
+    else:
+        return start_time
+
+    min_silence_frames = int(MIN_SILENCE_DURATION * sr / hop_length)
+
+    for i in range(len(rms_norm) - 1, min_silence_frames - 1, -1):
+        if i >= min_silence_frames:
+            silence_region = rms_norm[i - min_silence_frames:i]
+            current_loud = rms_norm[i] >= SILENCE_THRESHOLD
+            silence_before = np.all(silence_region < SILENCE_THRESHOLD)
+
+            if current_loud and silence_before:
+                speech_start_sample = i * hop_length
+                new_start = search_start + (speech_start_sample / sr) - START_BUFFER
+                return max(earliest_time, new_start)
+
+    return max(earliest_time, start_time - 0.15)
+
+
+def adjust_endpoints_with_audio(segments, audio, sr, chapter_start_sec):
+    """Adjust segment endpoints using audio analysis. Times converted to relative."""
+    print("   Analyzing audio for natural speech endpoints...")
+
+    frame_length = int(0.025 * sr)
+    hop_length = int(0.010 * sr)
+    global_rms = librosa.feature.rms(y=audio, frame_length=frame_length, hop_length=hop_length)[0]
+    global_rms_max = global_rms.max()
+    print(f"   Global RMS max: {global_rms_max:.4f}")
+
+    for i, seg in enumerate(segments):
+        # Convert absolute times to relative (within the loaded audio chunk)
+        rel_start = seg['start_sec'] - chapter_start_sec
+        rel_end = seg['end_sec'] - chapter_start_sec
+
+        # Adjust START time
+        prev_end = None
+        if i > 0:
+            prev_end = segments[i - 1]['end_sec'] - chapter_start_sec
+        new_start = find_silence_before(audio, sr, rel_start, prev_end, global_rms_max)
+
+        # Adjust END time
+        next_start = None
+        if i < len(segments) - 1:
+            next_start = segments[i + 1]['start_sec'] - chapter_start_sec
+        new_end = find_silence_after(audio, sr, rel_end, SEARCH_WINDOW, next_start, global_rms_max, original_end=rel_end)
+
+        # Update with absolute times
+        seg['start_sec'] = chapter_start_sec + new_start
+        seg['end_sec'] = chapter_start_sec + new_end
+
+    return segments
+
+
 def split_audio_ffmpeg(segments, chapter_folder, audio_path):
     """Split audio file into individual clips."""
     clips_dir = os.path.join(BASE_DIR, chapter_folder, "clips")
@@ -277,9 +430,9 @@ def split_audio_ffmpeg(segments, chapter_folder, audio_path):
         clip_path = os.path.join(clips_dir, clip_filename)
         seg['audio_file'] = clip_filename
 
-        # Add small buffer for natural sound
+        # Times already adjusted by audio detection
         start_time = seg['start_sec']
-        end_time = seg['end_sec'] + 0.5  # Add buffer at end
+        end_time = seg['end_sec']
 
         start_ffmpeg = seconds_to_ffmpeg_time(start_time)
         end_ffmpeg = seconds_to_ffmpeg_time(end_time)
@@ -325,8 +478,18 @@ def build_chapter(folder_name, start_time, end_time, display_name):
     merged = merge_segments(segments)
     print(f"   Result: {len(merged)} merged segments")
 
+    # Load audio for this chapter only (memory efficient)
+    print("\n3. Loading audio for analysis...")
+    chapter_duration = end_sec - start_sec + 10  # Add buffer
+    audio, sr = librosa.load(AUDIO_PATH, sr=None, mono=True, offset=start_sec, duration=chapter_duration)
+    print(f"   Loaded {len(audio)/sr:.1f} seconds of audio at {sr}Hz")
+
+    # Adjust endpoints with audio analysis
+    print("\n4. Adjusting endpoints with audio analysis...")
+    merged = adjust_endpoints_with_audio(merged, audio, sr, start_sec)
+
     # Split audio
-    print("\n3. Creating audio clips...")
+    print("\n5. Creating audio clips...")
     merged = split_audio_ffmpeg(merged, folder_name, AUDIO_PATH)
 
     # Save segments.json
@@ -343,7 +506,7 @@ def build_chapter(folder_name, start_time, end_time, display_name):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n4. Saved {len(merged)} segments to {output_path}")
+    print(f"\n6. Saved {len(merged)} segments to {output_path}")
 
     return len(merged)
 
