@@ -1,0 +1,2548 @@
+[
+  {
+    "start": "01:50:28",
+    "end": "01:50:33",
+    "text": "9Sさん、どうしたんですか?直接話したいって。",
+    "audio_file": "clip_000.mp3",
+    "translation": "9S, what's wrong? You said you wanted to talk directly.",
+    "vocabulary": [
+      {
+        "word": "直接",
+        "reading": "ちょくせつ",
+        "meaning": "directly, in person"
+      }
+    ],
+    "grammar": "どうしたんですか - casual way to ask 'what's wrong' or 'what happened'; って at the end is colloquial quotative particle"
+  },
+  {
+    "start": "01:50:34",
+    "end": "01:50:40",
+    "text": "話すよりも、実際の記録を見てもらった方が話が早いな。",
+    "audio_file": "clip_001.mp3",
+    "translation": "Rather than explaining it, it would be faster if I just showed you the actual records.",
+    "vocabulary": [
+      {
+        "word": "実際",
+        "reading": "じっさい",
+        "meaning": "actual, real"
+      },
+      {
+        "word": "記録",
+        "reading": "きろく",
+        "meaning": "record, documentation"
+      },
+      {
+        "word": "話が早い",
+        "reading": "はなしがはやい",
+        "meaning": "to be quick/faster (idiom)"
+      }
+    ],
+    "grammar": "〜よりも - 'rather than'; 〜てもらった方が - 'it would be better if (someone) does'; 話が早い - idiomatic expression meaning 'that makes things easier/faster'"
+  },
+  {
+    "start": "01:50:42",
+    "end": "01:50:50",
+    "text": "なるほど。このA2というアンドロイドですが、私たちの過去記録にもあります。",
+    "audio_file": "clip_002.mp3",
+    "translation": "I see. This android called A2 is also in our past records.",
+    "vocabulary": [
+      {
+        "word": "なるほど",
+        "reading": "なるほど",
+        "meaning": "I see, indeed"
+      },
+      {
+        "word": "過去",
+        "reading": "かこ",
+        "meaning": "past"
+      },
+      {
+        "word": "記録",
+        "reading": "きろく",
+        "meaning": "record, documentation"
+      }
+    ],
+    "grammar": "〜という - 'called' or 'named'; ですが - 'but' (formal conjunction)"
+  },
+  {
+    "start": "01:50:51",
+    "end": "01:51:02",
+    "text": "危険なアンドロイドとして認識していますが、この村に直接来ることはありませんね。 / すみません。私の知っている情報はこのくらいです。",
+    "audio_file": "clip_003.mp3",
+    "translation": "We recognize her as a dangerous android, but she hasn't come directly to this village. / I'm sorry. That's about all the information I know.",
+    "vocabulary": [
+      {
+        "word": "危険",
+        "reading": "きけん",
+        "meaning": "dangerous, danger"
+      },
+      {
+        "word": "認識",
+        "reading": "にんしき",
+        "meaning": "recognition, awareness"
+      },
+      {
+        "word": "直接",
+        "reading": "ちょくせつ",
+        "meaning": "directly"
+      },
+      {
+        "word": "情報",
+        "reading": "じょうほう",
+        "meaning": "information"
+      },
+      {
+        "word": "このくらい",
+        "reading": "このくらい",
+        "meaning": "this much, about this extent"
+      }
+    ],
+    "grammar": "として - 'as'; 〜ことはありません - 'has never ~'; このくらい - 'about this much'"
+  },
+  {
+    "start": "01:51:03",
+    "end": "01:51:06",
+    "text": "そう。ありがとう。",
+    "audio_file": "clip_004.mp3",
+    "translation": "I see. Thank you.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "01:51:06",
+    "end": "01:51:10",
+    "text": "各地を警戒しつつ、一度レジスタンスキャンプに戻ろう。",
+    "audio_file": "clip_005.mp3",
+    "translation": "Let's stay alert in various areas while returning to the Resistance Camp once.",
+    "vocabulary": [
+      {
+        "word": "各地",
+        "reading": "かくち",
+        "meaning": "various places, each area"
+      },
+      {
+        "word": "警戒",
+        "reading": "けいかい",
+        "meaning": "vigilance, caution"
+      },
+      {
+        "word": "一度",
+        "reading": "いちど",
+        "meaning": "once, one time"
+      },
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "to return, go back"
+      }
+    ],
+    "grammar": "〜つつ - 'while doing'; volitional form (戻ろう) - 'let's ~'"
+  },
+  {
+    "start": "01:51:11",
+    "end": "01:51:14",
+    "text": "自我データのチェックと補給が必要だから",
+    "audio_file": "clip_006.mp3",
+    "translation": "Because we need to check our ego data and resupply.",
+    "vocabulary": [
+      {
+        "word": "自我",
+        "reading": "じが",
+        "meaning": "ego, self"
+      },
+      {
+        "word": "チェック",
+        "reading": "ちぇっく",
+        "meaning": "check"
+      },
+      {
+        "word": "補給",
+        "reading": "ほきゅう",
+        "meaning": "supply, replenishment"
+      },
+      {
+        "word": "必要",
+        "reading": "ひつよう",
+        "meaning": "necessary, need"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "01:51:17",
+    "end": "01:51:26",
+    "text": "なぜA2の情報をパスカルに聞いたの? / 事例部に許可なく機械生命体にアクセスするのは推奨されない",
+    "audio_file": "clip_007.mp3",
+    "translation": "Why did you ask Pascal about A2's information? / Accessing machine lifeforms without permission from the Intelligence Division is not recommended.",
+    "vocabulary": [
+      {
+        "word": "情報",
+        "reading": "じょうほう",
+        "meaning": "information"
+      },
+      {
+        "word": "事例部",
+        "reading": "じれいぶ",
+        "meaning": "Intelligence Division"
+      },
+      {
+        "word": "許可",
+        "reading": "きょか",
+        "meaning": "permission, approval"
+      },
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      },
+      {
+        "word": "アクセス",
+        "reading": "あくせす",
+        "meaning": "access"
+      },
+      {
+        "word": "推奨",
+        "reading": "すいしょう",
+        "meaning": "recommendation"
+      }
+    ],
+    "grammar": "〜なく - negative form of ある used adverbially ('without'); 〜のは - nominalizer; 推奨されない - passive negative ('is not recommended')"
+  },
+  {
+    "start": "01:51:26",
+    "end": "01:51:34",
+    "text": "ごめんなさい / でもそういう好奇心旺盛なところは嫌いじゃないよ",
+    "audio_file": "clip_008.mp3",
+    "translation": "I'm sorry. / But I don't dislike that curious side of you.",
+    "vocabulary": [
+      {
+        "word": "好奇心旺盛",
+        "reading": "こうきしんおうせい",
+        "meaning": "very curious, full of curiosity"
+      },
+      {
+        "word": "嫌い",
+        "reading": "きらい",
+        "meaning": "dislike"
+      }
+    ],
+    "grammar": "〜ところ - 'aspect' or 'side' (of a person); 嫌いじゃない - double negative meaning 'don't dislike' (softer than saying 'like')"
+  },
+  {
+    "start": "01:51:36",
+    "end": "01:51:38",
+    "text": "ありがとう",
+    "audio_file": "clip_009.mp3",
+    "translation": "Thank you.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "01:51:41",
+    "end": "01:51:44",
+    "text": "それを忘れないで",
+    "audio_file": "clip_010.mp3",
+    "translation": "Don't forget that.",
+    "vocabulary": [
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "to forget"
+      }
+    ],
+    "grammar": "〜ないで - negative te-form meaning 'don't ~'"
+  },
+  {
+    "start": "01:51:47",
+    "end": "01:51:57",
+    "text": "オペレーター6Oより2Bさんへ / 定期連絡の時間です / こちら2B問題ない / 2Bさん聞いてください",
+    "audio_file": "clip_011.mp3",
+    "translation": "From Operator 6O to 2B. / It's time for regular contact. / This is 2B, no problems. / 2B, please listen.",
+    "vocabulary": [
+      {
+        "word": "より",
+        "reading": "より",
+        "meaning": "from (formal)"
+      },
+      {
+        "word": "定期連絡",
+        "reading": "ていきれんらく",
+        "meaning": "regular contact, periodic communication"
+      },
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "problem"
+      }
+    ],
+    "grammar": "より - 'from' (formal particle used in communications); 〜てください - 'please ~'"
+  },
+  {
+    "start": "01:51:57",
+    "end": "01:52:01",
+    "text": "今日花の画像データを見てたんですけど / 花?",
+    "audio_file": "clip_012.mp3",
+    "translation": "I was looking at image data of flowers today. / Flowers?",
+    "vocabulary": [
+      {
+        "word": "画像",
+        "reading": "がぞう",
+        "meaning": "image"
+      },
+      {
+        "word": "データ",
+        "reading": "でーた",
+        "meaning": "data"
+      }
+    ],
+    "grammar": "〜てた - colloquial contraction of 〜ていた (past progressive); んですけど - explanatory のです + けど ('but')"
+  },
+  {
+    "start": "01:52:01",
+    "end": "01:52:04",
+    "text": "ええバンカーに記録されてる少ない資料の中に",
+    "audio_file": "clip_013.mp3",
+    "translation": "Yes, among the few materials recorded in the Bunker.",
+    "vocabulary": [
+      {
+        "word": "記録",
+        "reading": "きろく",
+        "meaning": "to record"
+      },
+      {
+        "word": "少ない",
+        "reading": "すくない",
+        "meaning": "few, scarce"
+      },
+      {
+        "word": "資料",
+        "reading": "しりょう",
+        "meaning": "materials, documents"
+      }
+    ],
+    "grammar": "〜てる - colloquial contraction of 〜ている; の中に - 'among'"
+  },
+  {
+    "start": "01:52:05",
+    "end": "01:52:15",
+    "text": "月の涙っていう花があって / これ、髪飾りとかにしたらクールな2Bさんによく似合うと思うんですよね / 必要ない",
+    "audio_file": "clip_014.mp3",
+    "translation": "There's a flower called 'Lunar Tear.' / I think this would really suit the cool 2B if you made it into a hair accessory or something. / Not necessary.",
+    "vocabulary": [
+      {
+        "word": "月の涙",
+        "reading": "つきのなみだ",
+        "meaning": "Lunar Tear (flower name)"
+      },
+      {
+        "word": "髪飾り",
+        "reading": "かみかざり",
+        "meaning": "hair ornament, hair accessory"
+      },
+      {
+        "word": "似合う",
+        "reading": "にあう",
+        "meaning": "to suit, look good on"
+      },
+      {
+        "word": "必要",
+        "reading": "ひつよう",
+        "meaning": "necessary, need"
+      }
+    ],
+    "grammar": "〜って - colloquial quotative; 〜とか - 'or something'; 〜たら - conditional 'if'; よく似合う - 'suit well'; と思う - 'I think'; んですよね - explanatory emphasis"
+  },
+  {
+    "start": "01:52:16",
+    "end": "01:52:20",
+    "text": "まあまあそう言わずに / おしゃれは女子のたしなみですから",
+    "audio_file": "clip_015.mp3",
+    "translation": "Now, now, don't say that. / Fashion is a lady's refinement, after all.",
+    "vocabulary": [
+      {
+        "word": "まあまあ",
+        "reading": "まあまあ",
+        "meaning": "now now, come on"
+      },
+      {
+        "word": "おしゃれ",
+        "reading": "おしゃれ",
+        "meaning": "fashion, stylish"
+      },
+      {
+        "word": "女子",
+        "reading": "じょし",
+        "meaning": "girl, lady"
+      },
+      {
+        "word": "たしなみ",
+        "reading": "たしなみ",
+        "meaning": "refinement, accomplishment"
+      }
+    ],
+    "grammar": "〜ずに - negative て-form ('without ~'); ですから - 'because, after all' (explanatory)"
+  },
+  {
+    "start": "01:52:21",
+    "end": "01:52:31",
+    "text": "また可愛いものを発見したら2Bさんに報告します / そんな情報必要な… / 以上、オペレーター6Oでした / それでは",
+    "audio_file": "clip_016.mp3",
+    "translation": "If I discover anything cute again, I'll report it to 2B. / I don't need that kind of information... / That's all, this was Operator 6O. / Well then.",
+    "vocabulary": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "meaning": "cute"
+      },
+      {
+        "word": "発見",
+        "reading": "はっけん",
+        "meaning": "discovery, to discover"
+      },
+      {
+        "word": "報告",
+        "reading": "ほうこく",
+        "meaning": "report"
+      },
+      {
+        "word": "以上",
+        "reading": "いじょう",
+        "meaning": "that's all, over (in communications)"
+      }
+    ],
+    "grammar": "〜たら - conditional 'if/when'; そんな - 'that kind of'; でした - past tense of です (used to close communications); それでは - 'well then, goodbye'"
+  },
+  {
+    "start": "01:52:31",
+    "end": "01:52:42",
+    "text": "ああ、2Bか / ちょうどいいところに来た / 実は我々アンドロイド軍が太平洋に展開している空母があるんだが",
+    "audio_file": "clip_017.mp3",
+    "translation": "Ah, 2B. / You've come at just the right time. / Actually, our android forces have an aircraft carrier deployed in the Pacific.",
+    "vocabulary": [
+      {
+        "word": "ちょうどいい",
+        "reading": "ちょうどいい",
+        "meaning": "just right, perfect timing"
+      },
+      {
+        "word": "実は",
+        "reading": "じつは",
+        "meaning": "actually, in fact"
+      },
+      {
+        "word": "太平洋",
+        "reading": "たいへいよう",
+        "meaning": "Pacific Ocean"
+      },
+      {
+        "word": "展開",
+        "reading": "てんかい",
+        "meaning": "deployment, expansion"
+      },
+      {
+        "word": "空母",
+        "reading": "くうぼ",
+        "meaning": "aircraft carrier"
+      }
+    ],
+    "grammar": "〜ている - progressive form showing ongoing state; んだが - explanatory のだ + が (softening conjunction)"
+  },
+  {
+    "start": "01:52:42",
+    "end": "01:52:51",
+    "text": "近々補給に戻ってくる / 我々レジスタンスも補給作戦をアシストする / 君たちにもその護衛をお願いしたい / 護衛?",
+    "audio_file": "clip_018.mp3",
+    "translation": "It will be returning for resupply soon. / We in the Resistance will also assist with the resupply operation. / I'd like to ask you to escort it as well. / Escort?",
+    "vocabulary": [
+      {
+        "word": "近々",
+        "reading": "ちかぢか",
+        "meaning": "soon, in the near future"
+      },
+      {
+        "word": "補給",
+        "reading": "ほきゅう",
+        "meaning": "supply, resupply"
+      },
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "to return"
+      },
+      {
+        "word": "作戦",
+        "reading": "さくせん",
+        "meaning": "operation, strategy"
+      },
+      {
+        "word": "アシスト",
+        "reading": "あしすと",
+        "meaning": "assist"
+      },
+      {
+        "word": "護衛",
+        "reading": "ごえい",
+        "meaning": "escort, guard"
+      }
+    ],
+    "grammar": "〜てくる - 'come back doing'; にも - 'also to'; 〜をお願いしたい - 'I'd like to request'"
+  },
+  {
+    "start": "01:52:51",
+    "end": "01:52:57",
+    "text": "ああ / 海岸沿いにある補給用のミサイルが準備されているんだが",
+    "audio_file": "clip_019.mp3",
+    "translation": "Yeah. / There are supply missiles prepared along the coast.",
+    "vocabulary": [
+      {
+        "word": "海岸",
+        "reading": "かいがん",
+        "meaning": "coast, seashore"
+      },
+      {
+        "word": "沿い",
+        "reading": "ぞい",
+        "meaning": "along"
+      },
+      {
+        "word": "補給用",
+        "reading": "ほきゅうよう",
+        "meaning": "for supply/resupply"
+      },
+      {
+        "word": "ミサイル",
+        "reading": "みさいる",
+        "meaning": "missile"
+      },
+      {
+        "word": "準備",
+        "reading": "じゅんび",
+        "meaning": "preparation"
+      }
+    ],
+    "grammar": "〜沿い - 'along'; 〜されている - passive progressive ('have been prepared'); んだが - explanatory + softening"
+  },
+  {
+    "start": "01:52:57",
+    "end": "01:53:02",
+    "text": "機械生命体たちも / 最近活動を活発化させているから",
+    "audio_file": "clip_020.mp3",
+    "translation": "The machine lifeforms have also been intensifying their activity recently.",
+    "vocabulary": [
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      },
+      {
+        "word": "最近",
+        "reading": "さいきん",
+        "meaning": "recently"
+      },
+      {
+        "word": "活動",
+        "reading": "かつどう",
+        "meaning": "activity"
+      },
+      {
+        "word": "活発化",
+        "reading": "かっぱつか",
+        "meaning": "activation, intensification"
+      }
+    ],
+    "grammar": "〜させている - causative progressive ('making it become active'); から - 'because, so'"
+  },
+  {
+    "start": "01:53:02",
+    "end": "01:53:12",
+    "text": "警戒はしておいた方がいいと思ってね / もちろん 夜派部隊からの指令があれば そちらを優先してもらって構わない / 頼んだぞ / 지수",
+    "audio_file": "clip_021.mp3",
+    "translation": "I think it's better to stay alert. / Of course, if there's an order from the YoRHa forces, you can prioritize that. / I'm counting on you.",
+    "vocabulary": [
+      {
+        "word": "警戒",
+        "reading": "けいかい",
+        "meaning": "vigilance, caution"
+      },
+      {
+        "word": "指令",
+        "reading": "しれい",
+        "meaning": "order, directive"
+      },
+      {
+        "word": "優先",
+        "reading": "ゆうせん",
+        "meaning": "priority"
+      },
+      {
+        "word": "構わない",
+        "reading": "かまわない",
+        "meaning": "don't mind, it's okay"
+      },
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request, count on"
+      }
+    ],
+    "grammar": "〜ておいた方がいい - 'it's better to do in advance'; 〜てもらって構わない - 'it's okay for you to do'; 頼んだぞ - past tense + masculine particle (emphasis)"
+  },
+  {
+    "start": "01:53:39",
+    "end": "01:53:43",
+    "text": "무거",
+    "audio_file": "clip_022.mp3",
+    "translation": "[Korean audio - unclear/corrupted]",
+    "vocabulary": [],
+    "grammar": "This appears to be Korean text, possibly corrupted audio or subtitle data"
+  },
+  {
+    "start": "01:53:53",
+    "end": "01:53:57",
+    "text": "大阪の駅となった。",
+    "audio_file": "clip_023.mp3",
+    "translation": "It became Osaka Station.",
+    "vocabulary": [
+      {
+        "word": "駅",
+        "reading": "えき",
+        "meaning": "station"
+      }
+    ],
+    "grammar": "This seems like corrupted or out-of-context audio"
+  },
+  {
+    "start": "01:55:03",
+    "end": "01:55:12",
+    "text": "この辺りは前回の大戦争の時に地盤が破壊されてしまって / 街全体が沈下しつつあるんですよね",
+    "audio_file": "clip_024.mp3",
+    "translation": "The ground in this area was destroyed during the previous great war, and the entire city is gradually sinking.",
+    "vocabulary": [
+      {
+        "word": "辺り",
+        "reading": "あたり",
+        "meaning": "area, vicinity"
+      },
+      {
+        "word": "前回",
+        "reading": "ぜんかい",
+        "meaning": "previous, last time"
+      },
+      {
+        "word": "大戦争",
+        "reading": "だいせんそう",
+        "meaning": "great war"
+      },
+      {
+        "word": "地盤",
+        "reading": "じばん",
+        "meaning": "ground, foundation"
+      },
+      {
+        "word": "破壊",
+        "reading": "はかい",
+        "meaning": "destruction"
+      },
+      {
+        "word": "街全体",
+        "reading": "まちぜんたい",
+        "meaning": "entire city"
+      },
+      {
+        "word": "沈下",
+        "reading": "ちんか",
+        "meaning": "subsidence, sinking"
+      }
+    ],
+    "grammar": "〜されてしまって - passive + てしまう (regrettable completion); 〜つつある - progressive ('is in the process of')"
+  },
+  {
+    "start": "01:55:36",
+    "end": "01:55:42",
+    "text": "防衛対象のミサイルを発見 / あれを守ればいいのか",
+    "audio_file": "clip_025.mp3",
+    "translation": "Defense target missiles discovered. / So we just need to protect those?",
+    "vocabulary": [
+      {
+        "word": "防衛",
+        "reading": "ぼうえい",
+        "meaning": "defense"
+      },
+      {
+        "word": "対象",
+        "reading": "たいしょう",
+        "meaning": "target, object"
+      },
+      {
+        "word": "発見",
+        "reading": "はっけん",
+        "meaning": "discovery"
+      },
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to protect, guard"
+      }
+    ],
+    "grammar": "〜ればいい - conditional + いい ('it's fine if ~, just need to ~'); のか - explanatory question particle"
+  },
+  {
+    "start": "01:55:43",
+    "end": "01:55:53",
+    "text": "さっさと倒してお風呂に入りましょう / アンドロイドの風呂に入る必要はない / 定期的な部品洗浄メンテナースさえあれば問題ないはず",
+    "audio_file": "clip_026.mp3",
+    "translation": "Let's quickly defeat them and take a bath. / Androids don't need to take baths. / As long as we have regular parts cleaning and maintenance, there should be no problem.",
+    "vocabulary": [
+      {
+        "word": "さっさと",
+        "reading": "さっさと",
+        "meaning": "quickly, hurry up"
+      },
+      {
+        "word": "倒す",
+        "reading": "たおす",
+        "meaning": "to defeat"
+      },
+      {
+        "word": "風呂",
+        "reading": "ふろ",
+        "meaning": "bath"
+      },
+      {
+        "word": "必要",
+        "reading": "ひつよう",
+        "meaning": "necessary"
+      },
+      {
+        "word": "定期的",
+        "reading": "ていきてき",
+        "meaning": "regular, periodic"
+      },
+      {
+        "word": "部品",
+        "reading": "ぶひん",
+        "meaning": "parts, components"
+      },
+      {
+        "word": "洗浄",
+        "reading": "せんじょう",
+        "meaning": "cleaning, washing"
+      },
+      {
+        "word": "メンテナンス",
+        "reading": "めんてなんす",
+        "meaning": "maintenance"
+      }
+    ],
+    "grammar": "〜てお風呂に入りましょう - te-form + suggestion; 〜さえあれば - 'as long as, if only'; はず - 'should be, expected to be'"
+  },
+  {
+    "start": "01:55:54",
+    "end": "01:55:58",
+    "text": "もう2Bは / 気分ですよ / 気分",
+    "audio_file": "clip_027.mp3",
+    "translation": "Really, 2B. / It's about the feeling. / The feeling.",
+    "vocabulary": [
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "meaning": "feeling, mood"
+      }
+    ],
+    "grammar": "もう - particle expressing exasperation ('really, geez'); ですよ - explanatory emphasis"
+  },
+  {
+    "start": "01:56:12",
+    "end": "01:56:18",
+    "text": "これでこの辺りの機械生命体は / 概ね排除できましたね",
+    "audio_file": "clip_028.mp3",
+    "translation": "With this, we were able to mostly eliminate the machine lifeforms in this area.",
+    "vocabulary": [
+      {
+        "word": "辺り",
+        "reading": "あたり",
+        "meaning": "area, vicinity"
+      },
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      },
+      {
+        "word": "概ね",
+        "reading": "おおむね",
+        "meaning": "mostly, generally"
+      },
+      {
+        "word": "排除",
+        "reading": "はいじょ",
+        "meaning": "elimination, exclusion"
+      }
+    ],
+    "grammar": "これで - 'with this, now'; 〜できました - potential past ('were able to'); ね - confirmation particle"
+  },
+  {
+    "start": "01:56:21",
+    "end": "01:56:30",
+    "text": "シルーコン? / 緊急司令だ / 君たちも知っての通り / 我々が保有する空母が補給のために寄港予定だ",
+    "audio_file": "clip_029.mp3",
+    "translation": "From command? / This is an emergency order. / As you know, the aircraft carrier we possess is scheduled to dock for resupply.",
+    "vocabulary": [
+      {
+        "word": "緊急",
+        "reading": "きんきゅう",
+        "meaning": "emergency"
+      },
+      {
+        "word": "司令",
+        "reading": "しれい",
+        "meaning": "command, order"
+      },
+      {
+        "word": "知っての通り",
+        "reading": "しってのとおり",
+        "meaning": "as you know"
+      },
+      {
+        "word": "保有",
+        "reading": "ほゆう",
+        "meaning": "possession, ownership"
+      },
+      {
+        "word": "空母",
+        "reading": "くうぼ",
+        "meaning": "aircraft carrier"
+      },
+      {
+        "word": "補給",
+        "reading": "ほきゅう",
+        "meaning": "resupply"
+      },
+      {
+        "word": "寄港",
+        "reading": "きこう",
+        "meaning": "port call, docking"
+      },
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "meaning": "schedule, plan"
+      }
+    ],
+    "grammar": "〜ての通り - 'as (verb)'; 〜予定だ - 'scheduled to'"
+  },
+  {
+    "start": "01:56:30",
+    "end": "01:56:34",
+    "text": "しかしその空母が機械生命体たちの攻撃を受け / 航線状態に入っている",
+    "audio_file": "clip_030.mp3",
+    "translation": "However, that carrier is under attack by machine lifeforms and is in a disabled state.",
+    "vocabulary": [
+      {
+        "word": "空母",
+        "reading": "くうぼ",
+        "meaning": "aircraft carrier"
+      },
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      },
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "attack"
+      },
+      {
+        "word": "受ける",
+        "reading": "うける",
+        "meaning": "to receive, be subjected to"
+      },
+      {
+        "word": "航行",
+        "reading": "こうこう",
+        "meaning": "navigation"
+      },
+      {
+        "word": "状態",
+        "reading": "じょうたい",
+        "meaning": "state, condition"
+      }
+    ],
+    "grammar": "〜を受け - 'receiving, under'; 〜に入っている - 'has entered (a state)'"
+  },
+  {
+    "start": "01:56:35",
+    "end": "01:56:40",
+    "text": "すでに廃墟都市方面に駐留中の / 全ヨルハ部隊に連絡をしているわ",
+    "audio_file": "clip_031.mp3",
+    "translation": "We're already contacting all YoRHa units stationed in the ruined city area.",
+    "vocabulary": [
+      {
+        "word": "すでに",
+        "reading": "すでに",
+        "meaning": "already"
+      },
+      {
+        "word": "廃墟",
+        "reading": "はいきょ",
+        "meaning": "ruins"
+      },
+      {
+        "word": "都市",
+        "reading": "とし",
+        "meaning": "city"
+      },
+      {
+        "word": "方面",
+        "reading": "ほうめん",
+        "meaning": "direction, area"
+      },
+      {
+        "word": "駐留",
+        "reading": "ちゅうりゅう",
+        "meaning": "stationed, garrisoned"
+      },
+      {
+        "word": "連絡",
+        "reading": "れんらく",
+        "meaning": "contact, communication"
+      }
+    ],
+    "grammar": "〜中の - 'in the middle of'; 〜をしている - progressive ('are doing'); わ - feminine sentence-ending particle"
+  },
+  {
+    "start": "01:56:40",
+    "end": "01:56:45",
+    "text": "君たちにも援護に参加してほしい / マップデータ及び飛行ユニットを転送する / 以上",
+    "audio_file": "clip_032.mp3",
+    "translation": "We want you to participate in support as well. / Transferring map data and flight units. / Over.",
+    "vocabulary": [
+      {
+        "word": "援護",
+        "reading": "えんご",
+        "meaning": "support, assistance"
+      },
+      {
+        "word": "参加",
+        "reading": "さんか",
+        "meaning": "participation"
+      },
+      {
+        "word": "及び",
+        "reading": "および",
+        "meaning": "and, as well as"
+      },
+      {
+        "word": "飛行",
+        "reading": "ひこう",
+        "meaning": "flight"
+      },
+      {
+        "word": "ユニット",
+        "reading": "ゆにっと",
+        "meaning": "unit"
+      },
+      {
+        "word": "転送",
+        "reading": "てんそう",
+        "meaning": "transfer, transmission"
+      },
+      {
+        "word": "以上",
+        "reading": "いじょう",
+        "meaning": "over, that's all"
+      }
+    ],
+    "grammar": "〜てほしい - 'want (someone) to do'; 〜及び - formal 'and'; 以上 - 'over' (military/formal communications)"
+  },
+  {
+    "start": "01:56:50",
+    "end": "01:57:00",
+    "text": "司令官って本当に人遣いが荒いですよね / そういうことができる人じゃないとリーダーは務まらない / なるほど",
+    "audio_file": "clip_033.mp3",
+    "translation": "The Commander really is rough with people, isn't she? / You can't serve as a leader unless you're that kind of person. / I see.",
+    "vocabulary": [
+      {
+        "word": "司令官",
+        "reading": "しれいかん",
+        "meaning": "commander"
+      },
+      {
+        "word": "人遣い",
+        "reading": "ひとづかい",
+        "meaning": "treatment of people, using people"
+      },
+      {
+        "word": "荒い",
+        "reading": "あらい",
+        "meaning": "rough, harsh"
+      },
+      {
+        "word": "リーダー",
+        "reading": "りーだー",
+        "meaning": "leader"
+      },
+      {
+        "word": "務まる",
+        "reading": "つとまる",
+        "meaning": "to be fit for, fulfill (a role)"
+      },
+      {
+        "word": "なるほど",
+        "reading": "なるほど",
+        "meaning": "I see, indeed"
+      }
+    ],
+    "grammar": "〜って - colloquial topic marker; 人遣いが荒い - idiomatic 'rough with people'; 〜じゃないと - 'unless, if not'; 〜は務まらない - 'cannot serve as'"
+  },
+  {
+    "start": "01:57:00",
+    "end": "01:57:01",
+    "text": "どう?",
+    "audio_file": "clip_034.mp3",
+    "translation": "How is it?",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "01:58:42",
+    "end": "01:58:47",
+    "text": "第1回目",
+    "audio_file": "clip_035.mp3",
+    "translation": "First time.",
+    "vocabulary": [
+      {
+        "word": "第",
+        "reading": "だい",
+        "meaning": "number (prefix)"
+      },
+      {
+        "word": "回目",
+        "reading": "かいめ",
+        "meaning": "time, round"
+      }
+    ],
+    "grammar": "This appears to be corrupted or out-of-context audio"
+  },
+  {
+    "start": "01:58:59",
+    "end": "01:59:08",
+    "text": "攻撃を受けている。防衛艦は退去し、行動不能になった。手持ちの支援機を応募していると、持ったけている状態だ。",
+    "audio_file": "clip_036.mp3",
+    "translation": "Under attack. Defense ships have withdrawn and become inoperable. In a state of barely holding on while deploying available support aircraft.",
+    "vocabulary": [
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "attack"
+      },
+      {
+        "word": "防衛艦",
+        "reading": "ぼうえいかん",
+        "meaning": "defense ship"
+      },
+      {
+        "word": "退去",
+        "reading": "たいきょ",
+        "meaning": "withdrawal, evacuation"
+      },
+      {
+        "word": "行動不能",
+        "reading": "こうどうふのう",
+        "meaning": "unable to act, inoperable"
+      },
+      {
+        "word": "手持ち",
+        "reading": "てもち",
+        "meaning": "on hand, available"
+      },
+      {
+        "word": "支援機",
+        "reading": "しえんき",
+        "meaning": "support aircraft"
+      }
+    ],
+    "grammar": "〜を受けている - passive progressive ('being attacked'); 〜になった - 'became'; 〜ている状態 - 'in a state of'"
+  },
+  {
+    "start": "01:59:09",
+    "end": "01:59:18",
+    "text": "繰り返し、こちら空母ブルーリッジ2。付近というアンドロイド部隊の支援を求める。",
+    "audio_file": "clip_037.mp3",
+    "translation": "Repeating, this is aircraft carrier Blue Ridge 2. Requesting support from nearby android units.",
+    "vocabulary": [
+      {
+        "word": "繰り返し",
+        "reading": "くりかえし",
+        "meaning": "repetition, repeating"
+      },
+      {
+        "word": "空母",
+        "reading": "くうぼ",
+        "meaning": "aircraft carrier"
+      },
+      {
+        "word": "付近",
+        "reading": "ふきん",
+        "meaning": "vicinity, nearby"
+      },
+      {
+        "word": "部隊",
+        "reading": "ぶたい",
+        "meaning": "unit, troops"
+      },
+      {
+        "word": "支援",
+        "reading": "しえん",
+        "meaning": "support"
+      },
+      {
+        "word": "求める",
+        "reading": "もとめる",
+        "meaning": "to request, seek"
+      }
+    ],
+    "grammar": "〜を求める - 'to request, seek'"
+  },
+  {
+    "start": "01:59:52",
+    "end": "02:00:01",
+    "text": "大型の敵、反応あります / 南西の方角、距離2.8キロ",
+    "audio_file": "clip_038.mp3",
+    "translation": "Large enemy detected. / Southwest direction, distance 2.8 kilometers.",
+    "vocabulary": [
+      {
+        "word": "大型",
+        "reading": "おおがた",
+        "meaning": "large, large-sized"
+      },
+      {
+        "word": "反応",
+        "reading": "はんのう",
+        "meaning": "response, detection"
+      },
+      {
+        "word": "南西",
+        "reading": "なんせい",
+        "meaning": "southwest"
+      },
+      {
+        "word": "方角",
+        "reading": "ほうがく",
+        "meaning": "direction"
+      },
+      {
+        "word": "距離",
+        "reading": "きょり",
+        "meaning": "distance"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:00:20",
+    "end": "02:00:30",
+    "text": "敵飛行兵器の破壊を確認 / これより周囲の警戒に行こう / ちょっと待って / まだ大型の敵反応が残ってます",
+    "audio_file": "clip_039.mp3",
+    "translation": "Confirmed destruction of enemy aircraft. / Let's go patrol the area now. / Wait a moment. / There's still a large enemy signal remaining.",
+    "vocabulary": [
+      {
+        "word": "飛行兵器",
+        "reading": "ひこうへいき",
+        "meaning": "aircraft, flying weapon"
+      },
+      {
+        "word": "破壊",
+        "reading": "はかい",
+        "meaning": "destruction"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "confirmation"
+      },
+      {
+        "word": "周囲",
+        "reading": "しゅうい",
+        "meaning": "surroundings, vicinity"
+      },
+      {
+        "word": "警戒",
+        "reading": "けいかい",
+        "meaning": "vigilance, patrol"
+      },
+      {
+        "word": "反応",
+        "reading": "はんのう",
+        "meaning": "response, signal"
+      },
+      {
+        "word": "残る",
+        "reading": "のこる",
+        "meaning": "to remain"
+      }
+    ],
+    "grammar": "〜を確認 - 'confirm ~'; これより - 'from now'; 〜に行こう - volitional 'let's go to'; 〜てます - colloquial ています"
+  },
+  {
+    "start": "02:00:30",
+    "end": "02:00:33",
+    "text": "その敵は今破壊したはずじゃ",
+    "audio_file": "clip_040.mp3",
+    "translation": "But we should have just destroyed that enemy...",
+    "vocabulary": [
+      {
+        "word": "破壊",
+        "reading": "はかい",
+        "meaning": "destruction"
+      }
+    ],
+    "grammar": "〜したはず - 'should have done'; じゃ - contraction of では (trailing off in confusion)"
+  },
+  {
+    "start": "02:00:33",
+    "end": "02:00:37",
+    "text": "そんなこんな大きな敵どこに",
+    "audio_file": "clip_041.mp3",
+    "translation": "Where is such a large enemy?",
+    "vocabulary": [
+      {
+        "word": "そんな",
+        "reading": "そんな",
+        "meaning": "such, that kind of"
+      },
+      {
+        "word": "大きな",
+        "reading": "おおきな",
+        "meaning": "large"
+      }
+    ],
+    "grammar": "そんな〜 - 'such a ~'; どこに - 'where' (incomplete sentence showing confusion)"
+  },
+  {
+    "start": "02:00:49",
+    "end": "02:00:52",
+    "text": "何あれ",
+    "audio_file": "clip_042.mp3",
+    "translation": "What is that?",
+    "vocabulary": [],
+    "grammar": "Casual contracted form of 何ですかあれは"
+  },
+  {
+    "start": "02:01:06",
+    "end": "02:01:10",
+    "text": "これが機械生命体",
+    "audio_file": "clip_043.mp3",
+    "translation": "This is a machine lifeform?",
+    "vocabulary": [
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      }
+    ],
+    "grammar": "Implicit question (rising intonation in speech)"
+  },
+  {
+    "start": "02:01:11",
+    "end": "02:01:17",
+    "text": "こんな大きいのを見たことない",
+    "audio_file": "clip_044.mp3",
+    "translation": "I've never seen one this big.",
+    "vocabulary": [
+      {
+        "word": "こんな",
+        "reading": "こんな",
+        "meaning": "this kind of, such"
+      },
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "meaning": "big, large"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "meaning": "to see"
+      }
+    ],
+    "grammar": "こんな〜の - 'one like this'; 〜たことない - 'have never done'"
+  },
+  {
+    "start": "02:01:28",
+    "end": "02:01:39",
+    "text": "くそ!EMP攻撃で接近を防いでるのか! / なんとか別の方法で攻撃しないと",
+    "audio_file": "clip_045.mp3",
+    "translation": "Damn! It's preventing us from approaching with EMP attacks! / We have to somehow attack it with a different method.",
+    "vocabulary": [
+      {
+        "word": "くそ",
+        "reading": "くそ",
+        "meaning": "damn, shit"
+      },
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "attack"
+      },
+      {
+        "word": "接近",
+        "reading": "せっきん",
+        "meaning": "approach"
+      },
+      {
+        "word": "防ぐ",
+        "reading": "ふせぐ",
+        "meaning": "to prevent, block"
+      },
+      {
+        "word": "なんとか",
+        "reading": "なんとか",
+        "meaning": "somehow, by some means"
+      },
+      {
+        "word": "別",
+        "reading": "べつ",
+        "meaning": "different, another"
+      },
+      {
+        "word": "方法",
+        "reading": "ほうほう",
+        "meaning": "method, way"
+      }
+    ],
+    "grammar": "〜を防いでる - 'is preventing'; のか - explanatory question; 〜しないと - 'have to do, must do'"
+  },
+  {
+    "start": "02:01:39",
+    "end": "02:01:43",
+    "text": "2Bさん、衛星レーザーは直接攻撃上に乗りました",
+    "audio_file": "clip_046.mp3",
+    "translation": "2B, the satellite laser is online for direct attack.",
+    "vocabulary": [
+      {
+        "word": "衛星",
+        "reading": "えいせい",
+        "meaning": "satellite"
+      },
+      {
+        "word": "レーザー",
+        "reading": "れーざー",
+        "meaning": "laser"
+      },
+      {
+        "word": "直接攻撃",
+        "reading": "ちょくせつこうげき",
+        "meaning": "direct attack"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "to get on, come online"
+      }
+    ],
+    "grammar": "〜に乗る - idiomatic 'to come online, be ready'"
+  },
+  {
+    "start": "02:01:44",
+    "end": "02:01:50",
+    "text": "でも敵の発生する電磁波明細で照準が不安定になっています / 発生源を突き止めて破壊してください",
+    "audio_file": "clip_047.mp3",
+    "translation": "But the electromagnetic waves the enemy is generating are making the targeting unstable. / Please locate and destroy the source.",
+    "vocabulary": [
+      {
+        "word": "発生",
+        "reading": "はっせい",
+        "meaning": "generation, occurrence"
+      },
+      {
+        "word": "電磁波",
+        "reading": "でんじは",
+        "meaning": "electromagnetic waves"
+      },
+      {
+        "word": "照準",
+        "reading": "しょうじゅん",
+        "meaning": "aim, targeting"
+      },
+      {
+        "word": "不安定",
+        "reading": "ふあんてい",
+        "meaning": "unstable"
+      },
+      {
+        "word": "発生源",
+        "reading": "はっせいげん",
+        "meaning": "source"
+      },
+      {
+        "word": "突き止める",
+        "reading": "つきとめる",
+        "meaning": "to locate, ascertain"
+      },
+      {
+        "word": "破壊",
+        "reading": "はかい",
+        "meaning": "destruction"
+      }
+    ],
+    "grammar": "〜する - attributive form modifying 電磁波; 〜になっています - 'has become'; 〜てください - 'please do'"
+  },
+  {
+    "start": "02:01:51",
+    "end": "02:01:56",
+    "text": "簡単に言う / すみません / でもよろしくお願いします",
+    "audio_file": "clip_048.mp3",
+    "translation": "You say it so easily. / I'm sorry. / But please do your best.",
+    "vocabulary": [
+      {
+        "word": "簡単に",
+        "reading": "かんたんに",
+        "meaning": "easily, simply"
+      },
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      },
+      {
+        "word": "よろしくお願いします",
+        "reading": "よろしくおねがいします",
+        "meaning": "please (formal request)"
+      }
+    ],
+    "grammar": "簡単に言う - 'say easily' (criticizing oversimplification)"
+  },
+  {
+    "start": "02:01:57",
+    "end": "02:02:01",
+    "text": "EMP発生機の位置を確認 / マップにマーク",
+    "audio_file": "clip_049.mp3",
+    "translation": "Confirmed position of EMP generator. / Marking on map.",
+    "vocabulary": [
+      {
+        "word": "発生機",
+        "reading": "はっせいき",
+        "meaning": "generator"
+      },
+      {
+        "word": "位置",
+        "reading": "いち",
+        "meaning": "position, location"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "confirmation"
+      },
+      {
+        "word": "マーク",
+        "reading": "まーく",
+        "meaning": "mark"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:02:02",
+    "end": "02:02:09",
+    "text": "推奨 / EMP発生機の速やかさ破壊",
+    "audio_file": "clip_050.mp3",
+    "translation": "Recommendation: Swift destruction of EMP generator.",
+    "vocabulary": [
+      {
+        "word": "推奨",
+        "reading": "すいしょう",
+        "meaning": "recommendation"
+      },
+      {
+        "word": "発生機",
+        "reading": "はっせいき",
+        "meaning": "generator"
+      },
+      {
+        "word": "速やか",
+        "reading": "すみやか",
+        "meaning": "swift, prompt"
+      },
+      {
+        "word": "破壊",
+        "reading": "はかい",
+        "meaning": "destruction"
+      }
+    ],
+    "grammar": "Technical/military communication style (noun phrases)"
+  },
+  {
+    "start": "02:02:14",
+    "end": "02:02:19",
+    "text": "第1話 警�",
+    "audio_file": "clip_051.mp3",
+    "translation": "Episode 1 Alert [corrupted]",
+    "vocabulary": [],
+    "grammar": "Corrupted text"
+  },
+  {
+    "start": "02:02:35",
+    "end": "02:02:44",
+    "text": "情報を開封して / 巨大機械生命体は320年前に確認されたのが唯一の記憶",
+    "audio_file": "clip_052.mp3",
+    "translation": "Opening information. / The only record of a giant machine lifeform was confirmed 320 years ago.",
+    "vocabulary": [
+      {
+        "word": "情報",
+        "reading": "じょうほう",
+        "meaning": "information"
+      },
+      {
+        "word": "開封",
+        "reading": "かいふう",
+        "meaning": "opening, unsealing"
+      },
+      {
+        "word": "巨大",
+        "reading": "きょだい",
+        "meaning": "giant, huge"
+      },
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      },
+      {
+        "word": "年前",
+        "reading": "ねんまえ",
+        "meaning": "years ago"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "confirmation"
+      },
+      {
+        "word": "唯一",
+        "reading": "ゆいいつ",
+        "meaning": "only, sole"
+      },
+      {
+        "word": "記憶",
+        "reading": "きおく",
+        "meaning": "memory, record"
+      }
+    ],
+    "grammar": "〜されたのが - nominalized passive 'the thing that was ~'; 唯一の - 'the only'"
+  },
+  {
+    "start": "02:02:45",
+    "end": "02:02:48",
+    "text": "上陸後に超超強力電磁波攻撃を完工",
+    "audio_file": "clip_053.mp3",
+    "translation": "After landing, deployed extremely powerful electromagnetic wave attacks.",
+    "vocabulary": [
+      {
+        "word": "上陸",
+        "reading": "じょうりく",
+        "meaning": "landing"
+      },
+      {
+        "word": "後",
+        "reading": "ご",
+        "meaning": "after"
+      },
+      {
+        "word": "超",
+        "reading": "ちょう",
+        "meaning": "super, ultra"
+      },
+      {
+        "word": "強力",
+        "reading": "きょうりょく",
+        "meaning": "powerful"
+      },
+      {
+        "word": "電磁波",
+        "reading": "でんじは",
+        "meaning": "electromagnetic waves"
+      },
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "attack"
+      },
+      {
+        "word": "展開",
+        "reading": "てんかい",
+        "meaning": "deployment"
+      }
+    ],
+    "grammar": "〜後に - 'after ~'; 超超 - repetition for emphasis ('extremely')"
+  },
+  {
+    "start": "02:02:49",
+    "end": "02:02:57",
+    "text": "当時の戦闘では護衛部隊のレジスタンスが全滅 / つまり上陸を阻止しなくては再び惨劇が起きる",
+    "audio_file": "clip_054.mp3",
+    "translation": "In the battle at that time, the Resistance escort unit was completely wiped out. / In other words, unless we stop the landing, the tragedy will occur again.",
+    "vocabulary": [
+      {
+        "word": "当時",
+        "reading": "とうじ",
+        "meaning": "at that time"
+      },
+      {
+        "word": "戦闘",
+        "reading": "せんとう",
+        "meaning": "battle, combat"
+      },
+      {
+        "word": "護衛",
+        "reading": "ごえい",
+        "meaning": "escort"
+      },
+      {
+        "word": "部隊",
+        "reading": "ぶたい",
+        "meaning": "unit, troops"
+      },
+      {
+        "word": "全滅",
+        "reading": "ぜんめつ",
+        "meaning": "annihilation, total destruction"
+      },
+      {
+        "word": "つまり",
+        "reading": "つまり",
+        "meaning": "in other words, that is to say"
+      },
+      {
+        "word": "上陸",
+        "reading": "じょうりく",
+        "meaning": "landing"
+      },
+      {
+        "word": "阻止",
+        "reading": "そし",
+        "meaning": "prevention, obstruction"
+      },
+      {
+        "word": "再び",
+        "reading": "ふたたび",
+        "meaning": "again"
+      },
+      {
+        "word": "惨劇",
+        "reading": "さんげき",
+        "meaning": "tragedy, disaster"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "to occur, happen"
+      }
+    ],
+    "grammar": "〜では - 'in, at (formal)'; 〜しなくては - 'unless we do, must do'; 再び - 'again'"
+  },
+  {
+    "start": "02:02:58",
+    "end": "02:03:02",
+    "text": "その推論を指示",
+    "audio_file": "clip_055.mp3",
+    "translation": "Supporting that reasoning.",
+    "vocabulary": [
+      {
+        "word": "推論",
+        "reading": "すいろん",
+        "meaning": "reasoning, inference"
+      },
+      {
+        "word": "指示",
+        "reading": "しじ",
+        "meaning": "support, indication"
+      }
+    ],
+    "grammar": "Technical/Pod communication style"
+  },
+  {
+    "start": "02:03:38",
+    "end": "02:03:43",
+    "text": "第1回目",
+    "audio_file": "clip_056.mp3",
+    "translation": "First time.",
+    "vocabulary": [],
+    "grammar": "Corrupted/out of context audio"
+  },
+  {
+    "start": "02:04:06",
+    "end": "02:04:13",
+    "text": "くそ、本体にも電磁波防衛機があるのか",
+    "audio_file": "clip_057.mp3",
+    "translation": "Damn, the main body also has electromagnetic wave defense equipment?",
+    "vocabulary": [
+      {
+        "word": "くそ",
+        "reading": "くそ",
+        "meaning": "damn"
+      },
+      {
+        "word": "本体",
+        "reading": "ほんたい",
+        "meaning": "main body"
+      },
+      {
+        "word": "電磁波",
+        "reading": "でんじは",
+        "meaning": "electromagnetic waves"
+      },
+      {
+        "word": "防衛機",
+        "reading": "ぼうえいき",
+        "meaning": "defense equipment"
+      }
+    ],
+    "grammar": "〜にも - 'also in/on'; 〜があるのか - explanatory question"
+  },
+  {
+    "start": "02:04:16",
+    "end": "02:04:19",
+    "text": "はは、苦戦しているようだな",
+    "audio_file": "clip_058.mp3",
+    "translation": "Haha, looks like you're struggling.",
+    "vocabulary": [
+      {
+        "word": "苦戦",
+        "reading": "くせん",
+        "meaning": "hard fight, struggle"
+      }
+    ],
+    "grammar": "〜ているようだな - 'it seems you are ~' + masculine な"
+  },
+  {
+    "start": "02:04:20",
+    "end": "02:04:26",
+    "text": "ヨルハ部隊 / 北部12C防衛本部から派遣された両兵部隊だ",
+    "audio_file": "clip_059.mp3",
+    "translation": "YoRHa units. / This is the bomber unit dispatched from Northern 12C Defense Headquarters.",
+    "vocabulary": [
+      {
+        "word": "部隊",
+        "reading": "ぶたい",
+        "meaning": "unit, troops"
+      },
+      {
+        "word": "北部",
+        "reading": "ほくぶ",
+        "meaning": "northern part"
+      },
+      {
+        "word": "防衛",
+        "reading": "ぼうえい",
+        "meaning": "defense"
+      },
+      {
+        "word": "本部",
+        "reading": "ほんぶ",
+        "meaning": "headquarters"
+      },
+      {
+        "word": "派遣",
+        "reading": "はけん",
+        "meaning": "dispatch"
+      },
+      {
+        "word": "爆撃",
+        "reading": "ばくげき",
+        "meaning": "bombing"
+      }
+    ],
+    "grammar": "〜された - passive past ('was dispatched')"
+  },
+  {
+    "start": "02:04:27",
+    "end": "02:04:33",
+    "text": "私は隊長の4B / ここは我々に任せろ",
+    "audio_file": "clip_060.mp3",
+    "translation": "I'm 4B, the squad leader. / Leave this to us.",
+    "vocabulary": [
+      {
+        "word": "隊長",
+        "reading": "たいちょう",
+        "meaning": "squad leader, captain"
+      },
+      {
+        "word": "我々",
+        "reading": "われわれ",
+        "meaning": "we, us"
+      },
+      {
+        "word": "任せる",
+        "reading": "まかせる",
+        "meaning": "to entrust, leave to"
+      }
+    ],
+    "grammar": "〜に任せろ - imperative 'leave it to'; ここは - 'this (situation)'"
+  },
+  {
+    "start": "02:04:35",
+    "end": "02:04:41",
+    "text": "ここは増援部隊に任せましょう / 僕に考えがあります / 場所をポイントしました",
+    "audio_file": "clip_061.mp3",
+    "translation": "Let's leave this to the reinforcement unit. / I have an idea. / I've pointed out the location.",
+    "vocabulary": [
+      {
+        "word": "増援",
+        "reading": "ぞうえん",
+        "meaning": "reinforcement"
+      },
+      {
+        "word": "部隊",
+        "reading": "ぶたい",
+        "meaning": "unit"
+      },
+      {
+        "word": "任せる",
+        "reading": "まかせる",
+        "meaning": "to entrust, leave to"
+      },
+      {
+        "word": "考え",
+        "reading": "かんがえ",
+        "meaning": "idea, thought"
+      },
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "meaning": "location, place"
+      },
+      {
+        "word": "ポイント",
+        "reading": "ぽいんと",
+        "meaning": "point out, mark"
+      }
+    ],
+    "grammar": "〜に任せましょう - 'let's leave to'; 〜があります - 'have (an idea)'"
+  },
+  {
+    "start": "02:04:42",
+    "end": "02:04:46",
+    "text": "そこで合流しましょう",
+    "audio_file": "clip_062.mp3",
+    "translation": "Let's rendezvous there.",
+    "vocabulary": [
+      {
+        "word": "合流",
+        "reading": "ごうりゅう",
+        "meaning": "rendezvous, joining"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:04:51",
+    "end": "02:04:58",
+    "text": "ここには沿岸防衛用の迎撃砲が付設されています / あの怪獣も近距離からの物理砲弾なら",
+    "audio_file": "clip_063.mp3",
+    "translation": "There are coastal defense interceptor cannons installed here. / Even that monster, if hit with physical shells from close range...",
+    "vocabulary": [
+      {
+        "word": "沿岸",
+        "reading": "えんがん",
+        "meaning": "coastal"
+      },
+      {
+        "word": "防衛用",
+        "reading": "ぼうえいよう",
+        "meaning": "for defense"
+      },
+      {
+        "word": "迎撃砲",
+        "reading": "げいげきほう",
+        "meaning": "interceptor cannon"
+      },
+      {
+        "word": "付設",
+        "reading": "ふせつ",
+        "meaning": "installation, attachment"
+      },
+      {
+        "word": "怪獣",
+        "reading": "かいじゅう",
+        "meaning": "monster"
+      },
+      {
+        "word": "近距離",
+        "reading": "きんきょり",
+        "meaning": "close range"
+      },
+      {
+        "word": "物理",
+        "reading": "ぶつり",
+        "meaning": "physical"
+      },
+      {
+        "word": "砲弾",
+        "reading": "ほうだん",
+        "meaning": "shell, cannonball"
+      }
+    ],
+    "grammar": "〜されています - passive progressive ('have been installed'); 〜なら - conditional 'if'"
+  },
+  {
+    "start": "02:04:59",
+    "end": "02:05:02",
+    "text": "EMPの影響を受けずにダメージを与えられるはずです",
+    "audio_file": "clip_064.mp3",
+    "translation": "We should be able to deal damage without being affected by the EMP.",
+    "vocabulary": [
+      {
+        "word": "影響",
+        "reading": "えいきょう",
+        "meaning": "influence, effect"
+      },
+      {
+        "word": "受ける",
+        "reading": "うける",
+        "meaning": "to receive, be affected"
+      },
+      {
+        "word": "ダメージ",
+        "reading": "だめーじ",
+        "meaning": "damage"
+      },
+      {
+        "word": "与える",
+        "reading": "あたえる",
+        "meaning": "to give, inflict"
+      }
+    ],
+    "grammar": "〜ずに - 'without doing'; 〜られるはず - 'should be able to'"
+  },
+  {
+    "start": "02:05:03",
+    "end": "02:05:06",
+    "text": "了解",
+    "audio_file": "clip_065.mp3",
+    "translation": "Understood.",
+    "vocabulary": [
+      {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning": "understood, roger"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:05:13",
+    "end": "02:05:17",
+    "text": "僕が照準をアシストします",
+    "audio_file": "clip_066.mp3",
+    "translation": "I'll assist with the targeting.",
+    "vocabulary": [
+      {
+        "word": "照準",
+        "reading": "しょうじゅん",
+        "meaning": "aim, targeting"
+      },
+      {
+        "word": "アシスト",
+        "reading": "あしすと",
+        "meaning": "assist"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:05:23",
+    "end": "02:05:33",
+    "text": "敵の外壁が分厚すぎて、この砲弾じゃ… / トゥビー、敵の内部に直接攻撃をするんです / 直接…そうか…",
+    "audio_file": "clip_067.mp3",
+    "translation": "The enemy's outer wall is too thick, these shells won't... / 2B, attack the enemy's interior directly. / Directly... I see...",
+    "vocabulary": [
+      {
+        "word": "外壁",
+        "reading": "がいへき",
+        "meaning": "outer wall"
+      },
+      {
+        "word": "分厚い",
+        "reading": "ぶあつい",
+        "meaning": "thick"
+      },
+      {
+        "word": "砲弾",
+        "reading": "ほうだん",
+        "meaning": "shell, cannonball"
+      },
+      {
+        "word": "内部",
+        "reading": "ないぶ",
+        "meaning": "interior, inside"
+      },
+      {
+        "word": "直接",
+        "reading": "ちょくせつ",
+        "meaning": "directly"
+      },
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "attack"
+      }
+    ],
+    "grammar": "〜すぎて - 'too much ~'; じゃ - contraction of では (trailing off); 〜するんです - emphatic command/explanation"
+  },
+  {
+    "start": "02:05:34",
+    "end": "02:05:42",
+    "text": "そうです、奴の口の中に砲弾を打ち込んでやってください",
+    "audio_file": "clip_068.mp3",
+    "translation": "That's right, please fire the shells into its mouth.",
+    "vocabulary": [
+      {
+        "word": "奴",
+        "reading": "やつ",
+        "meaning": "that guy, it (derogatory)"
+      },
+      {
+        "word": "口",
+        "reading": "くち",
+        "meaning": "mouth"
+      },
+      {
+        "word": "中",
+        "reading": "なか",
+        "meaning": "inside"
+      },
+      {
+        "word": "砲弾",
+        "reading": "ほうだん",
+        "meaning": "shell, cannonball"
+      },
+      {
+        "word": "打ち込む",
+        "reading": "うちこむ",
+        "meaning": "to drive in, fire into"
+      }
+    ],
+    "grammar": "〜の中に - 'into'; 〜てやってください - 'please do (for someone/something)'"
+  },
+  {
+    "start": "02:06:08",
+    "end": "02:06:11",
+    "text": "ふっ",
+    "audio_file": "clip_069.mp3",
+    "translation": "Hff.",
+    "vocabulary": [],
+    "grammar": "Vocal effort sound"
+  },
+  {
+    "start": "02:06:34",
+    "end": "02:06:36",
+    "text": "うびっ",
+    "audio_file": "clip_070.mp3",
+    "translation": "Uwah!",
+    "vocabulary": [],
+    "grammar": "Exclamation of surprise/pain"
+  },
+  {
+    "start": "02:06:38",
+    "end": "02:06:44",
+    "text": "まずいですよ ここを離脱しましょう",
+    "audio_file": "clip_071.mp3",
+    "translation": "This is bad. Let's evacuate from here.",
+    "vocabulary": [
+      {
+        "word": "まずい",
+        "reading": "まずい",
+        "meaning": "bad, dangerous"
+      },
+      {
+        "word": "離脱",
+        "reading": "りだつ",
+        "meaning": "evacuation, withdrawal"
+      }
+    ],
+    "grammar": "〜ですよ - emphasis; 〜しましょう - 'let's do'"
+  },
+  {
+    "start": "02:06:53",
+    "end": "02:06:59",
+    "text": "大丈夫ですか トビーさん",
+    "audio_file": "clip_072.mp3",
+    "translation": "Are you okay, 2B?",
+    "vocabulary": [
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "okay, alright"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:07:02",
+    "end": "02:07:07",
+    "text": "あの巨大な機械生命体は過去に廃棄された兵器です。",
+    "audio_file": "clip_073.mp3",
+    "translation": "That giant machine lifeform is a weapon that was discarded in the past.",
+    "vocabulary": [
+      {
+        "word": "巨大",
+        "reading": "きょだい",
+        "meaning": "giant, huge"
+      },
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      },
+      {
+        "word": "過去",
+        "reading": "かこ",
+        "meaning": "past"
+      },
+      {
+        "word": "廃棄",
+        "reading": "はいき",
+        "meaning": "disposal, discard"
+      },
+      {
+        "word": "兵器",
+        "reading": "へいき",
+        "meaning": "weapon"
+      }
+    ],
+    "grammar": "〜された - passive past ('was discarded')"
+  },
+  {
+    "start": "02:07:08",
+    "end": "02:07:13",
+    "text": "アンドロイドを殲滅用として開発されたのですが、制御不能になってしまって、",
+    "audio_file": "clip_074.mp3",
+    "translation": "It was developed for android annihilation, but it became uncontrollable.",
+    "vocabulary": [
+      {
+        "word": "殲滅",
+        "reading": "せんめつ",
+        "meaning": "annihilation, extermination"
+      },
+      {
+        "word": "用",
+        "reading": "よう",
+        "meaning": "for (purpose)"
+      },
+      {
+        "word": "開発",
+        "reading": "かいはつ",
+        "meaning": "development"
+      },
+      {
+        "word": "制御",
+        "reading": "せいぎょ",
+        "meaning": "control"
+      },
+      {
+        "word": "不能",
+        "reading": "ふのう",
+        "meaning": "impossible, unable"
+      }
+    ],
+    "grammar": "〜として - 'as, for'; 〜された - passive; 〜のですが - explanatory but; 〜になってしまって - 'ended up becoming'"
+  },
+  {
+    "start": "02:07:14",
+    "end": "02:07:19",
+    "text": "当時は私も機械生命体のネットワークに組み込まれていたから覚えているんですが、",
+    "audio_file": "clip_075.mp3",
+    "translation": "At that time, I was also integrated into the machine lifeform network, so I remember it.",
+    "vocabulary": [
+      {
+        "word": "当時",
+        "reading": "とうじ",
+        "meaning": "at that time"
+      },
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      },
+      {
+        "word": "ネットワーク",
+        "reading": "ねっとわーく",
+        "meaning": "network"
+      },
+      {
+        "word": "組み込む",
+        "reading": "くみこむ",
+        "meaning": "to integrate, incorporate"
+      },
+      {
+        "word": "覚える",
+        "reading": "おぼえる",
+        "meaning": "to remember"
+      }
+    ],
+    "grammar": "〜に組み込まれていた - passive progressive past ('was integrated'); 〜から - 'because, so'; 〜んですが - explanatory のです + が"
+  },
+  {
+    "start": "02:07:20",
+    "end": "02:07:25",
+    "text": "上陸した途端にボストし、敵味方関係なく攻撃を始めたんです。",
+    "audio_file": "clip_076.mp3",
+    "translation": "The moment it landed, it went berserk and started attacking indiscriminately, friend and foe alike.",
+    "vocabulary": [
+      {
+        "word": "上陸",
+        "reading": "じょうりく",
+        "meaning": "landing"
+      },
+      {
+        "word": "途端に",
+        "reading": "とたんに",
+        "meaning": "the moment, as soon as"
+      },
+      {
+        "word": "暴走",
+        "reading": "ぼうそう",
+        "meaning": "going berserk, running wild"
+      },
+      {
+        "word": "敵味方",
+        "reading": "てきみかた",
+        "meaning": "friend and foe, enemy and ally"
+      },
+      {
+        "word": "関係なく",
+        "reading": "かんけいなく",
+        "meaning": "regardless, indiscriminately"
+      },
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "attack"
+      },
+      {
+        "word": "始める",
+        "reading": "はじめる",
+        "meaning": "to begin"
+      }
+    ],
+    "grammar": "〜した途端に - 'the moment ~'; 〜関係なく - 'regardless of'; 〜んです - explanatory"
+  },
+  {
+    "start": "02:07:26",
+    "end": "02:07:30",
+    "text": "が、結局我々も暴走を止めることができなくて、",
+    "audio_file": "clip_076.mp3",
+    "translation": "But in the end, we also couldn't stop it from going berserk.",
+    "vocabulary": [
+      {
+        "word": "結局",
+        "reading": "けっきょく",
+        "meaning": "in the end, after all"
+      },
+      {
+        "word": "我々",
+        "reading": "われわれ",
+        "meaning": "we"
+      },
+      {
+        "word": "暴走",
+        "reading": "ぼうそう",
+        "meaning": "going berserk, running wild"
+      },
+      {
+        "word": "止める",
+        "reading": "とめる",
+        "meaning": "to stop"
+      }
+    ],
+    "grammar": "が - 'but' (sentence starter); 〜こともできなくて - 'couldn't even ~'"
+  },
+  {
+    "start": "02:07:31",
+    "end": "02:07:39",
+    "text": "深海に投棄されたのですが、再び上陸を試みているようですね。そうか。",
+    "audio_file": "clip_078.mp3",
+    "translation": "It was disposed of in the deep sea, but it seems it's attempting to land again. I see.",
+    "vocabulary": [
+      {
+        "word": "深海",
+        "reading": "しんかい",
+        "meaning": "deep sea"
+      },
+      {
+        "word": "投棄",
+        "reading": "とうき",
+        "meaning": "disposal, dumping"
+      },
+      {
+        "word": "再び",
+        "reading": "ふたたび",
+        "meaning": "again"
+      },
+      {
+        "word": "上陸",
+        "reading": "じょうりく",
+        "meaning": "landing"
+      },
+      {
+        "word": "試みる",
+        "reading": "こころみる",
+        "meaning": "to attempt, try"
+      }
+    ],
+    "grammar": "〜された - passive; 〜のですが - explanatory but; 〜ているようですね - 'seems to be doing'"
+  },
+  {
+    "start": "02:07:40",
+    "end": "02:07:45",
+    "text": "ルビー、ちょっと思いついたことがあります。ここで怪獣を食い止めておいてください。",
+    "audio_file": "clip_079.mp3",
+    "translation": "2B, I just thought of something. Please hold the monster off here.",
+    "vocabulary": [
+      {
+        "word": "思いつく",
+        "reading": "おもいつく",
+        "meaning": "to think of, come up with"
+      },
+      {
+        "word": "怪獣",
+        "reading": "かいじゅう",
+        "meaning": "monster"
+      },
+      {
+        "word": "食い止める",
+        "reading": "くいとめる",
+        "meaning": "to hold off, stop"
+      }
+    ],
+    "grammar": "〜たことがあります - 'there's something I (just) did'; 〜ておいてください - 'please do (in advance/for now)'"
+  },
+  {
+    "start": "02:07:46",
+    "end": "02:07:50",
+    "text": "あ、 / 頼みましたよ。",
+    "audio_file": "clip_080.mp3",
+    "translation": "Ah... / I'm counting on you.",
+    "vocabulary": [
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request, count on"
+      }
+    ],
+    "grammar": "頼みました - past tense showing completed request; よ - emphasis"
+  },
+  {
+    "start": "02:07:53",
+    "end": "02:08:00",
+    "text": "9Sが先制から離脱。脱走兵として司令部に登録することを提案。",
+    "audio_file": "clip_081.mp3",
+    "translation": "9S has left the front line. Proposal: Register him as a deserter with Command.",
+    "vocabulary": [
+      {
+        "word": "戦線",
+        "reading": "せんせん",
+        "meaning": "front line, battle line"
+      },
+      {
+        "word": "離脱",
+        "reading": "りだつ",
+        "meaning": "withdrawal, departure"
+      },
+      {
+        "word": "脱走兵",
+        "reading": "だっそうへい",
+        "meaning": "deserter"
+      },
+      {
+        "word": "司令部",
+        "reading": "しれいぶ",
+        "meaning": "command, headquarters"
+      },
+      {
+        "word": "登録",
+        "reading": "とうろく",
+        "meaning": "registration"
+      },
+      {
+        "word": "提案",
+        "reading": "ていあん",
+        "meaning": "proposal, suggestion"
+      }
+    ],
+    "grammar": "〜として - 'as'; 〜することを提案 - 'propose to do'"
+  },
+  {
+    "start": "02:08:01",
+    "end": "02:08:08",
+    "text": "あ、ダメ! / きっと9Sには考えがある。",
+    "audio_file": "clip_082.mp3",
+    "translation": "Ah, no! / 9S surely has a plan.",
+    "vocabulary": [
+      {
+        "word": "ダメ",
+        "reading": "だめ",
+        "meaning": "no good, can't"
+      },
+      {
+        "word": "きっと",
+        "reading": "きっと",
+        "meaning": "surely, certainly"
+      },
+      {
+        "word": "考え",
+        "reading": "かんがえ",
+        "meaning": "plan, idea"
+      }
+    ],
+    "grammar": "〜には - topic marker with emphasis; 〜がある - 'has (a plan)'"
+  },
+  {
+    "start": "02:08:17",
+    "end": "02:08:28",
+    "text": "僕は空母に搭載予定だったミサイルを使用できないか試してみます。 / コントロールを妨害されないよう、敵の背面にあるEMP攻撃ユニットを破壊しておいてください。",
+    "audio_file": "clip_083.mp3",
+    "translation": "I'll try to see if I can use the missiles that were scheduled to be loaded on the carrier. / Please destroy the EMP attack unit on the enemy's back so that control won't be interfered with.",
+    "vocabulary": [
+      {
+        "word": "空母",
+        "reading": "くうぼ",
+        "meaning": "aircraft carrier"
+      },
+      {
+        "word": "搭載",
+        "reading": "とうさい",
+        "meaning": "loading, mounting"
+      },
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "meaning": "scheduled, planned"
+      },
+      {
+        "word": "ミサイル",
+        "reading": "みさいる",
+        "meaning": "missile"
+      },
+      {
+        "word": "使用",
+        "reading": "しよう",
+        "meaning": "use"
+      },
+      {
+        "word": "試す",
+        "reading": "ためす",
+        "meaning": "to try, test"
+      },
+      {
+        "word": "コントロール",
+        "reading": "こんとろーる",
+        "meaning": "control"
+      },
+      {
+        "word": "妨害",
+        "reading": "ぼうがい",
+        "meaning": "interference, obstruction"
+      },
+      {
+        "word": "背面",
+        "reading": "はいめん",
+        "meaning": "back, rear"
+      },
+      {
+        "word": "攻撃",
+        "reading": "こうげき",
+        "meaning": "attack"
+      },
+      {
+        "word": "ユニット",
+        "reading": "ゆにっと",
+        "meaning": "unit"
+      },
+      {
+        "word": "破壊",
+        "reading": "はかい",
+        "meaning": "destruction"
+      }
+    ],
+    "grammar": "〜できないか試してみます - 'try to see if can ~'; 〜されないよう - 'so that (it) won't be'; 〜ておいてください - 'please do (in advance)'"
+  },
+  {
+    "start": "02:08:29",
+    "end": "02:08:32",
+    "text": "了解。",
+    "audio_file": "clip_084.mp3",
+    "translation": "Understood.",
+    "vocabulary": [
+      {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning": "understood, roger"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "02:09:09",
+    "end": "02:09:26",
+    "text": "ご視聴ありがとうございました",
+    "audio_file": "clip_085.mp3",
+    "translation": "Thank you for watching.",
+    "vocabulary": [
+      {
+        "word": "視聴",
+        "reading": "しちょう",
+        "meaning": "watching, viewing"
+      }
+    ],
+    "grammar": "This appears to be end credits text, not game dialogue"
+  },
+  {
+    "start": "02:11:28",
+    "end": "02:11:34",
+    "text": "アルハ部隊の捜索と救援部隊を編成しろ",
+    "audio_file": "clip_086.mp3",
+    "translation": "Organize search and rescue units for the YoRHa forces.",
+    "vocabulary": [
+      {
+        "word": "部隊",
+        "reading": "ぶたい",
+        "meaning": "unit, troops"
+      },
+      {
+        "word": "捜索",
+        "reading": "そうさく",
+        "meaning": "search"
+      },
+      {
+        "word": "救援",
+        "reading": "きゅうえん",
+        "meaning": "rescue, relief"
+      },
+      {
+        "word": "編成",
+        "reading": "へんせい",
+        "meaning": "organization, formation"
+      }
+    ],
+    "grammar": "〜しろ - imperative command form"
+  },
+  {
+    "start": "02:11:41",
+    "end": "02:11:44",
+    "text": "死ぬなよ",
+    "audio_file": "clip_087.mp3",
+    "translation": "Don't die.",
+    "vocabulary": [
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "to die"
+      }
+    ],
+    "grammar": "〜なよ - negative imperative with よ (masculine, emphatic)"
+  }
+]

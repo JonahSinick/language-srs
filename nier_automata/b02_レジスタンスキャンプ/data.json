@@ -1,0 +1,532 @@
+[
+  {
+    "start": "03:33:52",
+    "end": "03:34:11",
+    "text": "このような",
+    "audio_file": "clip_000.mp3",
+    "translation": "Like this",
+    "vocabulary": [
+      {
+        "word": "このような",
+        "reading": "このような",
+        "meaning": "like this, such as this, this kind of"
+      }
+    ],
+    "grammar": "Demonstrative phrase; likely incomplete/cut-off dialogue"
+  },
+  {
+    "start": "03:34:12",
+    "end": "03:34:15",
+    "text": "キャンプにマーク推奨",
+    "audio_file": "clip_001.mp3",
+    "translation": "Camp marking recommended",
+    "vocabulary": [
+      {
+        "word": "キャンプ",
+        "reading": "きゃんぷ",
+        "meaning": "camp"
+      },
+      {
+        "word": "マーク",
+        "reading": "まーく",
+        "meaning": "mark, marker"
+      },
+      {
+        "word": "推奨",
+        "reading": "すいしょう",
+        "meaning": "recommendation, endorsement"
+      }
+    ],
+    "grammar": "に particle indicates target/location for marking; 推奨 is a noun form used like a command or system message"
+  },
+  {
+    "start": "03:34:23",
+    "end": "03:34:30",
+    "text": "ここがレジスタンスキャンプか / まずリーダーに情報を聞いてみましょうよ",
+    "audio_file": "clip_002.mp3",
+    "translation": "So this is the Resistance Camp? / Let's try asking the leader for information first.",
+    "vocabulary": [
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "meaning": "here, this place"
+      },
+      {
+        "word": "レジスタンス",
+        "reading": "れじすたんす",
+        "meaning": "resistance (group)"
+      },
+      {
+        "word": "キャンプ",
+        "reading": "きゃんぷ",
+        "meaning": "camp"
+      },
+      {
+        "word": "まず",
+        "reading": "まず",
+        "meaning": "first, first of all"
+      },
+      {
+        "word": "リーダー",
+        "reading": "りーだー",
+        "meaning": "leader"
+      },
+      {
+        "word": "情報",
+        "reading": "じょうほう",
+        "meaning": "information"
+      },
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "to ask, to hear"
+      }
+    ],
+    "grammar": "か at end indicates questioning/confirmation; 〜てみましょう (let's try doing); よ adds emphasis/suggestion"
+  },
+  {
+    "start": "03:34:33",
+    "end": "03:34:38",
+    "text": "お前たちは / 2号 / あれ?",
+    "audio_file": "clip_003.mp3",
+    "translation": "You guys are... / No. 2... / Huh?",
+    "vocabulary": [
+      {
+        "word": "お前たち",
+        "reading": "おまえたち",
+        "meaning": "you (plural, rough/informal)"
+      },
+      {
+        "word": "号",
+        "reading": "ごう",
+        "meaning": "number, designation (for units)"
+      },
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "meaning": "huh?, oh? (expression of surprise)"
+      }
+    ],
+    "grammar": "は topic marker; trailing は suggests speaker was about to say more but stopped; あれ shows confusion/surprise"
+  },
+  {
+    "start": "03:34:38",
+    "end": "03:34:41",
+    "text": "2Bのことを知ってるんですか?",
+    "audio_file": "clip_004.mp3",
+    "translation": "You know about 2B?",
+    "vocabulary": [
+      {
+        "word": "こと",
+        "reading": "こと",
+        "meaning": "thing, matter, fact (nominalizer)"
+      },
+      {
+        "word": "知る",
+        "reading": "しる",
+        "meaning": "to know"
+      },
+      {
+        "word": "〜てる",
+        "reading": "〜てる",
+        "meaning": "contracted form of 〜ている (ongoing state)"
+      }
+    ],
+    "grammar": "のこと indicates 'about/concerning'; 〜ている→〜てる shows contracted ongoing state; んです adds explanatory tone; か makes it a question"
+  },
+  {
+    "start": "03:34:41",
+    "end": "03:34:45",
+    "text": "いや / 連絡が来てたからな / 私の名前はアネモネ",
+    "audio_file": "clip_005.mp3",
+    "translation": "No, / we got word about you. / My name is Anemone.",
+    "vocabulary": [
+      {
+        "word": "いや",
+        "reading": "いや",
+        "meaning": "no, well (casual negation/pause)"
+      },
+      {
+        "word": "連絡",
+        "reading": "れんらく",
+        "meaning": "contact, communication, message"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "to come"
+      },
+      {
+        "word": "〜てた",
+        "reading": "〜てた",
+        "meaning": "contracted form of 〜ていた (past progressive)"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "meaning": "because, so"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "meaning": "sentence-ending particle (casual explanation/confirmation)"
+      },
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I, me"
+      },
+      {
+        "word": "名前",
+        "reading": "なまえ",
+        "meaning": "name"
+      }
+    ],
+    "grammar": "〜ていた→〜てた (contracted past progressive); からな combines reason から with emphatic な"
+  },
+  {
+    "start": "03:34:46",
+    "end": "03:34:49",
+    "text": "この辺り一帯のアンドロイドレジスタンスを / 取りまとめている",
+    "audio_file": "clip_006.mp3",
+    "translation": "I'm in charge of coordinating the android resistance forces / in this entire area.",
+    "vocabulary": [
+      {
+        "word": "この",
+        "reading": "この",
+        "meaning": "this"
+      },
+      {
+        "word": "辺り",
+        "reading": "あたり",
+        "meaning": "area, vicinity, around"
+      },
+      {
+        "word": "一帯",
+        "reading": "いったい",
+        "meaning": "whole area, entire region, zone"
+      },
+      {
+        "word": "アンドロイド",
+        "reading": "あんどろいど",
+        "meaning": "android"
+      },
+      {
+        "word": "レジスタンス",
+        "reading": "れじすたんす",
+        "meaning": "resistance (group)"
+      },
+      {
+        "word": "取りまとめる",
+        "reading": "とりまとめる",
+        "meaning": "to collect, coordinate, bring together, manage"
+      }
+    ],
+    "grammar": "の indicates possession/association; を marks direct object; 〜ている shows ongoing state/role"
+  },
+  {
+    "start": "03:34:50",
+    "end": "03:35:00",
+    "text": "バンカーから話は聞いている / このエリアの調査担当になったらしいな / 情報は私よりも / 他の連中の方が詳しいだろう / 私を通さなくていいから",
+    "audio_file": "clip_007.mp3",
+    "translation": "I've heard from the Bunker. / Sounds like you're in charge of investigating this area. / As for information, the other guys / know more than I do. / You don't need to go through me, so",
+    "vocabulary": [
+      {
+        "word": "バンカー",
+        "reading": "ばんかー",
+        "meaning": "Bunker (orbital base in Nier Automata)"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "meaning": "from"
+      },
+      {
+        "word": "話",
+        "reading": "はなし",
+        "meaning": "story, talk, information"
+      },
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "to hear"
+      },
+      {
+        "word": "エリア",
+        "reading": "えりあ",
+        "meaning": "area"
+      },
+      {
+        "word": "調査",
+        "reading": "ちょうさ",
+        "meaning": "investigation, survey"
+      },
+      {
+        "word": "担当",
+        "reading": "たんとう",
+        "meaning": "person in charge, assignment"
+      },
+      {
+        "word": "〜らしい",
+        "reading": "〜らしい",
+        "meaning": "seems like, appears that, I heard that"
+      },
+      {
+        "word": "情報",
+        "reading": "じょうほう",
+        "meaning": "information"
+      },
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I, me"
+      },
+      {
+        "word": "より",
+        "reading": "より",
+        "meaning": "than, compared to"
+      },
+      {
+        "word": "他",
+        "reading": "ほか",
+        "meaning": "other"
+      },
+      {
+        "word": "連中",
+        "reading": "れんちゅう",
+        "meaning": "those guys, those people, bunch"
+      },
+      {
+        "word": "方",
+        "reading": "ほう",
+        "meaning": "side, direction (used for comparison)"
+      },
+      {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning": "detailed, knowledgeable, well-informed"
+      },
+      {
+        "word": "だろう",
+        "reading": "だろう",
+        "meaning": "probably, I think"
+      },
+      {
+        "word": "通す",
+        "reading": "とおす",
+        "meaning": "to go through, to pass through"
+      },
+      {
+        "word": "〜なくていい",
+        "reading": "〜なくていい",
+        "meaning": "don't have to, don't need to"
+      }
+    ],
+    "grammar": "〜ている (present progressive/state); 〜たらしい (hearsay/conjecture); よりも (comparison); 方が (comparison marker); 〜なくていい (negative permission - don't need to); から (so, therefore)"
+  },
+  {
+    "start": "03:35:01",
+    "end": "03:35:03",
+    "text": "好きに聞いてくれ",
+    "audio_file": "clip_008.mp3",
+    "translation": "Feel free to ask around.",
+    "vocabulary": [
+      {
+        "word": "好き",
+        "reading": "すき",
+        "meaning": "as one likes, freely"
+      },
+      {
+        "word": "に",
+        "reading": "に",
+        "meaning": "in the manner of (adverbial particle)"
+      },
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "to ask, to listen"
+      },
+      {
+        "word": "〜てくれ",
+        "reading": "〜てくれ",
+        "meaning": "please do (casual request)"
+      }
+    ],
+    "grammar": "好きに (adverbial use meaning 'as you like/freely'); 〜てくれ is casual imperative request form"
+  },
+  {
+    "start": "03:35:41",
+    "end": "03:35:50",
+    "text": "オペレーターより9Sへ / レジスタンスリーダーより指定のあった場所の座標データを転送します",
+    "audio_file": "clip_009.mp3",
+    "translation": "Operator to 9S. / Transmitting coordinate data for the location specified by the Resistance leader.",
+    "vocabulary": [
+      {
+        "word": "オペレーター",
+        "reading": "おぺれーたー",
+        "meaning": "operator"
+      },
+      {
+        "word": "より",
+        "reading": "より",
+        "meaning": "from (formal)"
+      },
+      {
+        "word": "へ",
+        "reading": "へ",
+        "meaning": "to (direction particle)"
+      },
+      {
+        "word": "レジスタンス",
+        "reading": "れじすたんす",
+        "meaning": "resistance"
+      },
+      {
+        "word": "リーダー",
+        "reading": "りーだー",
+        "meaning": "leader"
+      },
+      {
+        "word": "指定",
+        "reading": "してい",
+        "meaning": "designation, specification"
+      },
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "meaning": "place, location"
+      },
+      {
+        "word": "座標",
+        "reading": "ざひょう",
+        "meaning": "coordinates"
+      },
+      {
+        "word": "データ",
+        "reading": "でーた",
+        "meaning": "data"
+      },
+      {
+        "word": "転送",
+        "reading": "てんそう",
+        "meaning": "transfer, transmission"
+      },
+      {
+        "word": "〜します",
+        "reading": "〜します",
+        "meaning": "polite form of する (to do)"
+      }
+    ],
+    "grammar": "より (formal 'from'); へ (directional particle 'to'); のあった (past tense modifier - 'that was specified'); の connects multiple nouns"
+  },
+  {
+    "start": "03:35:50",
+    "end": "03:36:05",
+    "text": "さすがオペレーターさん / 仕事が早いですね / 無駄口を叩いていると不必要にエネルギー消費されます / 作戦行動に関係のない発言は控えてください / はーい",
+    "audio_file": "clip_010.mp3",
+    "translation": "As expected of you, Operator. / You work fast. / Idle chatter results in unnecessary energy consumption. / Please refrain from statements unrelated to mission operations. / Okay~",
+    "vocabulary": [
+      {
+        "word": "さすが",
+        "reading": "さすが",
+        "meaning": "as expected, as one would expect, impressive"
+      },
+      {
+        "word": "オペレーター",
+        "reading": "おぺれーたー",
+        "meaning": "operator"
+      },
+      {
+        "word": "さん",
+        "reading": "さん",
+        "meaning": "honorific suffix"
+      },
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "work, job"
+      },
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "meaning": "fast, quick"
+      },
+      {
+        "word": "無駄口",
+        "reading": "むだぐち",
+        "meaning": "idle talk, chatter, unnecessary talk"
+      },
+      {
+        "word": "叩く",
+        "reading": "たたく",
+        "meaning": "to hit; (with 口) to chat, to talk"
+      },
+      {
+        "word": "〜ていると",
+        "reading": "〜ていると",
+        "meaning": "if/when one is doing"
+      },
+      {
+        "word": "不必要",
+        "reading": "ふひつよう",
+        "meaning": "unnecessary"
+      },
+      {
+        "word": "に",
+        "reading": "に",
+        "meaning": "in a manner (adverbial particle)"
+      },
+      {
+        "word": "エネルギー",
+        "reading": "えねるぎー",
+        "meaning": "energy"
+      },
+      {
+        "word": "消費",
+        "reading": "しょうひ",
+        "meaning": "consumption"
+      },
+      {
+        "word": "される",
+        "reading": "される",
+        "meaning": "passive form of する (to be done)"
+      },
+      {
+        "word": "作戦",
+        "reading": "さくせん",
+        "meaning": "strategy, tactics, operation"
+      },
+      {
+        "word": "行動",
+        "reading": "こうどう",
+        "meaning": "action, conduct, behavior"
+      },
+      {
+        "word": "関係",
+        "reading": "かんけい",
+        "meaning": "relation, connection"
+      },
+      {
+        "word": "のない",
+        "reading": "のない",
+        "meaning": "without, lacking"
+      },
+      {
+        "word": "発言",
+        "reading": "はつげん",
+        "meaning": "statement, remark, utterance"
+      },
+      {
+        "word": "控える",
+        "reading": "ひかえる",
+        "meaning": "to refrain, to hold back, to restrain"
+      },
+      {
+        "word": "〜てください",
+        "reading": "〜てください",
+        "meaning": "please do (polite request)"
+      }
+    ],
+    "grammar": "さすが (admiration); 〜ていると (conditional - when/if doing); 不必要に (adverbial form); される (passive); に関係のない (relative clause - 'that has no relation to'); 〜てください (polite request); はーい is elongated for playful/reluctant tone"
+  }
+]

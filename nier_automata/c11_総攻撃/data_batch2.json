@@ -1,0 +1,659 @@
+[
+  {
+    "start": "06:13:32",
+    "end": "06:13:39",
+    "text": "状況は? / 作戦は開始 / 先行部隊はすでに交戦中 / 僕たちの役割は",
+    "audio_file": "clip_059.mp3",
+    "translation": "What's the situation? The operation has begun. The advance units are already engaged in combat. Our role is...",
+    "vocabulary": [
+      {"word": "状況", "reading": "じょうきょう", "meaning": "situation"},
+      {"word": "先行部隊", "reading": "せんこうぶたい", "meaning": "advance unit"},
+      {"word": "交戦中", "reading": "こうせんちゅう", "meaning": "engaged in combat"},
+      {"word": "役割", "reading": "やくわり", "meaning": "role"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:13:40",
+    "end": "06:13:43",
+    "text": "先行部隊の状況に合わせて援護する / 遊撃部隊",
+    "audio_file": "clip_060.mp3",
+    "translation": "To provide support according to the advance unit's situation. A guerrilla unit.",
+    "vocabulary": [
+      {"word": "合わせて", "reading": "あわせて", "meaning": "in accordance with"},
+      {"word": "援護", "reading": "えんご", "meaning": "support, backup"},
+      {"word": "遊撃部隊", "reading": "ゆうげきぶたい", "meaning": "guerrilla unit, mobile strike force"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:13:44",
+    "end": "06:13:49",
+    "text": "先行部隊が交戦している場所を / マップに転送しました",
+    "audio_file": "clip_061.mp3",
+    "translation": "I've transferred the locations where the advance units are engaged to your map.",
+    "vocabulary": [
+      {"word": "場所", "reading": "ばしょ", "meaning": "location, place"},
+      {"word": "マップ", "reading": "マップ", "meaning": "map"},
+      {"word": "転送", "reading": "てんそう", "meaning": "transfer"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:13:49",
+    "end": "06:13:51",
+    "text": "援護に向かいましょう / 了解",
+    "audio_file": "clip_062.mp3",
+    "translation": "Let's head to provide support. Understood.",
+    "vocabulary": [
+      {"word": "向かう", "reading": "むかう", "meaning": "to head toward"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:14:08",
+    "end": "06:14:14",
+    "text": "こちらセブンB / 先行攻撃部隊デルタ隊長 / 攻戦中の機械生命体が暴れていて",
+    "audio_file": "clip_063.mp3",
+    "translation": "This is 7B, advance assault unit Delta captain. The machine lifeforms we're fighting are going berserk and...",
+    "vocabulary": [
+      {"word": "攻撃部隊", "reading": "こうげきぶたい", "meaning": "assault unit"},
+      {"word": "隊長", "reading": "たいちょう", "meaning": "captain, commander"},
+      {"word": "好戦", "reading": "こうせん", "meaning": "belligerent, warlike"},
+      {"word": "暴れる", "reading": "あばれる", "meaning": "to go wild, to rampage"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:14:15",
+    "end": "06:14:24",
+    "text": "手をつけられない / こちらセブンB / 遊撃部隊 / 今からそちらの縁が乗った / 了解 感謝する",
+    "audio_file": "clip_064.mp3",
+    "translation": "We can't handle them. This is 7B, guerrilla unit. We're heading to support you now. Understood. Grateful.",
+    "vocabulary": [
+      {"word": "手をつける", "reading": "てをつける", "meaning": "to handle, to deal with"},
+      {"word": "援護", "reading": "えんご", "meaning": "support"},
+      {"word": "感謝", "reading": "かんしゃ", "meaning": "gratitude"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:14:48",
+    "end": "06:14:52",
+    "text": "助かった / 僕たちは次の部隊の援護に向かいます",
+    "audio_file": "clip_065.mp3",
+    "translation": "You saved us. We're heading to support the next unit.",
+    "vocabulary": [
+      {"word": "助かる", "reading": "たすかる", "meaning": "to be saved, to be helped"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:14:53",
+    "end": "06:14:59",
+    "text": "私たちもそちらに同行し援護しよう / 了解",
+    "audio_file": "clip_066.mp3",
+    "translation": "We'll accompany you and provide support. Understood.",
+    "vocabulary": [
+      {"word": "同行", "reading": "どうこう", "meaning": "accompaniment, going together"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:15:01",
+    "end": "06:15:08",
+    "text": "こちら攻撃部隊オメガの8B / 担当空気をステアートした / 捕獲",
+    "audio_file": "clip_067.mp3",
+    "translation": "This is 8B of assault unit Omega. We've secured our assigned area. Captured.",
+    "vocabulary": [
+      {"word": "担当", "reading": "たんとう", "meaning": "assigned"},
+      {"word": "区域", "reading": "くいき", "meaning": "area, zone"},
+      {"word": "制圧", "reading": "せいあつ", "meaning": "suppression, control"},
+      {"word": "掃討", "reading": "そうとう", "meaning": "mopping up, sweeping"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:15:09",
+    "end": "06:15:17",
+    "text": "こちら3B / チータ部隊隊長だ / 機械生命体どもがどんどん増えていて / 手に負えない",
+    "audio_file": "clip_068.mp3",
+    "translation": "This is 3B, Theta unit captain. The machine lifeforms keep multiplying. We can't handle them.",
+    "vocabulary": [
+      {"word": "どんどん", "reading": "どんどん", "meaning": "rapidly, steadily"},
+      {"word": "増える", "reading": "ふえる", "meaning": "to increase"},
+      {"word": "手に負えない", "reading": "てにおえない", "meaning": "unmanageable, beyond control"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:15:47",
+    "end": "06:15:51",
+    "text": "ありがとう私たちも同行しよう / 視界が悪いですね",
+    "audio_file": "clip_069.mp3",
+    "translation": "Thank you. We'll go with you too. The visibility is poor.",
+    "vocabulary": [
+      {"word": "視界", "reading": "しかい", "meaning": "visibility, field of vision"},
+      {"word": "悪い", "reading": "わるい", "meaning": "bad, poor"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:15:52",
+    "end": "06:15:59",
+    "text": "報告 / 適正機械生命体の反応が通常よりも増加 / イブのネットワークが破壊されたのに",
+    "audio_file": "clip_070.mp3",
+    "translation": "Report: Enemy machine lifeform responses are increasing beyond normal levels. Even though Eve's network was destroyed...",
+    "vocabulary": [
+      {"word": "敵性", "reading": "てきせい", "meaning": "hostile, enemy"},
+      {"word": "反応", "reading": "はんのう", "meaning": "response, reaction"},
+      {"word": "通常", "reading": "つうじょう", "meaning": "normal, usual"},
+      {"word": "増加", "reading": "ぞうか", "meaning": "increase"},
+      {"word": "破壊", "reading": "はかい", "meaning": "destruction"}
+    ],
+    "grammar": "〜のに = even though, despite"
+  },
+  {
+    "start": "06:16:00",
+    "end": "06:16:07",
+    "text": "どうして奴ら暴走してるんでしょう / 私たちは戦うだけ",
+    "audio_file": "clip_071.mp3",
+    "translation": "Why are they running wild? We just fight.",
+    "vocabulary": [
+      {"word": "奴ら", "reading": "やつら", "meaning": "those guys, they (derogatory)"},
+      {"word": "暴走", "reading": "ぼうそう", "meaning": "running wild, rampage"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:16:14",
+    "end": "06:16:23",
+    "text": "こちら4B 天候攻撃部隊アルファ 隊長 敵の攻撃に手を焼いている / こちら2B 遊撃部隊 今からそちらの援護に行か",
+    "audio_file": "clip_072.mp3",
+    "translation": "This is 4B, assault unit Alpha captain. We're having trouble with enemy attacks. This is 2B, guerrilla unit. We're heading to support you now.",
+    "vocabulary": [
+      {"word": "先行", "reading": "せんこう", "meaning": "advance"},
+      {"word": "手を焼く", "reading": "てをやく", "meaning": "to have trouble with"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:16:24",
+    "end": "06:16:28",
+    "text": "了解 感謝する",
+    "audio_file": "clip_073.mp3",
+    "translation": "Understood. Grateful.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:17:10",
+    "end": "06:17:17",
+    "text": "助かった / 僕たちは次の部隊の援護に向かいます / 我々もそちらに同行し援護しよう",
+    "audio_file": "clip_074.mp3",
+    "translation": "You saved us. We're heading to support the next unit. We'll accompany you and provide support too.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:17:19",
+    "end": "06:17:25",
+    "text": "スービーさん、新たな敵の出現を確認しました / 部隊オメガが強撃を受け苦戦中です",
+    "audio_file": "clip_075.mp3",
+    "translation": "2B, we've confirmed the appearance of new enemies. Unit Omega is under heavy attack and struggling.",
+    "vocabulary": [
+      {"word": "新たな", "reading": "あらたな", "meaning": "new, fresh"},
+      {"word": "出現", "reading": "しゅつげん", "meaning": "appearance"},
+      {"word": "強襲", "reading": "きょうしゅう", "meaning": "assault, raid"},
+      {"word": "苦戦", "reading": "くせん", "meaning": "hard fight, struggle"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:17:26",
+    "end": "06:17:33",
+    "text": "援護に向かってもらえますか / 了解 / 思ったより苦戦していますね / 急がないと",
+    "audio_file": "clip_076.mp3",
+    "translation": "Could you head to support them? Understood. They're struggling more than expected. We need to hurry.",
+    "vocabulary": [
+      {"word": "思う", "reading": "おもう", "meaning": "to think"},
+      {"word": "急ぐ", "reading": "いそぐ", "meaning": "to hurry"}
+    ],
+    "grammar": "〜てもらえますか = could you do (for me)?"
+  },
+  {
+    "start": "06:17:45",
+    "end": "06:17:50",
+    "text": "こちら入撃部隊の2B / これより部隊オメガを援護する",
+    "audio_file": "clip_077.mp3",
+    "translation": "This is 2B of the guerrilla unit. We will now support unit Omega.",
+    "vocabulary": [
+      {"word": "遊撃", "reading": "ゆうげき", "meaning": "guerrilla"}
+    ],
+    "grammar": "これより = from now on, hereafter"
+  },
+  {
+    "start": "06:17:51",
+    "end": "06:17:57",
+    "text": "連合感謝 / このままゲが勝てる / ないえず、さらに増援がコモンの周辺を警戒して",
+    "audio_file": "clip_078.mp3",
+    "translation": "Extremely grateful. We can win at this rate. However, more reinforcements are coming. Be alert in the surrounding area.",
+    "vocabulary": [
+      {"word": "非常に", "reading": "ひじょうに", "meaning": "extremely, very"},
+      {"word": "このまま", "reading": "このまま", "meaning": "as is, at this rate"},
+      {"word": "勝てる", "reading": "かてる", "meaning": "can win"},
+      {"word": "ただし", "reading": "ただし", "meaning": "however"},
+      {"word": "増援", "reading": "ぞうえん", "meaning": "reinforcements"},
+      {"word": "周辺", "reading": "しゅうへん", "meaning": "surrounding area"},
+      {"word": "警戒", "reading": "けいかい", "meaning": "vigilance, alert"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:17:58",
+    "end": "06:18:01",
+    "text": "了解",
+    "audio_file": "clip_079.mp3",
+    "translation": "Understood.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:18:15",
+    "end": "06:18:21",
+    "text": "何?この音",
+    "audio_file": "clip_080.mp3",
+    "translation": "What? This sound...",
+    "vocabulary": [
+      {"word": "音", "reading": "おと", "meaning": "sound"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:18:28",
+    "end": "06:18:31",
+    "text": "サビー!",
+    "audio_file": "clip_081.mp3",
+    "translation": "9S!",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:18:31",
+    "end": "06:18:36",
+    "text": "大丈夫? / 油断した",
+    "audio_file": "clip_082.mp3",
+    "translation": "Are you okay? I let my guard down.",
+    "vocabulary": [
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "okay, all right"},
+      {"word": "油断", "reading": "ゆだん", "meaning": "carelessness, letting one's guard down"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:18:36",
+    "end": "06:18:43",
+    "text": "至近距離からのEMP攻撃が再起動しないと",
+    "audio_file": "clip_083.mp3",
+    "translation": "EMP attack from close range... I need to reboot.",
+    "vocabulary": [
+      {"word": "至近距離", "reading": "しきんきょり", "meaning": "close range"},
+      {"word": "攻撃", "reading": "こうげき", "meaning": "attack"},
+      {"word": "再起動", "reading": "さいきどう", "meaning": "reboot, restart"}
+    ],
+    "grammar": "〜ないと = must do, need to do"
+  },
+  {
+    "start": "06:18:43",
+    "end": "06:18:44",
+    "text": "援護する",
+    "audio_file": "clip_084.mp3",
+    "translation": "I'll cover you.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:18:50",
+    "end": "06:18:55",
+    "text": "四角め",
+    "audio_file": "clip_085.mp3",
+    "translation": "Damn machines...",
+    "vocabulary": [
+      {"word": "機械", "reading": "きかい", "meaning": "machine"}
+    ],
+    "grammar": "〜め is derogatory suffix"
+  },
+  {
+    "start": "06:18:58",
+    "end": "06:19:03",
+    "text": "何がどうなってるんだ / 何が",
+    "audio_file": "clip_086.mp3",
+    "translation": "What's going on? What...",
+    "vocabulary": [],
+    "grammar": "〜んだ = explanatory, emphatic ending"
+  },
+  {
+    "start": "06:19:04",
+    "end": "06:19:08",
+    "text": "僕が守る",
+    "audio_file": "clip_087.mp3",
+    "translation": "I'll protect you.",
+    "vocabulary": [
+      {"word": "守る", "reading": "まもる", "meaning": "to protect, to guard"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:19:10",
+    "end": "06:19:19",
+    "text": "くそ / 次から次へと / 早く倒して 2Bを助けないと",
+    "audio_file": "clip_088.mp3",
+    "translation": "Damn! One after another... I need to defeat them quickly and help 2B.",
+    "vocabulary": [
+      {"word": "次から次へと", "reading": "つぎからつぎへと", "meaning": "one after another"},
+      {"word": "倒す", "reading": "たおす", "meaning": "to defeat"},
+      {"word": "助ける", "reading": "たすける", "meaning": "to help, to save"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:19:40",
+    "end": "06:19:43",
+    "text": "大丈夫? / ちょうべい!",
+    "audio_file": "clip_089.mp3",
+    "translation": "Are you okay? Just barely!",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:19:58",
+    "end": "06:20:02",
+    "text": "この息を入れそう",
+    "audio_file": "clip_090.mp3",
+    "translation": "No time to rest...",
+    "vocabulary": [
+      {"word": "息", "reading": "いき", "meaning": "breath"},
+      {"word": "入れる", "reading": "いれる", "meaning": "to put in, to insert"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:20:05",
+    "end": "06:20:09",
+    "text": "ツービー!",
+    "audio_file": "clip_091.mp3",
+    "translation": "2B!",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:20:11",
+    "end": "06:20:16",
+    "text": "ウィルス汚染 / さっきのEMP攻撃がトリガー",
+    "audio_file": "clip_092.mp3",
+    "translation": "Virus contamination. That EMP attack was the trigger.",
+    "vocabulary": [
+      {"word": "ウイルス", "reading": "ウイルス", "meaning": "virus"},
+      {"word": "汚染", "reading": "おせん", "meaning": "contamination"},
+      {"word": "さっき", "reading": "さっき", "meaning": "just now, earlier"},
+      {"word": "トリガー", "reading": "トリガー", "meaning": "trigger"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:20:17",
+    "end": "06:20:20",
+    "text": "なんとか",
+    "audio_file": "clip_093.mp3",
+    "translation": "Somehow...",
+    "vocabulary": [
+      {"word": "なんとか", "reading": "なんとか", "meaning": "somehow, one way or another"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:20:25",
+    "end": "06:20:28",
+    "text": "デュビー、大丈夫?",
+    "audio_file": "clip_094.mp3",
+    "translation": "2B, are you okay?",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:20:34",
+    "end": "06:20:37",
+    "text": "なんだ?",
+    "audio_file": "clip_095.mp3",
+    "translation": "What is this?",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:20:43",
+    "end": "06:20:47",
+    "text": "汚染されて / 乗っ取られてる",
+    "audio_file": "clip_096.mp3",
+    "translation": "She's been contaminated. She's being hijacked.",
+    "vocabulary": [
+      {"word": "乗っ取る", "reading": "のっとる", "meaning": "to hijack, to take over"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:20:48",
+    "end": "06:20:51",
+    "text": "そんな / 攻撃機能が動かない",
+    "audio_file": "clip_097.mp3",
+    "translation": "No way... My attack functions won't work.",
+    "vocabulary": [
+      {"word": "攻撃機能", "reading": "こうげききのう", "meaning": "attack function"},
+      {"word": "動く", "reading": "うごく", "meaning": "to move, to work"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:20:52",
+    "end": "06:20:57",
+    "text": "ヨルハ部隊の識別信号だ / 僕が2Bをハッキングして識別回路を焼き切る",
+    "audio_file": "clip_098.mp3",
+    "translation": "It's a YoRHa unit identification signal. I'll hack 2B and burn out her identification circuit.",
+    "vocabulary": [
+      {"word": "識別信号", "reading": "しきべつしんごう", "meaning": "identification signal"},
+      {"word": "ハッキング", "reading": "ハッキング", "meaning": "hacking"},
+      {"word": "回路", "reading": "かいろ", "meaning": "circuit"},
+      {"word": "焼き切る", "reading": "やききる", "meaning": "to burn out"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:20:58",
+    "end": "06:20:59",
+    "text": "お願い",
+    "audio_file": "clip_099.mp3",
+    "translation": "Please.",
+    "vocabulary": [
+      {"word": "お願い", "reading": "おねがい", "meaning": "please, request"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:21:28",
+    "end": "06:21:32",
+    "text": "コットン!司令部に通信!状況確認!",
+    "audio_file": "clip_100.mp3",
+    "translation": "Pod! Contact command! Check the situation!",
+    "vocabulary": [
+      {"word": "ポッド", "reading": "ポッド", "meaning": "pod"},
+      {"word": "通信", "reading": "つうしん", "meaning": "communication"},
+      {"word": "状況確認", "reading": "じょうきょうかくにん", "meaning": "situation check"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:21:33",
+    "end": "06:21:38",
+    "text": "不確認!機械生命体による妨害電波を開始 / くそ!",
+    "audio_file": "clip_101.mp3",
+    "translation": "Unable to confirm! Jamming waves from machine lifeforms detected. Damn!",
+    "vocabulary": [
+      {"word": "不可", "reading": "ふか", "meaning": "impossible, unable"},
+      {"word": "妨害電波", "reading": "ぼうがいでんぱ", "meaning": "jamming waves"},
+      {"word": "検知", "reading": "けんち", "meaning": "detection"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:21:39",
+    "end": "06:21:46",
+    "text": "ドゥビー! / 妨害電波を出している個体をマークした! / わかった! / 目標地点の情報を入手",
+    "audio_file": "clip_102.mp3",
+    "translation": "2B! I've marked the unit emitting the jamming waves! Got it! Target location information acquired.",
+    "vocabulary": [
+      {"word": "個体", "reading": "こたい", "meaning": "individual, unit"},
+      {"word": "マーク", "reading": "マーク", "meaning": "mark"},
+      {"word": "目標地点", "reading": "もくひょうちてん", "meaning": "target location"},
+      {"word": "情報", "reading": "じょうほう", "meaning": "information"},
+      {"word": "入手", "reading": "にゅうしゅ", "meaning": "acquisition"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:21:47",
+    "end": "06:21:51",
+    "text": "マップにマーク",
+    "audio_file": "clip_103.mp3",
+    "translation": "Marked on map.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:21:58",
+    "end": "06:22:02",
+    "text": "おやすみなさい",
+    "audio_file": "clip_104.mp3",
+    "translation": "Good night.",
+    "vocabulary": [
+      {"word": "おやすみなさい", "reading": "おやすみなさい", "meaning": "good night"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:22:40",
+    "end": "06:22:47",
+    "text": "あのデカいのから / 妨害電波が出ているようです",
+    "audio_file": "clip_105.mp3",
+    "translation": "It seems the jamming waves are coming from that big one.",
+    "vocabulary": [
+      {"word": "でかい", "reading": "でかい", "meaning": "big, large (colloquial)"}
+    ],
+    "grammar": "〜ようです = it seems, it appears"
+  },
+  {
+    "start": "06:22:51",
+    "end": "06:22:59",
+    "text": "ジャミングは解除されたはず / 司令部に通信 状況報告と救援要請",
+    "audio_file": "clip_106.mp3",
+    "translation": "The jamming should be cleared. Contact command. Report situation and request rescue.",
+    "vocabulary": [
+      {"word": "ジャミング", "reading": "ジャミング", "meaning": "jamming"},
+      {"word": "解除", "reading": "かいじょ", "meaning": "cancellation, removal"},
+      {"word": "状況報告", "reading": "じょうきょうほうこく", "meaning": "situation report"},
+      {"word": "救援要請", "reading": "きゅうえんようせい", "meaning": "request for rescue"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:23:00",
+    "end": "06:23:08",
+    "text": "ポッド / 通信ロストは司令部に接続できず / くそ まだジャミングが / 通信環境は良好",
+    "audio_file": "clip_107.mp3",
+    "translation": "Pod. Communication lost, unable to connect to command. Damn, the jamming is still... Communication environment is good.",
+    "vocabulary": [
+      {"word": "通信", "reading": "つうしん", "meaning": "communication"},
+      {"word": "接続", "reading": "せつぞく", "meaning": "connection"},
+      {"word": "環境", "reading": "かんきょう", "meaning": "environment"},
+      {"word": "良好", "reading": "りょうこう", "meaning": "good, favorable"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:23:09",
+    "end": "06:23:12",
+    "text": "通信ロストは接続認証の失敗によるもの",
+    "audio_file": "clip_108.mp3",
+    "translation": "Communication loss is due to connection authentication failure.",
+    "vocabulary": [
+      {"word": "認証", "reading": "にんしょう", "meaning": "authentication"},
+      {"word": "失敗", "reading": "しっぱい", "meaning": "failure"},
+      {"word": "〜によるもの", "reading": "〜によるもの", "meaning": "due to, caused by"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:23:13",
+    "end": "06:23:21",
+    "text": "現在司令部の通信機能は完全に注目 / バンカーは一体何があるの?",
+    "audio_file": "clip_109.mp3",
+    "translation": "Currently command's communication function is completely shut down. What on earth is happening at the Bunker?",
+    "vocabulary": [
+      {"word": "通信機能", "reading": "つうしんきのう", "meaning": "communication function"},
+      {"word": "停止", "reading": "ていし", "meaning": "shutdown, halt"},
+      {"word": "一体", "reading": "いったい", "meaning": "what on earth, just what"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:23:22",
+    "end": "06:23:25",
+    "text": "ダメだ、キリがない",
+    "audio_file": "clip_110.mp3",
+    "translation": "No good, there's no end to them.",
+    "vocabulary": [
+      {"word": "ダメ", "reading": "ダメ", "meaning": "no good, useless"},
+      {"word": "キリがない", "reading": "キリがない", "meaning": "endless, no end"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:23:26",
+    "end": "06:23:29",
+    "text": "考えがある / バンカーには非常用のバックドアがあるから",
+    "audio_file": "clip_111.mp3",
+    "translation": "I have an idea. The Bunker has an emergency backdoor, so...",
+    "vocabulary": [
+      {"word": "考え", "reading": "かんがえ", "meaning": "idea, thought"},
+      {"word": "非常用", "reading": "ひじょうよう", "meaning": "for emergency use"},
+      {"word": "バックドア", "reading": "バックドア", "meaning": "backdoor"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:23:30",
+    "end": "06:23:34",
+    "text": "そこから僕と2Bのパーソナルログデータを全部アップロードして",
+    "audio_file": "clip_112.mp3",
+    "translation": "From there, I'll upload all of mine and 2B's personal log data, and then...",
+    "vocabulary": [
+      {"word": "パーソナルログ", "reading": "パーソナルログ", "meaning": "personal log"},
+      {"word": "データ", "reading": "データ", "meaning": "data"},
+      {"word": "全部", "reading": "ぜんぶ", "meaning": "all, everything"},
+      {"word": "アップロード", "reading": "アップロード", "meaning": "upload"}
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:23:35",
+    "end": "06:23:38",
+    "text": "その後ここをブラックボックス反応で吹き飛ばす",
+    "audio_file": "clip_113.mp3",
+    "translation": "After that, blow this place away with a black box reaction.",
+    "vocabulary": [
+      {"word": "その後", "reading": "そのご", "meaning": "after that"},
+      {"word": "ブラックボックス", "reading": "ブラックボックス", "meaning": "black box"},
+      {"word": "反応", "reading": "はんのう", "meaning": "reaction"},
+      {"word": "吹き飛ばす", "reading": "ふきとばす", "meaning": "to blow away"}
+    ],
+    "grammar": null
+  }
+]

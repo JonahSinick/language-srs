@@ -1,0 +1,79 @@
+[
+  {
+    "start": "08:56:14",
+    "end": "08:56:20",
+    "text": "もう どうでもいいんだよ 全部!",
+    "audio_file": "clip_000.mp3",
+    "translation": "I don't care anymore about any of it!",
+    "vocabulary": [
+      {
+        "word": "もう",
+        "reading": "もう",
+        "meaning": "already, anymore, now (indicates change or finality)"
+      },
+      {
+        "word": "どうでもいい",
+        "reading": "どうでもいい",
+        "meaning": "doesn't matter, don't care (expression showing indifference)"
+      },
+      {
+        "word": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "all, everything, entirely"
+      }
+    ],
+    "grammar": "んだよ is an explanatory/emphatic ending (の+だ casual form). The よ particle adds emphasis to the emotional statement."
+  },
+  {
+    "start": "08:56:26",
+    "end": "08:56:32",
+    "text": "ナインエーソン 頼む / ツービー…",
+    "audio_file": "clip_001.mp3",
+    "translation": "9S, please... / 2B...",
+    "vocabulary": [
+      {
+        "word": "ナインエーソン",
+        "reading": "ナインエーソン",
+        "meaning": "9S (character name in Nier Automata - YoRHa No.9 Type S)"
+      },
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request, to ask, to beg, please (casual imperative)"
+      },
+      {
+        "word": "ツービー",
+        "reading": "ツービー",
+        "meaning": "2B (character name in Nier Automata - YoRHa No.2 Type B)"
+      }
+    ],
+    "grammar": "頼む is used here in its imperative/pleading sense. The slash (/) indicates a change of speaker or emotional pause."
+  },
+  {
+    "start": "09:00:33",
+    "end": "09:00:38",
+    "text": "Είδε",
+    "audio_file": "clip_002.mp3",
+    "translation": "[Greek text - meaning unclear in context]",
+    "vocabulary": [],
+    "grammar": "This appears to be Greek text, not Japanese. In Nier Automata's narrative context, this may represent corrupted or alien text."
+  },
+  {
+    "start": "09:01:13",
+    "end": "09:01:16",
+    "text": "תודה רבה.",
+    "audio_file": "clip_003.mp3",
+    "translation": "Thank you very much. [Hebrew]",
+    "vocabulary": [],
+    "grammar": "This is Hebrew text meaning 'thank you very much' (todah rabah). In Nier Automata's context, this may represent machine lifeform or corrupted communication."
+  },
+  {
+    "start": "09:01:28",
+    "end": "09:01:31",
+    "text": "不离",
+    "audio_file": "clip_004.mp3",
+    "translation": "Inseparable / Not apart [Chinese characters]",
+    "vocabulary": [],
+    "grammar": "This appears to be Chinese characters (不 = not, 离 = separate/leave). In Nier Automata's narrative, this may represent fragmented data or machine language."
+  }
+]

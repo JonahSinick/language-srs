@@ -1,0 +1,443 @@
+[
+  {
+    "start": "08:51:39",
+    "end": "08:51:44",
+    "text": "うーん",
+    "audio_file": "clip_000.mp3",
+    "translation": "Mmm...",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "08:51:50",
+    "end": "08:51:57",
+    "text": "ひゃっ / くし… / ううう… / ううっ あー!",
+    "audio_file": "clip_001.mp3",
+    "translation": "Hyah! / Ugh... / Uhhh... / Ungh, ahh!",
+    "vocabulary": [],
+    "grammar": "Sound effects and exclamations expressing pain or distress"
+  },
+  {
+    "start": "08:51:58",
+    "end": "08:52:05",
+    "text": "ああっ… / ああっ… / ポッド! / あ… 発見です! / ああっ… / ああっ… / 了快",
+    "audio_file": "clip_002.mp3",
+    "translation": "Ahh... / Ahh... / Pod! / Ah... I found them! / Ahh... / Ahh... / Understood",
+    "vocabulary": [
+      {
+        "word": "発見",
+        "reading": "はっけん",
+        "meaning": "discovery, detection, finding"
+      },
+      {
+        "word": "了快",
+        "reading": "りょうかい",
+        "meaning": "acknowledgment, understanding, roger"
+      }
+    ],
+    "grammar": "です form for polite reporting. 了快 (should be 了解) is a military/formal acknowledgment"
+  },
+  {
+    "start": "08:52:08",
+    "end": "08:52:11",
+    "text": "あ… / はぁ…",
+    "audio_file": "clip_003.mp3",
+    "translation": "Ah... / Haah...",
+    "vocabulary": [],
+    "grammar": "Breathing sounds/gasps"
+  },
+  {
+    "start": "08:52:15",
+    "end": "08:52:21",
+    "text": "ポット、9Sの論理回路を修復する / 了解",
+    "audio_file": "clip_004.mp3",
+    "translation": "Pod, repair 9S's logic circuits / Understood",
+    "vocabulary": [
+      {
+        "word": "論理回路",
+        "reading": "ろんりかいろ",
+        "meaning": "logic circuit"
+      },
+      {
+        "word": "修復",
+        "reading": "しゅうふく",
+        "meaning": "repair, restoration, mending"
+      },
+      {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning": "acknowledgment, understanding, roger"
+      }
+    ],
+    "grammar": "Dictionary form used as command. を marks the direct object being repaired"
+  },
+  {
+    "start": "08:52:28",
+    "end": "08:52:34",
+    "text": "9Sを汚染しているウイルスの場所を教えてくれ / 了解、ヨルハ機体A2",
+    "audio_file": "clip_005.mp3",
+    "translation": "Tell me the location of the virus infecting 9S / Understood, YoRHa unit A2",
+    "vocabulary": [
+      {
+        "word": "汚染",
+        "reading": "おせん",
+        "meaning": "contamination, pollution, infection"
+      },
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "meaning": "location, place, position"
+      },
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach, to tell, to inform"
+      },
+      {
+        "word": "機体",
+        "reading": "きたい",
+        "meaning": "unit, body, machine, aircraft"
+      }
+    ],
+    "grammar": "ている form indicates ongoing state of infection. てくれ is casual/commanding request form"
+  },
+  {
+    "start": "08:52:35",
+    "end": "08:52:38",
+    "text": "この先に、9Sのコアデータが格納されている",
+    "audio_file": "clip_006.mp3",
+    "translation": "Up ahead, 9S's core data is stored",
+    "vocabulary": [
+      {
+        "word": "先",
+        "reading": "さき",
+        "meaning": "ahead, beyond, future"
+      },
+      {
+        "word": "コアデータ",
+        "reading": "こあでーた",
+        "meaning": "core data"
+      },
+      {
+        "word": "格納",
+        "reading": "かくのう",
+        "meaning": "storage, housing, containment"
+      }
+    ],
+    "grammar": "されている is passive ている form indicating current state (is being stored)"
+  },
+  {
+    "start": "08:52:39",
+    "end": "08:52:48",
+    "text": "報告、ウイルスを戦が深刻で、除去は困難 / いや、一つだけ方法があるはずだ",
+    "audio_file": "clip_007.mp3",
+    "translation": "Report: The viral infection is severe, removal is difficult / No, there should be just one way",
+    "vocabulary": [
+      {
+        "word": "報告",
+        "reading": "ほうこく",
+        "meaning": "report"
+      },
+      {
+        "word": "深刻",
+        "reading": "しんこく",
+        "meaning": "serious, severe, grave"
+      },
+      {
+        "word": "除去",
+        "reading": "じょきょ",
+        "meaning": "removal, elimination"
+      },
+      {
+        "word": "困難",
+        "reading": "こんなん",
+        "meaning": "difficulty, hardship"
+      },
+      {
+        "word": "方法",
+        "reading": "ほうほう",
+        "meaning": "method, way, means"
+      },
+      {
+        "word": "はず",
+        "reading": "はず",
+        "meaning": "should be, expected to be"
+      }
+    ],
+    "grammar": "で marks reason/cause. はずだ expresses expectation or logical conclusion"
+  },
+  {
+    "start": "08:52:48",
+    "end": "08:52:53",
+    "text": "その方法は推奨できない / 私はヨルハ部隊支援追行ユニット",
+    "audio_file": "clip_008.mp3",
+    "translation": "That method cannot be recommended / I am a YoRHa squad support and tracking unit",
+    "vocabulary": [
+      {
+        "word": "推奨",
+        "reading": "すいしょう",
+        "meaning": "recommendation, endorsement"
+      },
+      {
+        "word": "部隊",
+        "reading": "ぶたい",
+        "meaning": "unit, squad, troops"
+      },
+      {
+        "word": "支援",
+        "reading": "しえん",
+        "meaning": "support, assistance"
+      },
+      {
+        "word": "追行",
+        "reading": "ついこう",
+        "meaning": "tracking, pursuit"
+      }
+    ],
+    "grammar": "できない is potential negative form (cannot do). は marks topic/contrast"
+  },
+  {
+    "start": "08:52:54",
+    "end": "08:53:04",
+    "text": "支援しているヨルハ機隊A2にガイドなす行動には賛同できない / 意外と、いいやつだな、お前は",
+    "audio_file": "clip_009.mp3",
+    "translation": "I cannot agree with actions that would harm YoRHa unit A2, whom I support / You're unexpectedly a good guy, you know",
+    "vocabulary": [
+      {
+        "word": "機隊",
+        "reading": "きたい",
+        "meaning": "unit, squadron"
+      },
+      {
+        "word": "害",
+        "reading": "がい",
+        "meaning": "harm, damage, injury"
+      },
+      {
+        "word": "行動",
+        "reading": "こうどう",
+        "meaning": "action, conduct, behavior"
+      },
+      {
+        "word": "賛同",
+        "reading": "さんどう",
+        "meaning": "agreement, approval, support"
+      },
+      {
+        "word": "意外",
+        "reading": "いがい",
+        "meaning": "unexpected, surprising"
+      },
+      {
+        "word": "やつ",
+        "reading": "やつ",
+        "meaning": "guy, fellow (casual)"
+      },
+      {
+        "word": "お前",
+        "reading": "おまえ",
+        "meaning": "you (informal/rough)"
+      }
+    ],
+    "grammar": "には marks specific target of inability. と adds nuance of 'considering'. だな is casual confirmatory statement"
+  },
+  {
+    "start": "08:54:01",
+    "end": "08:54:05",
+    "text": "私は… / 全部",
+    "audio_file": "clip_010.mp3",
+    "translation": "I... / Everything",
+    "vocabulary": [
+      {
+        "word": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "all, everything, entirely"
+      }
+    ],
+    "grammar": "Incomplete sentence expressing emotion. 全部 likely refers to 'I'll take it all' or 'everything'"
+  },
+  {
+    "start": "08:54:10",
+    "end": "08:54:13",
+    "text": "ポット",
+    "audio_file": "clip_011.mp3",
+    "translation": "Pod",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "08:54:13",
+    "end": "08:54:17",
+    "text": "9Sを頼む",
+    "audio_file": "clip_012.mp3",
+    "translation": "I'm counting on you for 9S / Take care of 9S",
+    "vocabulary": [
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "to request, to ask, to count on"
+      }
+    ],
+    "grammar": "を頼む is idiomatic expression meaning 'I'm entrusting (someone/something) to you'"
+  },
+  {
+    "start": "08:54:20",
+    "end": "08:54:28",
+    "text": "A2 君は? / 私はまだ やることがあるから",
+    "audio_file": "clip_013.mp3",
+    "translation": "What about you, A2? / I still have something I need to do",
+    "vocabulary": [
+      {
+        "word": "君",
+        "reading": "きみ",
+        "meaning": "you (informal but not rough)"
+      },
+      {
+        "word": "まだ",
+        "reading": "まだ",
+        "meaning": "still, yet, not yet"
+      },
+      {
+        "word": "やること",
+        "reading": "やること",
+        "meaning": "thing to do, task"
+      }
+    ],
+    "grammar": "こと nominalizes verb (doing → thing to do). から indicates reason/cause"
+  },
+  {
+    "start": "08:54:28",
+    "end": "08:54:30",
+    "text": "先に行ってくれ",
+    "audio_file": "clip_014.mp3",
+    "translation": "Go on ahead",
+    "vocabulary": [
+      {
+        "word": "先に",
+        "reading": "さきに",
+        "meaning": "ahead, first, before"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "to go"
+      }
+    ],
+    "grammar": "てくれ is casual/commanding request form (do for me). 先に indicates precedence"
+  },
+  {
+    "start": "08:54:31",
+    "end": "08:54:34",
+    "text": "了解",
+    "audio_file": "clip_015.mp3",
+    "translation": "Understood",
+    "vocabulary": [
+      {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning": "acknowledgment, understanding, roger"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "08:54:58",
+    "end": "08:55:01",
+    "text": "すまないな",
+    "audio_file": "clip_016.mp3",
+    "translation": "I'm sorry / My apologies",
+    "vocabulary": [
+      {
+        "word": "すまない",
+        "reading": "すまない",
+        "meaning": "sorry, apologetic"
+      }
+    ],
+    "grammar": "な is sentence-ending particle expressing emotion/reflection. すまない is casual apology"
+  },
+  {
+    "start": "08:55:03",
+    "end": "08:55:16",
+    "text": "そんなに世界がキレイだって",
+    "audio_file": "clip_017.mp3",
+    "translation": "That the world was so beautiful",
+    "vocabulary": [
+      {
+        "word": "そんなに",
+        "reading": "そんなに",
+        "meaning": "so much, that much, to that extent"
+      },
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "world"
+      },
+      {
+        "word": "キレイ",
+        "reading": "きれい",
+        "meaning": "beautiful, clean, pretty"
+      }
+    ],
+    "grammar": "だって is casual quotation particle (that...). Incomplete sentence continuing to next segment"
+  },
+  {
+    "start": "08:55:17",
+    "end": "08:55:20",
+    "text": "気づかなかったな",
+    "audio_file": "clip_018.mp3",
+    "translation": "I never noticed",
+    "vocabulary": [
+      {
+        "word": "気づく",
+        "reading": "きづく",
+        "meaning": "to notice, to realize, to become aware"
+      }
+    ],
+    "grammar": "なかった is past negative. な is reflective sentence-ending particle. Together with previous segment: 'I never noticed that the world was so beautiful'"
+  },
+  {
+    "start": "08:55:21",
+    "end": "08:55:28",
+    "text": "みんな / 今行くよ / -",
+    "audio_file": "clip_019.mp3",
+    "translation": "Everyone / I'm coming now",
+    "vocabulary": [
+      {
+        "word": "みんな",
+        "reading": "みんな",
+        "meaning": "everyone, all"
+      },
+      {
+        "word": "今",
+        "reading": "いま",
+        "meaning": "now, the present"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "to go"
+      }
+    ],
+    "grammar": "よ is sentence-ending particle for emphasis/assertion. Implies going to join 'everyone' (likely deceased comrades)"
+  },
+  {
+    "start": "08:55:53",
+    "end": "08:56:16",
+    "text": "第1話 アリカメラ",
+    "audio_file": "clip_020.mp3",
+    "translation": "Episode 1: Arikamera",
+    "vocabulary": [
+      {
+        "word": "第",
+        "reading": "だい",
+        "meaning": "counter for ordinal numbers (1st, 2nd, etc.)"
+      },
+      {
+        "word": "話",
+        "reading": "わ",
+        "meaning": "episode, chapter, story"
+      }
+    ],
+    "grammar": "第~話 is standard format for episode numbering. アリカメラ appears to be a title or reference"
+  }
+]

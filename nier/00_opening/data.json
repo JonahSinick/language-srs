@@ -6,8 +6,16 @@
     "audio_file": "clip_000.mp3",
     "translation": "Something like this...",
     "vocabulary": [
-      {"word": "こんな", "reading": "こんな", "meaning": "like this, this kind of"},
-      {"word": "もの", "reading": "もの", "meaning": "thing"}
+      {
+        "word": "こんな",
+        "reading": "こんな",
+        "meaning": "like this, this kind of"
+      },
+      {
+        "word": "もの",
+        "reading": "もの",
+        "meaning": "thing"
+      }
     ],
     "grammar": "こんなもの expresses dismissal - 'something like this (is nothing)'."
   },
@@ -18,8 +26,16 @@
     "audio_file": "clip_001.mp3",
     "translation": "Don't come, monster! / Don't come!",
     "vocabulary": [
-      {"word": "来るな", "reading": "くるな", "meaning": "don't come (imperative negative)"},
-      {"word": "バケモノ", "reading": "バケモノ", "meaning": "monster, ghost"}
+      {
+        "word": "来るな",
+        "reading": "くるな",
+        "meaning": "don't come (imperative negative)"
+      },
+      {
+        "word": "バケモノ",
+        "reading": "バケモノ",
+        "meaning": "monster, ghost"
+      }
     ],
     "grammar": "来るな is the negative imperative of 来る - a strong command not to come."
   },
@@ -30,12 +46,36 @@
     "audio_file": "clip_002.mp3",
     "translation": "Don't worry. Your big brother won't lose to some ghosts.",
     "vocabulary": [
-      {"word": "心配", "reading": "しんぱい", "meaning": "worry"},
-      {"word": "すんな", "reading": "すんな", "meaning": "don't do (casual imperative)"},
-      {"word": "兄ちゃん", "reading": "にいちゃん", "meaning": "big brother (casual)"},
-      {"word": "お化け", "reading": "おばけ", "meaning": "ghost, monster"},
-      {"word": "なんか", "reading": "なんか", "meaning": "something like (dismissive)"},
-      {"word": "負けない", "reading": "まけない", "meaning": "won't lose"}
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "meaning": "worry"
+      },
+      {
+        "word": "すんな",
+        "reading": "すんな",
+        "meaning": "don't do (casual imperative)"
+      },
+      {
+        "word": "兄ちゃん",
+        "reading": "にいちゃん",
+        "meaning": "big brother (casual)"
+      },
+      {
+        "word": "お化け",
+        "reading": "おばけ",
+        "meaning": "ghost, monster"
+      },
+      {
+        "word": "なんか",
+        "reading": "なんか",
+        "meaning": "something like (dismissive)"
+      },
+      {
+        "word": "負けない",
+        "reading": "まけない",
+        "meaning": "won't lose"
+      }
     ],
     "grammar": "すんな is a very casual contraction of するな (don't do). なんかに indicates contempt - 'something like'."
   },
@@ -46,21 +86,41 @@
     "audio_file": "clip_003.mp3",
     "translation": "Wait here. I'll go find something to eat.",
     "vocabulary": [
-      {"word": "待ってろ", "reading": "まってろ", "meaning": "wait (rough command)"},
-      {"word": "何か", "reading": "なにか", "meaning": "something"},
-      {"word": "食べられる", "reading": "たべられる", "meaning": "can eat, edible"},
-      {"word": "見つけてくる", "reading": "みつけてくる", "meaning": "go find and come back"}
+      {
+        "word": "待ってろ",
+        "reading": "まってろ",
+        "meaning": "wait (rough command)"
+      },
+      {
+        "word": "何か",
+        "reading": "なにか",
+        "meaning": "something"
+      },
+      {
+        "word": "食べられる",
+        "reading": "たべられる",
+        "meaning": "can eat, edible"
+      },
+      {
+        "word": "見つけてくる",
+        "reading": "みつけてくる",
+        "meaning": "go find and come back"
+      }
     ],
     "grammar": "待ってろ is a rough masculine command (待っていろ contracted). 〜てくる indicates going, doing something, and returning."
   },
   {
     "start": "04:09",
     "end": "04:10",
-    "text": "ユナ",
+    "text": "ヨナ",
     "audio_file": "clip_004.mp3",
     "translation": "Yonah.",
     "vocabulary": [
-      {"word": "ヨナ", "reading": "ヨナ", "meaning": "Yonah (character name)"}
+      {
+        "word": "ヨナ",
+        "reading": "ヨナ",
+        "meaning": "Yonah (character name)"
+      }
     ],
     "grammar": null
   },
@@ -71,7 +131,11 @@
     "audio_file": "clip_005.mp3",
     "translation": "What?",
     "vocabulary": [
-      {"word": "何", "reading": "なに", "meaning": "what"}
+      {
+        "word": "何",
+        "reading": "なに",
+        "meaning": "what"
+      }
     ],
     "grammar": null
   },
@@ -82,12 +146,36 @@
     "audio_file": "clip_006.mp3",
     "translation": "No matter what happens, don't touch that book.",
     "vocabulary": [
-      {"word": "何があっても", "reading": "なにがあっても", "meaning": "no matter what happens"},
-      {"word": "その", "reading": "その", "meaning": "that"},
-      {"word": "本", "reading": "ほん", "meaning": "book"},
-      {"word": "触る", "reading": "さわる", "meaning": "to touch"},
-      {"word": "んじゃない", "reading": "んじゃない", "meaning": "don't (prohibition)"},
-      {"word": "ぞ", "reading": "ぞ", "meaning": "emphatic particle (masculine)"}
+      {
+        "word": "何があっても",
+        "reading": "なにがあっても",
+        "meaning": "no matter what happens"
+      },
+      {
+        "word": "その",
+        "reading": "その",
+        "meaning": "that"
+      },
+      {
+        "word": "本",
+        "reading": "ほん",
+        "meaning": "book"
+      },
+      {
+        "word": "触る",
+        "reading": "さわる",
+        "meaning": "to touch"
+      },
+      {
+        "word": "んじゃない",
+        "reading": "んじゃない",
+        "meaning": "don't (prohibition)"
+      },
+      {
+        "word": "ぞ",
+        "reading": "ぞ",
+        "meaning": "emphatic particle (masculine)"
+      }
     ],
     "grammar": "〜んじゃない is a strong prohibition. ぞ adds masculine emphasis."
   },
@@ -98,7 +186,11 @@
     "audio_file": "clip_007.mp3",
     "translation": "Absolutely (don't).",
     "vocabulary": [
-      {"word": "絶対に", "reading": "ぜったいに", "meaning": "absolutely, definitely"}
+      {
+        "word": "絶対に",
+        "reading": "ぜったいに",
+        "meaning": "absolutely, definitely"
+      }
     ],
     "grammar": null
   },
@@ -136,9 +228,21 @@
     "audio_file": "clip_011.mp3",
     "translation": "(Grunt) / How many of these things are there?!",
     "vocabulary": [
-      {"word": "何体", "reading": "なんたい", "meaning": "how many (bodies/creatures)"},
-      {"word": "いる", "reading": "いる", "meaning": "to be, to exist"},
-      {"word": "んだ", "reading": "んだ", "meaning": "it is that (emphatic)"}
+      {
+        "word": "何体",
+        "reading": "なんたい",
+        "meaning": "how many (bodies/creatures)"
+      },
+      {
+        "word": "いる",
+        "reading": "いる",
+        "meaning": "to be, to exist"
+      },
+      {
+        "word": "んだ",
+        "reading": "んだ",
+        "meaning": "it is that (emphatic)"
+      }
     ],
     "grammar": "The counter 体 is used for bodies/figures/monsters."
   },
@@ -149,7 +253,11 @@
     "audio_file": "clip_012.mp3",
     "translation": "There's no end to them!",
     "vocabulary": [
-      {"word": "キリがない", "reading": "きりがない", "meaning": "endless, no end"}
+      {
+        "word": "キリがない",
+        "reading": "きりがない",
+        "meaning": "endless, no end"
+      }
     ],
     "grammar": "キリがない is an expression meaning 'there's no end' or 'it's endless'."
   },
@@ -160,9 +268,21 @@
     "audio_file": "clip_013.mp3",
     "translation": "I won't let them lay a finger on Yonah!",
     "vocabulary": [
-      {"word": "ヨナに", "reading": "ヨナに", "meaning": "on Yonah"},
-      {"word": "指一本", "reading": "ゆびいっぽん", "meaning": "a single finger"},
-      {"word": "触れさせない", "reading": "ふれさせない", "meaning": "won't let touch (causative negative)"}
+      {
+        "word": "ヨナに",
+        "reading": "ヨナに",
+        "meaning": "on Yonah"
+      },
+      {
+        "word": "指一本",
+        "reading": "ゆびいっぽん",
+        "meaning": "a single finger"
+      },
+      {
+        "word": "触れさせない",
+        "reading": "ふれさせない",
+        "meaning": "won't let touch (causative negative)"
+      }
     ],
     "grammar": "〜させない is the negative causative - 'won't let/allow'. 指一本触れさせない is an idiom meaning 'won't let anyone lay a finger on'."
   },
@@ -182,7 +302,11 @@
     "audio_file": "clip_015.mp3",
     "translation": "Good / Alright",
     "vocabulary": [
-      {"word": "いい", "reading": "いい", "meaning": "good, alright"}
+      {
+        "word": "いい",
+        "reading": "いい",
+        "meaning": "good, alright"
+      }
     ],
     "grammar": null
   },
@@ -220,7 +344,11 @@
     "audio_file": "clip_019.mp3",
     "translation": "I will... / Yonah...",
     "vocabulary": [
-      {"word": "僕", "reading": "ぼく", "meaning": "I (masculine)"}
+      {
+        "word": "僕",
+        "reading": "ぼく",
+        "meaning": "I (masculine)"
+      }
     ],
     "grammar": "Fragment - appears to be cut off dialogue."
   },
@@ -231,7 +359,11 @@
     "audio_file": "clip_020.mp3",
     "translation": "I'll protect... / (you)!",
     "vocabulary": [
-      {"word": "守る", "reading": "まもる", "meaning": "to protect"}
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to protect"
+      }
     ],
     "grammar": "Appears to be 守る (protect) with emotional emphasis."
   },
@@ -251,8 +383,16 @@
     "audio_file": "clip_022.mp3",
     "translation": "To Yonah... / I swear...",
     "vocabulary": [
-      {"word": "ヨナに", "reading": "ヨナに", "meaning": "to Yonah"},
-      {"word": "誓い", "reading": "ちかい", "meaning": "oath, vow, swear"}
+      {
+        "word": "ヨナに",
+        "reading": "ヨナに",
+        "meaning": "to Yonah"
+      },
+      {
+        "word": "誓い",
+        "reading": "ちかい",
+        "meaning": "oath, vow, swear"
+      }
     ],
     "grammar": null
   },
@@ -272,8 +412,16 @@
     "audio_file": "clip_024.mp3",
     "translation": "Are you okay, Yonah?",
     "vocabulary": [
-      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "okay, alright"},
-      {"word": "か", "reading": "か", "meaning": "question particle"}
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "okay, alright"
+      },
+      {
+        "word": "か",
+        "reading": "か",
+        "meaning": "question particle"
+      }
     ],
     "grammar": null
   },
@@ -284,12 +432,36 @@
     "audio_file": "clip_025.mp3",
     "translation": "You're the one who should be asked that, big brother. Are you okay? / Those guys were nothing. / I'm glad.",
     "vocabulary": [
-      {"word": "こそ", "reading": "こそ", "meaning": "precisely, emphasis on the topic"},
-      {"word": "あんな", "reading": "あんな", "meaning": "that kind of"},
-      {"word": "奴ら", "reading": "やつら", "meaning": "those guys (rough)"},
-      {"word": "なんてことない", "reading": "なんてことない", "meaning": "no big deal, nothing special"},
-      {"word": "さ", "reading": "さ", "meaning": "sentence-ending particle (casual assertion)"},
-      {"word": "よかった", "reading": "よかった", "meaning": "I'm glad, that's good"}
+      {
+        "word": "こそ",
+        "reading": "こそ",
+        "meaning": "precisely, emphasis on the topic"
+      },
+      {
+        "word": "あんな",
+        "reading": "あんな",
+        "meaning": "that kind of"
+      },
+      {
+        "word": "奴ら",
+        "reading": "やつら",
+        "meaning": "those guys (rough)"
+      },
+      {
+        "word": "なんてことない",
+        "reading": "なんてことない",
+        "meaning": "no big deal, nothing special"
+      },
+      {
+        "word": "さ",
+        "reading": "さ",
+        "meaning": "sentence-ending particle (casual assertion)"
+      },
+      {
+        "word": "よかった",
+        "reading": "よかった",
+        "meaning": "I'm glad, that's good"
+      }
     ],
     "grammar": "こそ emphasizes the topic - 'you're the one who...'. なんてことない is an expression meaning 'it's nothing'."
   },
@@ -300,10 +472,26 @@
     "audio_file": "clip_026.mp3",
     "translation": "I found this earlier.",
     "vocabulary": [
-      {"word": "これ", "reading": "これ", "meaning": "this"},
-      {"word": "さっき", "reading": "さっき", "meaning": "just now, earlier"},
-      {"word": "見つけた", "reading": "みつけた", "meaning": "found"},
-      {"word": "の", "reading": "の", "meaning": "explanatory particle"}
+      {
+        "word": "これ",
+        "reading": "これ",
+        "meaning": "this"
+      },
+      {
+        "word": "さっき",
+        "reading": "さっき",
+        "meaning": "just now, earlier"
+      },
+      {
+        "word": "見つけた",
+        "reading": "みつけた",
+        "meaning": "found"
+      },
+      {
+        "word": "の",
+        "reading": "の",
+        "meaning": "explanatory particle"
+      }
     ],
     "grammar": null
   },
@@ -314,9 +502,21 @@
     "audio_file": "clip_027.mp3",
     "translation": "A cookie? / That's Yonah's favorite, isn't it?",
     "vocabulary": [
-      {"word": "クッキー", "reading": "クッキー", "meaning": "cookie"},
-      {"word": "大好物", "reading": "だいこうぶつ", "meaning": "favorite food"},
-      {"word": "じゃないか", "reading": "じゃないか", "meaning": "isn't it"}
+      {
+        "word": "クッキー",
+        "reading": "クッキー",
+        "meaning": "cookie"
+      },
+      {
+        "word": "大好物",
+        "reading": "だいこうぶつ",
+        "meaning": "favorite food"
+      },
+      {
+        "word": "じゃないか",
+        "reading": "じゃないか",
+        "meaning": "isn't it"
+      }
     ],
     "grammar": null
   },
@@ -327,9 +527,21 @@
     "audio_file": "clip_028.mp3",
     "translation": "I'll share half with big brother. / No, I'm fine.",
     "vocabulary": [
-      {"word": "半分こ", "reading": "はんぶんこ", "meaning": "splitting in half, going halves"},
-      {"word": "する", "reading": "する", "meaning": "to do"},
-      {"word": "いいよ", "reading": "いいよ", "meaning": "it's fine, no thanks"}
+      {
+        "word": "半分こ",
+        "reading": "はんぶんこ",
+        "meaning": "splitting in half, going halves"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "meaning": "to do"
+      },
+      {
+        "word": "いいよ",
+        "reading": "いいよ",
+        "meaning": "it's fine, no thanks"
+      }
     ],
     "grammar": "半分こする means 'to split in half with someone'."
   },
@@ -340,8 +552,16 @@
     "audio_file": "clip_029.mp3",
     "translation": "I want to eat it together with you, big brother.",
     "vocabulary": [
-      {"word": "一緒に", "reading": "いっしょに", "meaning": "together"},
-      {"word": "食べたい", "reading": "たべたい", "meaning": "want to eat"}
+      {
+        "word": "一緒に",
+        "reading": "いっしょに",
+        "meaning": "together"
+      },
+      {
+        "word": "食べたい",
+        "reading": "たべたい",
+        "meaning": "want to eat"
+      }
     ],
     "grammar": null
   },
@@ -352,14 +572,46 @@
     "audio_file": "clip_030.mp3",
     "translation": "Then I'll take the smaller piece. / No, big brother, you should eat mom and dad's share too.",
     "vocabulary": [
-      {"word": "じゃあ", "reading": "じゃあ", "meaning": "well then"},
-      {"word": "小さい", "reading": "ちいさい", "meaning": "small"},
-      {"word": "方", "reading": "ほう", "meaning": "the one (of two)"},
-      {"word": "ううん", "reading": "ううん", "meaning": "no (casual)"},
-      {"word": "お父さん", "reading": "おとうさん", "meaning": "father"},
-      {"word": "お母さん", "reading": "おかあさん", "meaning": "mother"},
-      {"word": "分", "reading": "ぶん", "meaning": "share, portion"},
-      {"word": "まで", "reading": "まで", "meaning": "even, up to"}
+      {
+        "word": "じゃあ",
+        "reading": "じゃあ",
+        "meaning": "well then"
+      },
+      {
+        "word": "小さい",
+        "reading": "ちいさい",
+        "meaning": "small"
+      },
+      {
+        "word": "方",
+        "reading": "ほう",
+        "meaning": "the one (of two)"
+      },
+      {
+        "word": "ううん",
+        "reading": "ううん",
+        "meaning": "no (casual)"
+      },
+      {
+        "word": "お父さん",
+        "reading": "おとうさん",
+        "meaning": "father"
+      },
+      {
+        "word": "お母さん",
+        "reading": "おかあさん",
+        "meaning": "mother"
+      },
+      {
+        "word": "分",
+        "reading": "ぶん",
+        "meaning": "share, portion"
+      },
+      {
+        "word": "まで",
+        "reading": "まで",
+        "meaning": "even, up to"
+      }
     ],
     "grammar": "〜の分まで means 'even ~'s share'. This implies their parents have died."
   },
@@ -379,7 +631,11 @@
     "audio_file": "clip_032.mp3",
     "translation": "The cookie...",
     "vocabulary": [
-      {"word": "クッキー", "reading": "クッキー", "meaning": "cookie"}
+      {
+        "word": "クッキー",
+        "reading": "クッキー",
+        "meaning": "cookie"
+      }
     ],
     "grammar": null
   },
@@ -390,8 +646,16 @@
     "audio_file": "clip_033.mp3",
     "translation": "I dropped it...",
     "vocabulary": [
-      {"word": "落とし", "reading": "おとし", "meaning": "drop (stem of 落とす)"},
-      {"word": "ちゃった", "reading": "ちゃった", "meaning": "ended up doing (casual てしまった)"}
+      {
+        "word": "落とし",
+        "reading": "おとし",
+        "meaning": "drop (stem of 落とす)"
+      },
+      {
+        "word": "ちゃった",
+        "reading": "ちゃった",
+        "meaning": "ended up doing (casual てしまった)"
+      }
     ],
     "grammar": "〜ちゃった expresses regret about an action that was completed."
   },
@@ -402,7 +666,11 @@
     "audio_file": "clip_034.mp3",
     "translation": "I'm sorry.",
     "vocabulary": [
-      {"word": "ごめんね", "reading": "ごめんね", "meaning": "sorry (casual, soft)"}
+      {
+        "word": "ごめんね",
+        "reading": "ごめんね",
+        "meaning": "sorry (casual, soft)"
+      }
     ],
     "grammar": null
   },
@@ -413,7 +681,11 @@
     "audio_file": "clip_035.mp3",
     "translation": "Don't worry about that...",
     "vocabulary": [
-      {"word": "そんな", "reading": "そんな", "meaning": "such, that kind of"}
+      {
+        "word": "そんな",
+        "reading": "そんな",
+        "meaning": "such, that kind of"
+      }
     ],
     "grammar": "そんな said alone implies 'don't worry about such things'."
   },
@@ -424,8 +696,16 @@
     "audio_file": "clip_036.mp3",
     "translation": "Yonah, you're always helping me...",
     "vocabulary": [
-      {"word": "いつも", "reading": "いつも", "meaning": "always"},
-      {"word": "助けてもらって", "reading": "たすけてもらって", "meaning": "receiving help (て-form of もらう)"}
+      {
+        "word": "いつも",
+        "reading": "いつも",
+        "meaning": "always"
+      },
+      {
+        "word": "助けてもらって",
+        "reading": "たすけてもらって",
+        "meaning": "receiving help (て-form of もらう)"
+      }
     ],
     "grammar": "〜てもらう means 'to receive the favor of someone doing something'."
   },
@@ -436,9 +716,21 @@
     "audio_file": "clip_037.mp3",
     "translation": "...I've only ever been (helped)...",
     "vocabulary": [
-      {"word": "ばかり", "reading": "ばかり", "meaning": "only, nothing but"},
-      {"word": "だった", "reading": "だった", "meaning": "was (past of だ)"},
-      {"word": "から", "reading": "から", "meaning": "because, so"}
+      {
+        "word": "ばかり",
+        "reading": "ばかり",
+        "meaning": "only, nothing but"
+      },
+      {
+        "word": "だった",
+        "reading": "だった",
+        "meaning": "was (past of だ)"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "meaning": "because, so"
+      }
     ],
     "grammar": "〜ばかりだった means 'has only been ~', expressing that the situation has always been one-sided."
   },
@@ -449,7 +741,11 @@
     "audio_file": "clip_038.mp3",
     "translation": "No! Yonah! Yonah!",
     "vocabulary": [
-      {"word": "ダメだ", "reading": "ダメだ", "meaning": "no good, don't, stop"}
+      {
+        "word": "ダメだ",
+        "reading": "ダメだ",
+        "meaning": "no good, don't, stop"
+      }
     ],
     "grammar": null
   },
@@ -460,7 +756,11 @@
     "audio_file": "clip_039.mp3",
     "translation": "Someone!",
     "vocabulary": [
-      {"word": "誰か", "reading": "だれか", "meaning": "someone"}
+      {
+        "word": "誰か",
+        "reading": "だれか",
+        "meaning": "someone"
+      }
     ],
     "grammar": null
   },
@@ -471,9 +771,21 @@
     "audio_file": "clip_040.mp3",
     "translation": "Someone! Please save Yonah! / Someone!",
     "vocabulary": [
-      {"word": "誰か", "reading": "だれか", "meaning": "someone"},
-      {"word": "助けて", "reading": "たすけて", "meaning": "save, help (て-form request)"},
-      {"word": "ください", "reading": "ください", "meaning": "please"}
+      {
+        "word": "誰か",
+        "reading": "だれか",
+        "meaning": "someone"
+      },
+      {
+        "word": "助けて",
+        "reading": "たすけて",
+        "meaning": "save, help (て-form request)"
+      },
+      {
+        "word": "ください",
+        "reading": "ください",
+        "meaning": "please"
+      }
     ],
     "grammar": null
   },

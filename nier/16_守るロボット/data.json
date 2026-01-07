@@ -6,8 +6,16 @@
     "audio_file": "clip_000.mp3",
     "translation": "Hey, where did it go?",
     "vocabulary": [
-      {"word": "どこ", "reading": "どこ", "meaning": "where"},
-      {"word": "行く", "reading": "いく", "meaning": "to go"}
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "meaning": "where"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "to go"
+      }
     ],
     "grammar": "いった is the casual past tense of 行く (went)"
   },
@@ -18,16 +26,28 @@
     "audio_file": "clip_001.mp3",
     "translation": "Don't let it escape! Finish it off here!",
     "vocabulary": [
-      {"word": "逃がす", "reading": "にがす", "meaning": "to let escape, to set free"},
-      {"word": "仕留める", "reading": "しとめる", "meaning": "to finish off, to bring down (prey)"},
-      {"word": "ここ", "reading": "ここ", "meaning": "here"}
+      {
+        "word": "逃がす",
+        "reading": "にがす",
+        "meaning": "to let escape, to set free"
+      },
+      {
+        "word": "仕留める",
+        "reading": "しとめる",
+        "meaning": "to finish off, to bring down (prey)"
+      },
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "meaning": "here"
+      }
     ],
     "grammar": "~な is the casual negative imperative (don't do); ~ておく means to do something in advance/preparation; ~んだ adds emphasis/explanation"
   },
   {
     "start": "00:43",
     "end": "00:45",
-    "text": "이곳은",
+    "text": "（…）",
     "audio_file": "clip_002.mp3",
     "translation": "(Transcription error - Korean text)",
     "vocabulary": [],
@@ -40,8 +60,16 @@
     "audio_file": "clip_003.mp3",
     "translation": "Who are you?",
     "vocabulary": [
-      {"word": "お前", "reading": "おまえ", "meaning": "you (casual/rough)"},
-      {"word": "誰", "reading": "だれ", "meaning": "who"}
+      {
+        "word": "お前",
+        "reading": "おまえ",
+        "meaning": "you (casual/rough)"
+      },
+      {
+        "word": "誰",
+        "reading": "だれ",
+        "meaning": "who"
+      }
     ],
     "grammar": null
   },
@@ -52,13 +80,41 @@
     "audio_file": "clip_004.mp3",
     "translation": "Base defense robot, P-33. / Defense order: executing. / Intruder: immediately...",
     "vocabulary": [
-      {"word": "拠点", "reading": "きょてん", "meaning": "base, stronghold"},
-      {"word": "防衛", "reading": "ぼうえい", "meaning": "defense"},
-      {"word": "型", "reading": "がた", "meaning": "type, model"},
-      {"word": "命令", "reading": "めいれい", "meaning": "order, command"},
-      {"word": "実行中", "reading": "じっこうちゅう", "meaning": "executing, in progress"},
-      {"word": "侵入者", "reading": "しんにゅうしゃ", "meaning": "intruder"},
-      {"word": "直ちに", "reading": "ただちに", "meaning": "immediately"}
+      {
+        "word": "拠点",
+        "reading": "きょてん",
+        "meaning": "base, stronghold"
+      },
+      {
+        "word": "防衛",
+        "reading": "ぼうえい",
+        "meaning": "defense"
+      },
+      {
+        "word": "型",
+        "reading": "がた",
+        "meaning": "type, model"
+      },
+      {
+        "word": "命令",
+        "reading": "めいれい",
+        "meaning": "order, command"
+      },
+      {
+        "word": "実行中",
+        "reading": "じっこうちゅう",
+        "meaning": "executing, in progress"
+      },
+      {
+        "word": "侵入者",
+        "reading": "しんにゅうしゃ",
+        "meaning": "intruder"
+      },
+      {
+        "word": "直ちに",
+        "reading": "ただちに",
+        "meaning": "immediately"
+      }
     ],
     "grammar": "The robot speaks in fragmented, telegraphic style typical of machines; ~中 suffix indicates 'in the middle of'"
   },
@@ -69,9 +125,21 @@
     "audio_file": "clip_005.mp3",
     "translation": "You... water... flowing from eyes.",
     "vocabulary": [
-      {"word": "目", "reading": "め", "meaning": "eye"},
-      {"word": "水", "reading": "みず", "meaning": "water"},
-      {"word": "流れる", "reading": "ながれる", "meaning": "to flow"}
+      {
+        "word": "目",
+        "reading": "め",
+        "meaning": "eye"
+      },
+      {
+        "word": "水",
+        "reading": "みず",
+        "meaning": "water"
+      },
+      {
+        "word": "流れる",
+        "reading": "ながれる",
+        "meaning": "to flow"
+      }
     ],
     "grammar": "The robot's fragmented speech pattern shows limited language ability; ~ている indicates continuous state"
   },
@@ -91,9 +159,21 @@
     "audio_file": "clip_007.mp3",
     "translation": "My master died too.",
     "vocabulary": [
-      {"word": "私", "reading": "わたし", "meaning": "I, me"},
-      {"word": "マスター", "reading": "ますたー", "meaning": "master"},
-      {"word": "死ぬ", "reading": "しぬ", "meaning": "to die"}
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I, me"
+      },
+      {
+        "word": "マスター",
+        "reading": "ますたー",
+        "meaning": "master"
+      },
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "to die"
+      }
     ],
     "grammar": "も (also) indicates shared experience with the crying child"
   },
@@ -104,9 +184,21 @@
     "audio_file": "clip_008.mp3",
     "translation": "Hundreds of years ago, leaving me behind.",
     "vocabulary": [
-      {"word": "何百年", "reading": "なんびゃくねん", "meaning": "hundreds of years"},
-      {"word": "前", "reading": "まえ", "meaning": "before, ago"},
-      {"word": "残す", "reading": "のこす", "meaning": "to leave behind"}
+      {
+        "word": "何百年",
+        "reading": "なんびゃくねん",
+        "meaning": "hundreds of years"
+      },
+      {
+        "word": "前",
+        "reading": "まえ",
+        "meaning": "before, ago"
+      },
+      {
+        "word": "残す",
+        "reading": "のこす",
+        "meaning": "to leave behind"
+      }
     ],
     "grammar": "何百~も emphasizes 'as many as hundreds'; ~て form at end indicates incomplete sentence (trailing off)"
   },
@@ -117,10 +209,26 @@
     "audio_file": "clip_009.mp3",
     "translation": "To be precise... / 874 years, 10 months, and 14 days ago.",
     "vocabulary": [
-      {"word": "正確", "reading": "せいかく", "meaning": "precise, accurate"},
-      {"word": "年", "reading": "ねん", "meaning": "year"},
-      {"word": "ヶ月", "reading": "かげつ", "meaning": "months (counter)"},
-      {"word": "日", "reading": "にち", "meaning": "day"}
+      {
+        "word": "正確",
+        "reading": "せいかく",
+        "meaning": "precise, accurate"
+      },
+      {
+        "word": "年",
+        "reading": "ねん",
+        "meaning": "year"
+      },
+      {
+        "word": "ヶ月",
+        "reading": "かげつ",
+        "meaning": "months (counter)"
+      },
+      {
+        "word": "日",
+        "reading": "にち",
+        "meaning": "day"
+      }
     ],
     "grammar": "正確には means 'to be precise' or 'accurately speaking'"
   },
@@ -131,10 +239,26 @@
     "audio_file": "clip_010.mp3",
     "translation": "Lonely? / Such behavior is not commanded.",
     "vocabulary": [
-      {"word": "寂しい", "reading": "さびしい", "meaning": "lonely"},
-      {"word": "そのような", "reading": "そのような", "meaning": "such, that kind of"},
-      {"word": "行動", "reading": "こうどう", "meaning": "behavior, action"},
-      {"word": "命令", "reading": "めいれい", "meaning": "order, command"}
+      {
+        "word": "寂しい",
+        "reading": "さびしい",
+        "meaning": "lonely"
+      },
+      {
+        "word": "そのような",
+        "reading": "そのような",
+        "meaning": "such, that kind of"
+      },
+      {
+        "word": "行動",
+        "reading": "こうどう",
+        "meaning": "behavior, action"
+      },
+      {
+        "word": "命令",
+        "reading": "めいれい",
+        "meaning": "order, command"
+      }
     ],
     "grammar": "~されていない is passive negative continuous form (is not being commanded)"
   },
@@ -145,7 +269,11 @@
     "audio_file": "clip_011.mp3",
     "translation": "I do not cry.",
     "vocabulary": [
-      {"word": "泣く", "reading": "なく", "meaning": "to cry"}
+      {
+        "word": "泣く",
+        "reading": "なく",
+        "meaning": "to cry"
+      }
     ],
     "grammar": null
   },
@@ -156,7 +284,11 @@
     "audio_file": "clip_012.mp3",
     "translation": "Kalil... will die.",
     "vocabulary": [
-      {"word": "死ぬ", "reading": "しぬ", "meaning": "to die"}
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "to die"
+      }
     ],
     "grammar": "Robot's simple declarative statement about future event"
   },
@@ -167,8 +299,16 @@
     "audio_file": "clip_013.mp3",
     "translation": "Kill. Be killed.",
     "vocabulary": [
-      {"word": "殺す", "reading": "ころす", "meaning": "to kill"},
-      {"word": "殺される", "reading": "ころされる", "meaning": "to be killed (passive)"}
+      {
+        "word": "殺す",
+        "reading": "ころす",
+        "meaning": "to kill"
+      },
+      {
+        "word": "殺される",
+        "reading": "ころされる",
+        "meaning": "to be killed (passive)"
+      }
     ],
     "grammar": "The contrast between active 殺す and passive 殺される shows understanding of cause and effect"
   },
@@ -179,7 +319,11 @@
     "audio_file": "clip_014.mp3",
     "translation": "Kalil... be killed... no.",
     "vocabulary": [
-      {"word": "ダメ", "reading": "だめ", "meaning": "no good, must not"}
+      {
+        "word": "ダメ",
+        "reading": "だめ",
+        "meaning": "no good, must not"
+      }
     ],
     "grammar": null
   },
@@ -190,7 +334,11 @@
     "audio_file": "clip_015.mp3",
     "translation": "Kalil. P-33. Protect.",
     "vocabulary": [
-      {"word": "守る", "reading": "まもる", "meaning": "to protect, to guard"}
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to protect, to guard"
+      }
     ],
     "grammar": "Robot's telegraphic speech expressing its resolution to protect"
   },
@@ -201,7 +349,11 @@
     "audio_file": "clip_016.mp3",
     "translation": "P-33. Protect. Job.",
     "vocabulary": [
-      {"word": "仕事", "reading": "しごと", "meaning": "job, work, duty"}
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "job, work, duty"
+      }
     ],
     "grammar": null
   },
@@ -221,11 +373,31 @@
     "audio_file": "clip_018.mp3",
     "translation": "Looks like there are lots of machines here. / Even with this many, only a small portion are usable.",
     "vocabulary": [
-      {"word": "いっぱい", "reading": "いっぱい", "meaning": "a lot, full"},
-      {"word": "機械", "reading": "きかい", "meaning": "machine"},
-      {"word": "使える", "reading": "つかえる", "meaning": "usable"},
-      {"word": "ほんの", "reading": "ほんの", "meaning": "just, merely"},
-      {"word": "一部", "reading": "いちぶ", "meaning": "a part, portion"}
+      {
+        "word": "いっぱい",
+        "reading": "いっぱい",
+        "meaning": "a lot, full"
+      },
+      {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning": "machine"
+      },
+      {
+        "word": "使える",
+        "reading": "つかえる",
+        "meaning": "usable"
+      },
+      {
+        "word": "ほんの",
+        "reading": "ほんの",
+        "meaning": "just, merely"
+      },
+      {
+        "word": "一部",
+        "reading": "いちぶ",
+        "meaning": "a part, portion"
+      }
     ],
     "grammar": "~そうだね expresses conjecture (looks like); これだけあっても means 'even with this many'"
   },
@@ -236,10 +408,26 @@
     "audio_file": "clip_019.mp3",
     "translation": "Look, look! This one's like new!",
     "vocabulary": [
-      {"word": "見る", "reading": "みる", "meaning": "to look, to see"},
-      {"word": "こっち", "reading": "こっち", "meaning": "this way, this one"},
-      {"word": "まるで", "reading": "まるで", "meaning": "just like, as if"},
-      {"word": "新品", "reading": "しんぴん", "meaning": "brand new item"}
+      {
+        "word": "見る",
+        "reading": "みる",
+        "meaning": "to look, to see"
+      },
+      {
+        "word": "こっち",
+        "reading": "こっち",
+        "meaning": "this way, this one"
+      },
+      {
+        "word": "まるで",
+        "reading": "まるで",
+        "meaning": "just like, as if"
+      },
+      {
+        "word": "新品",
+        "reading": "しんぴん",
+        "meaning": "brand new item"
+      }
     ],
     "grammar": "見て見て is an excited repetition for emphasis; まるで~だ means 'it's just like~'"
   },
@@ -250,9 +438,21 @@
     "audio_file": "clip_020.mp3",
     "translation": "Don't rush! Watch your step!",
     "vocabulary": [
-      {"word": "慌てる", "reading": "あわてる", "meaning": "to panic, to rush, to be flustered"},
-      {"word": "足元", "reading": "あしもと", "meaning": "at one's feet, footing"},
-      {"word": "気をつける", "reading": "きをつける", "meaning": "to be careful, to watch out"}
+      {
+        "word": "慌てる",
+        "reading": "あわてる",
+        "meaning": "to panic, to rush, to be flustered"
+      },
+      {
+        "word": "足元",
+        "reading": "あしもと",
+        "meaning": "at one's feet, footing"
+      },
+      {
+        "word": "気をつける",
+        "reading": "きをつける",
+        "meaning": "to be careful, to watch out"
+      }
     ],
     "grammar": "~な is casual negative imperative (don't do); 足元に気をつけて is a common warning phrase"
   },
@@ -263,7 +463,11 @@
     "audio_file": "clip_021.mp3",
     "translation": "I'm fine...",
     "vocabulary": [
-      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "fine, okay, all right"}
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "fine, okay, all right"
+      }
     ],
     "grammar": null
   },
@@ -274,7 +478,11 @@
     "audio_file": "clip_022.mp3",
     "translation": "Big brother...",
     "vocabulary": [
-      {"word": "お兄ちゃん", "reading": "おにいちゃん", "meaning": "big brother (affectionate)"}
+      {
+        "word": "お兄ちゃん",
+        "reading": "おにいちゃん",
+        "meaning": "big brother (affectionate)"
+      }
     ],
     "grammar": null
   },
@@ -294,7 +502,11 @@
     "audio_file": "clip_024.mp3",
     "translation": "No!",
     "vocabulary": [
-      {"word": "嫌", "reading": "いや", "meaning": "no, unpleasant, disagreeable"}
+      {
+        "word": "嫌",
+        "reading": "いや",
+        "meaning": "no, unpleasant, disagreeable"
+      }
     ],
     "grammar": "嫌だ expresses strong refusal or emotional rejection"
   },
@@ -305,13 +517,41 @@
     "audio_file": "clip_025.mp3",
     "translation": "If you make loud noises, accidents like that happen.",
     "vocabulary": [
-      {"word": "大きな", "reading": "おおきな", "meaning": "big, large"},
-      {"word": "音", "reading": "おと", "meaning": "sound, noise"},
-      {"word": "音を立てる", "reading": "おとをたてる", "meaning": "to make noise"},
-      {"word": "今", "reading": "いま", "meaning": "now, just now"},
-      {"word": "みたいな", "reading": "みたいな", "meaning": "like, similar to"},
-      {"word": "事故", "reading": "じこ", "meaning": "accident"},
-      {"word": "起こる", "reading": "おこる", "meaning": "to occur, to happen"}
+      {
+        "word": "大きな",
+        "reading": "おおきな",
+        "meaning": "big, large"
+      },
+      {
+        "word": "音",
+        "reading": "おと",
+        "meaning": "sound, noise"
+      },
+      {
+        "word": "音を立てる",
+        "reading": "おとをたてる",
+        "meaning": "to make noise"
+      },
+      {
+        "word": "今",
+        "reading": "いま",
+        "meaning": "now, just now"
+      },
+      {
+        "word": "みたいな",
+        "reading": "みたいな",
+        "meaning": "like, similar to"
+      },
+      {
+        "word": "事故",
+        "reading": "じこ",
+        "meaning": "accident"
+      },
+      {
+        "word": "起こる",
+        "reading": "おこる",
+        "meaning": "to occur, to happen"
+      }
     ],
     "grammar": "~と indicates a natural/inevitable consequence (when/if A, then B)"
   },
@@ -322,10 +562,26 @@
     "audio_file": "clip_026.mp3",
     "translation": "One intruder. Died in accident.",
     "vocabulary": [
-      {"word": "侵入者", "reading": "しんにゅうしゃ", "meaning": "intruder"},
-      {"word": "名", "reading": "めい", "meaning": "counter for people"},
-      {"word": "事故", "reading": "じこ", "meaning": "accident"},
-      {"word": "死亡", "reading": "しぼう", "meaning": "death, fatality"}
+      {
+        "word": "侵入者",
+        "reading": "しんにゅうしゃ",
+        "meaning": "intruder"
+      },
+      {
+        "word": "名",
+        "reading": "めい",
+        "meaning": "counter for people"
+      },
+      {
+        "word": "事故",
+        "reading": "じこ",
+        "meaning": "accident"
+      },
+      {
+        "word": "死亡",
+        "reading": "しぼう",
+        "meaning": "death, fatality"
+      }
     ],
     "grammar": "Robot's report-style speech; ~で indicates cause (by accident)"
   },
@@ -336,8 +592,16 @@
     "audio_file": "clip_027.mp3",
     "translation": "Robot Mountain, huh?",
     "vocabulary": [
-      {"word": "ロボット", "reading": "ろぼっと", "meaning": "robot"},
-      {"word": "山", "reading": "やま", "meaning": "mountain"}
+      {
+        "word": "ロボット",
+        "reading": "ろぼっと",
+        "meaning": "robot"
+      },
+      {
+        "word": "山",
+        "reading": "やま",
+        "meaning": "mountain"
+      }
     ],
     "grammar": "か at the end indicates a rhetorical question or confirmation"
   },
@@ -348,10 +612,26 @@
     "audio_file": "clip_028.mp3",
     "translation": "Let's try talking to those brothers. / They might know something.",
     "vocabulary": [
-      {"word": "兄弟", "reading": "きょうだい", "meaning": "siblings, brothers"},
-      {"word": "話", "reading": "はなし", "meaning": "talk, story"},
-      {"word": "聞く", "reading": "きく", "meaning": "to hear, to ask"},
-      {"word": "何か", "reading": "なにか", "meaning": "something"}
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "siblings, brothers"
+      },
+      {
+        "word": "話",
+        "reading": "はなし",
+        "meaning": "talk, story"
+      },
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "to hear, to ask"
+      },
+      {
+        "word": "何か",
+        "reading": "なにか",
+        "meaning": "something"
+      }
     ],
     "grammar": "~てみよう means 'let's try doing'; 知っておる is Weiss's archaic form of 知っている; かもしれぬ is archaic for かもしれない (might); しな adds reasoning"
   },
@@ -362,8 +642,16 @@
     "audio_file": "clip_029.mp3",
     "translation": "Hey, welcome!",
     "vocabulary": [
-      {"word": "やあ", "reading": "やあ", "meaning": "hey, hi (casual greeting)"},
-      {"word": "いらっしゃい", "reading": "いらっしゃい", "meaning": "welcome (shop greeting)"}
+      {
+        "word": "やあ",
+        "reading": "やあ",
+        "meaning": "hey, hi (casual greeting)"
+      },
+      {
+        "word": "いらっしゃい",
+        "reading": "いらっしゃい",
+        "meaning": "welcome (shop greeting)"
+      }
     ],
     "grammar": null
   },
@@ -374,9 +662,21 @@
     "audio_file": "clip_030.mp3",
     "translation": "The younger brother? / Long time no see.",
     "vocabulary": [
-      {"word": "弟", "reading": "おとうと", "meaning": "younger brother"},
-      {"word": "方", "reading": "ほう", "meaning": "side, one (of two)"},
-      {"word": "久しぶり", "reading": "ひさしぶり", "meaning": "long time no see, after a long time"}
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": "younger brother"
+      },
+      {
+        "word": "方",
+        "reading": "ほう",
+        "meaning": "side, one (of two)"
+      },
+      {
+        "word": "久しぶり",
+        "reading": "ひさしぶり",
+        "meaning": "long time no see, after a long time"
+      }
     ],
     "grammar": "~の方 distinguishes between two people; だな is masculine sentence ending"
   },
@@ -387,8 +687,16 @@
     "audio_file": "clip_031.mp3",
     "translation": "Is your brother doing well?",
     "vocabulary": [
-      {"word": "兄さん", "reading": "にいさん", "meaning": "older brother (polite)"},
-      {"word": "元気", "reading": "げんき", "meaning": "well, healthy, energetic"}
+      {
+        "word": "兄さん",
+        "reading": "にいさん",
+        "meaning": "older brother (polite)"
+      },
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "well, healthy, energetic"
+      }
     ],
     "grammar": null
   },
@@ -399,9 +707,21 @@
     "audio_file": "clip_032.mp3",
     "translation": "Actually, four years ago, in an accident...",
     "vocabulary": [
-      {"word": "実は", "reading": "じつは", "meaning": "actually, to tell the truth"},
-      {"word": "4年前", "reading": "よねんまえ", "meaning": "four years ago"},
-      {"word": "事故", "reading": "じこ", "meaning": "accident"}
+      {
+        "word": "実は",
+        "reading": "じつは",
+        "meaning": "actually, to tell the truth"
+      },
+      {
+        "word": "4年前",
+        "reading": "よねんまえ",
+        "meaning": "four years ago"
+      },
+      {
+        "word": "事故",
+        "reading": "じこ",
+        "meaning": "accident"
+      }
     ],
     "grammar": "実は introduces unexpected or difficult news; trailing off with で implies the rest is understood (he died)"
   },
@@ -412,8 +732,16 @@
     "audio_file": "clip_033.mp3",
     "translation": "Is that so... / Sorry to hear that.",
     "vocabulary": [
-      {"word": "悪い", "reading": "わるい", "meaning": "bad"},
-      {"word": "聞く", "reading": "きく", "meaning": "to hear, to ask"}
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "meaning": "bad"
+      },
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "to hear, to ask"
+      }
     ],
     "grammar": "そうであったか is Weiss's archaic form of そうだったか (was that so); 悪いことを聞いた is an idiom expressing condolences (lit. 'I heard a bad thing')"
   },
@@ -424,8 +752,16 @@
     "audio_file": "clip_034.mp3",
     "translation": "It's okay. / I have something I want to ask.",
     "vocabulary": [
-      {"word": "ちょっと", "reading": "ちょっと", "meaning": "a little, somewhat"},
-      {"word": "聞きたい", "reading": "ききたい", "meaning": "want to ask/hear"}
+      {
+        "word": "ちょっと",
+        "reading": "ちょっと",
+        "meaning": "a little, somewhat"
+      },
+      {
+        "word": "聞きたい",
+        "reading": "ききたい",
+        "meaning": "want to ask/hear"
+      }
     ],
     "grammar": "いいんです is polite dismissal (it's fine); ~たいことがある means 'there is something I want to do'"
   },
@@ -436,9 +772,21 @@
     "audio_file": "clip_035.mp3",
     "translation": "What is it? / Have you heard any stories about monsters around here?",
     "vocabulary": [
-      {"word": "あたり", "reading": "あたり", "meaning": "around, vicinity, area"},
-      {"word": "魔物", "reading": "まもの", "meaning": "monster, demon"},
-      {"word": "話", "reading": "はなし", "meaning": "story, talk"}
+      {
+        "word": "あたり",
+        "reading": "あたり",
+        "meaning": "around, vicinity, area"
+      },
+      {
+        "word": "魔物",
+        "reading": "まもの",
+        "meaning": "monster, demon"
+      },
+      {
+        "word": "話",
+        "reading": "はなし",
+        "meaning": "story, talk"
+      }
     ],
     "grammar": "~たことはないか is a polite way to ask 'have you ever...?' (lit. 'is there no experience of having...?')"
   },
@@ -449,11 +797,31 @@
     "audio_file": "clip_036.mp3",
     "translation": "And not ordinary ones... / But giant or powerful monsters.",
     "vocabulary": [
-      {"word": "しかも", "reading": "しかも", "meaning": "moreover, furthermore"},
-      {"word": "普通", "reading": "ふつう", "meaning": "ordinary, normal"},
-      {"word": "やつ", "reading": "やつ", "meaning": "guy, thing (casual)"},
-      {"word": "巨大", "reading": "きょだい", "meaning": "giant, huge"},
-      {"word": "強力", "reading": "きょうりょく", "meaning": "powerful, strong"}
+      {
+        "word": "しかも",
+        "reading": "しかも",
+        "meaning": "moreover, furthermore"
+      },
+      {
+        "word": "普通",
+        "reading": "ふつう",
+        "meaning": "ordinary, normal"
+      },
+      {
+        "word": "やつ",
+        "reading": "やつ",
+        "meaning": "guy, thing (casual)"
+      },
+      {
+        "word": "巨大",
+        "reading": "きょだい",
+        "meaning": "giant, huge"
+      },
+      {
+        "word": "強力",
+        "reading": "きょうりょく",
+        "meaning": "powerful, strong"
+      }
     ],
     "grammar": "~だったり indicates listing examples (things like...)"
   },
@@ -464,8 +832,16 @@
     "audio_file": "clip_037.mp3",
     "translation": "I haven't heard of anything like that appearing.",
     "vocabulary": [
-      {"word": "そういう", "reading": "そういう", "meaning": "that kind of, such"},
-      {"word": "出る", "reading": "でる", "meaning": "to appear, to come out"}
+      {
+        "word": "そういう",
+        "reading": "そういう",
+        "meaning": "that kind of, such"
+      },
+      {
+        "word": "出る",
+        "reading": "でる",
+        "meaning": "to appear, to come out"
+      }
     ],
     "grammar": "~とは聞いていません is a polite way to say 'I haven't heard that...'"
   },
@@ -476,9 +852,21 @@
     "audio_file": "clip_038.mp3",
     "translation": "Destroying robots is my only reason for living.",
     "vocabulary": [
-      {"word": "僕", "reading": "ぼく", "meaning": "I (male, casual)"},
-      {"word": "倒す", "reading": "たおす", "meaning": "to defeat, to knock down"},
-      {"word": "生き甲斐", "reading": "いきがい", "meaning": "reason for living, purpose in life"}
+      {
+        "word": "僕",
+        "reading": "ぼく",
+        "meaning": "I (male, casual)"
+      },
+      {
+        "word": "倒す",
+        "reading": "たおす",
+        "meaning": "to defeat, to knock down"
+      },
+      {
+        "word": "生き甲斐",
+        "reading": "いきがい",
+        "meaning": "reason for living, purpose in life"
+      }
     ],
     "grammar": "~ことだけが emphasizes 'only doing X is...'; から at end gives reasoning"
   },
@@ -498,15 +886,51 @@
     "audio_file": "clip_040.mp3",
     "translation": "Then that's fine. Well then... / Wait a moment! / What? / Actually, I've obtained a powerful weapon. I think you could handle it. / But it looks broken. / Yes, the blade part is quite damaged.",
     "vocabulary": [
-      {"word": "武器", "reading": "ぶき", "meaning": "weapon"},
-      {"word": "手に入れる", "reading": "てにいれる", "meaning": "to obtain, to get"},
-      {"word": "扱う", "reading": "あつかう", "meaning": "to handle, to deal with"},
-      {"word": "見たところ", "reading": "みたところ", "meaning": "from what I can see"},
-      {"word": "壊れる", "reading": "こわれる", "meaning": "to be broken"},
-      {"word": "歯", "reading": "は", "meaning": "blade, tooth (of saw)"},
-      {"word": "部分", "reading": "ぶぶん", "meaning": "part, section"},
-      {"word": "随分", "reading": "ずいぶん", "meaning": "quite, considerably"},
-      {"word": "傷む", "reading": "いたむ", "meaning": "to be damaged, to hurt"}
+      {
+        "word": "武器",
+        "reading": "ぶき",
+        "meaning": "weapon"
+      },
+      {
+        "word": "手に入れる",
+        "reading": "てにいれる",
+        "meaning": "to obtain, to get"
+      },
+      {
+        "word": "扱う",
+        "reading": "あつかう",
+        "meaning": "to handle, to deal with"
+      },
+      {
+        "word": "見たところ",
+        "reading": "みたところ",
+        "meaning": "from what I can see"
+      },
+      {
+        "word": "壊れる",
+        "reading": "こわれる",
+        "meaning": "to be broken"
+      },
+      {
+        "word": "歯",
+        "reading": "は",
+        "meaning": "blade, tooth (of saw)"
+      },
+      {
+        "word": "部分",
+        "reading": "ぶぶん",
+        "meaning": "part, section"
+      },
+      {
+        "word": "随分",
+        "reading": "ずいぶん",
+        "meaning": "quite, considerably"
+      },
+      {
+        "word": "傷む",
+        "reading": "いたむ",
+        "meaning": "to be damaged, to hurt"
+      }
     ],
     "grammar": "壊れておる is Weiss's archaic form of 壊れている; ようだ expresses appearance (seems like); のだよ adds explanation"
   },
@@ -517,10 +941,26 @@
     "audio_file": "clip_041.mp3",
     "translation": "So as it is, it can't show its true power. / Can you fix it?",
     "vocabulary": [
-      {"word": "そのまま", "reading": "そのまま", "meaning": "as it is, unchanged"},
-      {"word": "威力", "reading": "いりょく", "meaning": "power, might"},
-      {"word": "発揮", "reading": "はっき", "meaning": "demonstration, exhibition"},
-      {"word": "直す", "reading": "なおす", "meaning": "to fix, to repair"}
+      {
+        "word": "そのまま",
+        "reading": "そのまま",
+        "meaning": "as it is, unchanged"
+      },
+      {
+        "word": "威力",
+        "reading": "いりょく",
+        "meaning": "power, might"
+      },
+      {
+        "word": "発揮",
+        "reading": "はっき",
+        "meaning": "demonstration, exhibition"
+      },
+      {
+        "word": "直す",
+        "reading": "なおす",
+        "meaning": "to fix, to repair"
+      }
     ],
     "grammar": "威力を発揮する means 'to demonstrate/show power'; ~できない means 'cannot do'"
   },
@@ -531,7 +971,11 @@
     "audio_file": "clip_042.mp3",
     "translation": "Yes, if I have the materials.",
     "vocabulary": [
-      {"word": "素材", "reading": "そざい", "meaning": "material, raw material"}
+      {
+        "word": "素材",
+        "reading": "そざい",
+        "meaning": "material, raw material"
+      }
     ],
     "grammar": "~さえあれば means 'if only there is...' (さえ emphasizes the minimal condition)"
   },
@@ -542,7 +986,11 @@
     "audio_file": "clip_043.mp3",
     "translation": "Then I'll go get the materials. / Great!",
     "vocabulary": [
-      {"word": "取ってくる", "reading": "とってくる", "meaning": "to go get and bring back"}
+      {
+        "word": "取ってくる",
+        "reading": "とってくる",
+        "meaning": "to go get and bring back"
+      }
     ],
     "grammar": "なら indicates 'in that case'; ~てくる means to go do something and return"
   },
@@ -553,10 +1001,26 @@
     "audio_file": "clip_044.mp3",
     "translation": "It would be a waste to throw away. / The material you need is shape-memory alloy.",
     "vocabulary": [
-      {"word": "捨てる", "reading": "すてる", "meaning": "to throw away, to discard"},
-      {"word": "もったいない", "reading": "もったいない", "meaning": "wasteful, too good to waste"},
-      {"word": "必要", "reading": "ひつよう", "meaning": "necessary, needed"},
-      {"word": "形状記憶合金", "reading": "けいじょうきおくごうきん", "meaning": "shape-memory alloy"}
+      {
+        "word": "捨てる",
+        "reading": "すてる",
+        "meaning": "to throw away, to discard"
+      },
+      {
+        "word": "もったいない",
+        "reading": "もったいない",
+        "meaning": "wasteful, too good to waste"
+      },
+      {
+        "word": "必要",
+        "reading": "ひつよう",
+        "meaning": "necessary, needed"
+      },
+      {
+        "word": "形状記憶合金",
+        "reading": "けいじょうきおくごうきん",
+        "meaning": "shape-memory alloy"
+      }
     ],
     "grammar": "~てしまうには indicates 'for the purpose of doing completely'; もったいなくて is the te-form giving reason"
   },
@@ -567,14 +1031,46 @@
     "audio_file": "clip_045.mp3",
     "translation": "You can only get it from large enemies on basement floor 2, so be careful. Also... / Here's the passcode to go to basement floor 2. Use it in the elevator.",
     "vocabulary": [
-      {"word": "地下", "reading": "ちか", "meaning": "basement, underground"},
-      {"word": "2階", "reading": "にかい", "meaning": "second floor"},
-      {"word": "大型", "reading": "おおがた", "meaning": "large-sized, large-scale"},
-      {"word": "敵", "reading": "てき", "meaning": "enemy"},
-      {"word": "気をつける", "reading": "きをつける", "meaning": "to be careful"},
-      {"word": "パスコード", "reading": "ぱすこーど", "meaning": "passcode"},
-      {"word": "エレベーター", "reading": "えれべーたー", "meaning": "elevator"},
-      {"word": "使用", "reading": "しよう", "meaning": "use"}
+      {
+        "word": "地下",
+        "reading": "ちか",
+        "meaning": "basement, underground"
+      },
+      {
+        "word": "2階",
+        "reading": "にかい",
+        "meaning": "second floor"
+      },
+      {
+        "word": "大型",
+        "reading": "おおがた",
+        "meaning": "large-sized, large-scale"
+      },
+      {
+        "word": "敵",
+        "reading": "てき",
+        "meaning": "enemy"
+      },
+      {
+        "word": "気をつける",
+        "reading": "きをつける",
+        "meaning": "to be careful"
+      },
+      {
+        "word": "パスコード",
+        "reading": "ぱすこーど",
+        "meaning": "passcode"
+      },
+      {
+        "word": "エレベーター",
+        "reading": "えれべーたー",
+        "meaning": "elevator"
+      },
+      {
+        "word": "使用",
+        "reading": "しよう",
+        "meaning": "use"
+      }
     ],
     "grammar": "~からしか取れない means 'can only obtain from...'; ~ために indicates purpose"
   },
@@ -585,7 +1081,11 @@
     "audio_file": "clip_046.mp3",
     "translation": "Got it.",
     "vocabulary": [
-      {"word": "わかる", "reading": "わかる", "meaning": "to understand"}
+      {
+        "word": "わかる",
+        "reading": "わかる",
+        "meaning": "to understand"
+      }
     ],
     "grammar": null
   },
@@ -596,9 +1096,21 @@
     "audio_file": "clip_047.mp3",
     "translation": "So his brother died... He was still young, wasn't he?",
     "vocabulary": [
-      {"word": "兄", "reading": "あに", "meaning": "older brother"},
-      {"word": "死ぬ", "reading": "しぬ", "meaning": "to die"},
-      {"word": "若い", "reading": "わかい", "meaning": "young"}
+      {
+        "word": "兄",
+        "reading": "あに",
+        "meaning": "older brother"
+      },
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "to die"
+      },
+      {
+        "word": "若い",
+        "reading": "わかい",
+        "meaning": "young"
+      }
     ],
     "grammar": "~てしまった expresses completion with regret; であろう is Weiss's archaic form of だろう (probably, I suppose)"
   },
@@ -609,11 +1121,31 @@
     "audio_file": "clip_048.mp3",
     "translation": "It seems he ventured into dangerous places for business.",
     "vocabulary": [
-      {"word": "商売", "reading": "しょうばい", "meaning": "business, trade"},
-      {"word": "ため", "reading": "ため", "meaning": "for the sake of"},
-      {"word": "危険", "reading": "きけん", "meaning": "dangerous"},
-      {"word": "場所", "reading": "ばしょ", "meaning": "place, location"},
-      {"word": "分け入る", "reading": "わけいる", "meaning": "to venture into, to push through"}
+      {
+        "word": "商売",
+        "reading": "しょうばい",
+        "meaning": "business, trade"
+      },
+      {
+        "word": "ため",
+        "reading": "ため",
+        "meaning": "for the sake of"
+      },
+      {
+        "word": "危険",
+        "reading": "きけん",
+        "meaning": "dangerous"
+      },
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "meaning": "place, location"
+      },
+      {
+        "word": "分け入る",
+        "reading": "わけいる",
+        "meaning": "to venture into, to push through"
+      }
     ],
     "grammar": "~にまで emphasizes 'even to the point of'; ようだ expresses conjecture based on evidence"
   },
@@ -624,11 +1156,31 @@
     "audio_file": "clip_049.mp3",
     "translation": "He put his own enjoyment aside for his brother. Was he happy with that?",
     "vocabulary": [
-      {"word": "弟", "reading": "おとうと", "meaning": "younger brother"},
-      {"word": "自分", "reading": "じぶん", "meaning": "oneself"},
-      {"word": "楽しみ", "reading": "たのしみ", "meaning": "enjoyment, pleasure"},
-      {"word": "後回し", "reading": "あとまわし", "meaning": "postponing, putting off"},
-      {"word": "幸せ", "reading": "しあわせ", "meaning": "happy, happiness"}
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": "younger brother"
+      },
+      {
+        "word": "自分",
+        "reading": "じぶん",
+        "meaning": "oneself"
+      },
+      {
+        "word": "楽しみ",
+        "reading": "たのしみ",
+        "meaning": "enjoyment, pleasure"
+      },
+      {
+        "word": "後回し",
+        "reading": "あとまわし",
+        "meaning": "postponing, putting off"
+      },
+      {
+        "word": "幸せ",
+        "reading": "しあわせ",
+        "meaning": "happy, happiness"
+      }
     ],
     "grammar": "~を後回しにする is an idiom meaning 'to put something off/aside'; のか at end makes it a reflective question"
   },
@@ -639,8 +1191,16 @@
     "audio_file": "clip_050.mp3",
     "translation": "Just having your little brother smile and be happy is enough.",
     "vocabulary": [
-      {"word": "笑う", "reading": "わらう", "meaning": "to smile, to laugh"},
-      {"word": "喜ぶ", "reading": "よろこぶ", "meaning": "to be happy, to rejoice"}
+      {
+        "word": "笑う",
+        "reading": "わらう",
+        "meaning": "to smile, to laugh"
+      },
+      {
+        "word": "喜ぶ",
+        "reading": "よろこぶ",
+        "meaning": "to be happy, to rejoice"
+      }
     ],
     "grammar": "~てくれる indicates someone doing something for you (with gratitude); ~たり lists examples; ~だけで幸せ means 'just that is enough for happiness'"
   },
@@ -651,7 +1211,11 @@
     "audio_file": "clip_051.mp3",
     "translation": "That's what being a big brother means.",
     "vocabulary": [
-      {"word": "兄ちゃん", "reading": "にいちゃん", "meaning": "big brother (casual/affectionate)"}
+      {
+        "word": "兄ちゃん",
+        "reading": "にいちゃん",
+        "meaning": "big brother (casual/affectionate)"
+      }
     ],
     "grammar": "~ってやつだ is a casual expression meaning 'that's what X is' or 'that's the nature of X'"
   },
@@ -662,12 +1226,36 @@
     "audio_file": "clip_052.mp3",
     "translation": "A vehicle that carries people and cargo across water.",
     "vocabulary": [
-      {"word": "人", "reading": "ひと", "meaning": "person, people"},
-      {"word": "荷物", "reading": "にもつ", "meaning": "luggage, cargo"},
-      {"word": "乗せる", "reading": "のせる", "meaning": "to put on, to carry (passengers/cargo)"},
-      {"word": "水上", "reading": "すいじょう", "meaning": "on the water"},
-      {"word": "行く", "reading": "いく", "meaning": "to go"},
-      {"word": "乗り物", "reading": "のりもの", "meaning": "vehicle, transportation"}
+      {
+        "word": "人",
+        "reading": "ひと",
+        "meaning": "person, people"
+      },
+      {
+        "word": "荷物",
+        "reading": "にもつ",
+        "meaning": "luggage, cargo"
+      },
+      {
+        "word": "乗せる",
+        "reading": "のせる",
+        "meaning": "to put on, to carry (passengers/cargo)"
+      },
+      {
+        "word": "水上",
+        "reading": "すいじょう",
+        "meaning": "on the water"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "to go"
+      },
+      {
+        "word": "乗り物",
+        "reading": "のりもの",
+        "meaning": "vehicle, transportation"
+      }
     ],
     "grammar": "This is a definition/riddle format; ~て connects actions (carries and travels)"
   },
@@ -678,7 +1266,11 @@
     "audio_file": "clip_053.mp3",
     "translation": "Thanks to Kalil.",
     "vocabulary": [
-      {"word": "おかげ", "reading": "おかげ", "meaning": "thanks to, owing to"}
+      {
+        "word": "おかげ",
+        "reading": "おかげ",
+        "meaning": "thanks to, owing to"
+      }
     ],
     "grammar": "~のおかげ expresses gratitude for positive outcomes caused by someone"
   },
@@ -689,9 +1281,21 @@
     "audio_file": "clip_054.mp3",
     "translation": "Taught me many words.",
     "vocabulary": [
-      {"word": "言葉", "reading": "ことば", "meaning": "words, language"},
-      {"word": "たくさん", "reading": "たくさん", "meaning": "many, a lot"},
-      {"word": "教える", "reading": "おしえる", "meaning": "to teach"}
+      {
+        "word": "言葉",
+        "reading": "ことば",
+        "meaning": "words, language"
+      },
+      {
+        "word": "たくさん",
+        "reading": "たくさん",
+        "meaning": "many, a lot"
+      },
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach"
+      }
     ],
     "grammar": "~てくれた indicates someone did something beneficial for the speaker"
   },
@@ -702,8 +1306,16 @@
     "audio_file": "clip_055.mp3",
     "translation": "Showed me worlds I didn't know.",
     "vocabulary": [
-      {"word": "知る", "reading": "しる", "meaning": "to know"},
-      {"word": "世界", "reading": "せかい", "meaning": "world"}
+      {
+        "word": "知る",
+        "reading": "しる",
+        "meaning": "to know"
+      },
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "world"
+      }
     ],
     "grammar": "知らない世界 is a noun phrase (worlds that I don't know)"
   },
@@ -714,9 +1326,21 @@
     "audio_file": "clip_056.mp3",
     "translation": "Those who have seen... together.",
     "vocabulary": [
-      {"word": "見る", "reading": "みる", "meaning": "to see"},
-      {"word": "同士", "reading": "どうし", "meaning": "fellow, comrade, people sharing a trait"},
-      {"word": "一緒", "reading": "いっしょ", "meaning": "together"}
+      {
+        "word": "見る",
+        "reading": "みる",
+        "meaning": "to see"
+      },
+      {
+        "word": "同士",
+        "reading": "どうし",
+        "meaning": "fellow, comrade, people sharing a trait"
+      },
+      {
+        "word": "一緒",
+        "reading": "いっしょ",
+        "meaning": "together"
+      }
     ],
     "grammar": "~たもの同士 means 'people who have both done X'; ね adds gentle confirmation"
   },
@@ -727,7 +1351,11 @@
     "audio_file": "clip_057.mp3",
     "translation": "Don't let it escape! Don't let it escape!",
     "vocabulary": [
-      {"word": "逃がす", "reading": "にがす", "meaning": "to let escape"}
+      {
+        "word": "逃がす",
+        "reading": "にがす",
+        "meaning": "to let escape"
+      }
     ],
     "grammar": "~な is negative imperative (don't do)"
   },
@@ -738,9 +1366,21 @@
     "audio_file": "clip_058.mp3",
     "translation": "Um, this looks like it will take some time.",
     "vocabulary": [
-      {"word": "えっと", "reading": "えっと", "meaning": "um, well (filler word)"},
-      {"word": "時間", "reading": "じかん", "meaning": "time"},
-      {"word": "かかる", "reading": "かかる", "meaning": "to take (time/money)"}
+      {
+        "word": "えっと",
+        "reading": "えっと",
+        "meaning": "um, well (filler word)"
+      },
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      },
+      {
+        "word": "かかる",
+        "reading": "かかる",
+        "meaning": "to take (time/money)"
+      }
     ],
     "grammar": "~そうですね indicates appearance/conjecture (looks like it will...)"
   },
@@ -751,9 +1391,21 @@
     "audio_file": "clip_059.mp3",
     "translation": "I'll let you know by letter when it's done.",
     "vocabulary": [
-      {"word": "完成", "reading": "かんせい", "meaning": "completion"},
-      {"word": "手紙", "reading": "てがみ", "meaning": "letter"},
-      {"word": "連絡", "reading": "れんらく", "meaning": "contact, communication"}
+      {
+        "word": "完成",
+        "reading": "かんせい",
+        "meaning": "completion"
+      },
+      {
+        "word": "手紙",
+        "reading": "てがみ",
+        "meaning": "letter"
+      },
+      {
+        "word": "連絡",
+        "reading": "れんらく",
+        "meaning": "contact, communication"
+      }
     ],
     "grammar": "~たら is conditional (when/if); ~させてもらう is humble form meaning 'to be allowed to do'"
   },
@@ -764,8 +1416,16 @@
     "audio_file": "clip_060.mp3",
     "translation": "Thanks, that's a big help.",
     "vocabulary": [
-      {"word": "ありがとう", "reading": "ありがとう", "meaning": "thank you"},
-      {"word": "助かる", "reading": "たすかる", "meaning": "to be saved, to be helped"}
+      {
+        "word": "ありがとう",
+        "reading": "ありがとう",
+        "meaning": "thank you"
+      },
+      {
+        "word": "助かる",
+        "reading": "たすかる",
+        "meaning": "to be saved, to be helped"
+      }
     ],
     "grammar": "助かる is commonly used to express gratitude (lit. 'I'm saved')"
   },
@@ -776,9 +1436,21 @@
     "audio_file": "clip_061.mp3",
     "translation": "Welcome! The weapon is ready.",
     "vocabulary": [
-      {"word": "いらっしゃい", "reading": "いらっしゃい", "meaning": "welcome"},
-      {"word": "武器", "reading": "ぶき", "meaning": "weapon"},
-      {"word": "仕上がる", "reading": "しあがる", "meaning": "to be finished, to be completed"}
+      {
+        "word": "いらっしゃい",
+        "reading": "いらっしゃい",
+        "meaning": "welcome"
+      },
+      {
+        "word": "武器",
+        "reading": "ぶき",
+        "meaning": "weapon"
+      },
+      {
+        "word": "仕上がる",
+        "reading": "しあがる",
+        "meaning": "to be finished, to be completed"
+      }
     ],
     "grammar": "~ていますよ indicates current state with informative tone"
   },
@@ -807,7 +1479,11 @@
     "audio_file": "clip_064.mp3",
     "translation": "What? / Please...",
     "vocabulary": [
-      {"word": "お願い", "reading": "おねがい", "meaning": "request, please"}
+      {
+        "word": "お願い",
+        "reading": "おねがい",
+        "meaning": "request, please"
+      }
     ],
     "grammar": null
   },
@@ -818,8 +1494,16 @@
     "audio_file": "clip_065.mp3",
     "translation": "Please avenge my brother.",
     "vocabulary": [
-      {"word": "仇", "reading": "かたき", "meaning": "enemy, revenge target"},
-      {"word": "討つ", "reading": "うつ", "meaning": "to attack, to avenge"}
+      {
+        "word": "仇",
+        "reading": "かたき",
+        "meaning": "enemy, revenge target"
+      },
+      {
+        "word": "討つ",
+        "reading": "うつ",
+        "meaning": "to attack, to avenge"
+      }
     ],
     "grammar": "仇を討つ is a set phrase meaning 'to avenge'; ~てください is polite request"
   },
@@ -830,9 +1514,21 @@
     "audio_file": "clip_066.mp3",
     "translation": "That's quite a violent thing you've come up with.",
     "vocabulary": [
-      {"word": "随分", "reading": "ずいぶん", "meaning": "quite, considerably"},
-      {"word": "物騒", "reading": "ぶっそう", "meaning": "dangerous, alarming, violent"},
-      {"word": "思いつく", "reading": "おもいつく", "meaning": "to think of, to come up with"}
+      {
+        "word": "随分",
+        "reading": "ずいぶん",
+        "meaning": "quite, considerably"
+      },
+      {
+        "word": "物騒",
+        "reading": "ぶっそう",
+        "meaning": "dangerous, alarming, violent"
+      },
+      {
+        "word": "思いつく",
+        "reading": "おもいつく",
+        "meaning": "to think of, to come up with"
+      }
     ],
     "grammar": "~な is a masculine sentence-ending particle expressing mild surprise"
   },
@@ -843,9 +1539,21 @@
     "audio_file": "clip_067.mp3",
     "translation": "It's not just an idea! / This is why I've been making weapons!",
     "vocabulary": [
-      {"word": "思いつき", "reading": "おもいつき", "meaning": "idea, whim, sudden thought"},
-      {"word": "俺", "reading": "おれ", "meaning": "I (male, rough)"},
-      {"word": "作る", "reading": "つくる", "meaning": "to make"}
+      {
+        "word": "思いつき",
+        "reading": "おもいつき",
+        "meaning": "idea, whim, sudden thought"
+      },
+      {
+        "word": "俺",
+        "reading": "おれ",
+        "meaning": "I (male, rough)"
+      },
+      {
+        "word": "作る",
+        "reading": "つくる",
+        "meaning": "to make"
+      }
     ],
     "grammar": "~なんかじゃない strongly denies something (it's not just/merely...); ~てきた indicates continuous action up to now; ~のはこのためなんです means 'the reason for... is this'"
   },
@@ -856,9 +1564,21 @@
     "audio_file": "clip_068.mp3",
     "translation": "I've been doing this to make tools that can kill them! / Not for money!",
     "vocabulary": [
-      {"word": "あいつら", "reading": "あいつら", "meaning": "those guys (derogatory plural)"},
-      {"word": "道具", "reading": "どうぐ", "meaning": "tool, instrument"},
-      {"word": "金儲け", "reading": "かねもうけ", "meaning": "making money, profit"}
+      {
+        "word": "あいつら",
+        "reading": "あいつら",
+        "meaning": "those guys (derogatory plural)"
+      },
+      {
+        "word": "道具",
+        "reading": "どうぐ",
+        "meaning": "tool, instrument"
+      },
+      {
+        "word": "金儲け",
+        "reading": "かねもうけ",
+        "meaning": "making money, profit"
+      }
     ],
     "grammar": "~たくてやってきた means 'have been doing because I want to'; ~なんかじゃない emphatically denies"
   },
@@ -869,8 +1589,16 @@
     "audio_file": "clip_069.mp3",
     "translation": "Them? / Yes! / The big robot that's with the monsters!",
     "vocabulary": [
-      {"word": "一緒", "reading": "いっしょ", "meaning": "together"},
-      {"word": "大きな", "reading": "おおきな", "meaning": "big, large"}
+      {
+        "word": "一緒",
+        "reading": "いっしょ",
+        "meaning": "together"
+      },
+      {
+        "word": "大きな",
+        "reading": "おおきな",
+        "meaning": "big, large"
+      }
     ],
     "grammar": null
   },
@@ -881,7 +1609,11 @@
     "audio_file": "clip_070.mp3",
     "translation": "Monsters and robots working together?",
     "vocabulary": [
-      {"word": "手を組む", "reading": "てをくむ", "meaning": "to join hands, to collaborate"}
+      {
+        "word": "手を組む",
+        "reading": "てをくむ",
+        "meaning": "to join hands, to collaborate"
+      }
     ],
     "grammar": "手を組む is an idiom for cooperation/alliance; ~ておる is Weiss's archaic continuous form; だと? expresses disbelief/surprise"
   },
@@ -910,8 +1642,16 @@
     "audio_file": "clip_073.mp3",
     "translation": "Have you made up your mind? / Yeah, I'll do it.",
     "vocabulary": [
-      {"word": "心", "reading": "こころ", "meaning": "heart, mind"},
-      {"word": "決まる", "reading": "きまる", "meaning": "to be decided"}
+      {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "heart, mind"
+      },
+      {
+        "word": "決まる",
+        "reading": "きまる",
+        "meaning": "to be decided"
+      }
     ],
     "grammar": "心が決まる means 'to make up one's mind'; やってやる is emphatic form of やる (I'll do it/show them)"
   },
@@ -922,10 +1662,26 @@
     "audio_file": "clip_074.mp3",
     "translation": "Below this hole seems to be the room where that robot is.",
     "vocabulary": [
-      {"word": "穴", "reading": "あな", "meaning": "hole"},
-      {"word": "下", "reading": "した", "meaning": "below, under"},
-      {"word": "例の", "reading": "れいの", "meaning": "the aforementioned, that"},
-      {"word": "部屋", "reading": "へや", "meaning": "room"}
+      {
+        "word": "穴",
+        "reading": "あな",
+        "meaning": "hole"
+      },
+      {
+        "word": "下",
+        "reading": "した",
+        "meaning": "below, under"
+      },
+      {
+        "word": "例の",
+        "reading": "れいの",
+        "meaning": "the aforementioned, that"
+      },
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "meaning": "room"
+      }
     ],
     "grammar": "らしい indicates hearsay or inference (it seems); 例の refers to something previously mentioned"
   },
@@ -936,8 +1692,16 @@
     "audio_file": "clip_075.mp3",
     "translation": "Alright, let's go down like this. / Through this hole?",
     "vocabulary": [
-      {"word": "このまま", "reading": "このまま", "meaning": "like this, as is"},
-      {"word": "降りる", "reading": "おりる", "meaning": "to descend, to go down"}
+      {
+        "word": "このまま",
+        "reading": "このまま",
+        "meaning": "like this, as is"
+      },
+      {
+        "word": "降りる",
+        "reading": "おりる",
+        "meaning": "to descend, to go down"
+      }
     ],
     "grammar": "よし is an exclamation showing determination"
   },
@@ -948,7 +1712,11 @@
     "audio_file": "clip_076.mp3",
     "translation": "We don't know what's down there.",
     "vocabulary": [
-      {"word": "どうなっている", "reading": "どうなっている", "meaning": "what is happening, how things are"}
+      {
+        "word": "どうなっている",
+        "reading": "どうなっている",
+        "meaning": "what is happening, how things are"
+      }
     ],
     "grammar": "わからん is Weiss's archaic/masculine form of わからない (don't know)"
   },
@@ -959,8 +1727,16 @@
     "audio_file": "clip_077.mp3",
     "translation": "Going around is too much trouble. / Let's go!",
     "vocabulary": [
-      {"word": "迂回", "reading": "うかい", "meaning": "detour, going around"},
-      {"word": "面倒", "reading": "めんどう", "meaning": "troublesome, bothersome"}
+      {
+        "word": "迂回",
+        "reading": "うかい",
+        "meaning": "detour, going around"
+      },
+      {
+        "word": "面倒",
+        "reading": "めんどう",
+        "meaning": "troublesome, bothersome"
+      }
     ],
     "grammar": "~のも面倒だ means 'even doing X is troublesome'; ぞ is masculine emphatic particle"
   },
@@ -971,7 +1747,11 @@
     "audio_file": "clip_078.mp3",
     "translation": "Danger, danger. Eliminate.",
     "vocabulary": [
-      {"word": "排除", "reading": "はいじょ", "meaning": "elimination, removal"}
+      {
+        "word": "排除",
+        "reading": "はいじょ",
+        "meaning": "elimination, removal"
+      }
     ],
     "grammar": "Robot speech pattern; アンケン likely represents 'danger' in robotic speech"
   },
@@ -982,9 +1762,21 @@
     "audio_file": "clip_079.mp3",
     "translation": "There's a monster! / The monster is giving orders!",
     "vocabulary": [
-      {"word": "魔物", "reading": "まもの", "meaning": "monster, demon"},
-      {"word": "指示", "reading": "しじ", "meaning": "instructions, directions"},
-      {"word": "出す", "reading": "だす", "meaning": "to put out, to give (orders)"}
+      {
+        "word": "魔物",
+        "reading": "まもの",
+        "meaning": "monster, demon"
+      },
+      {
+        "word": "指示",
+        "reading": "しじ",
+        "meaning": "instructions, directions"
+      },
+      {
+        "word": "出す",
+        "reading": "だす",
+        "meaning": "to put out, to give (orders)"
+      }
     ],
     "grammar": "指示を出す means 'to give orders'; ~ておる is Weiss's archaic continuous form"
   },
@@ -995,9 +1787,21 @@
     "audio_file": "clip_080.mp3",
     "translation": "Let's aim for its legs and bring it down!",
     "vocabulary": [
-      {"word": "足", "reading": "あし", "meaning": "leg, foot"},
-      {"word": "狙う", "reading": "ねらう", "meaning": "to aim at"},
-      {"word": "倒す", "reading": "たおす", "meaning": "to knock down, to defeat"}
+      {
+        "word": "足",
+        "reading": "あし",
+        "meaning": "leg, foot"
+      },
+      {
+        "word": "狙う",
+        "reading": "ねらう",
+        "meaning": "to aim at"
+      },
+      {
+        "word": "倒す",
+        "reading": "たおす",
+        "meaning": "to knock down, to defeat"
+      }
     ],
     "grammar": "~ましょう is volitional form (let's do)"
   },
@@ -1017,7 +1821,11 @@
     "audio_file": "clip_082.mp3",
     "translation": "Eliminate, eliminate, eliminate...",
     "vocabulary": [
-      {"word": "排除", "reading": "はいじょ", "meaning": "elimination"}
+      {
+        "word": "排除",
+        "reading": "はいじょ",
+        "meaning": "elimination"
+      }
     ],
     "grammar": "Repetition shows robot's single-minded directive"
   },
@@ -1028,8 +1836,16 @@
     "audio_file": "clip_083.mp3",
     "translation": "Defense. My duty.",
     "vocabulary": [
-      {"word": "防衛", "reading": "ぼうえい", "meaning": "defense"},
-      {"word": "職務", "reading": "しょくむ", "meaning": "duty, official function"}
+      {
+        "word": "防衛",
+        "reading": "ぼうえい",
+        "meaning": "defense"
+      },
+      {
+        "word": "職務",
+        "reading": "しょくむ",
+        "meaning": "duty, official function"
+      }
     ],
     "grammar": "Robot's telegraphic speech defining its purpose"
   },
@@ -1040,8 +1856,16 @@
     "audio_file": "clip_084.mp3",
     "translation": "The monster... Damn... That's a monster! It's a monster!",
     "vocabulary": [
-      {"word": "くそ", "reading": "くそ", "meaning": "damn, crap (expletive)"},
-      {"word": "あれ", "reading": "あれ", "meaning": "that (over there)"}
+      {
+        "word": "くそ",
+        "reading": "くそ",
+        "meaning": "damn, crap (expletive)"
+      },
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "meaning": "that (over there)"
+      }
     ],
     "grammar": "なんだ adds emphasis and emotional insistence"
   },
@@ -1052,8 +1876,16 @@
     "audio_file": "clip_085.mp3",
     "translation": "Kill! Kill! Hate each other!",
     "vocabulary": [
-      {"word": "殺す", "reading": "ころす", "meaning": "to kill"},
-      {"word": "憎み合う", "reading": "にくみあう", "meaning": "to hate each other"}
+      {
+        "word": "殺す",
+        "reading": "ころす",
+        "meaning": "to kill"
+      },
+      {
+        "word": "憎み合う",
+        "reading": "にくみあう",
+        "meaning": "to hate each other"
+      }
     ],
     "grammar": "殺せ and 憎み合え are imperative forms (commands)"
   },
@@ -1064,7 +1896,11 @@
     "audio_file": "clip_086.mp3",
     "translation": "Counter-attack.",
     "vocabulary": [
-      {"word": "反撃", "reading": "はんげき", "meaning": "counter-attack"}
+      {
+        "word": "反撃",
+        "reading": "はんげき",
+        "meaning": "counter-attack"
+      }
     ],
     "grammar": null
   },
@@ -1075,7 +1911,11 @@
     "audio_file": "clip_087.mp3",
     "translation": "They're coordinating?",
     "vocabulary": [
-      {"word": "連携", "reading": "れんけい", "meaning": "coordination, cooperation, teamwork"}
+      {
+        "word": "連携",
+        "reading": "れんけい",
+        "meaning": "coordination, cooperation, teamwork"
+      }
     ],
     "grammar": "~のか indicates surprised questioning"
   },
@@ -1086,10 +1926,26 @@
     "audio_file": "clip_088.mp3",
     "translation": "Debris is falling from above! / Dodge!",
     "vocabulary": [
-      {"word": "上", "reading": "うえ", "meaning": "above"},
-      {"word": "瓦礫", "reading": "がれき", "meaning": "rubble, debris"},
-      {"word": "落ちる", "reading": "おちる", "meaning": "to fall"},
-      {"word": "よける", "reading": "よける", "meaning": "to dodge, to avoid"}
+      {
+        "word": "上",
+        "reading": "うえ",
+        "meaning": "above"
+      },
+      {
+        "word": "瓦礫",
+        "reading": "がれき",
+        "meaning": "rubble, debris"
+      },
+      {
+        "word": "落ちる",
+        "reading": "おちる",
+        "meaning": "to fall"
+      },
+      {
+        "word": "よける",
+        "reading": "よける",
+        "meaning": "to dodge, to avoid"
+      }
     ],
     "grammar": "~てくる indicates movement toward speaker; よけろ is imperative (dodge!)"
   },
@@ -1118,7 +1974,11 @@
     "audio_file": "clip_091.mp3",
     "translation": "Outside...",
     "vocabulary": [
-      {"word": "外", "reading": "そと", "meaning": "outside"}
+      {
+        "word": "外",
+        "reading": "そと",
+        "meaning": "outside"
+      }
     ],
     "grammar": null
   },
@@ -1129,8 +1989,16 @@
     "audio_file": "clip_092.mp3",
     "translation": "World... / I want to see...",
     "vocabulary": [
-      {"word": "世界", "reading": "せかい", "meaning": "world"},
-      {"word": "見たい", "reading": "みたい", "meaning": "want to see"}
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "world"
+      },
+      {
+        "word": "見たい",
+        "reading": "みたい",
+        "meaning": "want to see"
+      }
     ],
     "grammar": "~たい expresses desire"
   },
@@ -1141,7 +2009,11 @@
     "audio_file": "clip_093.mp3",
     "translation": "Magic...",
     "vocabulary": [
-      {"word": "魔法", "reading": "まほう", "meaning": "magic"}
+      {
+        "word": "魔法",
+        "reading": "まほう",
+        "meaning": "magic"
+      }
     ],
     "grammar": null
   },
@@ -1152,7 +2024,11 @@
     "audio_file": "clip_094.mp3",
     "translation": "Fight...",
     "vocabulary": [
-      {"word": "戦う", "reading": "たたかう", "meaning": "to fight, to battle"}
+      {
+        "word": "戦う",
+        "reading": "たたかう",
+        "meaning": "to fight, to battle"
+      }
     ],
     "grammar": null
   },
@@ -1163,7 +2039,11 @@
     "audio_file": "clip_095.mp3",
     "translation": "It got away!",
     "vocabulary": [
-      {"word": "逃げる", "reading": "にげる", "meaning": "to escape, to flee"}
+      {
+        "word": "逃げる",
+        "reading": "にげる",
+        "meaning": "to escape, to flee"
+      }
     ],
     "grammar": "逃がった appears to be a dialectal/casual past form"
   },
@@ -1174,13 +2054,41 @@
     "audio_file": "clip_096.mp3",
     "translation": "All these machines... / Shut up and fight, damn grimoire! You're distracting me!",
     "vocabulary": [
-      {"word": "機械", "reading": "きかい", "meaning": "machine"},
-      {"word": "全部", "reading": "ぜんぶ", "meaning": "all, everything"},
-      {"word": "黙る", "reading": "だまる", "meaning": "to be silent"},
-      {"word": "戦う", "reading": "たたかう", "meaning": "to fight"},
-      {"word": "クソ", "reading": "くそ", "meaning": "damn, crap"},
-      {"word": "神", "reading": "かみ", "meaning": "god (here: grimoire)"},
-      {"word": "気が散る", "reading": "きがちる", "meaning": "to be distracted"}
+      {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning": "machine"
+      },
+      {
+        "word": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "all, everything"
+      },
+      {
+        "word": "黙る",
+        "reading": "だまる",
+        "meaning": "to be silent"
+      },
+      {
+        "word": "戦う",
+        "reading": "たたかう",
+        "meaning": "to fight"
+      },
+      {
+        "word": "クソ",
+        "reading": "くそ",
+        "meaning": "damn, crap"
+      },
+      {
+        "word": "神",
+        "reading": "かみ",
+        "meaning": "god (here: grimoire)"
+      },
+      {
+        "word": "気が散る",
+        "reading": "きがちる",
+        "meaning": "to be distracted"
+      }
     ],
     "grammar": "黙って is te-form used as manner (silently); 戦え is imperative; 気が散る is an idiom for being unable to concentrate"
   },
@@ -1200,7 +2108,11 @@
     "audio_file": "clip_098.mp3",
     "translation": "Together...",
     "vocabulary": [
-      {"word": "一緒", "reading": "いっしょ", "meaning": "together"}
+      {
+        "word": "一緒",
+        "reading": "いっしょ",
+        "meaning": "together"
+      }
     ],
     "grammar": null
   },
@@ -1220,7 +2132,11 @@
     "audio_file": "clip_100.mp3",
     "translation": "Lonely...",
     "vocabulary": [
-      {"word": "寂しい", "reading": "さびしい", "meaning": "lonely"}
+      {
+        "word": "寂しい",
+        "reading": "さびしい",
+        "meaning": "lonely"
+      }
     ],
     "grammar": null
   },
@@ -1249,7 +2165,11 @@
     "audio_file": "clip_103.mp3",
     "translation": "You...",
     "vocabulary": [
-      {"word": "お前", "reading": "おまえ", "meaning": "you (rough)"}
+      {
+        "word": "お前",
+        "reading": "おまえ",
+        "meaning": "you (rough)"
+      }
     ],
     "grammar": null
   },
@@ -1260,10 +2180,26 @@
     "audio_file": "clip_104.mp3",
     "translation": "Because of machines like this, my brother... my mother...",
     "vocabulary": [
-      {"word": "こんな", "reading": "こんな", "meaning": "such, like this"},
-      {"word": "機械", "reading": "きかい", "meaning": "machine"},
-      {"word": "兄さん", "reading": "にいさん", "meaning": "older brother"},
-      {"word": "母さん", "reading": "かあさん", "meaning": "mother"}
+      {
+        "word": "こんな",
+        "reading": "こんな",
+        "meaning": "such, like this"
+      },
+      {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning": "machine"
+      },
+      {
+        "word": "兄さん",
+        "reading": "にいさん",
+        "meaning": "older brother"
+      },
+      {
+        "word": "母さん",
+        "reading": "かあさん",
+        "meaning": "mother"
+      }
     ],
     "grammar": "Trailing off with は indicates unfinished emotional statement"
   },
@@ -1274,8 +2210,16 @@
     "audio_file": "clip_105.mp3",
     "translation": "If only you weren't here... if only you... if only you weren't here...",
     "vocabulary": [
-      {"word": "さえ", "reading": "さえ", "meaning": "even, only"},
-      {"word": "いる", "reading": "いる", "meaning": "to exist, to be"}
+      {
+        "word": "さえ",
+        "reading": "さえ",
+        "meaning": "even, only"
+      },
+      {
+        "word": "いる",
+        "reading": "いる",
+        "meaning": "to exist, to be"
+      }
     ],
     "grammar": "~さえいなければ is a strong counterfactual conditional meaning 'if only X didn't exist'; the repetition shows emotional breakdown"
   },
@@ -1286,8 +2230,16 @@
     "audio_file": "clip_106.mp3",
     "translation": "Nice... So human. Truly human.",
     "vocabulary": [
-      {"word": "人間らしい", "reading": "にんげんらしい", "meaning": "human-like, befitting a human"},
-      {"word": "実に", "reading": "じつに", "meaning": "truly, indeed"}
+      {
+        "word": "人間らしい",
+        "reading": "にんげんらしい",
+        "meaning": "human-like, befitting a human"
+      },
+      {
+        "word": "実に",
+        "reading": "じつに",
+        "meaning": "truly, indeed"
+      }
     ],
     "grammar": "~らしい attached to nouns means 'befitting, typical of'; the Shade is sardonically praising human hatred"
   },
@@ -1298,8 +2250,16 @@
     "audio_file": "clip_107.mp3",
     "translation": "That's enough.",
     "vocabulary": [
-      {"word": "その辺で", "reading": "そのへんで", "meaning": "around there, at that point"},
-      {"word": "もういい", "reading": "もういい", "meaning": "enough already"}
+      {
+        "word": "その辺で",
+        "reading": "そのへんで",
+        "meaning": "around there, at that point"
+      },
+      {
+        "word": "もういい",
+        "reading": "もういい",
+        "meaning": "enough already"
+      }
     ],
     "grammar": "その辺で indicates stopping at a certain point; だろう softens the statement"
   },
@@ -1310,10 +2270,26 @@
     "audio_file": "clip_108.mp3",
     "translation": "I did it! / With this thing gone, it'll be easier to enter the mountain.",
     "vocabulary": [
-      {"word": "こいつ", "reading": "こいつ", "meaning": "this guy/thing (derogatory)"},
-      {"word": "いなくなる", "reading": "いなくなる", "meaning": "to disappear, to be gone"},
-      {"word": "山", "reading": "やま", "meaning": "mountain"},
-      {"word": "入る", "reading": "はいる", "meaning": "to enter"}
+      {
+        "word": "こいつ",
+        "reading": "こいつ",
+        "meaning": "this guy/thing (derogatory)"
+      },
+      {
+        "word": "いなくなる",
+        "reading": "いなくなる",
+        "meaning": "to disappear, to be gone"
+      },
+      {
+        "word": "山",
+        "reading": "やま",
+        "meaning": "mountain"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "meaning": "to enter"
+      }
     ],
     "grammar": "~やすくなる means 'to become easier to do'; ~ば is conditional (if)"
   },
@@ -1324,9 +2300,21 @@
     "audio_file": "clip_109.mp3",
     "translation": "From now on, I can make as many powerful weapons as I want!",
     "vocabulary": [
-      {"word": "これから", "reading": "これから", "meaning": "from now on"},
-      {"word": "いくらでも", "reading": "いくらでも", "meaning": "as much as one wants, unlimited"},
-      {"word": "強い", "reading": "つよい", "meaning": "strong, powerful"}
+      {
+        "word": "これから",
+        "reading": "これから",
+        "meaning": "from now on"
+      },
+      {
+        "word": "いくらでも",
+        "reading": "いくらでも",
+        "meaning": "as much as one wants, unlimited"
+      },
+      {
+        "word": "強い",
+        "reading": "つよい",
+        "meaning": "strong, powerful"
+      }
     ],
     "grammar": "いくらでも emphasizes unlimited quantity"
   },
@@ -1337,7 +2325,11 @@
     "audio_file": "clip_110.mp3",
     "translation": "Leave it to me!",
     "vocabulary": [
-      {"word": "任せる", "reading": "まかせる", "meaning": "to entrust, to leave to someone"}
+      {
+        "word": "任せる",
+        "reading": "まかせる",
+        "meaning": "to entrust, to leave to someone"
+      }
     ],
     "grammar": "~てください is polite request/offer form"
   },
@@ -1357,10 +2349,26 @@
     "audio_file": "clip_112.mp3",
     "translation": "Hatred and weapons cannot heal the heart.",
     "vocabulary": [
-      {"word": "憎悪", "reading": "ぞうお", "meaning": "hatred, animosity"},
-      {"word": "凶器", "reading": "きょうき", "meaning": "weapon, deadly weapon"},
-      {"word": "心", "reading": "こころ", "meaning": "heart, mind"},
-      {"word": "癒す", "reading": "いやす", "meaning": "to heal, to cure"}
+      {
+        "word": "憎悪",
+        "reading": "ぞうお",
+        "meaning": "hatred, animosity"
+      },
+      {
+        "word": "凶器",
+        "reading": "きょうき",
+        "meaning": "weapon, deadly weapon"
+      },
+      {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "heart, mind"
+      },
+      {
+        "word": "癒す",
+        "reading": "いやす",
+        "meaning": "to heal, to cure"
+      }
     ],
     "grammar": "~では marks negative condition (with X, one cannot...); できぬ is Weiss's archaic form of できない (cannot)"
   },
@@ -1371,7 +2379,11 @@
     "audio_file": "clip_113.mp3",
     "translation": "But I have no other choice.",
     "vocabulary": [
-      {"word": "しかない", "reading": "しかない", "meaning": "have no choice but to"}
+      {
+        "word": "しかない",
+        "reading": "しかない",
+        "meaning": "have no choice but to"
+      }
     ],
     "grammar": "~するしかない is an idiom meaning 'have no choice but to do'"
   },
@@ -1382,7 +2394,11 @@
     "audio_file": "clip_114.mp3",
     "translation": "Foolish... / Yeah.",
     "vocabulary": [
-      {"word": "愚か", "reading": "おろか", "meaning": "foolish, stupid"}
+      {
+        "word": "愚か",
+        "reading": "おろか",
+        "meaning": "foolish, stupid"
+      }
     ],
     "grammar": "愚かな is na-adjective; Weiss uses archaic/literary tone"
   },
@@ -1393,7 +2409,11 @@
     "audio_file": "clip_115.mp3",
     "translation": "Why was it with the machines?",
     "vocabulary": [
-      {"word": "どうして", "reading": "どうして", "meaning": "why"}
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "meaning": "why"
+      }
     ],
     "grammar": "~のでしょうか is polite wondering/questioning form"
   },
@@ -1404,8 +2424,16 @@
     "audio_file": "clip_116.mp3",
     "translation": "It was giving orders to the machines. / It seemed to be cooperating with them.",
     "vocabulary": [
-      {"word": "指示を出す", "reading": "しじをだす", "meaning": "to give orders/directions"},
-      {"word": "協力", "reading": "きょうりょく", "meaning": "cooperation"}
+      {
+        "word": "指示を出す",
+        "reading": "しじをだす",
+        "meaning": "to give orders/directions"
+      },
+      {
+        "word": "協力",
+        "reading": "きょうりょく",
+        "meaning": "cooperation"
+      }
     ],
     "grammar": "~ておる is Weiss's archaic continuous; ようだった means 'it seemed that'"
   },
@@ -1416,7 +2444,11 @@
     "audio_file": "clip_117.mp3",
     "translation": "Did it have some kind of plan?",
     "vocabulary": [
-      {"word": "考え", "reading": "かんがえ", "meaning": "thought, idea, plan"}
+      {
+        "word": "考え",
+        "reading": "かんがえ",
+        "meaning": "thought, idea, plan"
+      }
     ],
     "grammar": "~んでしょうか is polite speculative question (I wonder if...)"
   },
@@ -1436,9 +2468,21 @@
     "audio_file": "clip_119.mp3",
     "translation": "No matter what a monster is thinking... / It's obviously better to kill them.",
     "vocabulary": [
-      {"word": "考える", "reading": "かんがえる", "meaning": "to think"},
-      {"word": "殺す", "reading": "ころす", "meaning": "to kill"},
-      {"word": "決まっている", "reading": "きまっている", "meaning": "it's decided, it's obvious"}
+      {
+        "word": "考える",
+        "reading": "かんがえる",
+        "meaning": "to think"
+      },
+      {
+        "word": "殺す",
+        "reading": "ころす",
+        "meaning": "to kill"
+      },
+      {
+        "word": "決まっている",
+        "reading": "きまっている",
+        "meaning": "it's decided, it's obvious"
+      }
     ],
     "grammar": "~ていようと means 'no matter what X is doing'; ~方がいいに決まっている means 'it's obviously better to'"
   },
@@ -1449,10 +2493,26 @@
     "audio_file": "clip_120.mp3",
     "translation": "Yeah... / A monster trying to protect machines? / What a ridiculous story.",
     "vocabulary": [
-      {"word": "なんか", "reading": "なんか", "meaning": "such things as (dismissive)"},
-      {"word": "守る", "reading": "まもる", "meaning": "to protect"},
-      {"word": "馬鹿げた", "reading": "ばかげた", "meaning": "ridiculous, absurd"},
-      {"word": "話", "reading": "はなし", "meaning": "story, tale"}
+      {
+        "word": "なんか",
+        "reading": "なんか",
+        "meaning": "such things as (dismissive)"
+      },
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to protect"
+      },
+      {
+        "word": "馬鹿げた",
+        "reading": "ばかげた",
+        "meaning": "ridiculous, absurd"
+      },
+      {
+        "word": "話",
+        "reading": "はなし",
+        "meaning": "story, tale"
+      }
     ],
     "grammar": "~ようとする means 'to try to do'; なんて expresses disbelief or disdain"
   },
@@ -1463,8 +2523,16 @@
     "audio_file": "clip_121.mp3",
     "translation": "You guys be careful too.",
     "vocabulary": [
-      {"word": "お前たち", "reading": "おまえたち", "meaning": "you guys (plural, rough)"},
-      {"word": "気をつける", "reading": "きをつける", "meaning": "to be careful"}
+      {
+        "word": "お前たち",
+        "reading": "おまえたち",
+        "meaning": "you guys (plural, rough)"
+      },
+      {
+        "word": "気をつける",
+        "reading": "きをつける",
+        "meaning": "to be careful"
+      }
     ],
     "grammar": "気をつけろ is imperative form; よ adds emphasis/warning"
   },
@@ -1475,9 +2543,21 @@
     "audio_file": "clip_122.mp3",
     "translation": "When I'm controlled by the monster... / I even attack my allies.",
     "vocabulary": [
-      {"word": "支配", "reading": "しはい", "meaning": "control, domination"},
-      {"word": "仲間", "reading": "なかま", "meaning": "comrade, ally, friend"},
-      {"word": "襲う", "reading": "おそう", "meaning": "to attack, to assault"}
+      {
+        "word": "支配",
+        "reading": "しはい",
+        "meaning": "control, domination"
+      },
+      {
+        "word": "仲間",
+        "reading": "なかま",
+        "meaning": "comrade, ally, friend"
+      },
+      {
+        "word": "襲う",
+        "reading": "おそう",
+        "meaning": "to attack, to assault"
+      }
     ],
     "grammar": "~に支配される is passive (to be controlled by); でさえ means 'even'; ~てしまう indicates regrettable action"
   },
@@ -1488,7 +2568,11 @@
     "audio_file": "clip_123.mp3",
     "translation": "That's wrong. / Kaine is Kaine. / Not a monster.",
     "vocabulary": [
-      {"word": "違う", "reading": "ちがう", "meaning": "to be different, to be wrong"}
+      {
+        "word": "違う",
+        "reading": "ちがう",
+        "meaning": "to be different, to be wrong"
+      }
     ],
     "grammar": "XはXだ is an emphatic construction affirming identity"
   },
@@ -1499,10 +2583,26 @@
     "audio_file": "clip_124.mp3",
     "translation": "This one speaks the truth. / The underwear woman and monsters are different.",
     "vocabulary": [
-      {"word": "こやつ", "reading": "こやつ", "meaning": "this fellow (archaic)"},
-      {"word": "言う通り", "reading": "いうとおり", "meaning": "as (someone) says"},
-      {"word": "下着", "reading": "したぎ", "meaning": "underwear"},
-      {"word": "女", "reading": "おんな", "meaning": "woman"}
+      {
+        "word": "こやつ",
+        "reading": "こやつ",
+        "meaning": "this fellow (archaic)"
+      },
+      {
+        "word": "言う通り",
+        "reading": "いうとおり",
+        "meaning": "as (someone) says"
+      },
+      {
+        "word": "下着",
+        "reading": "したぎ",
+        "meaning": "underwear"
+      },
+      {
+        "word": "女",
+        "reading": "おんな",
+        "meaning": "woman"
+      }
     ],
     "grammar": "こやつ is Weiss's archaic form of こいつ; 言う通りだ means 'what X says is true'; 下着女 is Weiss's insulting nickname for Kaine"
   },
@@ -1513,14 +2613,46 @@
     "audio_file": "clip_125.mp3",
     "translation": "Monsters don't use vulgar language. / I'll knock you flying, damn grimoire! / If you're controlled by the monster, I'll stop you. / I see... Thanks. / This is that dream village. / Yeah. / If possible...",
     "vocabulary": [
-      {"word": "下品", "reading": "げひん", "meaning": "vulgar, crude"},
-      {"word": "言葉", "reading": "ことば", "meaning": "words, language"},
-      {"word": "使う", "reading": "つかう", "meaning": "to use"},
-      {"word": "ぶっ飛ばす", "reading": "ぶっとばす", "meaning": "to knock flying, to send flying"},
-      {"word": "止める", "reading": "とめる", "meaning": "to stop"},
-      {"word": "夢", "reading": "ゆめ", "meaning": "dream"},
-      {"word": "村", "reading": "むら", "meaning": "village"},
-      {"word": "できれば", "reading": "できれば", "meaning": "if possible"}
+      {
+        "word": "下品",
+        "reading": "げひん",
+        "meaning": "vulgar, crude"
+      },
+      {
+        "word": "言葉",
+        "reading": "ことば",
+        "meaning": "words, language"
+      },
+      {
+        "word": "使う",
+        "reading": "つかう",
+        "meaning": "to use"
+      },
+      {
+        "word": "ぶっ飛ばす",
+        "reading": "ぶっとばす",
+        "meaning": "to knock flying, to send flying"
+      },
+      {
+        "word": "止める",
+        "reading": "とめる",
+        "meaning": "to stop"
+      },
+      {
+        "word": "夢",
+        "reading": "ゆめ",
+        "meaning": "dream"
+      },
+      {
+        "word": "村",
+        "reading": "むら",
+        "meaning": "village"
+      },
+      {
+        "word": "できれば",
+        "reading": "できれば",
+        "meaning": "if possible"
+      }
     ],
     "grammar": "からな gives reasoning with masculine emphasis; もし~ても is conditional 'even if'; 例の refers to previously mentioned topic"
   }

@@ -1,0 +1,261 @@
+[
+  {
+    "start": "05:13:18",
+    "end": "05:13:21",
+    "text": "Субтитры создавал DimaTorzok",
+    "audio_file": "clip_000.mp3",
+    "translation": "Subtitles created by DimaTorzok",
+    "vocabulary": [],
+    "grammar": "Russian text - subtitle credit"
+  },
+  {
+    "start": "05:17:44",
+    "end": "05:17:49",
+    "text": "おやすみなさい。",
+    "audio_file": "clip_001.mp3",
+    "translation": "Good night.",
+    "vocabulary": [
+      {
+        "word": "おやすみなさい",
+        "reading": "おやすみなさい",
+        "meaning": "good night (polite)"
+      }
+    ],
+    "grammar": "Polite greeting used when parting for the night or going to sleep"
+  },
+  {
+    "start": "05:19:41",
+    "end": "05:19:50",
+    "text": "お疲れ様でした",
+    "audio_file": "clip_002.mp3",
+    "translation": "Thank you for your hard work.",
+    "vocabulary": [
+      {
+        "word": "お疲れ様",
+        "reading": "おつかれさま",
+        "meaning": "thank you for your hard work; good job"
+      },
+      {
+        "word": "疲れる",
+        "reading": "つかれる",
+        "meaning": "to get tired"
+      }
+    ],
+    "grammar": "Standard polite phrase used to acknowledge someone's effort; でした is past tense of です"
+  },
+  {
+    "start": "05:20:00",
+    "end": "05:20:05",
+    "text": "ある機械にとっての宝物は家族でした",
+    "audio_file": "clip_003.mp3",
+    "translation": "For a certain machine, their treasure was family.",
+    "vocabulary": [
+      {
+        "word": "ある",
+        "reading": "ある",
+        "meaning": "a certain; one (indefinite article)"
+      },
+      {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning": "machine"
+      },
+      {
+        "word": "にとって",
+        "reading": "にとって",
+        "meaning": "to; for; concerning (indicates perspective)"
+      },
+      {
+        "word": "宝物",
+        "reading": "たからもの",
+        "meaning": "treasure; precious thing"
+      },
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "family"
+      }
+    ],
+    "grammar": "にとっての combines the particle にとって (from the perspective of) with の to modify the following noun; was-pattern narration"
+  },
+  {
+    "start": "05:20:05",
+    "end": "05:20:09",
+    "text": "ある機械にとっての宣物は兄弟でした",
+    "audio_file": "clip_004.mp3",
+    "translation": "For a certain machine, their treasure was siblings.",
+    "vocabulary": [
+      {
+        "word": "ある",
+        "reading": "ある",
+        "meaning": "a certain; one (indefinite article)"
+      },
+      {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning": "machine"
+      },
+      {
+        "word": "にとって",
+        "reading": "にとって",
+        "meaning": "to; for; concerning (indicates perspective)"
+      },
+      {
+        "word": "宝物",
+        "reading": "たからもの",
+        "meaning": "treasure; precious thing"
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "siblings; brothers and sisters"
+      }
+    ],
+    "grammar": "Same structure as previous line; parallel narration creating a pattern. Note: 宣物 appears to be 宝物 (treasure)"
+  },
+  {
+    "start": "05:20:09",
+    "end": "05:20:14",
+    "text": "ある機械にとっての宝物は美しさでした",
+    "audio_file": "clip_005.mp3",
+    "translation": "For a certain machine, their treasure was beauty.",
+    "vocabulary": [
+      {
+        "word": "ある",
+        "reading": "ある",
+        "meaning": "a certain; one (indefinite article)"
+      },
+      {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning": "machine"
+      },
+      {
+        "word": "にとって",
+        "reading": "にとって",
+        "meaning": "to; for; concerning (indicates perspective)"
+      },
+      {
+        "word": "宝物",
+        "reading": "たからもの",
+        "meaning": "treasure; precious thing"
+      },
+      {
+        "word": "美しさ",
+        "reading": "うつくしさ",
+        "meaning": "beauty; loveliness"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "meaning": "beautiful"
+      }
+    ],
+    "grammar": "Continues the parallel structure; 美しさ uses the -さ suffix to nominalize the adjective 美しい"
+  },
+  {
+    "start": "05:20:15",
+    "end": "05:20:19",
+    "text": "そしてある機械にとっての宝物は",
+    "audio_file": "clip_006.mp3",
+    "translation": "And for a certain machine, their treasure was...",
+    "vocabulary": [
+      {
+        "word": "そして",
+        "reading": "そして",
+        "meaning": "and; and then"
+      },
+      {
+        "word": "ある",
+        "reading": "ある",
+        "meaning": "a certain; one (indefinite article)"
+      },
+      {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning": "machine"
+      },
+      {
+        "word": "にとって",
+        "reading": "にとって",
+        "meaning": "to; for; concerning (indicates perspective)"
+      },
+      {
+        "word": "宝物",
+        "reading": "たからもの",
+        "meaning": "treasure; precious thing"
+      }
+    ],
+    "grammar": "Sentence deliberately left incomplete for dramatic effect; そして introduces the final item in the series"
+  },
+  {
+    "start": "05:20:19",
+    "end": "05:20:22",
+    "text": "憎悪でした",
+    "audio_file": "clip_007.mp3",
+    "translation": "...hatred.",
+    "vocabulary": [
+      {
+        "word": "憎悪",
+        "reading": "ぞうお",
+        "meaning": "hatred; abhorrence; loathing"
+      }
+    ],
+    "grammar": "Completion of the previous sentence; the pause creates dramatic emphasis on the dark final revelation"
+  },
+  {
+    "start": "05:20:30",
+    "end": "05:20:36",
+    "text": "これが…しかも…",
+    "audio_file": "clip_008.mp3",
+    "translation": "This is... and what's more...",
+    "vocabulary": [
+      {
+        "word": "これ",
+        "reading": "これ",
+        "meaning": "this"
+      },
+      {
+        "word": "しかも",
+        "reading": "しかも",
+        "meaning": "moreover; furthermore; what's more"
+      }
+    ],
+    "grammar": "Fragmented speech with ellipses (…) indicating hesitation, uncertainty, or being overwhelmed"
+  },
+  {
+    "start": "05:20:43",
+    "end": "05:20:48",
+    "text": "暗くて…冷たい…",
+    "audio_file": "clip_009.mp3",
+    "translation": "Dark... and cold...",
+    "vocabulary": [
+      {
+        "word": "暗い",
+        "reading": "くらい",
+        "meaning": "dark; gloomy"
+      },
+      {
+        "word": "冷たい",
+        "reading": "つめたい",
+        "meaning": "cold; chilly"
+      }
+    ],
+    "grammar": "Te-form (暗くて) connects two adjectives; ellipses suggest trailing off in discomfort or fear"
+  },
+  {
+    "start": "05:21:11",
+    "end": "05:21:16",
+    "text": "帰ろう…",
+    "audio_file": "clip_010.mp3",
+    "translation": "Let's go home...",
+    "vocabulary": [
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "meaning": "to go home; to return"
+      }
+    ],
+    "grammar": "Volitional form (帰ろう) expresses suggestion or intention; ellipsis suggests resignation or weariness"
+  }
+]

@@ -1,0 +1,736 @@
+[
+  {
+    "start": "07:06:33",
+    "end": "07:06:38",
+    "text": "「警告",
+    "audio_file": "clip_000.mp3",
+    "translation": "Warning",
+    "vocabulary": [
+      {
+        "word": "警告",
+        "reading": "けいこく",
+        "meaning": "warning, alert, caution"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "07:06:57",
+    "end": "07:07:08",
+    "text": "アクセス可能な位置に稼働中の敵大型ユニットを確認。 マップ2ユニットの場所をマーク。",
+    "audio_file": "clip_001.mp3",
+    "translation": "Confirmed enemy large-scale units operating within accessible range. Marking locations of 2 units on map.",
+    "vocabulary": [
+      {
+        "word": "アクセス",
+        "reading": "アクセス",
+        "meaning": "access"
+      },
+      {
+        "word": "可能",
+        "reading": "かのう",
+        "meaning": "possible, feasible"
+      },
+      {
+        "word": "位置",
+        "reading": "いち",
+        "meaning": "position, location"
+      },
+      {
+        "word": "稼働中",
+        "reading": "かどうちゅう",
+        "meaning": "in operation, currently active"
+      },
+      {
+        "word": "敵",
+        "reading": "てき",
+        "meaning": "enemy"
+      },
+      {
+        "word": "大型",
+        "reading": "おおがた",
+        "meaning": "large-scale, large-sized"
+      },
+      {
+        "word": "ユニット",
+        "reading": "ユニット",
+        "meaning": "unit"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "confirmation, verification"
+      },
+      {
+        "word": "マップ",
+        "reading": "マップ",
+        "meaning": "map"
+      },
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "meaning": "place, location"
+      },
+      {
+        "word": "マーク",
+        "reading": "マーク",
+        "meaning": "mark, marker"
+      }
+    ],
+    "grammar": "を確認 (wo kakunin) - confirm/verify something; をマーク (wo mark) - to mark something"
+  },
+  {
+    "start": "07:07:22",
+    "end": "07:07:26",
+    "text": "こんにちは 次元回収ユニットです",
+    "audio_file": "clip_002.mp3",
+    "translation": "Hello. I am a Dimensional Recovery Unit.",
+    "vocabulary": [
+      {
+        "word": "次元",
+        "reading": "じげん",
+        "meaning": "dimension"
+      },
+      {
+        "word": "回収",
+        "reading": "かいしゅう",
+        "meaning": "recovery, collection, retrieval"
+      },
+      {
+        "word": "ユニット",
+        "reading": "ユニット",
+        "meaning": "unit"
+      }
+    ],
+    "grammar": "です - polite copula indicating 'to be'"
+  },
+  {
+    "start": "07:07:27",
+    "end": "07:07:32",
+    "text": "防衛態勢に入ります",
+    "audio_file": "clip_003.mp3",
+    "translation": "Entering defensive mode.",
+    "vocabulary": [
+      {
+        "word": "防衛",
+        "reading": "ぼうえい",
+        "meaning": "defense, protection"
+      },
+      {
+        "word": "態勢",
+        "reading": "たいせい",
+        "meaning": "posture, stance, readiness"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "meaning": "to enter, to go into"
+      }
+    ],
+    "grammar": "に入ります (ni hairimasu) - to enter into a state/mode; polite form"
+  },
+  {
+    "start": "07:07:32",
+    "end": "07:07:34",
+    "text": "「魂の箱」",
+    "audio_file": "clip_004.mp3",
+    "translation": "Soul Box",
+    "vocabulary": [
+      {
+        "word": "魂",
+        "reading": "たましい",
+        "meaning": "soul, spirit"
+      },
+      {
+        "word": "箱",
+        "reading": "はこ",
+        "meaning": "box, case"
+      }
+    ],
+    "grammar": "の - possessive particle, 'soul's box' or 'box of souls'"
+  },
+  {
+    "start": "07:07:54",
+    "end": "07:08:02",
+    "text": "また… なにか書いてあるな / 魂の箱 溶き砕い",
+    "audio_file": "clip_005.mp3",
+    "translation": "Again... something's written here. / 'Soul Box, dissolve and crush'",
+    "vocabulary": [
+      {
+        "word": "また",
+        "reading": "また",
+        "meaning": "again, also"
+      },
+      {
+        "word": "書く",
+        "reading": "かく",
+        "meaning": "to write"
+      },
+      {
+        "word": "魂",
+        "reading": "たましい",
+        "meaning": "soul, spirit"
+      },
+      {
+        "word": "箱",
+        "reading": "はこ",
+        "meaning": "box"
+      },
+      {
+        "word": "溶く",
+        "reading": "とく",
+        "meaning": "to dissolve, to melt"
+      },
+      {
+        "word": "砕く",
+        "reading": "くだく",
+        "meaning": "to crush, to break"
+      }
+    ],
+    "grammar": "書いてある (kaite aru) - is written (result of writing action); な - casual masculine sentence-ending particle"
+  },
+  {
+    "start": "07:08:54",
+    "end": "07:08:59",
+    "text": "第1回 敵",
+    "audio_file": "clip_006.mp3",
+    "translation": "Round 1 - Enemy",
+    "vocabulary": [
+      {
+        "word": "第",
+        "reading": "だい",
+        "meaning": "prefix for ordinal numbers"
+      },
+      {
+        "word": "回",
+        "reading": "かい",
+        "meaning": "round, time, occurrence"
+      },
+      {
+        "word": "敵",
+        "reading": "てき",
+        "meaning": "enemy"
+      }
+    ],
+    "grammar": "第〜回 (dai ~ kai) - ordinal counter for rounds/episodes"
+  },
+  {
+    "start": "07:09:30",
+    "end": "07:09:36",
+    "text": "そういうことか / システムプロテクトを解除しないと / コアまでたどり着けない",
+    "audio_file": "clip_007.mp3",
+    "translation": "So that's how it is. / If I don't deactivate the system protection, / I can't reach the core.",
+    "vocabulary": [
+      {
+        "word": "そういう",
+        "reading": "そういう",
+        "meaning": "such, that kind of"
+      },
+      {
+        "word": "システム",
+        "reading": "システム",
+        "meaning": "system"
+      },
+      {
+        "word": "プロテクト",
+        "reading": "プロテクト",
+        "meaning": "protection, protect"
+      },
+      {
+        "word": "解除",
+        "reading": "かいじょ",
+        "meaning": "release, cancellation, deactivation"
+      },
+      {
+        "word": "コア",
+        "reading": "コア",
+        "meaning": "core"
+      },
+      {
+        "word": "辿り着く",
+        "reading": "たどりつく",
+        "meaning": "to arrive at, to reach"
+      }
+    ],
+    "grammar": "か - sentence-ending particle expressing realization; 〜しないと - if I don't do ~; 〜ない - potential negative form, 'can't ~'"
+  },
+  {
+    "start": "07:09:37",
+    "end": "07:09:41",
+    "text": "そういう仕組みか",
+    "audio_file": "clip_008.mp3",
+    "translation": "So that's the mechanism.",
+    "vocabulary": [
+      {
+        "word": "そういう",
+        "reading": "そういう",
+        "meaning": "such, that kind of"
+      },
+      {
+        "word": "仕組み",
+        "reading": "しくみ",
+        "meaning": "mechanism, structure, system"
+      }
+    ],
+    "grammar": "か - sentence-ending particle expressing realization or confirmation"
+  },
+  {
+    "start": "07:10:55",
+    "end": "07:11:02",
+    "text": "車室 / あのでかい構造物は何かの発車台なんだ",
+    "audio_file": "clip_009.mp3",
+    "translation": "The hangar... / That huge structure is some kind of launch pad.",
+    "vocabulary": [
+      {
+        "word": "車室",
+        "reading": "しゃしつ",
+        "meaning": "hangar, vehicle room"
+      },
+      {
+        "word": "でかい",
+        "reading": "でかい",
+        "meaning": "huge, big (colloquial)"
+      },
+      {
+        "word": "構造物",
+        "reading": "こうぞうぶつ",
+        "meaning": "structure, construction"
+      },
+      {
+        "word": "何か",
+        "reading": "なにか",
+        "meaning": "something, some kind of"
+      },
+      {
+        "word": "発車台",
+        "reading": "はっしゃだい",
+        "meaning": "launch pad, launching platform"
+      }
+    ],
+    "grammar": "なんだ (nanda) - explanatory copula, 'it is that ~' (casual/masculine)"
+  },
+  {
+    "start": "07:11:02",
+    "end": "07:11:06",
+    "text": "あれだけの施設 / 宇宙に向けて",
+    "audio_file": "clip_010.mp3",
+    "translation": "A facility that large... / aimed at space.",
+    "vocabulary": [
+      {
+        "word": "あれだけ",
+        "reading": "あれだけ",
+        "meaning": "that much, to that extent"
+      },
+      {
+        "word": "施設",
+        "reading": "しせつ",
+        "meaning": "facility, installation"
+      },
+      {
+        "word": "宇宙",
+        "reading": "うちゅう",
+        "meaning": "space, universe"
+      },
+      {
+        "word": "向ける",
+        "reading": "むける",
+        "meaning": "to turn toward, to aim at"
+      }
+    ],
+    "grammar": "に向けて (ni mukete) - directed toward, aimed at"
+  },
+  {
+    "start": "07:11:06",
+    "end": "07:11:09",
+    "text": "まさか月面の人類サーバーを狙った",
+    "audio_file": "clip_011.mp3",
+    "translation": "Don't tell me it's targeting the human server on the moon...",
+    "vocabulary": [
+      {
+        "word": "まさか",
+        "reading": "まさか",
+        "meaning": "no way, surely not, don't tell me"
+      },
+      {
+        "word": "月面",
+        "reading": "げつめん",
+        "meaning": "lunar surface, surface of the moon"
+      },
+      {
+        "word": "人類",
+        "reading": "じんるい",
+        "meaning": "humanity, mankind"
+      },
+      {
+        "word": "サーバー",
+        "reading": "サーバー",
+        "meaning": "server"
+      },
+      {
+        "word": "狙う",
+        "reading": "ねらう",
+        "meaning": "to target, to aim at"
+      }
+    ],
+    "grammar": "まさか - used to express disbelief or unwillingness to believe something; 狙った - past tense of 狙う (to target)"
+  },
+  {
+    "start": "07:11:10",
+    "end": "07:11:16",
+    "text": "大砲 / 情報義足に立て / 否定無行程も深いので / くそ",
+    "audio_file": "clip_012.mp3",
+    "translation": "A cannon... / Transmit information immediately. / The denial process is too deep. / Damn it.",
+    "vocabulary": [
+      {
+        "word": "大砲",
+        "reading": "たいほう",
+        "meaning": "cannon, artillery"
+      },
+      {
+        "word": "情報",
+        "reading": "じょうほう",
+        "meaning": "information"
+      },
+      {
+        "word": "義足",
+        "reading": "ぎそく",
+        "meaning": "artificial leg, prosthetic (possibly garbled/機速 'immediately')"
+      },
+      {
+        "word": "立てる",
+        "reading": "たてる",
+        "meaning": "to set up, to establish, to transmit"
+      },
+      {
+        "word": "否定",
+        "reading": "ひてい",
+        "meaning": "denial, negation"
+      },
+      {
+        "word": "無",
+        "reading": "む",
+        "meaning": "nothing, without"
+      },
+      {
+        "word": "行程",
+        "reading": "こうてい",
+        "meaning": "process, course"
+      },
+      {
+        "word": "深い",
+        "reading": "ふかい",
+        "meaning": "deep"
+      }
+    ],
+    "grammar": "に立て - imperative form 'transmit to ~'; ので - because, so; くそ - vulgar expletive 'damn'"
+  },
+  {
+    "start": "07:12:29",
+    "end": "07:12:38",
+    "text": "ヨルハ部隊のブラックボックス回路が機械生命体のコアでできてる / そんなバカな",
+    "audio_file": "clip_013.mp3",
+    "translation": "The YoRHa unit's black box circuit is made from machine lifeform cores... / That's ridiculous.",
+    "vocabulary": [
+      {
+        "word": "ヨルハ",
+        "reading": "ヨルハ",
+        "meaning": "YoRHa (proper noun - android force)"
+      },
+      {
+        "word": "部隊",
+        "reading": "ぶたい",
+        "meaning": "unit, force, corps"
+      },
+      {
+        "word": "ブラックボックス",
+        "reading": "ブラックボックス",
+        "meaning": "black box"
+      },
+      {
+        "word": "回路",
+        "reading": "かいろ",
+        "meaning": "circuit"
+      },
+      {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning": "machine, mechanical"
+      },
+      {
+        "word": "生命体",
+        "reading": "せいめいたい",
+        "meaning": "life form, living organism"
+      },
+      {
+        "word": "コア",
+        "reading": "コア",
+        "meaning": "core"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "meaning": "to be made of, to be composed of"
+      },
+      {
+        "word": "バカ",
+        "reading": "バカ",
+        "meaning": "stupid, absurd, ridiculous"
+      }
+    ],
+    "grammar": "でできてる - contraction of でできている (made from/of); そんな - such a, that kind of"
+  },
+  {
+    "start": "07:12:39",
+    "end": "07:12:44",
+    "text": "そんなことあるはずない",
+    "audio_file": "clip_014.mp3",
+    "translation": "That can't be true. There's no way that's possible.",
+    "vocabulary": [
+      {
+        "word": "そんな",
+        "reading": "そんな",
+        "meaning": "such, that kind of"
+      },
+      {
+        "word": "こと",
+        "reading": "こと",
+        "meaning": "thing, matter"
+      },
+      {
+        "word": "ある",
+        "reading": "ある",
+        "meaning": "to exist, to be"
+      },
+      {
+        "word": "はず",
+        "reading": "はず",
+        "meaning": "expectation, should be"
+      }
+    ],
+    "grammar": "はずない - there's no way that ~, it can't be that ~; strong denial of possibility"
+  },
+  {
+    "start": "07:13:12",
+    "end": "07:13:23",
+    "text": "あれ…なんだこれ…体が…これは…僕の記憶…どうして…",
+    "audio_file": "clip_015.mp3",
+    "translation": "Huh? What's this... My body... This is... my memory... Why...?",
+    "vocabulary": [
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "meaning": "huh? (expression of surprise)"
+      },
+      {
+        "word": "なんだ",
+        "reading": "なんだ",
+        "meaning": "what is (casual)"
+      },
+      {
+        "word": "体",
+        "reading": "からだ",
+        "meaning": "body"
+      },
+      {
+        "word": "僕",
+        "reading": "ぼく",
+        "meaning": "I, me (masculine, humble)"
+      },
+      {
+        "word": "記憶",
+        "reading": "きおく",
+        "meaning": "memory"
+      },
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "meaning": "why, how come"
+      }
+    ],
+    "grammar": "Elliptical sentences expressing confusion and surprise; の - possessive particle"
+  },
+  {
+    "start": "07:13:41",
+    "end": "07:13:44",
+    "text": "2Bのデータ…",
+    "audio_file": "clip_016.mp3",
+    "translation": "2B's data...",
+    "vocabulary": [
+      {
+        "word": "データ",
+        "reading": "データ",
+        "meaning": "data"
+      }
+    ],
+    "grammar": "の - possessive particle indicating '2B's'"
+  },
+  {
+    "start": "07:13:48",
+    "end": "07:13:53",
+    "text": "これが思い出だとしても…",
+    "audio_file": "clip_017.mp3",
+    "translation": "Even if these are memories...",
+    "vocabulary": [
+      {
+        "word": "これ",
+        "reading": "これ",
+        "meaning": "this"
+      },
+      {
+        "word": "思い出",
+        "reading": "おもいで",
+        "meaning": "memory, recollection"
+      }
+    ],
+    "grammar": "だとしても - even if ~, even though ~; conditional + concessive meaning"
+  },
+  {
+    "start": "07:13:53",
+    "end": "07:13:56",
+    "text": "僕は…",
+    "audio_file": "clip_018.mp3",
+    "translation": "I...",
+    "vocabulary": [
+      {
+        "word": "僕",
+        "reading": "ぼく",
+        "meaning": "I, me (masculine, humble)"
+      }
+    ],
+    "grammar": "は - topic marker; sentence trails off expressing inner turmoil"
+  },
+  {
+    "start": "07:13:59",
+    "end": "07:14:02",
+    "text": "やめろ…",
+    "audio_file": "clip_019.mp3",
+    "translation": "Stop...",
+    "vocabulary": [
+      {
+        "word": "やめる",
+        "reading": "やめる",
+        "meaning": "to stop, to quit, to cease"
+      }
+    ],
+    "grammar": "やめろ - imperative/command form of やめる (stop!)"
+  },
+  {
+    "start": "07:14:02",
+    "end": "07:14:05",
+    "text": "やめろ…",
+    "audio_file": "clip_020.mp3",
+    "translation": "Stop...",
+    "vocabulary": [
+      {
+        "word": "やめる",
+        "reading": "やめる",
+        "meaning": "to stop, to quit, to cease"
+      }
+    ],
+    "grammar": "やめろ - imperative/command form of やめる (stop!)"
+  },
+  {
+    "start": "07:14:05",
+    "end": "07:14:10",
+    "text": "やめろー!",
+    "audio_file": "clip_021.mp3",
+    "translation": "STOP!",
+    "vocabulary": [
+      {
+        "word": "やめる",
+        "reading": "やめる",
+        "meaning": "to stop, to quit, to cease"
+      }
+    ],
+    "grammar": "やめろ - imperative/command form with elongated vowel for emphasis and emotion"
+  },
+  {
+    "start": "07:14:15",
+    "end": "07:14:21",
+    "text": "僕の記憶に / 勝手に入ってくるな",
+    "audio_file": "clip_022.mp3",
+    "translation": "Don't / enter my memories without permission!",
+    "vocabulary": [
+      {
+        "word": "僕",
+        "reading": "ぼく",
+        "meaning": "I, me (masculine, humble)"
+      },
+      {
+        "word": "記憶",
+        "reading": "きおく",
+        "meaning": "memory"
+      },
+      {
+        "word": "勝手に",
+        "reading": "かってに",
+        "meaning": "without permission, arbitrarily, on one's own"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "meaning": "to enter, to go in"
+      }
+    ],
+    "grammar": "に - directional particle 'into'; 入ってくる - to come in/enter (toward speaker); な - negative imperative 'don't ~'"
+  },
+  {
+    "start": "07:14:22",
+    "end": "07:14:26",
+    "text": "これは僕らが殺してやる",
+    "audio_file": "clip_023.mp3",
+    "translation": "I'll kill you for this!",
+    "vocabulary": [
+      {
+        "word": "これ",
+        "reading": "これ",
+        "meaning": "this"
+      },
+      {
+        "word": "僕ら",
+        "reading": "ぼくら",
+        "meaning": "we, us (masculine)"
+      },
+      {
+        "word": "殺す",
+        "reading": "ころす",
+        "meaning": "to kill"
+      }
+    ],
+    "grammar": "が - subject marker emphasizing 僕ら; 殺してやる - 'I'll kill (you)'; てやる adds hostile or emphatic intent"
+  },
+  {
+    "start": "07:14:31",
+    "end": "07:14:38",
+    "text": "僕ら / 僕の記憶を",
+    "audio_file": "clip_024.mp3",
+    "translation": "We... / my memories...",
+    "vocabulary": [
+      {
+        "word": "僕ら",
+        "reading": "ぼくら",
+        "meaning": "we, us (masculine)"
+      },
+      {
+        "word": "僕",
+        "reading": "ぼく",
+        "meaning": "I, me (masculine, humble)"
+      },
+      {
+        "word": "記憶",
+        "reading": "きおく",
+        "meaning": "memory"
+      }
+    ],
+    "grammar": "を - object marker; fragmented speech expressing emotional distress"
+  },
+  {
+    "start": "07:15:07",
+    "end": "07:15:10",
+    "text": "あははははは",
+    "audio_file": "clip_025.mp3",
+    "translation": "Ahahahaha",
+    "vocabulary": [],
+    "grammar": "Laughter vocalization; no linguistic content"
+  }
+]

@@ -1,0 +1,880 @@
+[
+  {
+    "start": "05:55:53",
+    "end": "05:55:56",
+    "text": "あっ",
+    "audio_file": "clip_000.mp3",
+    "translation": "Ah!",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "05:55:58",
+    "end": "05:56:02",
+    "text": "チパー",
+    "audio_file": "clip_001.mp3",
+    "translation": "Chipper!",
+    "vocabulary": [
+      {
+        "word": "チパー",
+        "reading": "チパー",
+        "meaning": "Chipper (character name/exclamation)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:56:19",
+    "end": "05:56:22",
+    "text": "これで…",
+    "audio_file": "clip_002.mp3",
+    "translation": "With this...",
+    "vocabulary": [
+      {
+        "word": "これで",
+        "reading": "これで",
+        "meaning": "with this, now"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:56:22",
+    "end": "05:56:24",
+    "text": "全部",
+    "audio_file": "clip_003.mp3",
+    "translation": "Everything.",
+    "vocabulary": [
+      {
+        "word": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "everything, all"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:56:46",
+    "end": "05:56:49",
+    "text": "失敗しちゃった",
+    "audio_file": "clip_004.mp3",
+    "translation": "I failed.",
+    "vocabulary": [
+      {
+        "word": "失敗",
+        "reading": "しっぱい",
+        "meaning": "failure, to fail"
+      }
+    ],
+    "grammar": "しちゃった is the casual past form of してしまった, expressing regret or an unintended outcome"
+  },
+  {
+    "start": "05:56:55",
+    "end": "05:57:04",
+    "text": "イヴのネットワーク分離時に物理汚染されちゃったみたい",
+    "audio_file": "clip_005.mp3",
+    "translation": "It seems I was physically contaminated when separating from Eve's network.",
+    "vocabulary": [
+      {
+        "word": "ネットワーク",
+        "reading": "ネットワーク",
+        "meaning": "network"
+      },
+      {
+        "word": "分離",
+        "reading": "ぶんり",
+        "meaning": "separation, isolation"
+      },
+      {
+        "word": "時",
+        "reading": "じ",
+        "meaning": "time, when"
+      },
+      {
+        "word": "物理",
+        "reading": "ぶつり",
+        "meaning": "physical, physics"
+      },
+      {
+        "word": "汚染",
+        "reading": "おせん",
+        "meaning": "contamination, pollution"
+      }
+    ],
+    "grammar": "されちゃった is casual passive past of されてしまった; みたい indicates conjecture/appearance"
+  },
+  {
+    "start": "05:57:05",
+    "end": "05:57:09",
+    "text": "そんな / 大丈夫",
+    "audio_file": "clip_006.mp3",
+    "translation": "No way... It's alright.",
+    "vocabulary": [
+      {
+        "word": "そんな",
+        "reading": "そんな",
+        "meaning": "such, that kind of; expression of disbelief"
+      },
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "alright, okay, safe"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:57:10",
+    "end": "05:57:14",
+    "text": "バンカーにあるデータで巻き戻ることができるから",
+    "audio_file": "clip_007.mp3",
+    "translation": "Because you can be rolled back with the data in the Bunker.",
+    "vocabulary": [
+      {
+        "word": "バンカー",
+        "reading": "バンカー",
+        "meaning": "bunker (the orbital base)"
+      },
+      {
+        "word": "データ",
+        "reading": "データ",
+        "meaning": "data"
+      },
+      {
+        "word": "巻き戻る",
+        "reading": "まきもどる",
+        "meaning": "to rewind, to roll back"
+      }
+    ],
+    "grammar": "ことができる expresses ability/possibility"
+  },
+  {
+    "start": "05:57:15",
+    "end": "05:57:19",
+    "text": "でもそれじゃ今の君は戻ってこない",
+    "audio_file": "clip_008.mp3",
+    "translation": "But with that, the current you won't come back.",
+    "vocabulary": [
+      {
+        "word": "それじゃ",
+        "reading": "それじゃ",
+        "meaning": "with that, in that case"
+      },
+      {
+        "word": "今",
+        "reading": "いま",
+        "meaning": "now, current"
+      },
+      {
+        "word": "君",
+        "reading": "きみ",
+        "meaning": "you (informal)"
+      },
+      {
+        "word": "戻ってこない",
+        "reading": "もどってこない",
+        "meaning": "won't come back, won't return"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "05:57:20",
+    "end": "05:57:22",
+    "text": "そうだね",
+    "audio_file": "clip_009.mp3",
+    "translation": "That's right.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "05:57:22",
+    "end": "05:57:29",
+    "text": "汚染データをバンカーにアップロードするわけにも",
+    "audio_file": "clip_010.mp3",
+    "translation": "I can't upload contaminated data to the Bunker either.",
+    "vocabulary": [
+      {
+        "word": "汚染",
+        "reading": "おせん",
+        "meaning": "contamination, pollution"
+      },
+      {
+        "word": "データ",
+        "reading": "データ",
+        "meaning": "data"
+      },
+      {
+        "word": "アップロード",
+        "reading": "アップロード",
+        "meaning": "upload"
+      },
+      {
+        "word": "わけにもいかない",
+        "reading": "わけにもいかない",
+        "meaning": "cannot do, unable to do (implies moral/practical impossibility)"
+      }
+    ],
+    "grammar": "わけにもいかない expresses that something cannot be done due to circumstances or moral reasons; も adds emphasis"
+  },
+  {
+    "start": "05:57:29",
+    "end": "05:57:31",
+    "text": "いかないか",
+    "audio_file": "clip_011.mp3",
+    "translation": "Can't, huh.",
+    "vocabulary": [],
+    "grammar": "Continuation of previous sentence; か expresses reflection/confirmation"
+  },
+  {
+    "start": "05:57:33",
+    "end": "05:57:40",
+    "text": "ないいえさ / まだ",
+    "audio_file": "clip_012.mp3",
+    "translation": "No... Not yet.",
+    "vocabulary": [
+      {
+        "word": "まだ",
+        "reading": "まだ",
+        "meaning": "not yet, still"
+      }
+    ],
+    "grammar": "ないいえさ appears to be garbled/corrupted audio transcription"
+  },
+  {
+    "start": "05:57:40",
+    "end": "05:57:45",
+    "text": "你看 / 对 / 这边",
+    "audio_file": "clip_013.mp3",
+    "translation": "Look / Right / This way",
+    "vocabulary": [],
+    "grammar": "This appears to be Chinese text, not Japanese. Likely corrupted/garbled audio or data corruption representing degraded speech"
+  },
+  {
+    "start": "05:57:46",
+    "end": "05:57:50",
+    "text": "我可 / 是你都",
+    "audio_file": "clip_014.mp3",
+    "translation": "[Corrupted data]",
+    "vocabulary": [],
+    "grammar": "Chinese text, likely representing corrupted/degraded speech as data deteriorates"
+  },
+  {
+    "start": "05:57:50",
+    "end": "05:57:53",
+    "text": "在",
+    "audio_file": "clip_015.mp3",
+    "translation": "[Corrupted data]",
+    "vocabulary": [],
+    "grammar": "Chinese character, likely representing corrupted/degraded speech"
+  },
+  {
+    "start": "05:59:55",
+    "end": "06:00:00",
+    "text": "まだ残ってるのか",
+    "audio_file": "clip_016.mp3",
+    "translation": "You're still here?",
+    "vocabulary": [
+      {
+        "word": "残る",
+        "reading": "のこる",
+        "meaning": "to remain, to be left"
+      }
+    ],
+    "grammar": "残ってる is the contracted form of 残っている; のか is a questioning particle"
+  },
+  {
+    "start": "06:00:10",
+    "end": "06:00:15",
+    "text": "こんな機械",
+    "audio_file": "clip_017.mp3",
+    "translation": "This machine...",
+    "vocabulary": [
+      {
+        "word": "こんな",
+        "reading": "こんな",
+        "meaning": "this kind of, such"
+      },
+      {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning": "machine, machinery"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:00:21",
+    "end": "06:00:24",
+    "text": "これは通信?",
+    "audio_file": "clip_018.mp3",
+    "translation": "Is this communication?",
+    "vocabulary": [
+      {
+        "word": "通信",
+        "reading": "つうしん",
+        "meaning": "communication, transmission"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:00:24",
+    "end": "06:00:28",
+    "text": "データ信号が共鳴しあって",
+    "audio_file": "clip_019.mp3",
+    "translation": "The data signals are resonating with each other.",
+    "vocabulary": [
+      {
+        "word": "データ",
+        "reading": "データ",
+        "meaning": "data"
+      },
+      {
+        "word": "信号",
+        "reading": "しんごう",
+        "meaning": "signal"
+      },
+      {
+        "word": "共鳴",
+        "reading": "きょうめい",
+        "meaning": "resonance, sympathy"
+      },
+      {
+        "word": "しあう",
+        "reading": "しあう",
+        "meaning": "to do mutually, to do with each other"
+      }
+    ],
+    "grammar": "しあって is the te-form of しあう (compound verb with 合う indicating mutual action)"
+  },
+  {
+    "start": "06:01:01",
+    "end": "06:01:05",
+    "text": "ちょっと待って2B / 君は",
+    "audio_file": "clip_020.mp3",
+    "translation": "Wait a minute, 2B. You...",
+    "vocabulary": [
+      {
+        "word": "ちょっと",
+        "reading": "ちょっと",
+        "meaning": "a little, wait"
+      },
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      },
+      {
+        "word": "君",
+        "reading": "きみ",
+        "meaning": "you (informal)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:01:05",
+    "end": "06:01:09",
+    "text": "僕パーソナルデータを機械生命体側に残していたみたいで",
+    "audio_file": "clip_021.mp3",
+    "translation": "It seems I left my personal data on the machine lifeform side.",
+    "vocabulary": [
+      {
+        "word": "僕",
+        "reading": "ぼく",
+        "meaning": "I, me (masculine, casual)"
+      },
+      {
+        "word": "パーソナルデータ",
+        "reading": "パーソナルデータ",
+        "meaning": "personal data"
+      },
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      },
+      {
+        "word": "側",
+        "reading": "がわ",
+        "meaning": "side"
+      },
+      {
+        "word": "残す",
+        "reading": "のこす",
+        "meaning": "to leave behind"
+      }
+    ],
+    "grammar": "残していた is the past progressive of 残す; みたいで indicates conjecture/appearance"
+  },
+  {
+    "start": "06:01:10",
+    "end": "06:01:13",
+    "text": "なんか気づいたら周囲のネットワークの上で自我が再形成されたんだ",
+    "audio_file": "clip_022.mp3",
+    "translation": "Somehow when I came to, my ego had been reformed on the surrounding network.",
+    "vocabulary": [
+      {
+        "word": "なんか",
+        "reading": "なんか",
+        "meaning": "somehow, something like"
+      },
+      {
+        "word": "気づく",
+        "reading": "きづく",
+        "meaning": "to notice, to realize"
+      },
+      {
+        "word": "周囲",
+        "reading": "しゅうい",
+        "meaning": "surroundings, vicinity"
+      },
+      {
+        "word": "ネットワーク",
+        "reading": "ネットワーク",
+        "meaning": "network"
+      },
+      {
+        "word": "上",
+        "reading": "うえ",
+        "meaning": "on, above"
+      },
+      {
+        "word": "自我",
+        "reading": "じが",
+        "meaning": "ego, self"
+      },
+      {
+        "word": "再形成",
+        "reading": "さいけいせい",
+        "meaning": "reformation, reshaping"
+      }
+    ],
+    "grammar": "気づいたら is a conditional expressing 'when I noticed/came to'; されたんだ emphasizes explanation"
+  },
+  {
+    "start": "06:01:14",
+    "end": "06:01:18",
+    "text": "こうやって複数の自我が統合されていくのは貴重な体験だから記録しておきたいんだけど",
+    "audio_file": "clip_023.mp3",
+    "translation": "Having multiple egos integrate like this is a valuable experience, so I want to record it, but...",
+    "vocabulary": [
+      {
+        "word": "こうやって",
+        "reading": "こうやって",
+        "meaning": "like this, in this way"
+      },
+      {
+        "word": "複数",
+        "reading": "ふくすう",
+        "meaning": "multiple, plural"
+      },
+      {
+        "word": "自我",
+        "reading": "じが",
+        "meaning": "ego, self"
+      },
+      {
+        "word": "統合",
+        "reading": "とうごう",
+        "meaning": "integration, unification"
+      },
+      {
+        "word": "貴重",
+        "reading": "きちょう",
+        "meaning": "valuable, precious"
+      },
+      {
+        "word": "体験",
+        "reading": "たいけん",
+        "meaning": "experience"
+      },
+      {
+        "word": "記録",
+        "reading": "きろく",
+        "meaning": "record, documentation"
+      }
+    ],
+    "grammar": "されていく indicates ongoing progressive change; のは nominalizes the clause; ておきたい expresses desire to do something in preparation"
+  },
+  {
+    "start": "06:01:19",
+    "end": "06:01:26",
+    "text": "まだ保存領域へのアクセスができてなくて / とりあえずこの辺りにある敵のメモリーに多重化して保存しておいた後に / 僕が自分のボディに戻れない",
+    "audio_file": "clip_024.mp3",
+    "translation": "I still can't access the storage area, so for now, after multiplexing and saving it in the enemy's memory around here... I can't return to my body.",
+    "vocabulary": [
+      {
+        "word": "保存",
+        "reading": "ほぞん",
+        "meaning": "preservation, storage, saving"
+      },
+      {
+        "word": "領域",
+        "reading": "りょういき",
+        "meaning": "area, domain, region"
+      },
+      {
+        "word": "アクセス",
+        "reading": "アクセス",
+        "meaning": "access"
+      },
+      {
+        "word": "とりあえず",
+        "reading": "とりあえず",
+        "meaning": "for now, temporarily"
+      },
+      {
+        "word": "辺り",
+        "reading": "あたり",
+        "meaning": "vicinity, area around"
+      },
+      {
+        "word": "敵",
+        "reading": "てき",
+        "meaning": "enemy"
+      },
+      {
+        "word": "メモリー",
+        "reading": "メモリー",
+        "meaning": "memory"
+      },
+      {
+        "word": "多重化",
+        "reading": "たじゅうか",
+        "meaning": "multiplexing, redundancy"
+      },
+      {
+        "word": "ボディ",
+        "reading": "ボディ",
+        "meaning": "body"
+      },
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "to return"
+      }
+    ],
+    "grammar": "できてなくて is casual negative progressive of できている; ておいた expresses completed preparation; 戻れない is potential negative form"
+  },
+  {
+    "start": "06:01:27",
+    "end": "06:01:31",
+    "text": "イエス / よかった",
+    "audio_file": "clip_025.mp3",
+    "translation": "Yes... Thank goodness.",
+    "vocabulary": [
+      {
+        "word": "よかった",
+        "reading": "よかった",
+        "meaning": "thank goodness, I'm glad (past form of いい/よい)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:01:31",
+    "end": "06:01:34",
+    "text": "うん",
+    "audio_file": "clip_026.mp3",
+    "translation": "Yeah.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "06:01:44",
+    "end": "06:01:49",
+    "text": "こうやって / アダムとイブを巡る / 最後の戦いは終わった",
+    "audio_file": "clip_027.mp3",
+    "translation": "And so, the final battle surrounding Adam and Eve ended.",
+    "vocabulary": [
+      {
+        "word": "こうやって",
+        "reading": "こうやって",
+        "meaning": "like this, in this way"
+      },
+      {
+        "word": "巡る",
+        "reading": "めぐる",
+        "meaning": "to surround, to revolve around, concerning"
+      },
+      {
+        "word": "最後",
+        "reading": "さいご",
+        "meaning": "final, last"
+      },
+      {
+        "word": "戦い",
+        "reading": "たたかい",
+        "meaning": "battle, fight"
+      },
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "meaning": "to end, to finish"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:01:50",
+    "end": "06:02:00",
+    "text": "この戦いは / 戦局に大きな影響をもたらすだろう / 僕と2Bの戦いもこの後まだしばらく続くんだけど",
+    "audio_file": "clip_028.mp3",
+    "translation": "This battle will likely bring great influence to the war situation. The battle between me and 2B will continue for a while after this, but...",
+    "vocabulary": [
+      {
+        "word": "戦い",
+        "reading": "たたかい",
+        "meaning": "battle, fight"
+      },
+      {
+        "word": "戦局",
+        "reading": "せんきょく",
+        "meaning": "war situation, state of the war"
+      },
+      {
+        "word": "大きな",
+        "reading": "おおきな",
+        "meaning": "big, large, great"
+      },
+      {
+        "word": "影響",
+        "reading": "えいきょう",
+        "meaning": "influence, effect"
+      },
+      {
+        "word": "もたらす",
+        "reading": "もたらす",
+        "meaning": "to bring about, to cause"
+      },
+      {
+        "word": "この後",
+        "reading": "このあと",
+        "meaning": "after this"
+      },
+      {
+        "word": "しばらく",
+        "reading": "しばらく",
+        "meaning": "for a while"
+      },
+      {
+        "word": "続く",
+        "reading": "つづく",
+        "meaning": "to continue"
+      }
+    ],
+    "grammar": "だろう expresses conjecture/probability; 続くんだけど uses んだ for explanation and けど to soften/trail off"
+  },
+  {
+    "start": "06:02:01",
+    "end": "06:02:07",
+    "text": "それはまた別の話",
+    "audio_file": "clip_029.mp3",
+    "translation": "But that's another story.",
+    "vocabulary": [
+      {
+        "word": "また",
+        "reading": "また",
+        "meaning": "again, another"
+      },
+      {
+        "word": "別",
+        "reading": "べつ",
+        "meaning": "different, separate"
+      },
+      {
+        "word": "話",
+        "reading": "はなし",
+        "meaning": "story, tale"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "06:02:11",
+    "end": "06:02:17",
+    "text": "思い返せ / 故郷を奪われた苦しみを",
+    "audio_file": "clip_030.mp3",
+    "translation": "Remember the suffering of having your homeland stolen.",
+    "vocabulary": [
+      {
+        "word": "思い返す",
+        "reading": "おもいかえす",
+        "meaning": "to recall, to remember"
+      },
+      {
+        "word": "故郷",
+        "reading": "こきょう",
+        "meaning": "hometown, homeland"
+      },
+      {
+        "word": "奪う",
+        "reading": "うばう",
+        "meaning": "to steal, to rob, to snatch"
+      },
+      {
+        "word": "苦しみ",
+        "reading": "くるしみ",
+        "meaning": "suffering, pain, agony"
+      }
+    ],
+    "grammar": "思い返せ is the imperative form; 奪われた is passive past tense"
+  },
+  {
+    "start": "06:02:18",
+    "end": "06:02:24",
+    "text": "我々は諦めはしない / 海を空を大地を",
+    "audio_file": "clip_031.mp3",
+    "translation": "We will not give up. The seas, the skies, the land...",
+    "vocabulary": [
+      {
+        "word": "我々",
+        "reading": "われわれ",
+        "meaning": "we, us"
+      },
+      {
+        "word": "諦める",
+        "reading": "あきらめる",
+        "meaning": "to give up, to abandon"
+      },
+      {
+        "word": "海",
+        "reading": "うみ",
+        "meaning": "sea, ocean"
+      },
+      {
+        "word": "空",
+        "reading": "そら",
+        "meaning": "sky"
+      },
+      {
+        "word": "大地",
+        "reading": "だいち",
+        "meaning": "earth, land, ground"
+      }
+    ],
+    "grammar": "はしない is emphatic negative (強調); を marks each object in a list"
+  },
+  {
+    "start": "06:02:25",
+    "end": "06:02:29",
+    "text": "おぞましき機械生命体に奪われた地球を取り戻す",
+    "audio_file": "clip_032.mp3",
+    "translation": "We will take back the Earth that was stolen by the abominable machine lifeforms.",
+    "vocabulary": [
+      {
+        "word": "おぞましき",
+        "reading": "おぞましき",
+        "meaning": "abominable, detestable (archaic form)"
+      },
+      {
+        "word": "機械生命体",
+        "reading": "きかいせいめいたい",
+        "meaning": "machine lifeform"
+      },
+      {
+        "word": "奪う",
+        "reading": "うばう",
+        "meaning": "to steal, to rob"
+      },
+      {
+        "word": "地球",
+        "reading": "ちきゅう",
+        "meaning": "Earth"
+      },
+      {
+        "word": "取り戻す",
+        "reading": "とりもどす",
+        "meaning": "to take back, to reclaim"
+      }
+    ],
+    "grammar": "おぞましき is the classical attributive form of おぞましい; 奪われた is passive past modifying 地球"
+  },
+  {
+    "start": "06:02:30",
+    "end": "06:02:35",
+    "text": "本作戦の成功をもって / 今ここでこの戦争を終わらせるのだ",
+    "audio_file": "clip_033.mp3",
+    "translation": "With the success of this operation, we will end this war here and now.",
+    "vocabulary": [
+      {
+        "word": "本作戦",
+        "reading": "ほんさくせん",
+        "meaning": "this operation, main operation"
+      },
+      {
+        "word": "成功",
+        "reading": "せいこう",
+        "meaning": "success"
+      },
+      {
+        "word": "をもって",
+        "reading": "をもって",
+        "meaning": "with, by means of"
+      },
+      {
+        "word": "戦争",
+        "reading": "せんそう",
+        "meaning": "war"
+      },
+      {
+        "word": "終わらせる",
+        "reading": "おわらせる",
+        "meaning": "to end, to finish (causative)"
+      }
+    ],
+    "grammar": "をもって indicates means/method; のだ adds emphasis and determination"
+  },
+  {
+    "start": "06:02:36",
+    "end": "06:02:39",
+    "text": "人類に栄光あれ",
+    "audio_file": "clip_034.mp3",
+    "translation": "Glory to mankind.",
+    "vocabulary": [
+      {
+        "word": "人類",
+        "reading": "じんるい",
+        "meaning": "humanity, mankind"
+      },
+      {
+        "word": "栄光",
+        "reading": "えいこう",
+        "meaning": "glory"
+      },
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "meaning": "may there be (archaic subjunctive)"
+      }
+    ],
+    "grammar": "あれ is the classical subjunctive/imperative form expressing a wish or prayer"
+  },
+  {
+    "start": "06:02:40",
+    "end": "06:02:46",
+    "text": "人類に栄光あれ",
+    "audio_file": "clip_035.mp3",
+    "translation": "Glory to mankind.",
+    "vocabulary": [
+      {
+        "word": "人類",
+        "reading": "じんるい",
+        "meaning": "humanity, mankind"
+      },
+      {
+        "word": "栄光",
+        "reading": "えいこう",
+        "meaning": "glory"
+      },
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "meaning": "may there be (archaic subjunctive)"
+      }
+    ],
+    "grammar": "あれ is the classical subjunctive/imperative form expressing a wish or prayer"
+  }
+]
