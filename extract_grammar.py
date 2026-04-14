@@ -139,6 +139,7 @@ def main():
         ('Nier Replicant', BASE_DIR / 'nier'),
         ('Nier Automata', BASE_DIR / 'nier_automata'),
         ('Final Fantasy Tactics', BASE_DIR / 'fft'),
+        ('Death Note', BASE_DIR / 'deathnote'),
     ]
 
     for name, game_dir in games:
