@@ -416,7 +416,7 @@
     </div>
 
     <div class="keyboard-hints" id="keyboardHints" style="display: none;">
-        <kbd>←</kbd> Previous &nbsp;&nbsp; <kbd>Space</kbd> Reveal/Hide &nbsp;&nbsp; <kbd>→</kbd> Next
+        <kbd>←</kbd> Previous &nbsp;&nbsp; <kbd>Space</kbd> Replay &nbsp;&nbsp; <kbd>Shift</kbd> Reveal/Hide &nbsp;&nbsp; <kbd>→</kbd> Next
     </div>
 
     <div class="swipe-hints" id="swipeHints" style="display: none;">
@@ -609,6 +609,9 @@
                 e.preventDefault();
                 goToNext();
             } else if (e.key === ' ') {
+                e.preventDefault();
+                replayAudio();
+            } else if (e.key === 'Shift') {
                 e.preventDefault();
                 toggleReveal();
             }
