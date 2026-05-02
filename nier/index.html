@@ -108,84 +108,7 @@
         .vocab-item:last-child { border-bottom: none; }
         .vocab-word { font-weight: bold; color: #222; min-width: 100px; font-size: 20px; }
         .vocab-reading { color: #666; min-width: 100px; font-size: 18px; }
-        .vocab-meaning { color: #444; font-size: 17px; flex: 1; }
-
-        /* Clickable vocabulary items */
-        .vocab-item {
-            cursor: pointer;
-            transition: background 0.2s, opacity 0.2s;
-            padding: 10px 8px;
-            border-radius: 6px;
-            margin: 0 -8px;
-        }
-        .vocab-item:hover {
-            background: #f0f0f0;
-        }
-        .vocab-item.known {
-            opacity: 0.5;
-            background: #e8f5e9;
-        }
-        .vocab-item.known:hover {
-            opacity: 0.7;
-            background: #c8e6c9;
-        }
-        .vocab-status {
-            font-size: 16px;
-            min-width: 24px;
-            text-align: center;
-        }
-        .vocab-item.known .vocab-word,
-        .vocab-item.known .vocab-reading,
-        .vocab-item.known .vocab-meaning {
-            text-decoration: line-through;
-            text-decoration-color: #888;
-        }
-
-        /* Difficulty badge */
-        .difficulty-badge {
-            display: inline-block;
-            padding: 4px 10px;
-            border-radius: 12px;
-            font-size: 12px;
-            font-weight: 600;
-            margin-left: 12px;
-        }
-        .difficulty-badge.easy {
-            background: #c8e6c9;
-            color: #2e7d32;
-        }
-        .difficulty-badge.medium {
-            background: #fff3cd;
-            color: #856404;
-        }
-        .difficulty-badge.hard {
-            background: #ffcdd2;
-            color: #c62828;
-        }
-        .difficulty-badge.mastered {
-            background: #e0e0e0;
-            color: #666;
-        }
-
-        /* Stats bar */
-        .stats-bar {
-            text-align: center;
-            padding: 8px 16px;
-            background: #fff;
-            border-radius: 8px;
-            margin-bottom: 16px;
-            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-            font-size: 14px;
-            color: #555;
-        }
-        .stats-bar .stat {
-            display: inline-block;
-            margin: 0 12px;
-        }
-        .stats-bar .stat-value {
-            font-weight: 600;
-            color: #333;
-        }
+        .vocab-meaning { color: #444; font-size: 17px; }
 
         .grammar {
             font-size: 16px;
@@ -306,7 +229,7 @@
 
         /* Mobile replay button */
         .replay-btn {
-            display: block;
+            display: none;
             width: 100%;
             padding: 16px;
             margin-bottom: 20px;
@@ -477,25 +400,6 @@
                 <span class="toggle-slider"></span>
             </div>
         </label>
-        <label>
-            <span>Sort by difficulty</span>
-            <div class="toggle-switch">
-                <input type="checkbox" id="sortByDifficulty" onchange="saveSortByDifficulty()">
-                <span class="toggle-slider"></span>
-            </div>
-        </label>
-        <label>
-            <span>Hide mastered</span>
-            <div class="toggle-switch">
-                <input type="checkbox" id="hideMastered" onchange="saveHideMastered()">
-                <span class="toggle-slider"></span>
-            </div>
-        </label>
-    </div>
-
-    <div class="stats-bar" id="statsBar" style="display: none;">
-        <span class="stat">Known: <span class="stat-value" id="knownCount">0</span> / <span id="totalVocab">0</span> words</span>
-        <span class="stat">Chapter: <span class="stat-value" id="chapterNewWords">0</span> new words</span>
     </div>
 
     <div class="progress-info" id="progressInfo">Select a chapter to begin</div>
@@ -512,7 +416,7 @@
     </div>
 
     <div class="keyboard-hints" id="keyboardHints" style="display: none;">
-        <kbd>←</kbd> Previous &nbsp;&nbsp; <kbd>Space</kbd> Reveal/Hide &nbsp;&nbsp; <kbd>R</kbd> Replay &nbsp;&nbsp; <kbd>→</kbd> Next
+        <kbd>←</kbd> Previous &nbsp;&nbsp; <kbd>Space</kbd> Reveal/Hide &nbsp;&nbsp; <kbd>→</kbd> Next
     </div>
 
     <div class="swipe-hints" id="swipeHints" style="display: none;">
@@ -521,133 +425,13 @@
 
     <script>
         let data = [];
-        let displayData = []; // Filtered/sorted view of data
         let currentIndex = 0;
         let revealed = false;
         let currentChapter = '';
         let showByDefault = localStorage.getItem('nier_show_by_default') === 'true';
-        let sortByDifficulty = localStorage.getItem('nier_sort_by_difficulty') === 'true';
-        let hideMastered = localStorage.getItem('nier_hide_mastered') === 'true';
 
-        // Known words tracking - shared across all Nier games
-        let knownWords = new Set(JSON.parse(localStorage.getItem('nier_known_words') || '[]'));
-        let vocabMaster = null; // Will be loaded from vocabulary_master.json
-
-        // Initialize toggles on page load
+        // Initialize toggle on page load
         document.getElementById('showByDefault').checked = showByDefault;
-        document.getElementById('sortByDifficulty').checked = sortByDifficulty;
-        document.getElementById('hideMastered').checked = hideMastered;
-
-        // Load vocabulary master file
-        fetch('vocabulary_master.json')
-            .then(r => r.json())
-            .then(data => {
-                vocabMaster = data;
-                updateStats();
-            })
-            .catch(() => console.log('vocabulary_master.json not found'));
-
-        function saveKnownWords() {
-            localStorage.setItem('nier_known_words', JSON.stringify([...knownWords]));
-            updateStats();
-        }
-
-        function toggleWordKnown(word) {
-            if (knownWords.has(word)) {
-                knownWords.delete(word);
-            } else {
-                knownWords.add(word);
-            }
-            saveKnownWords();
-
-            // Just refresh the current card display without resorting or replaying audio
-            showCard(false);
-        }
-
-        function calculateDifficulty(segment) {
-            if (!segment.vocabulary || segment.vocabulary.length === 0) return 9999; // No vocab = sort to end
-            return segment.vocabulary.filter(v => !knownWords.has(v.word)).length;
-        }
-
-        function getDifficultyBadge(unknownCount) {
-            if (unknownCount === 0) return '<span class="difficulty-badge mastered">mastered</span>';
-            if (unknownCount <= 2) return `<span class="difficulty-badge easy">${unknownCount} new</span>`;
-            if (unknownCount <= 4) return `<span class="difficulty-badge medium">${unknownCount} new</span>`;
-            return `<span class="difficulty-badge hard">${unknownCount} new</span>`;
-        }
-
-        function applyFiltersAndSort() {
-            // Start with original data, adding original index
-            displayData = data.map((seg, idx) => ({ ...seg, originalIndex: idx }));
-
-            // Filter out mastered cards if enabled
-            if (hideMastered) {
-                displayData = displayData.filter(seg => calculateDifficulty(seg) > 0);
-            }
-
-            // Sort by difficulty if enabled
-            if (sortByDifficulty) {
-                displayData.sort((a, b) => calculateDifficulty(a) - calculateDifficulty(b));
-            }
-
-            // Update slider
-            const slider = document.getElementById('progressSlider');
-            slider.max = displayData.length || 1;
-            slider.value = Math.min(currentIndex + 1, displayData.length);
-
-            // Ensure currentIndex is valid
-            if (currentIndex >= displayData.length) {
-                currentIndex = Math.max(0, displayData.length - 1);
-            }
-        }
-
-        function saveSortByDifficulty() {
-            sortByDifficulty = document.getElementById('sortByDifficulty').checked;
-            localStorage.setItem('nier_sort_by_difficulty', sortByDifficulty);
-            if (data.length > 0) {
-                currentIndex = 0;
-                applyFiltersAndSort();
-                showCard();
-            }
-        }
-
-        function saveHideMastered() {
-            hideMastered = document.getElementById('hideMastered').checked;
-            localStorage.setItem('nier_hide_mastered', hideMastered);
-            if (data.length > 0) {
-                currentIndex = 0;
-                applyFiltersAndSort();
-                showCard();
-            }
-        }
-
-        function updateStats() {
-            const statsBar = document.getElementById('statsBar');
-            if (!vocabMaster) {
-                statsBar.style.display = 'none';
-                return;
-            }
-
-            statsBar.style.display = 'block';
-            const totalVocab = vocabMaster.vocabulary.length;
-            const knownCount = vocabMaster.vocabulary.filter(v => knownWords.has(v.word)).length;
-
-            document.getElementById('knownCount').textContent = knownCount;
-            document.getElementById('totalVocab').textContent = totalVocab;
-
-            // Calculate chapter new words if data is loaded
-            if (data.length > 0) {
-                const chapterWords = new Set();
-                data.forEach(seg => {
-                    if (seg.vocabulary) {
-                        seg.vocabulary.forEach(v => {
-                            if (!knownWords.has(v.word)) chapterWords.add(v.word);
-                        });
-                    }
-                });
-                document.getElementById('chapterNewWords').textContent = chapterWords.size;
-            }
-        }
 
         function saveShowByDefault() {
             showByDefault = document.getElementById('showByDefault').checked;
@@ -686,23 +470,22 @@
                     data = await response.json();
                 }
 
-                // Apply filters and sorting
-                applyFiltersAndSort();
-
-                // Restore position (but reset if filters changed the view)
-                if (!sortByDifficulty && !hideMastered) {
-                    const saved = localStorage.getItem(`nier_position_${chapter}`);
-                    if (saved) {
-                        currentIndex = Math.min(parseInt(saved), displayData.length - 1);
-                    }
+                // Restore position
+                const saved = localStorage.getItem(`nier_position_${chapter}`);
+                if (saved) {
+                    currentIndex = Math.min(parseInt(saved), data.length - 1);
                 }
 
                 document.getElementById('navButtons').style.display = 'flex';
                 document.getElementById('keyboardHints').style.display = 'block';
                 document.getElementById('swipeHints').style.display = 'block';
+
+                // Setup slider
+                const slider = document.getElementById('progressSlider');
+                slider.max = data.length;
+                slider.value = currentIndex + 1;
                 document.getElementById('sliderContainer').classList.add('visible');
 
-                updateStats();
                 showCard();
             } catch (e) {
                 document.getElementById('cardContainer').innerHTML =
@@ -711,27 +494,16 @@
             }
         }
 
-        function showCard(autoplay = true) {
-            if (displayData.length === 0) {
-                document.getElementById('cardContainer').innerHTML =
-                    '<div class="card"><p>No cards to display. Try turning off "Hide mastered".</p></div>';
-                document.getElementById('progressInfo').textContent = 'No cards available';
-                return;
-            }
+        function showCard() {
+            if (data.length === 0) return;
 
-            const card = displayData[currentIndex];
+            const card = data[currentIndex];
             revealed = false;
 
-            // Save position using original index if not using filters
-            if (!sortByDifficulty && !hideMastered) {
-                localStorage.setItem(`nier_position_${currentChapter}`, currentIndex);
-            }
-
-            const unknownCount = calculateDifficulty(card);
-            const difficultyBadge = getDifficultyBadge(unknownCount);
+            localStorage.setItem(`nier_position_${currentChapter}`, currentIndex);
 
             const progressEl = document.getElementById('progressInfo');
-            progressEl.innerHTML = `Card ${currentIndex + 1} of ${displayData.length} ${difficultyBadge}`;
+            progressEl.textContent = `Card ${currentIndex + 1} of ${data.length}`;
 
             // Trigger counter pulse animation
             progressEl.classList.remove('pulse');
@@ -742,20 +514,14 @@
             if (card.vocabulary && card.vocabulary.length > 0) {
                 vocabHtml = `
                     <div class="vocab-section" id="vocabSection">
-                        <h3>Vocabulary (click to mark as known)</h3>
-                        ${card.vocabulary.map(v => {
-                            const isKnown = knownWords.has(v.word);
-                            const knownClass = isKnown ? 'known' : '';
-                            const statusIcon = isKnown ? '✓' : '○';
-                            return `
-                                <div class="vocab-item ${knownClass}" onclick="toggleWordKnown('${v.word.replace(/'/g, "\\'")}')">
-                                    <span class="vocab-status">${statusIcon}</span>
-                                    <span class="vocab-word">${v.word}</span>
-                                    <span class="vocab-reading">${v.reading}</span>
-                                    <span class="vocab-meaning">${v.meaning}</span>
-                                </div>
-                            `;
-                        }).join('')}
+                        <h3>Vocabulary</h3>
+                        ${card.vocabulary.map(v => `
+                            <div class="vocab-item">
+                                <span class="vocab-word">${v.word}</span>
+                                <span class="vocab-reading">${v.reading}</span>
+                                <span class="vocab-meaning">${v.meaning}</span>
+                            </div>
+                        `).join('')}
                     </div>
                 `;
             }
@@ -783,7 +549,7 @@
             `;
 
             document.getElementById('prevBtn').disabled = currentIndex === 0;
-            document.getElementById('nextBtn').disabled = currentIndex === displayData.length - 1;
+            document.getElementById('nextBtn').disabled = currentIndex === data.length - 1;
 
             // Update slider position
             document.getElementById('progressSlider').value = currentIndex + 1;
@@ -805,11 +571,9 @@
                 cardEl.classList.add('highlight');
             }
 
-            if (autoplay) {
-                setTimeout(() => {
-                    document.getElementById('cardAudio').play().catch(() => {});
-                }, 200);
-            }
+            setTimeout(() => {
+                document.getElementById('cardAudio').play().catch(() => {});
+            }, 200);
         }
 
         function toggleReveal() {
@@ -831,7 +595,7 @@
         }
 
         function goToNext() {
-            if (currentIndex < displayData.length - 1) {
+            if (currentIndex < data.length - 1) {
                 currentIndex++;
                 showCard();
             }
@@ -847,16 +611,13 @@
             } else if (e.key === ' ') {
                 e.preventDefault();
                 toggleReveal();
-            } else if (e.key === 'r' || e.key === 'R') {
-                e.preventDefault();
-                replayAudio();
             }
         });
 
         // Slider event handler
         document.getElementById('progressSlider').addEventListener('input', (e) => {
             const newIndex = parseInt(e.target.value) - 1;
-            if (newIndex !== currentIndex && newIndex >= 0 && newIndex < displayData.length) {
+            if (newIndex !== currentIndex && newIndex >= 0 && newIndex < data.length) {
                 currentIndex = newIndex;
                 showCard();
             }

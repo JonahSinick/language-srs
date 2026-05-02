@@ -306,7 +306,7 @@
 
         /* Mobile replay button */
         .replay-btn {
-            display: block;
+            display: none;
             width: 100%;
             padding: 16px;
             margin-bottom: 20px;
@@ -487,7 +487,7 @@
     </div>
 
     <div class="keyboard-hints" id="keyboardHints" style="display: none;">
-        <kbd>←</kbd> Previous &nbsp;&nbsp; <kbd>Space</kbd> Reveal/Hide &nbsp;&nbsp; <kbd>R</kbd> Replay &nbsp;&nbsp; <kbd>→</kbd> Next
+        <kbd>←</kbd> Previous &nbsp;&nbsp; <kbd>Space</kbd> Reveal/Hide &nbsp;&nbsp; <kbd>→</kbd> Next
     </div>
 
     <div class="swipe-hints" id="swipeHints" style="display: none;">
@@ -822,9 +822,6 @@
             } else if (e.key === ' ') {
                 e.preventDefault();
                 toggleReveal();
-            } else if (e.key === 'r' || e.key === 'R') {
-                e.preventDefault();
-                replayAudio();
             }
         });
 
