@@ -46,6 +46,7 @@ DROP_TEXTS = {
 # Map chapter names to source files
 CHAPTER_FILES = {
     "ch03": "Final Fantasy VII Remake Japanese VA with English Sub No Commentary Ch. 3 [_I112fKuedE]",
+    "ch08": "Final Fantasy VII Remake Japanese VA Ch. 8 [1NrTtUDOHC4]",
 }
 
 def time_to_seconds(time_str):
