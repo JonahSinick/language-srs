@@ -6,6 +6,7 @@ Outputs both JSON and HTML.
 
 import json
 import os
+import html as html_mod
 from collections import defaultdict
 
 BASE = os.path.dirname(os.path.abspath(__file__))
@@ -45,6 +46,7 @@ def collect_vocabulary():
         "meanings": defaultdict(int),
         "count": 0,
         "episodes": set(),
+        "occurrences": [],
     })
 
     episode_names = []
@@ -55,7 +57,7 @@ def collect_vocabulary():
         episode_names.append(ep_dir)
         with open(ep_path) as f:
             segments = json.load(f)
-        for seg in segments:
+        for seg_idx, seg in enumerate(segments):
             for v in seg.get("vocabulary", []):
                 word = v["word"]
                 entry = word_data[word]
@@ -63,6 +65,11 @@ def collect_vocabulary():
                 entry["readings"][v.get("reading", "")] += 1
                 entry["meanings"][v.get("meaning", "")] += 1
                 entry["episodes"].add(ep_dir)
+                entry["occurrences"].append({
+                    "episode": ep_dir,
+                    "index": seg_idx,
+                    "text": seg.get("text", ""),
+                })
 
     return word_data, episode_names
 
@@ -103,6 +110,7 @@ def build_frequency_list(word_data, general_freq, jlpt_words):
             "general_rank": gen_rank,
             "tier": tier,
             "in_jlpt": word in jlpt_words,
+            "occurrences": info["occurrences"],
         })
 
     results.sort(key=lambda x: (-x["count"], x["general_rank"] or 99999))
@@ -135,6 +143,34 @@ def generate_html(results, episode_count):
         "10k+": "#fef2f2",
         "unlisted": "#faf5ff",
     }
+
+    ep_display = {}
+    for r in results:
+        for occ in r.get("occurrences", []):
+            ep = occ["episode"]
+            if ep not in ep_display:
+                num = ep.replace("episode_", "")
+                ep_display[ep] = f"Ep {int(num)}"
+
+    def occurrence_links(w):
+        occs = w.get("occurrences", [])
+        if not occs:
+            return ""
+        items = []
+        seen = set()
+        for occ in occs:
+            key = (occ["episode"], occ["index"])
+            if key in seen:
+                continue
+            seen.add(key)
+            ep_label = ep_display.get(occ["episode"], occ["episode"])
+            text = html_mod.escape(occ["text"][:60])
+            href = f'index.html#{occ["episode"]}/{occ["index"]}'
+            items.append(f'<a href="{href}" class="occ-link" target="_blank">'
+                         f'<span class="occ-ep">{ep_label}</span>{text}</a>')
+        return (f'<div class="occ-toggle" onclick="this.nextElementSibling.classList.toggle(\'show\')">'
+                f'{len(items)} occurrences</div>'
+                f'<div class="occ-list">{"".join(items)}</div>')
 
     by_tier = defaultdict(list)
     for r in results:
@@ -188,6 +224,7 @@ def generate_html(results, episode_count):
             rank_str = f'#{w["general_rank"]:,}' if w["general_rank"] else "—"
             ep_num = w["episodes"]
             ep_bar = f'<span class="ep-count" title="{ep_num} episodes">' + "█" * ep_num + f" {ep_num}</span>"
+            occ_html = occurrence_links(w)
             rows.append(f"""
             <tr>
               <td class="word-cell"><span class="word">{w["word"]}</span><span class="reading">{w["reading"]}</span></td>
@@ -195,7 +232,8 @@ def generate_html(results, episode_count):
               <td class="count-cell">{w["count"]}</td>
               <td class="rank-cell">{rank_str}</td>
               <td class="ep-cell">{ep_bar}</td>
-            </tr>""")
+            </tr>
+            <tr class="occ-row"><td colspan="5">{occ_html}</td></tr>""")
 
         tier_sections.append(f"""
         <section id="{anchor}" class="tier-section">
@@ -227,13 +265,15 @@ def generate_html(results, episode_count):
     for w in study_words[:50]:
         jlpt_badge = '<span class="badge jlpt">JLPT</span>' if w["in_jlpt"] else ""
         tier_badge = f'<span class="badge tier-badge" style="background:{tier_colors[w["tier"]]}">{w["tier"]}</span>'
+        occ_html = occurrence_links(w)
         study_rows.append(f"""
         <tr>
           <td class="word-cell"><span class="word">{w["word"]}</span><span class="reading">{w["reading"]}</span></td>
           <td class="meaning-cell">{w["meaning"]}{jlpt_badge}{tier_badge}</td>
           <td class="count-cell">{w["count"]}</td>
           <td class="ep-cell">{w["episodes"]} eps</td>
-        </tr>""")
+        </tr>
+        <tr class="occ-row"><td colspan="4">{occ_html}</td></tr>""")
 
     study_section = f"""
     <section id="study-priority" class="tier-section">
@@ -300,6 +340,26 @@ def generate_html(results, episode_count):
   .badge {{ display: inline-block; font-size: 10px; padding: 1px 6px; border-radius: 4px; margin-left: 6px; vertical-align: middle; font-weight: 600; }}
   .jlpt {{ background: #dbeafe; color: #2563eb; }}
   .tier-badge {{ color: #fff; font-size: 9px; }}
+  .occ-row td {{ padding: 0 14px 0; border-top: none; }}
+  .occ-toggle {{
+    font-size: 12px; color: #6366f1; cursor: pointer; padding: 2px 0 6px;
+    user-select: none;
+  }}
+  .occ-toggle:hover {{ text-decoration: underline; }}
+  .occ-list {{
+    display: none; padding: 4px 0 10px; max-height: 200px; overflow-y: auto;
+  }}
+  .occ-list.show {{ display: block; }}
+  .occ-link {{
+    display: block; padding: 4px 8px; margin: 1px 0; border-radius: 4px;
+    text-decoration: none; color: #334155; font-size: 13px;
+    transition: background 0.1s;
+  }}
+  .occ-link:hover {{ background: #eef2ff; }}
+  .occ-ep {{
+    display: inline-block; width: 44px; font-size: 11px; font-weight: 600;
+    color: #6366f1; margin-right: 6px; flex-shrink: 0;
+  }}
   @media print {{
     .sidebar {{ display: none; }}
     .content {{ margin-left: 0; }}

@@ -723,6 +723,52 @@
                 }
             }
         }
+        // Hash navigation: support URLs like index.html#episode_05/42
+        function parseHash() {
+            const hash = location.hash.replace(/^#/, '');
+            if (!hash) return null;
+            const parts = hash.split('/');
+            if (parts.length === 2) {
+                return { episode: parts[0], index: parseInt(parts[1]) };
+            }
+            return null;
+        }
+
+        function updateHash() {
+            if (currentChapter && currentIndex >= 0) {
+                history.replaceState(null, '', `#${currentChapter}/${currentIndex}`);
+            }
+        }
+
+        // Patch showCard to update hash
+        const _origShowCard = showCard;
+        showCard = function() {
+            _origShowCard();
+            updateHash();
+        };
+
+        // On load, check for hash navigation
+        window.addEventListener('DOMContentLoaded', () => {
+            const nav = parseHash();
+            if (nav) {
+                document.getElementById('chapterSelect').value = nav.episode;
+                loadChapter(nav.episode).then(() => {
+                    currentIndex = Math.min(nav.index, data.length - 1);
+                    showCard();
+                });
+            }
+        });
+
+        window.addEventListener('hashchange', () => {
+            const nav = parseHash();
+            if (nav && (nav.episode !== currentChapter || nav.index !== currentIndex)) {
+                document.getElementById('chapterSelect').value = nav.episode;
+                loadChapter(nav.episode).then(() => {
+                    currentIndex = Math.min(nav.index, data.length - 1);
+                    showCard();
+                });
+            }
+        });
     </script>
 </body>
 </html>
