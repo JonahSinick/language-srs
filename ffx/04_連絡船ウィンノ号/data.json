@@ -1,0 +1,1251 @@
+[
+  {
+    "start": "1:41:02",
+    "end": "1:41:07",
+    "text": "よろしくお願いします。",
+    "audio_file": "clip_000.mp3",
+    "translation": "Please take care of me. / I'm in your hands.",
+    "vocabulary": [
+      {
+        "word": "よろしく",
+        "reading": "よろしく",
+        "meaning": "well, favorably (used in greetings asking for good favor)"
+      },
+      {
+        "word": "お願いする",
+        "reading": "おねがいする",
+        "meaning": "to request, to ask a favor of someone"
+      }
+    ],
+    "grammar": "よろしくお願いします is a set phrase used when meeting someone or starting a relationship, asking them to treat you well. It is humble (お願いします is the polite form of お願いする) and extremely common in Japanese social interaction."
+  },
+  {
+    "start": "1:41:08",
+    "end": "1:41:12",
+    "text": "お、あ、どうして?",
+    "audio_file": "clip_001.mp3",
+    "translation": "Oh — ah — why?",
+    "vocabulary": [
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "meaning": "why, how come"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "1:41:13",
+    "end": "1:41:20",
+    "text": "ガードじゃないから。 / なるべく早く戻るから、待っててね。",
+    "audio_file": "clip_002.mp3",
+    "translation": "Because I'm not a guardian. / I'll be back as soon as I can, so wait for me, okay?",
+    "vocabulary": [
+      {
+        "word": "ガード",
+        "reading": "ガード",
+        "meaning": "guardian (FFX term for a summoner's escort)"
+      },
+      {
+        "word": "なるべく",
+        "reading": "なるべく",
+        "meaning": "as much as possible, as soon as possible"
+      },
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "meaning": "early, fast, soon"
+      },
+      {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "to return, to go back"
+      },
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      },
+      {
+        "word": "〜ててね",
+        "reading": "〜ててね",
+        "meaning": "keep doing (continuing action) — casual, affectionate request"
+      }
+    ],
+    "grammar": "〜から at the end of the first clause expresses reason ('because'). 待っててね is a contracted form of 待っていてね — the te-form of 待つ + いる (progressive/continuous) + てね (soft request ending)."
+  },
+  {
+    "start": "1:41:21",
+    "end": "1:41:26",
+    "text": "また一日かかったりするんじゃないの?",
+    "audio_file": "clip_003.mp3",
+    "translation": "It's not going to take another whole day again, is it?",
+    "vocabulary": [
+      {
+        "word": "また",
+        "reading": "また",
+        "meaning": "again, once more"
+      },
+      {
+        "word": "一日",
+        "reading": "いちにち",
+        "meaning": "one day, a whole day"
+      },
+      {
+        "word": "かかる",
+        "reading": "かかる",
+        "meaning": "to take (time), to cost"
+      },
+      {
+        "word": "〜たりする",
+        "reading": "〜たりする",
+        "meaning": "doing things like ~, sometimes ~ (lists examples or suggests vague possibility)"
+      }
+    ],
+    "grammar": "〜たりするんじゃないの combines: たりする (vague example listing), んじゃないの (negative rhetorical question — 'isn't it the case that…?', implying the speaker suspects it is true). Together they express a worried, half-joking complaint."
+  },
+  {
+    "start": "1:41:32",
+    "end": "1:41:36",
+    "text": "ユーナは?",
+    "audio_file": "clip_004.mp3",
+    "translation": "What about Yuna?",
+    "vocabulary": [],
+    "grammar": "A noun followed by は? alone is a common elliptical question: 'What about [noun]?' or 'And [noun]?'. The predicate and topic of the previous sentence are understood from context."
+  },
+  {
+    "start": "1:41:36",
+    "end": "1:41:40",
+    "text": "あなたは何をしているわけ?",
+    "audio_file": "clip_005.mp3",
+    "translation": "Just what do you think you're doing here?",
+    "vocabulary": [
+      {
+        "word": "何",
+        "reading": "なに",
+        "meaning": "what"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "meaning": "to do"
+      },
+      {
+        "word": "わけ",
+        "reading": "わけ",
+        "meaning": "reason, meaning; used at end of question to demand explanation"
+      }
+    ],
+    "grammar": "〜しているわけ? uses the progressive form of する + わけ as a sentence-final particle asking for explanation or justification. It carries a mildly accusatory or exasperated tone, roughly 'what's the deal with you doing X?'"
+  },
+  {
+    "start": "1:41:41",
+    "end": "1:41:43",
+    "text": "ガードじゃないからな、俺。",
+    "audio_file": "clip_006.mp3",
+    "translation": "I'm not a guardian, you see.",
+    "vocabulary": [
+      {
+        "word": "俺",
+        "reading": "おれ",
+        "meaning": "I, me (masculine, casual)"
+      },
+      {
+        "word": "〜からな",
+        "reading": "〜からな",
+        "meaning": "because ~, you know (explains or justifies, masculine casual)"
+      }
+    ],
+    "grammar": "The subject 俺 is placed at the end for emphasis (topic-comment inversion). 〜からな is a masculine casual sentence-final form expressing 'because' as a self-justifying explanation."
+  },
+  {
+    "start": "1:41:43",
+    "end": "1:41:45",
+    "text": "入っちゃダメなんだろ?",
+    "audio_file": "clip_007.mp3",
+    "translation": "I'm not allowed in, right?",
+    "vocabulary": [
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "meaning": "to enter"
+      },
+      {
+        "word": "〜ちゃダメ",
+        "reading": "〜ちゃだめ",
+        "meaning": "must not ~, not allowed to ~ (prohibition, casual)"
+      },
+      {
+        "word": "〜んだろ",
+        "reading": "〜んだろ",
+        "meaning": "right?, isn't it? (seeking confirmation, masculine casual)"
+      }
+    ],
+    "grammar": "入っちゃ is a contraction of 入っては. 〜てはダメ means 'it's no good to do ~' (prohibition). だろ is a casual contraction of だろう, seeking confirmation. Together: 'Entering is not okay, right?'"
+  },
+  {
+    "start": "1:41:46",
+    "end": "1:41:49",
+    "text": "ふーん。ガードじゃないんだ。",
+    "audio_file": "clip_008.mp3",
+    "translation": "Hmm. So you're not a guardian.",
+    "vocabulary": [
+      {
+        "word": "ふーん",
+        "reading": "ふーん",
+        "meaning": "hmm, I see (interjection expressing mild interest or realization)"
+      },
+      {
+        "word": "〜んだ",
+        "reading": "〜んだ",
+        "meaning": "is it, so ~ (explanatory, registering new information)"
+      }
+    ],
+    "grammar": "〜んだ at the end of a statement (not a question) expresses that the speaker is processing newly understood information — 'Oh, so that's how it is.' Common when someone has just grasped a fact."
+  },
+  {
+    "start": "1:41:50",
+    "end": "1:41:52",
+    "text": "な、お、なんだよ!",
+    "audio_file": "clip_009.mp3",
+    "translation": "Wh — hey — what the heck!",
+    "vocabulary": [
+      {
+        "word": "なんだよ",
+        "reading": "なんだよ",
+        "meaning": "what the heck, what is it (exasperated, masculine)"
+      }
+    ],
+    "grammar": "な and お are flustered interjections / stutters. なんだよ is a masculine exclamation expressing annoyance or surprise: 'What is it?!' or 'What the heck!'"
+  },
+  {
+    "start": "1:41:53",
+    "end": "1:41:57",
+    "text": "あっ! 離せっつーの!",
+    "audio_file": "clip_010.mp3",
+    "translation": "Hey! I said let go!",
+    "vocabulary": [
+      {
+        "word": "離す",
+        "reading": "はなす",
+        "meaning": "to let go, to release"
+      },
+      {
+        "word": "〜っつーの",
+        "reading": "〜っていうの",
+        "meaning": "I'm telling you ~, I said ~ (emphatic, colloquial)"
+      }
+    ],
+    "grammar": "離せ is the imperative form of 離す ('let go!'). っつーの is a heavy contraction of と言っているの, adding the sense of 'I'm telling you!' or 'I already said so!' — very colloquial, emphatic, and frustrated."
+  },
+  {
+    "start": "1:41:58",
+    "end": "1:42:03",
+    "text": "うぅいっ! 痛っ! / てぇっ! / なにすんだよ!",
+    "audio_file": "clip_011.mp3",
+    "translation": "Ugh! Ow! / Ow! / What are you doing!",
+    "vocabulary": [
+      {
+        "word": "痛い",
+        "reading": "いたい",
+        "meaning": "painful, it hurts"
+      },
+      {
+        "word": "何をする",
+        "reading": "なにをする",
+        "meaning": "what are you doing (to me)"
+      },
+      {
+        "word": "〜んだよ",
+        "reading": "〜んだよ",
+        "meaning": "emphatic sentence ending expressing complaint or demand (masculine)"
+      }
+    ],
+    "grammar": "痛っ is a clipped exclamation of pain from 痛い. なにすんだよ is a contraction of 何をするんだよ — the を is dropped in casual speech, and するんだよ expresses indignant complaint."
+  },
+  {
+    "start": "1:42:04",
+    "end": "1:42:10",
+    "text": "仕返し… / はぁっ?",
+    "audio_file": "clip_012.mp3",
+    "translation": "Payback… / Huh?!",
+    "vocabulary": [
+      {
+        "word": "仕返し",
+        "reading": "しかえし",
+        "meaning": "retaliation, payback, getting even"
+      },
+      {
+        "word": "はぁ",
+        "reading": "はぁ",
+        "meaning": "huh? (surprised or incredulous interjection)"
+      }
+    ],
+    "grammar": "仕返し is a noun left hanging with ellipsis, implying Rikku is saying she's getting payback. はぁっ? is Tidus's incredulous reaction."
+  },
+  {
+    "start": "1:42:12",
+    "end": "1:42:19",
+    "text": "これ…きっとまずいっす…",
+    "audio_file": "clip_013.mp3",
+    "translation": "This… is definitely bad…",
+    "vocabulary": [
+      {
+        "word": "きっと",
+        "reading": "きっと",
+        "meaning": "surely, certainly, definitely"
+      },
+      {
+        "word": "まずい",
+        "reading": "まずい",
+        "meaning": "bad (situation), troublesome, risky (also: bad-tasting)"
+      },
+      {
+        "word": "〜っす",
+        "reading": "〜っす",
+        "meaning": "casual/informal polite ending (contraction of です)"
+      }
+    ],
+    "grammar": "まずい here means 'this is a bad/dangerous situation' rather than its literal 'bad taste' meaning. っす is a colloquial contraction of です, common in casual speech among young men."
+  },
+  {
+    "start": "1:42:25",
+    "end": "1:42:32",
+    "text": "ガード以外は立ち入り禁止なんだよな",
+    "audio_file": "clip_014.mp3",
+    "translation": "Anyone other than guardians is forbidden to enter, right.",
+    "vocabulary": [
+      {
+        "word": "以外",
+        "reading": "いがい",
+        "meaning": "other than, except for, besides"
+      },
+      {
+        "word": "立ち入り禁止",
+        "reading": "たちいりきんし",
+        "meaning": "no entry, off-limits, forbidden to enter"
+      },
+      {
+        "word": "〜んだよな",
+        "reading": "〜んだよな",
+        "meaning": "right?, isn't it (seeking casual confirmation, masculine)"
+      }
+    ],
+    "grammar": "〜以外は sets up a contrast: 'all except X'. 立ち入り禁止 is a compound noun (立ち入り = entry + 禁止 = prohibition). なんだよな is a masculine casual tag question seeking agreement."
+  },
+  {
+    "start": "1:42:33",
+    "end": "1:42:37",
+    "text": "ここまで来ちゃったら同じか",
+    "audio_file": "clip_015.mp3",
+    "translation": "Well, now that we've come this far, it's all the same, I guess.",
+    "vocabulary": [
+      {
+        "word": "ここまで",
+        "reading": "ここまで",
+        "meaning": "this far, up to here"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "to come"
+      },
+      {
+        "word": "〜ちゃったら",
+        "reading": "〜てしまったら",
+        "meaning": "if one has already gone and done ~ (completion with mild regret)"
+      },
+      {
+        "word": "同じ",
+        "reading": "おなじ",
+        "meaning": "same, equal, no different"
+      }
+    ],
+    "grammar": "来ちゃったら is contracted from 来てしまったら: te-form of 来る + しまう (completion/irreversibility) + たら (conditional 'if/now that'). The か at the end softens the statement, making it a resigned self-conclusion: 'I guess it's all the same now.'"
+  },
+  {
+    "start": "1:42:42",
+    "end": "1:42:45",
+    "text": "おいおいおい",
+    "audio_file": "clip_016.mp3",
+    "translation": "Hey hey hey!",
+    "vocabulary": [
+      {
+        "word": "おい",
+        "reading": "おい",
+        "meaning": "hey (masculine casual attention-getter, often expressing alarm or displeasure)"
+      }
+    ],
+    "grammar": "Repeating おい three times intensifies the sense of alarm or protest."
+  },
+  {
+    "start": "1:42:46",
+    "end": "1:42:49",
+    "text": "どなど筋肉男が無理やりさ",
+    "audio_file": "clip_017.mp3",
+    "translation": "That muscle-brain forced his way in somehow —",
+    "vocabulary": [
+      {
+        "word": "筋肉",
+        "reading": "きんにく",
+        "meaning": "muscle"
+      },
+      {
+        "word": "男",
+        "reading": "おとこ",
+        "meaning": "man, male"
+      },
+      {
+        "word": "無理やり",
+        "reading": "むりやり",
+        "meaning": "forcibly, against one's will, by force"
+      }
+    ],
+    "grammar": "どなど is a flustered filler sound (like 'uh, well'). 筋肉男 is a colloquial compound meaning 'muscle man / muscle-head.' さ at the end is a casual sentence-trailing particle that leaves the thought open-ended."
+  },
+  {
+    "start": "1:42:50",
+    "end": "1:42:53",
+    "text": "理由はどうあれ罰を受けるのは言うなよ",
+    "audio_file": "clip_018.mp3",
+    "translation": "Whatever the reason, the one who gets punished — well, you know.",
+    "vocabulary": [
+      {
+        "word": "理由",
+        "reading": "りゆう",
+        "meaning": "reason, cause"
+      },
+      {
+        "word": "どうあれ",
+        "reading": "どうあれ",
+        "meaning": "whatever the case, regardless, no matter what"
+      },
+      {
+        "word": "罰",
+        "reading": "ばつ / ばち",
+        "meaning": "punishment, penalty"
+      },
+      {
+        "word": "受ける",
+        "reading": "うける",
+        "meaning": "to receive, to undergo"
+      },
+      {
+        "word": "言うなよ",
+        "reading": "いうなよ",
+        "meaning": "don't say I didn't warn you; you know what I mean (trailing off)"
+      }
+    ],
+    "grammar": "理由はどうあれ is a set phrase meaning 'whatever the reason may be.' 罰を受けるのは is the nominalised subject ('the one who receives punishment'). 言うなよ trails off — the speaker is implying the listener already knows the consequence, or warning them not to complain later."
+  },
+  {
+    "start": "1:42:54",
+    "end": "1:43:02",
+    "text": "罰ってどんな / 寺院立ち入り禁止もあり得る",
+    "audio_file": "clip_019.mp3",
+    "translation": "What kind of punishment? / Being barred from the temple is also possible.",
+    "vocabulary": [
+      {
+        "word": "罰",
+        "reading": "ばつ",
+        "meaning": "punishment, penalty"
+      },
+      {
+        "word": "どんな",
+        "reading": "どんな",
+        "meaning": "what kind of, what sort of"
+      },
+      {
+        "word": "寺院",
+        "reading": "じいん",
+        "meaning": "temple"
+      },
+      {
+        "word": "立ち入り禁止",
+        "reading": "たちいりきんし",
+        "meaning": "no entry, being forbidden to enter"
+      },
+      {
+        "word": "あり得る",
+        "reading": "ありえる",
+        "meaning": "possible, can happen, conceivable"
+      }
+    ],
+    "grammar": "罰ってどんな is an elliptical question — 罰って is the topic marker (って = というのは), and どんな predicates are omitted ('What kind of punishment [is it]?'). あり得る is the potential form of ある, meaning 'it can exist / it is possible.'"
+  },
+  {
+    "start": "1:43:04",
+    "end": "1:43:09",
+    "text": "静かにしていろ / この中何があるんだ",
+    "audio_file": "clip_020.mp3",
+    "translation": "Be quiet. / What's inside this place?",
+    "vocabulary": [
+      {
+        "word": "静か",
+        "reading": "しずか",
+        "meaning": "quiet, silent"
+      },
+      {
+        "word": "〜にしていろ",
+        "reading": "〜にしていろ",
+        "meaning": "be/keep ~ (commanding someone to maintain a state)"
+      },
+      {
+        "word": "中",
+        "reading": "なか",
+        "meaning": "inside, within"
+      }
+    ],
+    "grammar": "静かにしていろ is a blunt masculine command: 〜にする (to make into a state) + ている (continuous) + ろ (imperative). 何があるんだ is a question with explanatory んだ, pressing for information: 'What is it that's in there?'"
+  },
+  {
+    "start": "1:43:10",
+    "end": "1:43:12",
+    "text": "祈り子様がいらっしゃる",
+    "audio_file": "clip_021.mp3",
+    "translation": "The fayth are present there.",
+    "vocabulary": [
+      {
+        "word": "祈り子",
+        "reading": "いのりご",
+        "meaning": "fayth (FFX term — people who became crystallized spirits to power summons)"
+      },
+      {
+        "word": "様",
+        "reading": "さま",
+        "meaning": "honorific suffix (more formal/reverential than さん)"
+      },
+      {
+        "word": "いらっしゃる",
+        "reading": "いらっしゃる",
+        "meaning": "to be, to exist (respectful/honorific form of いる)"
+      }
+    ],
+    "grammar": "いらっしゃる is the honorific (sonkeigo) form of いる ('to be/exist'). Its use here reflects the deep reverence the faithful of Yevon have for the fayth."
+  },
+  {
+    "start": "1:43:13",
+    "end": "1:43:20",
+    "text": "ああ、それそれ。さっきも言ってたよな / シンを倒すために進んで命を捧げた人たちよ",
+    "audio_file": "clip_022.mp3",
+    "translation": "Oh, that — that. You mentioned them just now, right? / They're the people who willingly sacrificed their lives to defeat Sin.",
+    "vocabulary": [
+      {
+        "word": "さっき",
+        "reading": "さっき",
+        "meaning": "just now, a little while ago"
+      },
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say, to mention"
+      },
+      {
+        "word": "倒す",
+        "reading": "たおす",
+        "meaning": "to defeat, to bring down"
+      },
+      {
+        "word": "ために",
+        "reading": "ために",
+        "meaning": "in order to, for the purpose of"
+      },
+      {
+        "word": "進んで",
+        "reading": "すすんで",
+        "meaning": "willingly, voluntarily, of one's own accord"
+      },
+      {
+        "word": "命",
+        "reading": "いのち",
+        "meaning": "life"
+      },
+      {
+        "word": "捧げる",
+        "reading": "ささげる",
+        "meaning": "to offer, to dedicate, to sacrifice"
+      },
+      {
+        "word": "人たち",
+        "reading": "ひとたち",
+        "meaning": "people (plural)"
+      }
+    ],
+    "grammar": "〜ために after a verb in dictionary form expresses purpose ('in order to ~'). 進んで is the te-form of 進む used adverbially ('willingly'). 命を捧げた is the past tense of 捧げる, modifying 人たち as a relative clause."
+  },
+  {
+    "start": "1:43:21",
+    "end": "1:43:26",
+    "text": "エボンの技で生きながらにして / 魂を肉体から取り出されて",
+    "audio_file": "clip_023.mp3",
+    "translation": "Using Yevon's arts, while still alive, / their souls are extracted from their bodies,",
+    "vocabulary": [
+      {
+        "word": "技",
+        "reading": "わざ",
+        "meaning": "technique, art, skill"
+      },
+      {
+        "word": "生きながら",
+        "reading": "いきながら",
+        "meaning": "while (still) alive"
+      },
+      {
+        "word": "〜にして",
+        "reading": "〜にして",
+        "meaning": "being in the state of ~, while being ~"
+      },
+      {
+        "word": "魂",
+        "reading": "たましい",
+        "meaning": "soul, spirit"
+      },
+      {
+        "word": "肉体",
+        "reading": "にくたい",
+        "meaning": "physical body, flesh"
+      },
+      {
+        "word": "取り出す",
+        "reading": "とりだす",
+        "meaning": "to take out, to extract"
+      },
+      {
+        "word": "〜される",
+        "reading": "〜される",
+        "meaning": "to be done to (passive form)"
+      }
+    ],
+    "grammar": "生きながらにして is a literary set phrase: 生きながら ('while alive') + にして ('in that state/while being'). 取り出されて is the passive te-form of 取り出す, continuing the chain of actions done to the fayth."
+  },
+  {
+    "start": "1:43:27",
+    "end": "1:43:32",
+    "text": "祈り子像に封じられて、永遠の時を生きる",
+    "audio_file": "clip_024.mp3",
+    "translation": "sealed into the fayth statues, they live through eternity.",
+    "vocabulary": [
+      {
+        "word": "像",
+        "reading": "ぞう",
+        "meaning": "statue, image"
+      },
+      {
+        "word": "封じる",
+        "reading": "ふうじる",
+        "meaning": "to seal, to confine, to lock away"
+      },
+      {
+        "word": "〜られる",
+        "reading": "〜られる",
+        "meaning": "passive suffix"
+      },
+      {
+        "word": "永遠",
+        "reading": "えいえん",
+        "meaning": "eternity, forever"
+      },
+      {
+        "word": "時",
+        "reading": "とき",
+        "meaning": "time, moment"
+      },
+      {
+        "word": "生きる",
+        "reading": "いきる",
+        "meaning": "to live"
+      }
+    ],
+    "grammar": "封じられて is the passive te-form of 封じる, continuing the passive chain from the previous line. 永遠の時を生きる uses を with 生きる in the sense of 'to live through / to experience a span of time' — を marking the period traversed rather than a direct object."
+  },
+  {
+    "start": "1:43:33",
+    "end": "1:43:38",
+    "text": "祈り子様の魂は召喚師の祈りに招かれて姿を現す",
+    "audio_file": "clip_025.mp3",
+    "translation": "The souls of the fayth are summoned by a summoner's prayer and take form.",
+    "vocabulary": [
+      {
+        "word": "召喚師",
+        "reading": "しょうかんし",
+        "meaning": "summoner"
+      },
+      {
+        "word": "祈り",
+        "reading": "いのり",
+        "meaning": "prayer"
+      },
+      {
+        "word": "招く",
+        "reading": "まねく",
+        "meaning": "to invite, to beckon, to summon"
+      },
+      {
+        "word": "姿を現す",
+        "reading": "すがたをあらわす",
+        "meaning": "to appear, to reveal one's form"
+      },
+      {
+        "word": "姿",
+        "reading": "すがた",
+        "meaning": "figure, form, appearance"
+      },
+      {
+        "word": "現す",
+        "reading": "あらわす",
+        "meaning": "to reveal, to show, to manifest"
+      }
+    ],
+    "grammar": "招かれて is the passive te-form of 招く ('to be beckoned/summoned'). The te-form connects it to 姿を現す as a sequential or resultant action: 'being summoned by the prayer, [they] take form.'"
+  },
+  {
+    "start": "1:43:39",
+    "end": "1:43:47",
+    "text": "それが召喚獣よ / この部屋の中に?",
+    "audio_file": "clip_026.mp3",
+    "translation": "That is what an aeon is. / In this very room?",
+    "vocabulary": [
+      {
+        "word": "召喚獣",
+        "reading": "しょうかんじゅう",
+        "meaning": "aeon (summoned creature in FFX)"
+      },
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "meaning": "room"
+      }
+    ],
+    "grammar": "それが〜よ is a definitive statement ('That is ~', often clarifying or revealing). The feminine sentence-final よ softens while still asserting. この部屋の中に? is an elliptical question with surprised rising intonation — the predicate ('is it in…?') is dropped."
+  },
+  {
+    "start": "1:43:47",
+    "end": "1:43:51",
+    "text": "ユナは中で何をしてるんだ?",
+    "audio_file": "clip_027.mp3",
+    "translation": "What is Yuna doing inside?",
+    "vocabulary": [
+      {
+        "word": "中",
+        "reading": "なか",
+        "meaning": "inside"
+      },
+      {
+        "word": "何をする",
+        "reading": "なにをする",
+        "meaning": "to do what"
+      },
+      {
+        "word": "〜てるんだ",
+        "reading": "〜ているんだ",
+        "meaning": "is doing ~ (progressive + explanatory んだ, seeking explanation)"
+      }
+    ],
+    "grammar": "〜てるんだ is a contraction of 〜ているんだ — progressive aspect combined with explanatory んだ, making this an inquisitive question that presses for an explanation of what is happening."
+  },
+  {
+    "start": "1:43:52",
+    "end": "1:43:57",
+    "text": "必死に祈ってるんだ / シンを倒す力を貸してくれってな",
+    "audio_file": "clip_028.mp3",
+    "translation": "She's praying desperately. / Asking them to lend her the power to defeat Sin.",
+    "vocabulary": [
+      {
+        "word": "必死に",
+        "reading": "ひっしに",
+        "meaning": "desperately, with all one's might"
+      },
+      {
+        "word": "祈る",
+        "reading": "いのる",
+        "meaning": "to pray"
+      },
+      {
+        "word": "力",
+        "reading": "ちから",
+        "meaning": "power, strength"
+      },
+      {
+        "word": "貸す",
+        "reading": "かす",
+        "meaning": "to lend"
+      },
+      {
+        "word": "〜てくれ",
+        "reading": "〜てくれ",
+        "meaning": "please do ~ for me (requesting someone do something for the speaker's benefit)"
+      },
+      {
+        "word": "〜ってな",
+        "reading": "〜ってな",
+        "meaning": "saying that ~, to the effect that ~ (casual quotation)"
+      }
+    ],
+    "grammar": "貸してくれってな is a casual quotation: くれ is the imperative of くれる (asking someone to do something for you), って marks it as quoted speech, and な adds a casual explanatory tone. Full meaning: '…saying something like \"please lend me the power.\"'"
+  },
+  {
+    "start": "1:44:11",
+    "end": "1:44:13",
+    "text": "あの時",
+    "audio_file": "clip_029.mp3",
+    "translation": "At that time…",
+    "vocabulary": [
+      {
+        "word": "あの時",
+        "reading": "あのとき",
+        "meaning": "at that time, back then"
+      }
+    ],
+    "grammar": "A standalone time expression left hanging, functioning as a reflective opening to Tidus's inner monologue. The predicate is withheld, creating dramatic pause."
+  },
+  {
+    "start": "1:44:14",
+    "end": "1:44:18",
+    "text": "みんなには黙っていたことがあるんだ / あそこで聞こえていた歌は",
+    "audio_file": "clip_030.mp3",
+    "translation": "There's something I kept quiet about from everyone. / That song I heard back there —",
+    "vocabulary": [
+      {
+        "word": "みんな",
+        "reading": "みんな",
+        "meaning": "everyone, all"
+      },
+      {
+        "word": "黙る",
+        "reading": "だまる",
+        "meaning": "to stay silent, to keep quiet"
+      },
+      {
+        "word": "〜ていた",
+        "reading": "〜ていた",
+        "meaning": "was doing ~ (past progressive/habitual)"
+      },
+      {
+        "word": "〜ことがある",
+        "reading": "〜ことがある",
+        "meaning": "there is something that ~, there is a fact/experience of ~"
+      },
+      {
+        "word": "あそこ",
+        "reading": "あそこ",
+        "meaning": "over there, that place (remote)"
+      },
+      {
+        "word": "聞こえる",
+        "reading": "きこえる",
+        "meaning": "to be audible, to be heard (intransitive)"
+      }
+    ],
+    "grammar": "黙っていたことがあるんだ: 黙っていた (was keeping quiet, past progressive) + ことがある (there is the fact that) + んだ (explanatory). みんなには: には marks the indirect object with contrastive nuance ('from everyone in particular')."
+  },
+  {
+    "start": "1:44:19",
+    "end": "1:44:21",
+    "text": "子供の頃から知っている歌だった",
+    "audio_file": "clip_031.mp3",
+    "translation": "It was a song I had known since childhood.",
+    "vocabulary": [
+      {
+        "word": "子供の頃",
+        "reading": "こどものころ",
+        "meaning": "childhood, when one was a child"
+      },
+      {
+        "word": "〜から",
+        "reading": "〜から",
+        "meaning": "from ~, since ~"
+      },
+      {
+        "word": "知る",
+        "reading": "しる",
+        "meaning": "to know, to come to know"
+      },
+      {
+        "word": "〜ている",
+        "reading": "〜ている",
+        "meaning": "ongoing state (for verbs of change: 'have come to know' → 'know')"
+      }
+    ],
+    "grammar": "知っている expresses an ongoing state resulting from a past event (having learned) — 'have been knowing / know.' 子供の頃から marks the time from which the state has continued. だった is the past copula, placing the entire realization in the past."
+  },
+  {
+    "start": "1:44:23",
+    "end": "1:44:26",
+    "text": "どこかで繋がっている証拠",
+    "audio_file": "clip_032.mp3",
+    "translation": "Proof that we're connected somewhere.",
+    "vocabulary": [
+      {
+        "word": "どこかで",
+        "reading": "どこかで",
+        "meaning": "somewhere, in some place"
+      },
+      {
+        "word": "繋がる",
+        "reading": "つながる",
+        "meaning": "to be connected, to be linked"
+      },
+      {
+        "word": "証拠",
+        "reading": "しょうこ",
+        "meaning": "proof, evidence"
+      }
+    ],
+    "grammar": "繋がっている is the progressive state form of 繋がる ('to be connected'). The whole phrase 繋がっている modifies 証拠 as a relative clause: 'evidence that [something/we] is/are connected.' The subject is omitted and must be inferred from context (Tidus and Spira)."
+  },
+  {
+    "start": "1:44:27",
+    "end": "1:44:31",
+    "text": "そう思った / それに気づいたからなのかな",
+    "audio_file": "clip_033.mp3",
+    "translation": "That's what I thought. / Maybe it's because I realized that.",
+    "vocabulary": [
+      {
+        "word": "思う",
+        "reading": "おもう",
+        "meaning": "to think, to feel"
+      },
+      {
+        "word": "気づく",
+        "reading": "きづく",
+        "meaning": "to notice, to realize, to become aware"
+      },
+      {
+        "word": "〜からなのかな",
+        "reading": "〜からなのかな",
+        "meaning": "maybe it's because ~ (speculative self-questioning)"
+      }
+    ],
+    "grammar": "〜からなのかな combines: から (reason 'because') + なの (nominalization + copula, explaining) + かな (self-directed wondering/uncertainty). The full phrase expresses tentative self-reflection: 'I wonder if it's because of that.'"
+  },
+  {
+    "start": "1:44:32",
+    "end": "1:44:36",
+    "text": "帰りたい気持ちが急に強くなってさ / 胸が詰まったみたいで",
+    "audio_file": "clip_034.mp3",
+    "translation": "The feeling of wanting to go home suddenly became intense, and / it was like something was stuck in my chest.",
+    "vocabulary": [
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "meaning": "to return home, to go home"
+      },
+      {
+        "word": "〜たい",
+        "reading": "〜たい",
+        "meaning": "want to ~"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "meaning": "feeling, emotion"
+      },
+      {
+        "word": "急に",
+        "reading": "きゅうに",
+        "meaning": "suddenly, all of a sudden"
+      },
+      {
+        "word": "強い",
+        "reading": "つよい",
+        "meaning": "strong, intense"
+      },
+      {
+        "word": "〜くなる",
+        "reading": "〜くなる",
+        "meaning": "to become ~ (change of state with i-adjective)"
+      },
+      {
+        "word": "胸",
+        "reading": "むね",
+        "meaning": "chest, heart (emotional seat)"
+      },
+      {
+        "word": "詰まる",
+        "reading": "つまる",
+        "meaning": "to be stuffed, to be blocked, to feel constricted"
+      },
+      {
+        "word": "〜みたいで",
+        "reading": "〜みたいで",
+        "meaning": "as if ~, it seemed like ~ (continuing with te-form)"
+      }
+    ],
+    "grammar": "帰りたい気持ち: 帰りたい (want to return) modifies 気持ち as a relative clause ('the feeling of wanting to go home'). 強くなって is the te-form of 強くなる, connecting to the next clause. 胸が詰まったみたいで uses みたいで (resemblance/impression) to describe the physical sensation metaphorically."
+  },
+  {
+    "start": "1:44:37",
+    "end": "1:44:41",
+    "text": "何にも言えなくなった / 我",
+    "audio_file": "clip_035.mp3",
+    "translation": "I couldn't say anything at all. / Me.",
+    "vocabulary": [
+      {
+        "word": "何にも",
+        "reading": "なんにも",
+        "meaning": "nothing at all (with negative)"
+      },
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      },
+      {
+        "word": "〜えなくなる",
+        "reading": "〜えなくなる",
+        "meaning": "to become unable to ~ (potential negative + なる)"
+      },
+      {
+        "word": "我",
+        "reading": "われ / が",
+        "meaning": "I, me; self (archaic/literary, or used as self-correction)"
+      }
+    ],
+    "grammar": "言えなくなった: 言える (can say) → 言えない (cannot say) → 言えなくなった (became unable to say). 何にも with a negative means 'nothing at all.' 我 here appears to be Tidus catching himself or using a stilted self-reference — possibly a game text artifact or dramatic pause showing emotional overwhelm."
+  },
+  {
+    "start": "1:45:13",
+    "end": "1:45:18",
+    "text": "抑えていたはずのザナルカンドへの気持ち",
+    "audio_file": "clip_036.mp3",
+    "translation": "The feelings toward Zanarkand that I had supposedly been suppressing —",
+    "vocabulary": [
+      {
+        "word": "抑える",
+        "reading": "おさえる",
+        "meaning": "to suppress, to hold back, to restrain"
+      },
+      {
+        "word": "〜ていた",
+        "reading": "〜ていた",
+        "meaning": "had been doing ~ (past progressive)"
+      },
+      {
+        "word": "はず",
+        "reading": "はず",
+        "meaning": "supposed to be, expected to (expresses expectation based on reasoning)"
+      },
+      {
+        "word": "〜への",
+        "reading": "〜への",
+        "meaning": "toward ~, for ~ (directional modifier)"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "meaning": "feeling, emotion"
+      }
+    ],
+    "grammar": "抑えていたはずの modifies ザナルカンドへの気持ち as a relative clause: 'the feelings toward Zanarkand that I was supposed to have been suppressing.' はず expresses that something was expected to be true — here it implies Tidus believed he had his homesickness under control, but he was wrong."
+  },
+  {
+    "start": "1:45:25",
+    "end": "1:45:28",
+    "text": "膨らんで 弾けた",
+    "audio_file": "clip_037.mp3",
+    "translation": "…swelled up and burst.",
+    "vocabulary": [
+      {
+        "word": "膨らむ",
+        "reading": "ふくらむ",
+        "meaning": "to swell, to expand, to grow"
+      },
+      {
+        "word": "弾ける",
+        "reading": "はじける",
+        "meaning": "to burst, to pop, to explode outward"
+      }
+    ],
+    "grammar": "膨らんで is the te-form of 膨らむ, connecting sequentially to 弾けた. Together they form a vivid image of suppressed emotion growing until it bursts — completing the thought begun in the previous segment."
+  },
+  {
+    "start": "1:45:29",
+    "end": "1:45:33",
+    "text": "顔が カーッと熱くなってさ",
+    "audio_file": "clip_038.mp3",
+    "translation": "My face suddenly flushed hot,",
+    "vocabulary": [
+      {
+        "word": "顔",
+        "reading": "かお",
+        "meaning": "face"
+      },
+      {
+        "word": "カーッと",
+        "reading": "カーッと",
+        "meaning": "all of a sudden, with a rush (onomatopoeia for sudden heat/flush)"
+      },
+      {
+        "word": "熱い",
+        "reading": "あつい",
+        "meaning": "hot"
+      },
+      {
+        "word": "〜くなる",
+        "reading": "〜くなる",
+        "meaning": "to become ~ (i-adjective + なる)"
+      },
+      {
+        "word": "さ",
+        "reading": "さ",
+        "meaning": "casual sentence-trailing particle (continuing a thought)"
+      }
+    ],
+    "grammar": "カーッと is a mimetic word (擬態語) evoking the sudden rush of heat to the face — the sound and feeling of blushing or flushing. 熱くなってさ: te-form of 熱くなる with trailing さ, keeping the sentence open and conversational."
+  },
+  {
+    "start": "1:45:39",
+    "end": "1:45:41",
+    "text": "大丈夫?",
+    "audio_file": "clip_039.mp3",
+    "translation": "Are you okay?",
+    "vocabulary": [
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "okay, all right, fine"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "1:45:41",
+    "end": "1:45:45",
+    "text": "大丈夫じゃ…ないかも",
+    "audio_file": "clip_040.mp3",
+    "translation": "Maybe… not okay.",
+    "vocabulary": [
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "okay, all right"
+      },
+      {
+        "word": "〜じゃない",
+        "reading": "〜じゃない",
+        "meaning": "not ~ (negative copula)"
+      },
+      {
+        "word": "かも",
+        "reading": "かも",
+        "meaning": "maybe, perhaps (short for かもしれない)"
+      }
+    ],
+    "grammar": "大丈夫じゃないかも is a hedged self-assessment: 'Maybe I'm not okay.' かも (short for かもしれない) softens the admission. The ellipsis (…) indicates a pause mid-sentence — hesitation before the vulnerable answer."
+  },
+  {
+    "start": "1:45:48",
+    "end": "1:45:52",
+    "text": "どうしたい? / 叫びたいかも",
+    "audio_file": "clip_041.mp3",
+    "translation": "What do you want to do? / Maybe I want to scream.",
+    "vocabulary": [
+      {
+        "word": "どうしたい",
+        "reading": "どうしたい",
+        "meaning": "what do you want to do, what would you like"
+      },
+      {
+        "word": "叫ぶ",
+        "reading": "さけぶ",
+        "meaning": "to shout, to scream, to cry out"
+      },
+      {
+        "word": "〜たい",
+        "reading": "〜たい",
+        "meaning": "want to ~"
+      },
+      {
+        "word": "かも",
+        "reading": "かも",
+        "meaning": "maybe, perhaps"
+      }
+    ],
+    "grammar": "どうしたい is literally 'how do you want to do it?' — a caring, open-ended question about what the person needs. 叫びたいかも: 叫びたい (want to scream) + かも (maybe) — Tidus's honest, slightly surprised-at-himself answer."
+  },
+  {
+    "start": "1:46:00",
+    "end": "1:46:05",
+    "text": "さーて、次はいよいよルカだぜ",
+    "audio_file": "clip_042.mp3",
+    "translation": "All right then, next up is finally Luca!",
+    "vocabulary": [
+      {
+        "word": "さーて",
+        "reading": "さーて",
+        "meaning": "well then, right then (energetic transition interjection)"
+      },
+      {
+        "word": "次",
+        "reading": "つぎ",
+        "meaning": "next"
+      },
+      {
+        "word": "いよいよ",
+        "reading": "いよいよ",
+        "meaning": "finally, at last, now at last (anticipation of a climax)"
+      },
+      {
+        "word": "〜だぜ",
+        "reading": "〜だぜ",
+        "meaning": "it is ~ (masculine casual, assertive/excited)"
+      }
+    ],
+    "grammar": "さーて is a drawn-out version of さて, used to energetically signal a topic shift or the start of something new. いよいよ conveys that the awaited moment has finally arrived. だぜ is a masculine casual assertive ending expressing excitement."
+  },
+  {
+    "start": "1:46:06",
+    "end": "1:46:10",
+    "text": "着いたらすぐに試合が始まる / 船の中でゆっくり休んでおけよ",
+    "audio_file": "clip_043.mp3",
+    "translation": "Once we arrive, the match starts right away. / Rest up well inside the ship.",
+    "vocabulary": [
+      {
+        "word": "着く",
+        "reading": "つく",
+        "meaning": "to arrive"
+      },
+      {
+        "word": "〜たらすぐに",
+        "reading": "〜たらすぐに",
+        "meaning": "as soon as ~, right after ~"
+      },
+      {
+        "word": "試合",
+        "reading": "しあい",
+        "meaning": "match, game, contest"
+      },
+      {
+        "word": "始まる",
+        "reading": "はじまる",
+        "meaning": "to begin, to start (intransitive)"
+      },
+      {
+        "word": "船",
+        "reading": "ふね",
+        "meaning": "ship, boat"
+      },
+      {
+        "word": "ゆっくり",
+        "reading": "ゆっくり",
+        "meaning": "slowly, leisurely, well (take your time)"
+      },
+      {
+        "word": "休む",
+        "reading": "やすむ",
+        "meaning": "to rest"
+      },
+      {
+        "word": "〜ておく",
+        "reading": "〜ておく",
+        "meaning": "to do in advance / in preparation"
+      },
+      {
+        "word": "〜おけよ",
+        "reading": "〜おけよ",
+        "meaning": "do it (imperative of おく, casual masculine)"
+      }
+    ],
+    "grammar": "着いたらすぐに: たら conditional ('once/when') + すぐに ('immediately') — 'as soon as we arrive.' 休んでおけよ: te-form of 休む + おく (do in advance for future benefit) + け (imperative of おく) + よ (emphasis). Wakka is telling the party to rest up in preparation for the blitzball tournament."
+  }
+]

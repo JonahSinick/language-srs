@@ -1,0 +1,2122 @@
+[
+  {
+    "start": "5:50:03",
+    "end": "5:50:05",
+    "text": "ユーナは?",
+    "audio_file": "clip_000.mp3",
+    "translation": "What about Yuna?",
+    "vocabulary": [],
+    "grammar": "The topic marker は is used without a predicate — a common shorthand question meaning 'What about X?' or 'Where is X?' The full sentence might be 'ユーナはどこだ?' or 'ユーナはどうした?'"
+  },
+  {
+    "start": "5:50:06",
+    "end": "5:50:10",
+    "text": "多分、中だ / 多分じゃなくて確かめろよ",
+    "audio_file": "clip_001.mp3",
+    "translation": "Probably inside. / Don't just say 'probably' — go check!",
+    "vocabulary": [
+      {
+        "word": "多分",
+        "reading": "たぶん",
+        "meaning": "probably, perhaps"
+      },
+      {
+        "word": "中",
+        "reading": "なか",
+        "meaning": "inside, within"
+      },
+      {
+        "word": "確かめる",
+        "reading": "たしかめる",
+        "meaning": "to confirm, to make sure, to check"
+      }
+    ],
+    "grammar": "確かめろ is the imperative form of 確かめる. The よ at the end adds emphasis or slight irritation. 多分じゃなくて frames a contrast: 'not just probability — do something certain.'"
+  },
+  {
+    "start": "5:51:00",
+    "end": "5:51:08",
+    "text": "何なんだ / 祈り語だ / 召喚師の心と重なり / 召喚獣の力を授ける",
+    "audio_file": "clip_002.mp3",
+    "translation": "What is this? / It's the language of prayer. / It resonates with a summoner's heart / and grants the power of an aeon.",
+    "vocabulary": [
+      {
+        "word": "祈り語",
+        "reading": "いのりご",
+        "meaning": "prayer language, the language of prayer (used in Yevon rituals)"
+      },
+      {
+        "word": "召喚師",
+        "reading": "しょうかんし",
+        "meaning": "summoner"
+      },
+      {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "heart, mind, spirit"
+      },
+      {
+        "word": "重なる",
+        "reading": "かさなる",
+        "meaning": "to overlap, to resonate, to be in accord with"
+      },
+      {
+        "word": "召喚獣",
+        "reading": "しょうかんじゅう",
+        "meaning": "aeon (summoned beast)"
+      },
+      {
+        "word": "力",
+        "reading": "ちから",
+        "meaning": "power, strength"
+      },
+      {
+        "word": "授ける",
+        "reading": "さずける",
+        "meaning": "to grant, to bestow, to confer"
+      }
+    ],
+    "grammar": "重なり is the conjunctive (te-form equivalent) of 重なる, linking the two clauses: 'resonates with the heart, and grants power.' The subject is the prayer language."
+  },
+  {
+    "start": "5:51:09",
+    "end": "5:51:13",
+    "text": "エボンの秘術で取り出され / 像に封じられた人間の魂",
+    "audio_file": "clip_003.mp3",
+    "translation": "Extracted by Yevon's secret arts, / and sealed within a statue — the soul of a human being.",
+    "vocabulary": [
+      {
+        "word": "秘術",
+        "reading": "ひじゅつ",
+        "meaning": "secret art, arcane technique"
+      },
+      {
+        "word": "取り出す",
+        "reading": "とりだす",
+        "meaning": "to extract, to take out, to remove"
+      },
+      {
+        "word": "像",
+        "reading": "ぞう",
+        "meaning": "statue, image, figure"
+      },
+      {
+        "word": "封じる",
+        "reading": "ふうじる",
+        "meaning": "to seal, to confine, to lock away"
+      },
+      {
+        "word": "人間",
+        "reading": "にんげん",
+        "meaning": "human being, person"
+      },
+      {
+        "word": "魂",
+        "reading": "たましい",
+        "meaning": "soul, spirit"
+      }
+    ],
+    "grammar": "Both 取り出され and 封じられた are passive forms. The entire phrase 封じられた人間の魂 is a noun phrase (past participial): 'the human soul that was sealed inside a statue.'"
+  },
+  {
+    "start": "5:51:14",
+    "end": "5:51:18",
+    "text": "あれもまた / 哀れな使者だ",
+    "audio_file": "clip_004.mp3",
+    "translation": "That too / is a pitiable messenger.",
+    "vocabulary": [
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "meaning": "that (thing over there), it (distant reference)"
+      },
+      {
+        "word": "もまた",
+        "reading": "もまた",
+        "meaning": "also, likewise, too (emphatic)"
+      },
+      {
+        "word": "哀れな",
+        "reading": "あわれな",
+        "meaning": "pitiful, pitiable, pathetic, sad"
+      },
+      {
+        "word": "使者",
+        "reading": "ししゃ",
+        "meaning": "messenger, envoy; here refers to the fayth/unsent"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:51:28",
+    "end": "5:51:32",
+    "text": "ユーナ!",
+    "audio_file": "clip_005.mp3",
+    "translation": "Yuna!",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "5:52:07",
+    "end": "5:52:14",
+    "text": "「待って",
+    "audio_file": "clip_006.mp3",
+    "translation": "Wait.",
+    "vocabulary": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      }
+    ],
+    "grammar": "待って is the te-form of 待つ used as a command: 'Wait!' The opening 「 bracket indicates the beginning of quoted/spoken dialogue."
+  },
+  {
+    "start": "5:52:16",
+    "end": "5:52:21",
+    "text": "徹底ぜ 祈れ",
+    "audio_file": "clip_007.mp3",
+    "translation": "Pray sincerely. Pray.",
+    "vocabulary": [
+      {
+        "word": "徹底",
+        "reading": "てってい",
+        "meaning": "thoroughness, being thorough, complete"
+      },
+      {
+        "word": "祈る",
+        "reading": "いのる",
+        "meaning": "to pray"
+      }
+    ],
+    "grammar": "祈れ is the imperative form of 祈る. 徹底ぜ appears to be a shortened or dialectal/archaic form of 徹底して (thoroughly, completely). The line commands the ritual to be performed fully and devoutly."
+  },
+  {
+    "start": "5:52:25",
+    "end": "5:52:32",
+    "text": "これより エボン最高法廷を改定する",
+    "audio_file": "clip_008.mp3",
+    "translation": "We hereby convene the Yevon High Tribunal.",
+    "vocabulary": [
+      {
+        "word": "これより",
+        "reading": "これより",
+        "meaning": "from this point, hereby, now (formal/ceremonial)"
+      },
+      {
+        "word": "最高法廷",
+        "reading": "さいこうほうてい",
+        "meaning": "supreme court, highest tribunal"
+      },
+      {
+        "word": "改定する",
+        "reading": "かいていする",
+        "meaning": "to convene, to open (a session); literally 'to reconvene/re-establish'"
+      }
+    ],
+    "grammar": "これより is a formal/ceremonial expression meaning 'from this moment.' 改定する here likely means 'to open' (the court session) rather than its standard meaning of 'revision.' This is solemn, archaic-register speech befitting an official proceeding."
+  },
+  {
+    "start": "5:52:32",
+    "end": "5:52:40",
+    "text": "エボンの名の下 厳正なる真理を行う 聖なる法廷である",
+    "audio_file": "clip_009.mp3",
+    "translation": "In the name of Yevon, this is the sacred tribunal that carries out strict and impartial truth.",
+    "vocabulary": [
+      {
+        "word": "名の下",
+        "reading": "なのもと",
+        "meaning": "in the name of, under the name of"
+      },
+      {
+        "word": "厳正なる",
+        "reading": "げんせいなる",
+        "meaning": "strict, impartial, rigorous (classical/formal adjectival form)"
+      },
+      {
+        "word": "真理",
+        "reading": "しんり",
+        "meaning": "truth, true principle"
+      },
+      {
+        "word": "行う",
+        "reading": "おこなう",
+        "meaning": "to carry out, to conduct, to perform"
+      },
+      {
+        "word": "聖なる",
+        "reading": "せいなる",
+        "meaning": "holy, sacred (classical adjectival form)"
+      },
+      {
+        "word": "法廷",
+        "reading": "ほうてい",
+        "meaning": "court of law, tribunal"
+      }
+    ],
+    "grammar": "〜なる is a classical/formal attributive form of な-adjectives, used for elevated or ceremonial language (厳正なる, 聖なる). である is a formal copula, lending an official, declarative tone."
+  },
+  {
+    "start": "5:52:41",
+    "end": "5:52:49",
+    "text": "裁かれる者よ エボンを信じ 真実を述べよ",
+    "audio_file": "clip_010.mp3",
+    "translation": "You who are to be judged — believe in Yevon and speak the truth.",
+    "vocabulary": [
+      {
+        "word": "裁く",
+        "reading": "さばく",
+        "meaning": "to judge, to try (in court)"
+      },
+      {
+        "word": "者",
+        "reading": "もの",
+        "meaning": "person, one (often formal)"
+      },
+      {
+        "word": "信じる",
+        "reading": "しんじる",
+        "meaning": "to believe, to trust"
+      },
+      {
+        "word": "真実",
+        "reading": "しんじつ",
+        "meaning": "truth, fact"
+      },
+      {
+        "word": "述べる",
+        "reading": "のべる",
+        "meaning": "to state, to express, to set forth"
+      }
+    ],
+    "grammar": "裁かれる者よ is a vocative phrase: 'O you who are being judged.' よ here is a classical vocative particle, not the assertive sentence-final よ. 述べよ is the classical imperative of 述べる."
+  },
+  {
+    "start": "5:52:51",
+    "end": "5:52:55",
+    "text": "召喚師ユーナ。",
+    "audio_file": "clip_011.mp3",
+    "translation": "Summoner Yuna.",
+    "vocabulary": [
+      {
+        "word": "召喚師",
+        "reading": "しょうかんし",
+        "meaning": "summoner"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:52:56",
+    "end": "5:53:01",
+    "text": "汝はエボンの民を守る、使命を帯びた身であろう。",
+    "audio_file": "clip_012.mp3",
+    "translation": "You bear a mission to protect the people of Yevon — is that not so?",
+    "vocabulary": [
+      {
+        "word": "汝",
+        "reading": "なんじ",
+        "meaning": "you (archaic/formal second person pronoun)"
+      },
+      {
+        "word": "民",
+        "reading": "たみ",
+        "meaning": "the people, populace"
+      },
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to protect, to guard, to defend"
+      },
+      {
+        "word": "使命",
+        "reading": "しめい",
+        "meaning": "mission, duty, calling"
+      },
+      {
+        "word": "帯びる",
+        "reading": "おびる",
+        "meaning": "to bear, to carry, to be charged with"
+      },
+      {
+        "word": "身",
+        "reading": "み",
+        "meaning": "one's person, self, body; here implies 'one who is charged with'"
+      }
+    ],
+    "grammar": "使命を帯びた身 is a noun phrase: 'a person who bears a mission.' であろう is the formal conjectural copula, often used rhetorically to seek confirmation: 'Is that not so?'"
+  },
+  {
+    "start": "5:53:02",
+    "end": "5:53:02",
+    "text": "はい。",
+    "audio_file": "clip_013.mp3",
+    "translation": "Yes.",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "5:53:03",
+    "end": "5:53:15",
+    "text": "ならば問う。汝はシーモア・グアドロウシに危害を加え、さらにアルベド族と手を組み、騒乱を起こした。",
+    "audio_file": "clip_014.mp3",
+    "translation": "Then I will ask. You harmed Seymour Guado, and furthermore, allied yourself with the Al Bhed tribe and incited unrest.",
+    "vocabulary": [
+      {
+        "word": "ならば",
+        "reading": "ならば",
+        "meaning": "then, in that case, if so (formal conditional)"
+      },
+      {
+        "word": "問う",
+        "reading": "とう",
+        "meaning": "to ask, to question, to inquire"
+      },
+      {
+        "word": "危害",
+        "reading": "きがい",
+        "meaning": "harm, injury, damage"
+      },
+      {
+        "word": "加える",
+        "reading": "くわえる",
+        "meaning": "to add, to inflict, to cause (harm)"
+      },
+      {
+        "word": "さらに",
+        "reading": "さらに",
+        "meaning": "furthermore, moreover, in addition"
+      },
+      {
+        "word": "族",
+        "reading": "ぞく",
+        "meaning": "tribe, clan, group"
+      },
+      {
+        "word": "手を組む",
+        "reading": "てをくむ",
+        "meaning": "to join forces, to ally with, to team up"
+      },
+      {
+        "word": "騒乱",
+        "reading": "そうらん",
+        "meaning": "unrest, disturbance, riot, turmoil"
+      },
+      {
+        "word": "起こす",
+        "reading": "おこす",
+        "meaning": "to cause, to raise, to bring about"
+      }
+    ],
+    "grammar": "危害を加え is the conjunctive (masu-stem) form of 加える, linking it to the next clause. The sentence lists Yuna's alleged offenses in formal prosecutorial language."
+  },
+  {
+    "start": "5:53:16",
+    "end": "5:53:24",
+    "text": "これはエボンの秩序を乱す許しがたい反逆行為である",
+    "audio_file": "clip_015.mp3",
+    "translation": "This is an unforgivable act of rebellion that disturbs the order of Yevon.",
+    "vocabulary": [
+      {
+        "word": "秩序",
+        "reading": "ちつじょ",
+        "meaning": "order, discipline, system"
+      },
+      {
+        "word": "乱す",
+        "reading": "みだす",
+        "meaning": "to disturb, to disrupt, to throw into disorder"
+      },
+      {
+        "word": "許しがたい",
+        "reading": "ゆるしがたい",
+        "meaning": "unforgivable, inexcusable (〜がたい = difficult/impossible to do)"
+      },
+      {
+        "word": "反逆行為",
+        "reading": "はんぎゃくこうい",
+        "meaning": "act of rebellion, treasonous act"
+      }
+    ],
+    "grammar": "〜がたい attaches to verb stems to mean 'difficult/impossible to ~,' so 許しがたい = 'impossible to forgive.' である is the formal declarative copula."
+  },
+  {
+    "start": "5:53:25",
+    "end": "5:53:28",
+    "text": "何故このような暴挙に及んだ",
+    "audio_file": "clip_016.mp3",
+    "translation": "Why did you resort to such an outrageous act?",
+    "vocabulary": [
+      {
+        "word": "何故",
+        "reading": "なぜ",
+        "meaning": "why, for what reason"
+      },
+      {
+        "word": "暴挙",
+        "reading": "ぼうきょ",
+        "meaning": "reckless/outrageous act, rash behavior"
+      },
+      {
+        "word": "及ぶ",
+        "reading": "およぶ",
+        "meaning": "to extend to, to resort to, to go as far as"
+      }
+    ],
+    "grammar": "〜に及ぶ means 'to go so far as to,' 'to resort to,' or 'to reach the point of.' Used here to convey the gravity of the action."
+  },
+  {
+    "start": "5:53:29",
+    "end": "5:53:32",
+    "text": "その意図を述べよ",
+    "audio_file": "clip_017.mp3",
+    "translation": "State your intention.",
+    "vocabulary": [
+      {
+        "word": "意図",
+        "reading": "いと",
+        "meaning": "intention, purpose, aim"
+      },
+      {
+        "word": "述べる",
+        "reading": "のべる",
+        "meaning": "to state, to express, to set forth"
+      }
+    ],
+    "grammar": "述べよ is the classical imperative form of 述べる, used in formal/judicial contexts."
+  },
+  {
+    "start": "5:53:33",
+    "end": "5:53:34",
+    "text": "それは",
+    "audio_file": "clip_018.mp3",
+    "translation": "Well, that is —",
+    "vocabulary": [],
+    "grammar": "それは introduces an explanation but is left incomplete (trailing off), indicating hesitation or interruption."
+  },
+  {
+    "start": "5:53:36",
+    "end": "5:53:44",
+    "text": "シンの反逆者はシーモアロウシです / ロウシは七義ミジスカル様をその手で",
+    "audio_file": "clip_019.mp3",
+    "translation": "The true traitor against Sin is Seymour Guado. / Lord Guado killed Lord Mika of the Council of Seven with his own hands —",
+    "vocabulary": [
+      {
+        "word": "反逆者",
+        "reading": "はんぎゃくしゃ",
+        "meaning": "rebel, traitor"
+      },
+      {
+        "word": "その手で",
+        "reading": "そのてで",
+        "meaning": "with his own hands"
+      }
+    ],
+    "grammar": "The second clause is cut off mid-sentence, implying Yuna is interrupted or the accusation is so shocking it hangs in the air. 七義 likely refers to a council of elders/leaders within Yevon."
+  },
+  {
+    "start": "5:53:45",
+    "end": "5:53:47",
+    "text": "なんてしと",
+    "audio_file": "clip_020.mp3",
+    "translation": "What a thing to say!",
+    "vocabulary": [
+      {
+        "word": "なんて",
+        "reading": "なんて",
+        "meaning": "what a ~, such a thing as (exclamatory)"
+      },
+      {
+        "word": "しと",
+        "reading": "しと",
+        "meaning": "thing, statement (colloquial, dialect form of こと)"
+      }
+    ],
+    "grammar": "なんてしと is colloquial/dialectal: しと = こと. The expression conveys disbelief or outrage at what was just said — 'What a thing to say!' or 'How dare you say such a thing!'"
+  },
+  {
+    "start": "5:53:48",
+    "end": "5:53:53",
+    "text": "おや?初耳でしたか / そればかりか",
+    "audio_file": "clip_021.mp3",
+    "translation": "Oh? This is the first you've heard of it? / And what's more —",
+    "vocabulary": [
+      {
+        "word": "おや",
+        "reading": "おや",
+        "meaning": "oh, my (mild surprise)"
+      },
+      {
+        "word": "初耳",
+        "reading": "はつみみ",
+        "meaning": "news to one's ears for the first time, first hearing of something"
+      },
+      {
+        "word": "そればかりか",
+        "reading": "そればかりか",
+        "meaning": "not only that, and what's more, on top of that"
+      }
+    ],
+    "grammar": "初耳でしたか is a polite past question: 'Was this the first you heard?' Seymour uses it mockingly. そればかりか is a conjunctive phrase meaning 'and not only that…'"
+  },
+  {
+    "start": "5:53:54",
+    "end": "5:53:57",
+    "text": "シーモアローシはすでに亡くなっています",
+    "audio_file": "clip_022.mp3",
+    "translation": "Seymour Guado is already dead.",
+    "vocabulary": [
+      {
+        "word": "すでに",
+        "reading": "すでに",
+        "meaning": "already"
+      },
+      {
+        "word": "亡くなる",
+        "reading": "なくなる",
+        "meaning": "to pass away, to die (polite)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:53:58",
+    "end": "5:54:02",
+    "text": "さまよう死者を異界に送るのは召喚士の大切な務め",
+    "audio_file": "clip_023.mp3",
+    "translation": "Sending wandering souls to the Farplane is an important duty of a summoner.",
+    "vocabulary": [
+      {
+        "word": "さまよう",
+        "reading": "さまよう",
+        "meaning": "to wander, to roam"
+      },
+      {
+        "word": "死者",
+        "reading": "ししゃ",
+        "meaning": "the dead, deceased person"
+      },
+      {
+        "word": "異界",
+        "reading": "いかい",
+        "meaning": "the Farplane, the other world, realm of the dead"
+      },
+      {
+        "word": "送る",
+        "reading": "おくる",
+        "meaning": "to send, to see off; here to perform the sending rite"
+      },
+      {
+        "word": "大切な",
+        "reading": "たいせつな",
+        "meaning": "important, precious, essential"
+      },
+      {
+        "word": "務め",
+        "reading": "つとめ",
+        "meaning": "duty, obligation, responsibility"
+      }
+    ],
+    "grammar": "〜のは nominalization: 'sending wandering souls to the Farplane' is turned into a noun phrase that becomes the subject of the sentence."
+  },
+  {
+    "start": "5:54:03",
+    "end": "5:54:07",
+    "text": "ユーナは召喚士として当然のことをしただけです",
+    "audio_file": "clip_024.mp3",
+    "translation": "Yuna simply did what was natural as a summoner.",
+    "vocabulary": [
+      {
+        "word": "として",
+        "reading": "として",
+        "meaning": "as, in the capacity of"
+      },
+      {
+        "word": "当然",
+        "reading": "とうぜん",
+        "meaning": "natural, obvious, a matter of course"
+      },
+      {
+        "word": "〜だけ",
+        "reading": "〜だけ",
+        "meaning": "just, only, merely"
+      }
+    ],
+    "grammar": "〜としての marks the role/capacity: 'as a summoner.' しただけ = 'merely did / did no more than.' The construction downplays the action as routine duty."
+  },
+  {
+    "start": "5:54:10",
+    "end": "5:54:22",
+    "text": "どうかシーモアローシを異界へ / 死人は異界へ、そう申すか?",
+    "audio_file": "clip_025.mp3",
+    "translation": "Please send Seymour Guado to the Farplane. / The dead belong in the Farplane — is that what you are saying?",
+    "vocabulary": [
+      {
+        "word": "どうか",
+        "reading": "どうか",
+        "meaning": "please (earnest entreaty)"
+      },
+      {
+        "word": "死人",
+        "reading": "しにん / しびと",
+        "meaning": "the dead, a dead person"
+      },
+      {
+        "word": "申す",
+        "reading": "もうす",
+        "meaning": "to say (humble form of 言う)"
+      }
+    ],
+    "grammar": "申すか is the humble form used here by the tribunal speaker with an interrogative tone. そう申すか = 'Is that what you are saying?' — a rhetorical, slightly menacing question."
+  },
+  {
+    "start": "5:54:25",
+    "end": "5:54:28",
+    "text": "老子?",
+    "audio_file": "clip_026.mp3",
+    "translation": "Grand Maester?",
+    "vocabulary": [
+      {
+        "word": "老子",
+        "reading": "ろうし",
+        "meaning": "Grand Maester (Yevon's highest leader; literally 'elder master')"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:54:29",
+    "end": "5:54:35",
+    "text": "死人は異界へか",
+    "audio_file": "clip_027.mp3",
+    "translation": "The dead to the Farplane, you say?",
+    "vocabulary": [
+      {
+        "word": "死人",
+        "reading": "しにん",
+        "meaning": "the dead, a dead person"
+      },
+      {
+        "word": "異界",
+        "reading": "いかい",
+        "meaning": "the Farplane, the otherworld"
+      }
+    ],
+    "grammar": "The sentence-final か marks a reflective/rhetorical question, as Maika Mika echoes the argument back with a hint of dark irony — because he himself is one of the unsent dead."
+  },
+  {
+    "start": "5:54:38",
+    "end": "5:54:46",
+    "text": "さよう わしも死人よ",
+    "audio_file": "clip_028.mp3",
+    "translation": "Indeed. I too am among the dead.",
+    "vocabulary": [
+      {
+        "word": "さよう",
+        "reading": "さよう",
+        "meaning": "indeed, that is so (formal/archaic affirmative)"
+      },
+      {
+        "word": "わし",
+        "reading": "わし",
+        "meaning": "I, me (old man's first-person pronoun, archaic/dialectal)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:54:46",
+    "end": "5:54:51",
+    "text": "マイカ総老子は賢明な指導者",
+    "audio_file": "clip_029.mp3",
+    "translation": "Grand Maester Mika is a wise leader.",
+    "vocabulary": [
+      {
+        "word": "総老子",
+        "reading": "そうろうし",
+        "meaning": "Grand Maester (supreme elder of Yevon)"
+      },
+      {
+        "word": "賢明な",
+        "reading": "けんめいな",
+        "meaning": "wise, judicious, prudent"
+      },
+      {
+        "word": "指導者",
+        "reading": "しどうしゃ",
+        "meaning": "leader, guide"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:54:52",
+    "end": "5:54:55",
+    "text": "死してなおスピラに必要な人物",
+    "audio_file": "clip_030.mp3",
+    "translation": "Even in death, he is a person indispensable to Spira.",
+    "vocabulary": [
+      {
+        "word": "死する",
+        "reading": "しする",
+        "meaning": "to die (literary/formal form of 死ぬ)"
+      },
+      {
+        "word": "なお",
+        "reading": "なお",
+        "meaning": "still, even yet, all the more"
+      },
+      {
+        "word": "必要な",
+        "reading": "ひつような",
+        "meaning": "necessary, needed, indispensable"
+      },
+      {
+        "word": "人物",
+        "reading": "じんぶつ",
+        "meaning": "person, figure, personage"
+      }
+    ],
+    "grammar": "死して is the te-form of the literary verb 死する. なお reinforces that the quality persists despite death: 'even having died, still…'"
+  },
+  {
+    "start": "5:54:56",
+    "end": "5:55:02",
+    "text": "優れた使者による指導は 愚かな聖者の支配に勝るのだ",
+    "audio_file": "clip_031.mp3",
+    "translation": "Guidance by a superior messenger surpasses the rule of a foolish living saint.",
+    "vocabulary": [
+      {
+        "word": "優れる",
+        "reading": "すぐれる",
+        "meaning": "to be superior, to excel"
+      },
+      {
+        "word": "使者",
+        "reading": "ししゃ",
+        "meaning": "messenger; here, the unsent (those who remain after death)"
+      },
+      {
+        "word": "指導",
+        "reading": "しどう",
+        "meaning": "guidance, leadership, direction"
+      },
+      {
+        "word": "愚かな",
+        "reading": "おろかな",
+        "meaning": "foolish, stupid, unwise"
+      },
+      {
+        "word": "聖者",
+        "reading": "せいじゃ",
+        "meaning": "saint, holy person"
+      },
+      {
+        "word": "支配",
+        "reading": "しはい",
+        "meaning": "rule, domination, control"
+      },
+      {
+        "word": "勝る",
+        "reading": "まさる",
+        "meaning": "to surpass, to exceed, to be superior to"
+      }
+    ],
+    "grammar": "〜による marks agency or means: 'by/through.' 〜に勝る = 'to surpass ~.' のだ at the end adds explanatory emphasis, asserting this as a reasoned conclusion."
+  },
+  {
+    "start": "5:55:03",
+    "end": "5:55:10",
+    "text": "生命は所詮むなしい夢 生の後に来る死こそが永遠",
+    "audio_file": "clip_032.mp3",
+    "translation": "Life is, in the end, an empty dream. It is death that comes after life that is eternal.",
+    "vocabulary": [
+      {
+        "word": "生命",
+        "reading": "せいめい",
+        "meaning": "life (in a broad/philosophical sense)"
+      },
+      {
+        "word": "所詮",
+        "reading": "しょせん",
+        "meaning": "in the end, after all, ultimately"
+      },
+      {
+        "word": "むなしい",
+        "reading": "むなしい",
+        "meaning": "empty, vain, futile, hollow"
+      },
+      {
+        "word": "生",
+        "reading": "せい",
+        "meaning": "life, living"
+      },
+      {
+        "word": "永遠",
+        "reading": "えいえん",
+        "meaning": "eternity, forever"
+      }
+    ],
+    "grammar": "〜こそが is an emphatic subject marker: 'it is precisely death that is eternal.' This is Maika's nihilistic philosophy — a key moment of villainous ideology."
+  },
+  {
+    "start": "5:55:11",
+    "end": "5:55:20",
+    "text": "人は死ぬ 獣も死ぬ 草木も死ぬ 大地さえも死ぬ",
+    "audio_file": "clip_033.mp3",
+    "translation": "People die. Beasts die. Plants die. Even the earth itself dies.",
+    "vocabulary": [
+      {
+        "word": "獣",
+        "reading": "けもの",
+        "meaning": "beast, wild animal"
+      },
+      {
+        "word": "草木",
+        "reading": "くさき",
+        "meaning": "plants and trees, vegetation"
+      },
+      {
+        "word": "大地",
+        "reading": "だいち",
+        "meaning": "the earth, the ground, terra firma"
+      },
+      {
+        "word": "さえ",
+        "reading": "さえ",
+        "meaning": "even (marks an extreme case)"
+      }
+    ],
+    "grammar": "Anaphora — the repeated structure 〜も死ぬ creates a rhetorical build-up. さえも is emphatic: 'even X.' The escalation from person to beast to plant to earth underscores the universality of death."
+  },
+  {
+    "start": "5:55:21",
+    "end": "5:55:31",
+    "text": "スピラのすべてを支配するのは 死の力にほかならぬ / 逆らうだけ無駄というものよ",
+    "audio_file": "clip_034.mp3",
+    "translation": "What rules over all of Spira is nothing other than the power of death. / Resisting it is simply futile.",
+    "vocabulary": [
+      {
+        "word": "すべて",
+        "reading": "すべて",
+        "meaning": "everything, all"
+      },
+      {
+        "word": "支配する",
+        "reading": "しはいする",
+        "meaning": "to rule, to dominate, to control"
+      },
+      {
+        "word": "〜にほかならぬ",
+        "reading": "〜にほかならぬ",
+        "meaning": "nothing other than ~, is precisely ~ (emphatic)"
+      },
+      {
+        "word": "逆らう",
+        "reading": "さからう",
+        "meaning": "to resist, to defy, to go against"
+      },
+      {
+        "word": "無駄",
+        "reading": "むだ",
+        "meaning": "futile, useless, wasteful"
+      }
+    ],
+    "grammar": "〜にほかならぬ is a formal/emphatic expression: 'is nothing but ~, is exactly ~.' 逆らうだけ無駄というものよ: 逆らうだけ = 'merely resisting,' というものよ = 'that's just what it is' (resigned assertion)."
+  },
+  {
+    "start": "5:55:32",
+    "end": "5:55:37",
+    "text": "ならば シンは…",
+    "audio_file": "clip_035.mp3",
+    "translation": "Then Sin is…",
+    "vocabulary": [
+      {
+        "word": "ならば",
+        "reading": "ならば",
+        "meaning": "then, in that case (formal conditional)"
+      }
+    ],
+    "grammar": "The sentence trails off with 〜は…, signaling that Yuna is about to draw a logical conclusion from what Maika said, but is cut off or stops herself."
+  },
+  {
+    "start": "5:55:37",
+    "end": "5:55:41",
+    "text": "私は召喚師です 父と同じ召喚師です",
+    "audio_file": "clip_036.mp3",
+    "translation": "I am a summoner. I am the same kind of summoner as my father.",
+    "vocabulary": [
+      {
+        "word": "父",
+        "reading": "ちち",
+        "meaning": "father (one's own)"
+      },
+      {
+        "word": "同じ",
+        "reading": "おなじ",
+        "meaning": "same, identical"
+      }
+    ],
+    "grammar": "Yuna identifies herself twice, with escalating specificity: first as a summoner in general, then as a summoner in the same lineage as Braska. The repetition is emotionally emphatic."
+  },
+  {
+    "start": "5:55:42",
+    "end": "5:55:45",
+    "text": "シンがもたらす死を止めようと 旅を続けています",
+    "audio_file": "clip_037.mp3",
+    "translation": "I continue my journey in order to stop the death that Sin brings.",
+    "vocabulary": [
+      {
+        "word": "もたらす",
+        "reading": "もたらす",
+        "meaning": "to bring, to cause, to give rise to"
+      },
+      {
+        "word": "止める",
+        "reading": "とめる",
+        "meaning": "to stop, to halt, to prevent"
+      },
+      {
+        "word": "〜ようと",
+        "reading": "〜ようと",
+        "meaning": "in order to, trying to, intending to (volitional + と)"
+      },
+      {
+        "word": "続ける",
+        "reading": "つづける",
+        "meaning": "to continue, to keep doing"
+      }
+    ],
+    "grammar": "止めようと is the volitional form + と: 'intending to stop / with the aim of stopping.' This construction expresses purpose or intention in action."
+  },
+  {
+    "start": "5:55:46",
+    "end": "5:55:52",
+    "text": "それも… それも無駄だとおっしゃるのですか?",
+    "audio_file": "clip_038.mp3",
+    "translation": "Is that too… are you saying that is futile as well?",
+    "vocabulary": [
+      {
+        "word": "おっしゃる",
+        "reading": "おっしゃる",
+        "meaning": "to say (honorific form of 言う)"
+      }
+    ],
+    "grammar": "〜とおっしゃるのですか is a highly polite way to quote and question what someone said: 'Are you saying that ~?' The repetition of それも signals Yuna's shock and emotion."
+  },
+  {
+    "start": "5:55:52",
+    "end": "5:55:58",
+    "text": "私だけじゃない / シンに立ち向かってきたたくさんの人たち",
+    "audio_file": "clip_039.mp3",
+    "translation": "It's not just me. / All the many people who have stood up against Sin —",
+    "vocabulary": [
+      {
+        "word": "〜だけじゃない",
+        "reading": "〜だけじゃない",
+        "meaning": "not just ~, it's not only ~"
+      },
+      {
+        "word": "立ち向かう",
+        "reading": "たちむかう",
+        "meaning": "to confront, to face, to stand up against"
+      }
+    ],
+    "grammar": "立ち向かってきた is a te-form + くる construction: 'have been standing up against (over time, up to now).' The sentence is left incomplete, setting up the next line."
+  },
+  {
+    "start": "5:55:59",
+    "end": "5:56:06",
+    "text": "その人たちの戦いも犠牲も / みんな無駄なんですか",
+    "audio_file": "clip_040.mp3",
+    "translation": "Their battles, their sacrifices — were all of those futile too?",
+    "vocabulary": [
+      {
+        "word": "戦い",
+        "reading": "たたかい",
+        "meaning": "battle, fight, struggle"
+      },
+      {
+        "word": "犠牲",
+        "reading": "ぎせい",
+        "meaning": "sacrifice, victim"
+      },
+      {
+        "word": "みんな",
+        "reading": "みんな",
+        "meaning": "everyone, all of it"
+      }
+    ],
+    "grammar": "〜なんですか is an emphatic question form (〜なのですか), expressing emotional disbelief: 'Are you saying it's all futile?' The listing of 戦いも犠牲も (〜も〜も = 'both ~ and ~') emphasizes the scope of what is being dismissed."
+  },
+  {
+    "start": "5:56:08",
+    "end": "5:56:15",
+    "text": "無駄とは言わぬ / 確かに召喚師が何人犠牲になろうとも",
+    "audio_file": "clip_041.mp3",
+    "translation": "I would not say futile. / Certainly, no matter how many summoners make the sacrifice —",
+    "vocabulary": [
+      {
+        "word": "〜とは言わぬ",
+        "reading": "〜とはいわぬ",
+        "meaning": "I would not say ~, I don't mean ~ (formal/archaic negative)"
+      },
+      {
+        "word": "確かに",
+        "reading": "たしかに",
+        "meaning": "certainly, indeed, to be sure"
+      },
+      {
+        "word": "何人",
+        "reading": "なんにん",
+        "meaning": "how many people"
+      },
+      {
+        "word": "犠牲になる",
+        "reading": "ぎせいになる",
+        "meaning": "to become a sacrifice, to be sacrificed"
+      }
+    ],
+    "grammar": "〜になろうとも is a concessive volitional construction: 'no matter how many become sacrifices.' It concedes one point before pivoting to the real argument."
+  },
+  {
+    "start": "5:56:16",
+    "end": "5:56:21",
+    "text": "シンは倒せる / 復活を防ぐ術は無い",
+    "audio_file": "clip_042.mp3",
+    "translation": "Sin can be defeated. / But there is no way to prevent its revival.",
+    "vocabulary": [
+      {
+        "word": "倒す",
+        "reading": "たおす",
+        "meaning": "to defeat, to bring down, to topple"
+      },
+      {
+        "word": "復活",
+        "reading": "ふっかつ",
+        "meaning": "revival, resurrection, return"
+      },
+      {
+        "word": "防ぐ",
+        "reading": "ふせぐ",
+        "meaning": "to prevent, to ward off, to block"
+      },
+      {
+        "word": "術",
+        "reading": "すべ",
+        "meaning": "way, means, method"
+      }
+    ],
+    "grammar": "倒せる is the potential form of 倒す: 'can be defeated.' The contrast between シンは倒せる and 復活を防ぐ術は無い encapsulates Maika's nihilistic worldview: victory is temporary, return is certain."
+  },
+  {
+    "start": "5:56:22",
+    "end": "5:56:28",
+    "text": "なれど戦う者の勇気は 民に希望を与えておろう",
+    "audio_file": "clip_043.mp3",
+    "translation": "Yet the courage of those who fight gives hope to the people, does it not.",
+    "vocabulary": [
+      {
+        "word": "なれど",
+        "reading": "なれど",
+        "meaning": "however, but, yet (classical/archaic concessive)"
+      },
+      {
+        "word": "勇気",
+        "reading": "ゆうき",
+        "meaning": "courage, bravery"
+      },
+      {
+        "word": "民",
+        "reading": "たみ",
+        "meaning": "the people, populace"
+      },
+      {
+        "word": "希望",
+        "reading": "きぼう",
+        "meaning": "hope, wish, aspiration"
+      },
+      {
+        "word": "与える",
+        "reading": "あたえる",
+        "meaning": "to give, to grant, to provide"
+      }
+    ],
+    "grammar": "なれど is classical/archaic for けれど (but, however). おろう is archaic/dialectal for だろう (probably, presumably), here implying a rhetorical concession: 'it does give hope, I suppose.'"
+  },
+  {
+    "start": "5:56:29",
+    "end": "5:56:36",
+    "text": "召喚師の生も死も 決して無駄にはならん",
+    "audio_file": "clip_044.mp3",
+    "translation": "A summoner's life and death — neither will ever be in vain.",
+    "vocabulary": [
+      {
+        "word": "決して",
+        "reading": "けっして",
+        "meaning": "never, by no means (used with negative)"
+      },
+      {
+        "word": "無駄になる",
+        "reading": "むだになる",
+        "meaning": "to go to waste, to be in vain, to be futile"
+      },
+      {
+        "word": "〜ならん",
+        "reading": "〜ならん",
+        "meaning": "will not ~ (archaic/formal negative of なる)"
+      }
+    ],
+    "grammar": "生も死も = 'both life and death.' 決して〜ならん is an archaic strong negative: 'will never become futile.' ならん = ならない in formal/archaic speech."
+  },
+  {
+    "start": "5:56:37",
+    "end": "5:56:42",
+    "text": "無駄にはならんが 解決にもならん",
+    "audio_file": "clip_045.mp3",
+    "translation": "It will not be in vain — but it will not solve anything either.",
+    "vocabulary": [
+      {
+        "word": "解決",
+        "reading": "かいけつ",
+        "meaning": "resolution, solution"
+      }
+    ],
+    "grammar": "〜が introduces a concessive contrast: 'not futile, but also not a solution.' The parallel structure 無駄にはならん / 解決にもならん (A won't happen / B won't happen either) is rhetorically blunt and cynical."
+  },
+  {
+    "start": "5:56:43",
+    "end": "5:56:50",
+    "text": "いかにも",
+    "audio_file": "clip_046.mp3",
+    "translation": "Exactly so. Precisely.",
+    "vocabulary": [
+      {
+        "word": "いかにも",
+        "reading": "いかにも",
+        "meaning": "indeed, exactly, precisely, just so (formal affirmation)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:56:51",
+    "end": "5:56:56",
+    "text": "マイカ様! / 変わらぬことこそエボンも真実",
+    "audio_file": "clip_047.mp3",
+    "translation": "Grand Maester Mika! / The unchanging — that itself is the truth of Yevon.",
+    "vocabulary": [
+      {
+        "word": "変わらぬ",
+        "reading": "かわらぬ",
+        "meaning": "unchanging (classical negative attributive of 変わる)"
+      },
+      {
+        "word": "〜こそ",
+        "reading": "〜こそ",
+        "meaning": "it is precisely ~, emphasis particle"
+      }
+    ],
+    "grammar": "変わらぬ is the classical (archaic) negative form of 変わる, equivalent to modern 変わらない. こそ is an emphatic focus particle: 'it is precisely the unchanging that…'"
+  },
+  {
+    "start": "5:56:57",
+    "end": "5:57:01",
+    "text": "変わらぬことこそエボンも真実 / 継続こそがエボンの真実",
+    "audio_file": "clip_048.mp3",
+    "translation": "The unchanging — that is the truth of Yevon. / It is continuity that is the true essence of Yevon.",
+    "vocabulary": [
+      {
+        "word": "継続",
+        "reading": "けいぞく",
+        "meaning": "continuation, continuity, persistence"
+      }
+    ],
+    "grammar": "継続こそが uses こそが (emphatic + subject marker) to stress that continuity/persistence is the defining truth of Yevon. The two lines mirror each other, voiced by different speakers (loyalists defending the status quo)."
+  },
+  {
+    "start": "5:57:02",
+    "end": "5:57:09",
+    "text": "変だよ!おかしいよ / 真実に異を唱える",
+    "audio_file": "clip_049.mp3",
+    "translation": "This is wrong! It's crazy! / To raise an objection against the truth —",
+    "vocabulary": [
+      {
+        "word": "変",
+        "reading": "へん",
+        "meaning": "strange, weird, wrong, off"
+      },
+      {
+        "word": "おかしい",
+        "reading": "おかしい",
+        "meaning": "strange, wrong, absurd, laughable"
+      },
+      {
+        "word": "真実",
+        "reading": "しんじつ",
+        "meaning": "truth"
+      },
+      {
+        "word": "異を唱える",
+        "reading": "いをとなえる",
+        "meaning": "to raise an objection, to voice a dissent, to challenge"
+      }
+    ],
+    "grammar": "変だよ / おかしいよ are casual emphatic statements with よ. The second speaker (likely a tribunal member) responds with a formal phrase 真実に異を唱える, which trails off as an accusation or indictment."
+  },
+  {
+    "start": "5:57:10",
+    "end": "5:57:14",
+    "text": "これすなわち反逆者だ",
+    "audio_file": "clip_050.mp3",
+    "translation": "This is precisely what it means to be a traitor.",
+    "vocabulary": [
+      {
+        "word": "すなわち",
+        "reading": "すなわち",
+        "meaning": "that is to say, in other words, namely, precisely"
+      },
+      {
+        "word": "反逆者",
+        "reading": "はんぎゃくしゃ",
+        "meaning": "traitor, rebel"
+      }
+    ],
+    "grammar": "すなわち is a formal/literary connector meaning 'that is,' 'namely,' 'in other words.' The sentence equates questioning Yevon's truth with treason, delivered as an official verdict."
+  },
+  {
+    "start": "5:57:15",
+    "end": "5:57:19",
+    "text": "マイカ様!",
+    "audio_file": "clip_051.mp3",
+    "translation": "Grand Maester Mika!",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "5:57:29",
+    "end": "5:57:34",
+    "text": "出せ!出せってんだ、こら! / 聞いてんのか!",
+    "audio_file": "clip_052.mp3",
+    "translation": "Let me out! I said let me out, damn it! / Are you even listening?!",
+    "vocabulary": [
+      {
+        "word": "出す",
+        "reading": "だす",
+        "meaning": "to let out, to release"
+      },
+      {
+        "word": "こら",
+        "reading": "こら",
+        "meaning": "hey!, oi! (rough interjection expressing anger)"
+      },
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "to listen, to hear"
+      }
+    ],
+    "grammar": "出せってんだ is a contracted form of 出せって言ってんだ ('I'm saying let me out!'). 聞いてんのか = 聞いているのか, a rough/angry question. This is Tidus shouting from the prison cell."
+  },
+  {
+    "start": "5:57:35",
+    "end": "5:57:37",
+    "text": "無駄だ",
+    "audio_file": "clip_053.mp3",
+    "translation": "It's useless.",
+    "vocabulary": [
+      {
+        "word": "無駄",
+        "reading": "むだ",
+        "meaning": "useless, futile, pointless"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:57:43",
+    "end": "5:57:47",
+    "text": "ユーナ、どうしてっかな?",
+    "audio_file": "clip_054.mp3",
+    "translation": "I wonder how Yuna is doing.",
+    "vocabulary": [
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "meaning": "how; here used as 'how is she doing' (= どうしてる, 'what's she up to')"
+      }
+    ],
+    "grammar": "どうしてっかな is a contracted/colloquial form of どうしているかな ('I wonder how she is'). どうしてる (doing how / what's up with) + かな (wondering). Casual, worried musing."
+  },
+  {
+    "start": "5:57:48",
+    "end": "5:57:50",
+    "text": "さあな",
+    "audio_file": "clip_055.mp3",
+    "translation": "Who knows.",
+    "vocabulary": [
+      {
+        "word": "さあな",
+        "reading": "さあな",
+        "meaning": "who knows, beats me (casual, somewhat resigned expression of uncertainty)"
+      }
+    ],
+    "grammar": "さあな is a casual masculine version of さあ (well…). The な adds a rough, non-committal tone: 'Beats me.' Auron-like stoic response."
+  },
+  {
+    "start": "5:57:51",
+    "end": "5:57:59",
+    "text": "だが立ち直るさ、強い娘だ / 立ち直ったって、旅続けたら死んじゃうんだろ?",
+    "audio_file": "clip_056.mp3",
+    "translation": "But she'll pull through — she's a strong girl. / Even if she pulls through, if she continues the journey she'll die, right?",
+    "vocabulary": [
+      {
+        "word": "立ち直る",
+        "reading": "たちなおる",
+        "meaning": "to recover, to bounce back, to pull through"
+      },
+      {
+        "word": "娘",
+        "reading": "むすめ",
+        "meaning": "girl, young woman, daughter"
+      }
+    ],
+    "grammar": "立ち直ったって is 立ち直った + って (even if): 'even if she recovers.' 死んじゃう is 死んでしまう contracted: implies an unfortunate or regrettable outcome. んだろ? is a seeking-confirmation tag."
+  },
+  {
+    "start": "5:58:02",
+    "end": "5:58:09",
+    "text": "スピラってさ、誰かが死ぬとか、殺されるとか、そんなのばっかだな",
+    "audio_file": "clip_057.mp3",
+    "translation": "You know, Spira — it's nothing but people dying, being killed, stuff like that.",
+    "vocabulary": [
+      {
+        "word": "〜とか〜とか",
+        "reading": "〜とか〜とか",
+        "meaning": "things like ~, such as ~ (listing examples)"
+      },
+      {
+        "word": "ばっか",
+        "reading": "ばっか",
+        "meaning": "nothing but, only (colloquial form of ばかり)"
+      }
+    ],
+    "grammar": "〜ってさ is a casual topic marker adding a conversational 'you know' nuance. とかとか lists examples without being exhaustive. ばっかだな is casual/colloquial for ばかりだな: 'it's always just that, isn't it.'"
+  },
+  {
+    "start": "5:58:10",
+    "end": "5:58:13",
+    "text": "ああ、死の螺旋だ",
+    "audio_file": "clip_058.mp3",
+    "translation": "Yeah. It's a spiral of death.",
+    "vocabulary": [
+      {
+        "word": "死",
+        "reading": "し",
+        "meaning": "death"
+      },
+      {
+        "word": "螺旋",
+        "reading": "らせん",
+        "meaning": "spiral, helix"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:58:14",
+    "end": "5:58:18",
+    "text": "死を撒き散らすシンに挑んで、召喚師たちは死んでいく",
+    "audio_file": "clip_059.mp3",
+    "translation": "Summoners challenge Sin — which spreads death everywhere — and die in the process.",
+    "vocabulary": [
+      {
+        "word": "撒き散らす",
+        "reading": "まきちらす",
+        "meaning": "to scatter, to spread around, to sow widely"
+      },
+      {
+        "word": "挑む",
+        "reading": "いどむ",
+        "meaning": "to challenge, to take on, to confront"
+      },
+      {
+        "word": "〜ていく",
+        "reading": "〜ていく",
+        "meaning": "to continue doing (away from speaker), gradual progression"
+      }
+    ],
+    "grammar": "死んでいく uses te + いく to express an ongoing, progressive action moving away (into the future or toward an end): summoners keep dying, one after another."
+  },
+  {
+    "start": "5:58:19",
+    "end": "5:58:22",
+    "text": "召喚師を守るためにガードは命を投げ出して死ぬ",
+    "audio_file": "clip_060.mp3",
+    "translation": "Guardians throw away their lives and die in order to protect the summoner.",
+    "vocabulary": [
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "to protect, to guard"
+      },
+      {
+        "word": "ために",
+        "reading": "ために",
+        "meaning": "in order to, for the sake of"
+      },
+      {
+        "word": "命",
+        "reading": "いのち",
+        "meaning": "life"
+      },
+      {
+        "word": "投げ出す",
+        "reading": "なげだす",
+        "meaning": "to throw away, to abandon, to give up"
+      }
+    ],
+    "grammar": "〜ために expresses purpose: 'in order to protect.' 命を投げ出して uses the te-form to link two actions: 'throw away their lives and (then) die.'"
+  },
+  {
+    "start": "5:58:23",
+    "end": "5:58:28",
+    "text": "祈り後の正体は死せる魂 / エボンの老子は死人",
+    "audio_file": "clip_061.mp3",
+    "translation": "The true nature of the fayth is souls of the dead. / Yevon's Grand Maesters are the dead.",
+    "vocabulary": [
+      {
+        "word": "正体",
+        "reading": "しょうたい",
+        "meaning": "true identity, true nature, real form"
+      },
+      {
+        "word": "死せる",
+        "reading": "しせる",
+        "meaning": "dead (classical attributive form of 死する)"
+      }
+    ],
+    "grammar": "祈り後 is likely 祈り子 (fayth) — the transcript may have a recognition error. 死せる is classical: the attributive form of the literary verb 死する (to die), meaning 'dead souls.' Both sentences are stark, declarative revelations."
+  },
+  {
+    "start": "5:58:29",
+    "end": "5:58:31",
+    "text": "スピラには死が満ちている",
+    "audio_file": "clip_062.mp3",
+    "translation": "Spira is filled with death.",
+    "vocabulary": [
+      {
+        "word": "満ちる",
+        "reading": "みちる",
+        "meaning": "to be filled with, to be full of"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "5:58:32",
+    "end": "5:58:36",
+    "text": "シンだけが復活を繰り返し、死を積み重ねていく",
+    "audio_file": "clip_063.mp3",
+    "translation": "Only Sin keeps reviving, piling up death upon death.",
+    "vocabulary": [
+      {
+        "word": "復活",
+        "reading": "ふっかつ",
+        "meaning": "revival, resurrection"
+      },
+      {
+        "word": "繰り返す",
+        "reading": "くりかえす",
+        "meaning": "to repeat, to do over and over"
+      },
+      {
+        "word": "積み重ねる",
+        "reading": "つみかさねる",
+        "meaning": "to pile up, to accumulate, to stack"
+      }
+    ],
+    "grammar": "〜ていく again indicates ongoing progressive action: Sin keeps accumulating death into the future. The image is of an ever-growing mountain of death."
+  },
+  {
+    "start": "5:58:37",
+    "end": "5:58:41",
+    "text": "永遠に巡り続ける死の螺旋だ",
+    "audio_file": "clip_064.mp3",
+    "translation": "It is an eternal spiral of death that keeps turning forever.",
+    "vocabulary": [
+      {
+        "word": "永遠に",
+        "reading": "えいえんに",
+        "meaning": "eternally, forever"
+      },
+      {
+        "word": "巡る",
+        "reading": "めぐる",
+        "meaning": "to go around, to circulate, to turn"
+      },
+      {
+        "word": "〜続ける",
+        "reading": "〜つづける",
+        "meaning": "to keep doing ~, to continue doing ~"
+      }
+    ],
+    "grammar": "巡り続ける is a compound verb: 巡る (to circulate) + 続ける (to keep doing) = 'keeps circulating endlessly.' This is the central thematic phrase of the chapter."
+  },
+  {
+    "start": "5:58:51",
+    "end": "5:58:55",
+    "text": "出ろ / お前らの処分が決定した",
+    "audio_file": "clip_065.mp3",
+    "translation": "Get out. / Your punishment has been decided.",
+    "vocabulary": [
+      {
+        "word": "出る",
+        "reading": "でる",
+        "meaning": "to come out, to go out"
+      },
+      {
+        "word": "お前ら",
+        "reading": "おまえら",
+        "meaning": "you all, you lot (rough plural)"
+      },
+      {
+        "word": "処分",
+        "reading": "しょぶん",
+        "meaning": "punishment, disposal, disciplinary action"
+      },
+      {
+        "word": "決定する",
+        "reading": "けっていする",
+        "meaning": "to decide, to determine, to settle"
+      }
+    ],
+    "grammar": "出ろ is the imperative of 出る. 決定した is past tense: 'has been decided.' The passive implication (decided by authority) makes it more menacing."
+  },
+  {
+    "start": "5:58:56",
+    "end": "5:59:00",
+    "text": "処分 / 処刑の間違いではないのか",
+    "audio_file": "clip_066.mp3",
+    "translation": "'Punishment?' Isn't that a mistake for 'execution'?",
+    "vocabulary": [
+      {
+        "word": "処刑",
+        "reading": "しょけい",
+        "meaning": "execution, capital punishment"
+      },
+      {
+        "word": "間違い",
+        "reading": "まちがい",
+        "meaning": "mistake, error"
+      }
+    ],
+    "grammar": "〜ではないのか is a rhetorical question: 'Isn't it ~?' The speaker (Auron) pointedly notes that 処分 (punishment/disposal) sounds like a euphemism for 処刑 (execution)."
+  },
+  {
+    "start": "5:59:01",
+    "end": "5:59:11",
+    "text": "何を言う / 親友を処刑するはずがなかろう / よく言う",
+    "audio_file": "clip_067.mp3",
+    "translation": "What are you saying? / There's no way we'd execute a close friend. / That's rich.",
+    "vocabulary": [
+      {
+        "word": "親友",
+        "reading": "しんゆう",
+        "meaning": "close friend, best friend"
+      },
+      {
+        "word": "〜はずがない",
+        "reading": "〜はずがない",
+        "meaning": "there's no way ~, it cannot be that ~"
+      },
+      {
+        "word": "よく言う",
+        "reading": "よくいう",
+        "meaning": "that's rich, you've got some nerve to say that (sarcastic)"
+      }
+    ],
+    "grammar": "〜はずがなかろう is an archaic/formal version of 〜はずがないだろう: 'there is surely no way we'd ~.' なかろう = ないだろう in classical speech. よく言う is sarcastic: 'Oh sure, easy for you to say.'"
+  },
+  {
+    "start": "5:59:29",
+    "end": "5:59:37",
+    "text": "さて、次はお前か? / どういう処分だ?",
+    "audio_file": "clip_068.mp3",
+    "translation": "Well then, you're next? / What kind of punishment is it?",
+    "vocabulary": [
+      {
+        "word": "さて",
+        "reading": "さて",
+        "meaning": "well then, now then (topic transition)"
+      },
+      {
+        "word": "次",
+        "reading": "つぎ",
+        "meaning": "next"
+      },
+      {
+        "word": "どういう",
+        "reading": "どういう",
+        "meaning": "what kind of, what sort of"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "6:00:04",
+    "end": "6:00:09",
+    "text": "おお!無事か!",
+    "audio_file": "clip_069.mp3",
+    "translation": "Oh! Are you safe?!",
+    "vocabulary": [
+      {
+        "word": "無事",
+        "reading": "ぶじ",
+        "meaning": "safe, unharmed, without incident"
+      }
+    ],
+    "grammar": "無事か is a plain-form question: 'Are you safe?' The おお! expresses surprise and relief."
+  },
+  {
+    "start": "6:00:10",
+    "end": "6:00:15",
+    "text": "どういう処分なんだ? / のたれ死に狙いってやつかもな",
+    "audio_file": "clip_070.mp3",
+    "translation": "What sort of punishment are we talking? / Might be the kind where they're aiming for us to die miserably on our own.",
+    "vocabulary": [
+      {
+        "word": "のたれ死に",
+        "reading": "のたれじに",
+        "meaning": "dying a miserable death (by the roadside), dying like a dog"
+      },
+      {
+        "word": "狙い",
+        "reading": "ねらい",
+        "meaning": "aim, intention, target"
+      },
+      {
+        "word": "〜ってやつ",
+        "reading": "〜ってやつ",
+        "meaning": "that kind of thing, the type where (colloquial)"
+      }
+    ],
+    "grammar": "のたれ死に狙いってやつかもな: a string of colloquialisms. 〜ってやつ = 'that kind of thing called ~.' かもな = かもしれないな: 'might be, I suppose.' The sentence guesses darkly at the intent of the punishment."
+  },
+  {
+    "start": "6:00:16",
+    "end": "6:00:20",
+    "text": "かあ! / うんけんなやり方",
+    "audio_file": "clip_071.mp3",
+    "translation": "Jeez! / What an underhanded way of doing things.",
+    "vocabulary": [
+      {
+        "word": "うんけんな",
+        "reading": "うんけんな",
+        "meaning": "underhanded, sly, sneaky (variant of 陰険な, いんけんな)"
+      },
+      {
+        "word": "やり方",
+        "reading": "やりかた",
+        "meaning": "way of doing, method, approach"
+      }
+    ],
+    "grammar": "かあ! is an interjection of surprise or disgust. うんけんな is a phonetic variant of 陰険な (insidious, devious). やり方 = 'way of doing things.'"
+  },
+  {
+    "start": "6:00:21",
+    "end": "6:00:24",
+    "text": "分からない / ここで待ってたら来るかな?",
+    "audio_file": "clip_072.mp3",
+    "translation": "I don't know. / If we wait here, do you think they'll come?",
+    "vocabulary": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      }
+    ],
+    "grammar": "待ってたら is a colloquial contraction of 待っていたら (if we wait/were waiting). かな adds a wondering, uncertain tone: 'I wonder if they'll come?'"
+  },
+  {
+    "start": "6:00:25",
+    "end": "6:00:34",
+    "text": "うーん… / 出口で待とう / 出口…あんのかな?",
+    "audio_file": "clip_073.mp3",
+    "translation": "Hmm… / Let's wait at the exit. / The exit… I wonder if there even is one?",
+    "vocabulary": [
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "meaning": "exit, way out"
+      },
+      {
+        "word": "待とう",
+        "reading": "まとう",
+        "meaning": "let's wait (volitional form of 待つ)"
+      },
+      {
+        "word": "あんのかな",
+        "reading": "あんのかな",
+        "meaning": "I wonder if there is one (colloquial: あるのかな)"
+      }
+    ],
+    "grammar": "待とう is the volitional: 'let's wait.' あんのかな = あるのかな, colloquially contracted. The characters are wryly wondering if the Via Purifico has any exit at all."
+  },
+  {
+    "start": "6:00:40",
+    "end": "6:00:44",
+    "text": "ロンゾの老子はどうした?",
+    "audio_file": "clip_074.mp3",
+    "translation": "What happened to the Ronso elder?",
+    "vocabulary": [
+      {
+        "word": "ロンゾ",
+        "reading": "ロンゾ",
+        "meaning": "Ronso (the tribe Kimahri belongs to)"
+      },
+      {
+        "word": "老子",
+        "reading": "ろうし",
+        "meaning": "elder, Grand Maester"
+      },
+      {
+        "word": "どうした",
+        "reading": "どうした",
+        "meaning": "what happened to, what became of"
+      }
+    ],
+    "grammar": "どうした is past tense of どうする in a fixed expression asking 'what happened to' something/someone."
+  },
+  {
+    "start": "6:00:45",
+    "end": "6:00:50",
+    "text": "私の父殺しがお気に召さないようだ",
+    "audio_file": "clip_075.mp3",
+    "translation": "It seems my killing of his father does not sit well with him.",
+    "vocabulary": [
+      {
+        "word": "父殺し",
+        "reading": "ちちごろし",
+        "meaning": "patricide, killing of one's father; here 'the killing of his father'"
+      },
+      {
+        "word": "お気に召す",
+        "reading": "おきにめす",
+        "meaning": "to please, to be to one's liking (honorific)"
+      },
+      {
+        "word": "〜ないようだ",
+        "reading": "〜ないようだ",
+        "meaning": "it seems ~ does not ~, apparently not"
+      }
+    ],
+    "grammar": "お気に召さない is the honorific negative of 気に入る: 'does not please / does not sit well.' Seymour says this coldly, acknowledging he killed Kimahri's father (the Ronso elder) without any remorse."
+  },
+  {
+    "start": "6:00:54",
+    "end": "6:01:01",
+    "text": "所詮は論ぞよ。頭が硬いばかりで、役に立たん。",
+    "audio_file": "clip_076.mp3",
+    "translation": "Ronso are stubborn creatures in the end. Too rigid in the head to be of any use.",
+    "vocabulary": [
+      {
+        "word": "所詮",
+        "reading": "しょせん",
+        "meaning": "in the end, after all, ultimately"
+      },
+      {
+        "word": "頭が硬い",
+        "reading": "あたまがかたい",
+        "meaning": "rigid-minded, inflexible, stubborn"
+      },
+      {
+        "word": "〜ばかりで",
+        "reading": "〜ばかりで",
+        "meaning": "only ~, nothing but ~ (with a negative nuance)"
+      },
+      {
+        "word": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "to be useful, to serve a purpose"
+      },
+      {
+        "word": "〜たん",
+        "reading": "〜たん",
+        "meaning": "archaic/dialectal negative (= たない → ならない, 立たない)"
+      }
+    ],
+    "grammar": "役に立たん is archaic/dialectal for 役に立たない: 'of no use.' ばかりで: 'all they do is ~ / nothing but.' Seymour dismisses the Ronso with contempt."
+  },
+  {
+    "start": "6:01:02",
+    "end": "6:01:08",
+    "text": "それに比べて、召喚師ユウナは大召喚師ブラスカの娘。",
+    "audio_file": "clip_077.mp3",
+    "translation": "In contrast to that, Summoner Yuna is the daughter of High Summoner Braska.",
+    "vocabulary": [
+      {
+        "word": "それに比べて",
+        "reading": "それにくらべて",
+        "meaning": "compared to that, in contrast"
+      },
+      {
+        "word": "大召喚師",
+        "reading": "だいしょうかんし",
+        "meaning": "High Summoner (one who has defeated Sin)"
+      }
+    ],
+    "grammar": "それに比べて sets up a contrast with what was just said about the Ronso. The sentence trails off after 娘 (daughter), leaving the implication unstated — Yuna's lineage makes her valuable."
+  },
+  {
+    "start": "6:01:09",
+    "end": "6:01:18",
+    "text": "生かしておけば、利用価値はあります。 / あの娘はエボンの秩序を乱し、生かしてはおけぬ。",
+    "audio_file": "clip_078.mp3",
+    "translation": "If we keep her alive, she has value to exploit. / That girl has disrupted the order of Yevon — we cannot let her live.",
+    "vocabulary": [
+      {
+        "word": "生かす",
+        "reading": "いかす",
+        "meaning": "to keep alive, to let live, to make use of"
+      },
+      {
+        "word": "〜ておく",
+        "reading": "〜ておく",
+        "meaning": "to do in advance, to leave in a certain state"
+      },
+      {
+        "word": "利用価値",
+        "reading": "りようかち",
+        "meaning": "utility value, usefulness, value for exploitation"
+      },
+      {
+        "word": "乱す",
+        "reading": "みだす",
+        "meaning": "to disturb, to disrupt"
+      },
+      {
+        "word": "生かしてはおけぬ",
+        "reading": "いかしてはおけぬ",
+        "meaning": "cannot keep alive, must not let live"
+      }
+    ],
+    "grammar": "生かしておけば is a conditional: 'if we keep her alive.' 生かしてはおけぬ is the archaic/formal negative of 生かしておく: 'cannot leave her alive.' The two speakers take opposing positions on Yuna's fate."
+  },
+  {
+    "start": "6:01:19",
+    "end": "6:01:24",
+    "text": "かしこまりました。 / 諦めろシーも / あの定罪の道に放り込まれて",
+    "audio_file": "clip_079.mp3",
+    "translation": "Understood. / Give it up, Seymour too. / Thrown into that Via Purifico —",
+    "vocabulary": [
+      {
+        "word": "かしこまる",
+        "reading": "かしこまる",
+        "meaning": "to obey humbly, to acknowledge respectfully (formal)"
+      },
+      {
+        "word": "諦める",
+        "reading": "あきらめる",
+        "meaning": "to give up, to accept, to resign oneself"
+      },
+      {
+        "word": "定罪の道",
+        "reading": "じょうざいのみち",
+        "meaning": "Via Purifico, the path of atonement/purgation"
+      },
+      {
+        "word": "放り込む",
+        "reading": "ほうりこむ",
+        "meaning": "to throw into, to toss in, to dump into"
+      }
+    ],
+    "grammar": "かしこまりました is a very formal acknowledgment: 'As you wish / Understood.' 諦めろ is the rough imperative of 諦める. The sentence about the Via Purifico is left incomplete, building suspense."
+  },
+  {
+    "start": "6:01:25",
+    "end": "6:01:31",
+    "text": "生きて出た者はおら / なれど万一 / 突破せぬとも限らぬ",
+    "audio_file": "clip_080.mp3",
+    "translation": "No one has ever come out alive — / yet in the unlikely event / that they somehow break through…",
+    "vocabulary": [
+      {
+        "word": "生きて",
+        "reading": "いきて",
+        "meaning": "alive (te-form of 生きる, used as adverb: 'while living')"
+      },
+      {
+        "word": "おら",
+        "reading": "おら",
+        "meaning": "there isn't/aren't (archaic/dialectal negative of おる)"
+      },
+      {
+        "word": "なれど",
+        "reading": "なれど",
+        "meaning": "however, but (classical concessive)"
+      },
+      {
+        "word": "万一",
+        "reading": "まんいち",
+        "meaning": "in the unlikely event, just in case, one in ten thousand"
+      },
+      {
+        "word": "突破する",
+        "reading": "とっぱする",
+        "meaning": "to break through, to force one's way past"
+      },
+      {
+        "word": "〜ぬとも限らぬ",
+        "reading": "〜ぬとも限らぬ",
+        "meaning": "one cannot say ~ won't happen, it is not certain that ~ will not occur"
+      }
+    ],
+    "grammar": "おら = おらない (archaic negative of おる). 突破せぬとも限らぬ is a double negative: 'one cannot say they won't break through' = 'they might just break through.' Classical register throughout."
+  },
+  {
+    "start": "6:01:32",
+    "end": "6:01:37",
+    "text": "出口に兵どもを廃止 / あやつらが現れたら始末せ",
+    "audio_file": "clip_081.mp3",
+    "translation": "Station soldiers at the exit. / If those ones appear, deal with them.",
+    "vocabulary": [
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "meaning": "exit, way out"
+      },
+      {
+        "word": "兵",
+        "reading": "へい",
+        "meaning": "soldier, troops"
+      },
+      {
+        "word": "〜ども",
+        "reading": "〜ども",
+        "meaning": "plural suffix (rough/contemptuous: 'troops, the lot of them')"
+      },
+      {
+        "word": "廃止",
+        "reading": "はいち",
+        "meaning": "deploy, station (note: likely 配置 はいち, 'to station/position,' not 廃止 'abolition')"
+      },
+      {
+        "word": "あやつら",
+        "reading": "あやつら",
+        "meaning": "those ones, those fellows (contemptuous/archaic third person plural)"
+      },
+      {
+        "word": "現れる",
+        "reading": "あらわれる",
+        "meaning": "to appear, to show up"
+      },
+      {
+        "word": "始末する",
+        "reading": "しまつする",
+        "meaning": "to deal with, to dispose of, to take care of (often means to eliminate)"
+      }
+    ],
+    "grammar": "廃止 here is likely a mishearing or OCR error for 配置 (はいち, 'to station/deploy'). あやつら is an archaic/contemptuous plural pronoun. 始末せ is a classical imperative: 'eliminate them!'"
+  },
+  {
+    "start": "6:01:38",
+    "end": "6:01:42",
+    "text": "その人に私にお任せを",
+    "audio_file": "clip_082.mp3",
+    "translation": "Leave that person to me.",
+    "vocabulary": [
+      {
+        "word": "お任せ",
+        "reading": "おまかせ",
+        "meaning": "leaving it to someone, entrusting (honorific)"
+      }
+    ],
+    "grammar": "お任せを is an abbreviated request form: 'please leave it to me.' The full form would be お任せください or 私にお任せください. Seymour volunteers to personally handle the situation."
+  },
+  {
+    "start": "6:01:43",
+    "end": "6:01:46",
+    "text": "花嫁を手にかけると申すか",
+    "audio_file": "clip_083.mp3",
+    "translation": "You are saying you would lay a hand on your own bride?",
+    "vocabulary": [
+      {
+        "word": "花嫁",
+        "reading": "はなよめ",
+        "meaning": "bride"
+      },
+      {
+        "word": "手にかける",
+        "reading": "てにかける",
+        "meaning": "to lay a hand on, to do (harm) with one's own hands; to kill"
+      },
+      {
+        "word": "申す",
+        "reading": "もうす",
+        "meaning": "to say (humble; here used as a quoted-speech verb)"
+      }
+    ],
+    "grammar": "〜と申すか = 'Are you saying that ~?' A formal/archaic rhetorical question. 手にかける has the sinister meaning of 'killing with one's own hands,' making the question loaded with dark implications."
+  },
+  {
+    "start": "6:01:47",
+    "end": "6:01:51",
+    "text": "花嫁だからです / せめて私の手で",
+    "audio_file": "clip_084.mp3",
+    "translation": "Because she is my bride. / At the very least, let it be by my own hand.",
+    "vocabulary": [
+      {
+        "word": "せめて",
+        "reading": "せめて",
+        "meaning": "at least, at the very least"
+      }
+    ],
+    "grammar": "花嫁だからです: 'Because she is my bride' — Seymour's chilling rationale. せめて〜 expresses a minimum condition or wish: 'if nothing else, at least this.' The sentence trails off, with the dark implication understood."
+  },
+  {
+    "start": "6:01:52",
+    "end": "6:01:57",
+    "text": "待て / 俺も行く / 私を信用できぬと",
+    "audio_file": "clip_085.mp3",
+    "translation": "Wait. / I'll go too. / You cannot trust me?",
+    "vocabulary": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      },
+      {
+        "word": "信用する",
+        "reading": "しんようする",
+        "meaning": "to trust, to have confidence in"
+      },
+      {
+        "word": "〜できぬ",
+        "reading": "〜できぬ",
+        "meaning": "cannot ~ (classical negative of できる)"
+      }
+    ],
+    "grammar": "待て is the plain imperative of 待つ. できぬ is a classical negative: 信用できぬ = 信用できない. The final line trails off as a reproachful question: 'You can't trust me?' Another character (likely a Maester) follows Seymour."
+  },
+  {
+    "start": "6:01:58",
+    "end": "6:02:01",
+    "text": "父殺しの男を信用できるか",
+    "audio_file": "clip_086.mp3",
+    "translation": "Can we trust a man who killed his own father?",
+    "vocabulary": [
+      {
+        "word": "父殺し",
+        "reading": "ちちごろし",
+        "meaning": "one who killed his father, patricide"
+      },
+      {
+        "word": "信用する",
+        "reading": "しんようする",
+        "meaning": "to trust, to believe in"
+      }
+    ],
+    "grammar": "父殺しの男 is a noun phrase: 'the man who killed his father.' できるか is a plain-form rhetorical question: 'Can we trust him?' (implying we obviously cannot). This is the blunt, damning characterization of Seymour that closes the scene."
+  }
+]
