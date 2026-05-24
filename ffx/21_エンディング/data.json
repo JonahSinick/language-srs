@@ -1,0 +1,2282 @@
+[
+  {
+    "start": "8:10:02",
+    "end": "8:10:05",
+    "text": "私を消しても",
+    "audio_file": "clip_000.mp3",
+    "translation": "Even if you destroy me...",
+    "vocabulary": [
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I, me"
+      },
+      {
+        "word": "消す",
+        "reading": "けす",
+        "meaning": "to erase, to destroy, to extinguish"
+      },
+      {
+        "word": "〜ても",
+        "reading": "〜ても",
+        "meaning": "even if ~, even though ~ (concessive)"
+      }
+    ],
+    "grammar": "〜ても is a concessive conditional: 'even if you do X, (something still holds).' The sentence trails off, implying what follows (スピラの悲しみは消えはしない)."
+  },
+  {
+    "start": "8:10:06",
+    "end": "8:10:13",
+    "text": "スピラの悲しみは消えはしない",
+    "audio_file": "clip_001.mp3",
+    "translation": "Spira's sorrow will never disappear.",
+    "vocabulary": [
+      {
+        "word": "悲しみ",
+        "reading": "かなしみ",
+        "meaning": "sorrow, grief, sadness"
+      },
+      {
+        "word": "消える",
+        "reading": "きえる",
+        "meaning": "to disappear, to vanish"
+      },
+      {
+        "word": "〜はしない",
+        "reading": "〜はしない",
+        "meaning": "will definitely not ~, emphatic negation"
+      }
+    ],
+    "grammar": "消えはしない uses the は particle inserted before しない to create emphatic negation — stronger than just 消えない. It carries a sense of 'will absolutely not disappear.' This is Yu Yevon / Sin speaking."
+  },
+  {
+    "start": "8:10:20",
+    "end": "8:10:23",
+    "text": "シンゴと消してやるよ",
+    "audio_file": "clip_002.mp3",
+    "translation": "I'll wipe it out along with Sin!",
+    "vocabulary": [
+      {
+        "word": "〜ごと",
+        "reading": "〜ごと",
+        "meaning": "together with ~, along with ~, including ~"
+      },
+      {
+        "word": "消す",
+        "reading": "けす",
+        "meaning": "to erase, to destroy, to wipe out"
+      },
+      {
+        "word": "〜てやる",
+        "reading": "〜てやる",
+        "meaning": "to do (something) for someone (often with a defiant or emphatic nuance)"
+      }
+    ],
+    "grammar": "シンごと is written as シンゴと in the subtitle (likely a transcription quirk); it means 'together with Sin / Sin and all.' 〜てやる adds a determined, almost aggressive nuance: 'I'll do it (for you / just watch me).'"
+  },
+  {
+    "start": "8:11:12",
+    "end": "8:11:14",
+    "text": "おすいぞ アーロン",
+    "audio_file": "clip_003.mp3",
+    "translation": "You're impressive, Auron.",
+    "vocabulary": [
+      {
+        "word": "おすい",
+        "reading": "おすい",
+        "meaning": "impressive, not bad (archaic/dialectal form of 見事/なかなか; here Jecht's rough speech)"
+      }
+    ],
+    "grammar": "おすいぞ is Jecht's rough, masculine speech. The final ぞ asserts the statement emphatically. This is Jecht acknowledging Auron inside Sin."
+  },
+  {
+    "start": "8:11:16",
+    "end": "8:11:18",
+    "text": "つつま",
+    "audio_file": "clip_004.mp3",
+    "translation": "(Indistinct / partial utterance — likely 「包まれた」or similar, part of a cut line)",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "8:11:51",
+    "end": "8:11:55",
+    "text": "まだ、あんたのほうがデカい",
+    "audio_file": "clip_005.mp3",
+    "translation": "You're still bigger than me.",
+    "vocabulary": [
+      {
+        "word": "まだ",
+        "reading": "まだ",
+        "meaning": "still, yet"
+      },
+      {
+        "word": "あんた",
+        "reading": "あんた",
+        "meaning": "you (informal, slightly rough)"
+      },
+      {
+        "word": "〜のほうが",
+        "reading": "〜のほうが",
+        "meaning": "~ is more ~ (comparative structure)"
+      },
+      {
+        "word": "デカい",
+        "reading": "でかい",
+        "meaning": "big, large (colloquial)"
+      }
+    ],
+    "grammar": "AのほうがB is the standard comparative: 'A is more [adjective] than B.' Here the B (俺/me) is omitted — Tidus is comparing himself to Jecht."
+  },
+  {
+    "start": "8:11:58",
+    "end": "8:12:02",
+    "text": "なんつっても俺はシンだからな",
+    "audio_file": "clip_006.mp3",
+    "translation": "Well, I am Sin after all.",
+    "vocabulary": [
+      {
+        "word": "なんつっても",
+        "reading": "なんといっても",
+        "meaning": "after all, no matter what you say (colloquial contraction of なんといっても)"
+      },
+      {
+        "word": "〜だからな",
+        "reading": "〜だからな",
+        "meaning": "because ~, after all ~ (casual sentence ending seeking acknowledgment)"
+      }
+    ],
+    "grammar": "なんつっても is a colloquial contraction of なんといっても ('no matter what anyone says / after all'). The な at the end is a masculine sentence-final particle seeking light agreement."
+  },
+  {
+    "start": "8:12:03",
+    "end": "8:12:06",
+    "text": "笑えないっつうの",
+    "audio_file": "clip_007.mp3",
+    "translation": "That's not funny, you know.",
+    "vocabulary": [
+      {
+        "word": "笑える",
+        "reading": "わらえる",
+        "meaning": "to be able to laugh, to find funny"
+      },
+      {
+        "word": "〜っつうの",
+        "reading": "〜っていうの",
+        "meaning": "I'm telling you ~, you know ~ (colloquial emphatic)"
+      }
+    ],
+    "grammar": "笑えない is the negative potential form of 笑う: 'cannot laugh / not funny.' っつうの (contraction of っていうの) is a colloquial emphatic ending expressing mild exasperation."
+  },
+  {
+    "start": "8:12:13",
+    "end": "8:12:19",
+    "text": "じゃあ、まあなんだ / その…",
+    "audio_file": "clip_008.mp3",
+    "translation": "Well then, I mean... / Um...",
+    "vocabulary": [
+      {
+        "word": "じゃあ",
+        "reading": "じゃあ",
+        "meaning": "well then, so (transition)"
+      },
+      {
+        "word": "まあ",
+        "reading": "まあ",
+        "meaning": "well, I mean (softening filler)"
+      },
+      {
+        "word": "その",
+        "reading": "その",
+        "meaning": "um, well (filler/hesitation marker)"
+      }
+    ],
+    "grammar": "A series of filler expressions showing Jecht struggling to say something meaningful to Tidus. その… trails off — a very natural way to show hesitation in Japanese."
+  },
+  {
+    "start": "8:12:21",
+    "end": "8:12:23",
+    "text": "蹴りつけっか?",
+    "audio_file": "clip_009.mp3",
+    "translation": "Want me to give you a kick?",
+    "vocabulary": [
+      {
+        "word": "蹴りつける",
+        "reading": "けりつける",
+        "meaning": "to kick hard, to give a kick to"
+      },
+      {
+        "word": "〜っか",
+        "reading": "〜っか",
+        "meaning": "shall I ~?, want me to ~? (rough colloquial question)"
+      }
+    ],
+    "grammar": "蹴りつけっか is a rough contraction of 蹴りつけるか — Jecht offering in his own awkward way to connect with Tidus through their blitzball tradition (the kick that started Tidus's story)."
+  },
+  {
+    "start": "8:12:24",
+    "end": "8:12:26",
+    "text": "親父…",
+    "audio_file": "clip_010.mp3",
+    "translation": "Dad...",
+    "vocabulary": [
+      {
+        "word": "親父",
+        "reading": "おやじ",
+        "meaning": "dad, old man (informal/masculine)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "8:12:28",
+    "end": "8:12:30",
+    "text": "馬鹿",
+    "audio_file": "clip_011.mp3",
+    "translation": "Idiot.",
+    "vocabulary": [
+      {
+        "word": "馬鹿",
+        "reading": "ばか",
+        "meaning": "idiot, fool; also used as a term of rough affection"
+      }
+    ],
+    "grammar": "Said with affection rather than contempt — Jecht's way of expressing emotion without being sentimental."
+  },
+  {
+    "start": "8:12:37",
+    "end": "8:12:40",
+    "text": "それでいいさ",
+    "audio_file": "clip_012.mp3",
+    "translation": "That's fine. That's enough.",
+    "vocabulary": [
+      {
+        "word": "それでいい",
+        "reading": "それでいい",
+        "meaning": "that's fine, that's good enough"
+      },
+      {
+        "word": "さ",
+        "reading": "さ",
+        "meaning": "sentence-final particle: light assertion, 'you know,' 'that's just how it is'"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "8:12:41",
+    "end": "8:12:45",
+    "text": "どうすりゃいいかわかってんな",
+    "audio_file": "clip_013.mp3",
+    "translation": "You know what to do, right?",
+    "vocabulary": [
+      {
+        "word": "どうする",
+        "reading": "どうする",
+        "meaning": "what to do, how to handle"
+      },
+      {
+        "word": "〜すりゃ",
+        "reading": "〜すれば",
+        "meaning": "if (one) does ~ (colloquial contraction of すれば)"
+      },
+      {
+        "word": "わかる",
+        "reading": "わかる",
+        "meaning": "to understand, to know"
+      },
+      {
+        "word": "〜てんな",
+        "reading": "〜ているな",
+        "meaning": "you do ~, don't you (colloquial contraction with confirming な)"
+      }
+    ],
+    "grammar": "どうすりゃいいかわかってんな is a colloquial chain: どうすれば + いいか (what's good) + わかっているな (you understand, right?). Jecht is confirming Tidus knows what must be done."
+  },
+  {
+    "start": "8:12:50",
+    "end": "8:12:54",
+    "text": "もう歌もあんまし 聞こえねえんだ",
+    "audio_file": "clip_014.mp3",
+    "translation": "I can barely hear the song anymore.",
+    "vocabulary": [
+      {
+        "word": "もう",
+        "reading": "もう",
+        "meaning": "anymore, already"
+      },
+      {
+        "word": "歌",
+        "reading": "うた",
+        "meaning": "song"
+      },
+      {
+        "word": "あんまし",
+        "reading": "あんまり",
+        "meaning": "not very much, barely (colloquial form of あまり)"
+      },
+      {
+        "word": "聞こえる",
+        "reading": "きこえる",
+        "meaning": "to be audible, to be heard"
+      },
+      {
+        "word": "〜ねえ",
+        "reading": "〜ない",
+        "meaning": "not ~ (rough colloquial negation)"
+      }
+    ],
+    "grammar": "聞こえねえんだ: 聞こえない (can't hear) → rough colloquial 聞こえねえ + んだ (explanatory). The 'song' refers to Yuna's sending prayer/hymn that has kept Jecht's consciousness alive inside Sin."
+  },
+  {
+    "start": "8:12:56",
+    "end": "8:13:03",
+    "text": "もうちょっとで 俺は 心の底からシンになっちまう",
+    "audio_file": "clip_015.mp3",
+    "translation": "A little longer and I'll become Sin from the bottom of my heart.",
+    "vocabulary": [
+      {
+        "word": "もうちょっと",
+        "reading": "もうちょっと",
+        "meaning": "a little more, a bit longer"
+      },
+      {
+        "word": "心の底",
+        "reading": "こころのそこ",
+        "meaning": "the depths of one's heart, from the bottom of one's heart"
+      },
+      {
+        "word": "〜になる",
+        "reading": "〜になる",
+        "meaning": "to become ~"
+      },
+      {
+        "word": "〜ちまう",
+        "reading": "〜てしまう",
+        "meaning": "to end up doing ~, to completely do ~ (colloquial contraction of てしまう)"
+      }
+    ],
+    "grammar": "もうちょっとで means 'just a bit more and...' — implying an imminent undesirable outcome. 〜ちまう (from てしまう) expresses completion with a sense of regret or inevitability. Jecht explains his consciousness is almost fully subsumed by Sin."
+  },
+  {
+    "start": "8:13:04",
+    "end": "8:13:07",
+    "text": "間に合って助かったぜ",
+    "audio_file": "clip_016.mp3",
+    "translation": "Good thing you made it in time.",
+    "vocabulary": [
+      {
+        "word": "間に合う",
+        "reading": "まにあう",
+        "meaning": "to be in time, to make it on time"
+      },
+      {
+        "word": "助かる",
+        "reading": "たすかる",
+        "meaning": "to be saved, to be a relief, to be helpful"
+      },
+      {
+        "word": "ぜ",
+        "reading": "ぜ",
+        "meaning": "sentence-final particle: masculine assertion"
+      }
+    ],
+    "grammar": "助かったぜ: 助かる normally means 'to be rescued' but also idiomatically means 'what a relief / I'm grateful.' Jecht is expressing relief that Tidus arrived before he was completely consumed."
+  },
+  {
+    "start": "8:13:10",
+    "end": "8:13:19",
+    "text": "でよ、始まっちまったら、俺は壊れちまう。",
+    "audio_file": "clip_017.mp3",
+    "translation": "Once it starts, I'll be destroyed.",
+    "vocabulary": [
+      {
+        "word": "でよ",
+        "reading": "でよ",
+        "meaning": "and, so (rough colloquial connective; contraction of それでよ or でも)"
+      },
+      {
+        "word": "始まる",
+        "reading": "はじまる",
+        "meaning": "to begin, to start"
+      },
+      {
+        "word": "壊れる",
+        "reading": "こわれる",
+        "meaning": "to break, to be destroyed"
+      },
+      {
+        "word": "〜ちまう",
+        "reading": "〜てしまう",
+        "meaning": "to end up ~ing (colloquial, with regret/inevitability)"
+      }
+    ],
+    "grammar": "始まっちまったら: the conditional 〜たら attached to the 〜ちまう form — 'once it ends up starting.' でよ is a rough masculine connective."
+  },
+  {
+    "start": "8:13:20",
+    "end": "8:13:24",
+    "text": "手加減とか、できねえからよ。",
+    "audio_file": "clip_018.mp3",
+    "translation": "I won't be able to hold back or anything like that.",
+    "vocabulary": [
+      {
+        "word": "手加減",
+        "reading": "てかげん",
+        "meaning": "holding back, going easy on someone, moderation of force"
+      },
+      {
+        "word": "〜とか",
+        "reading": "〜とか",
+        "meaning": "things like ~, or whatever (listing/softening)"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "meaning": "to be able to do"
+      },
+      {
+        "word": "〜ねえ",
+        "reading": "〜ない",
+        "meaning": "not ~ (rough colloquial)"
+      },
+      {
+        "word": "からよ",
+        "reading": "からよ",
+        "meaning": "because ~ (rough, masculine explanation)"
+      }
+    ],
+    "grammar": "Jecht warns that once the battle begins, he will be fully Sin with no restraint. 手加減できない means 'cannot hold back.' とか softens the list. からよ gives a causal explanation in a rough masculine register."
+  },
+  {
+    "start": "8:13:27",
+    "end": "8:13:31",
+    "text": "すまねえな。 / もういいって。",
+    "audio_file": "clip_019.mp3",
+    "translation": "Sorry about that. / That's enough of that.",
+    "vocabulary": [
+      {
+        "word": "すまない",
+        "reading": "すまない",
+        "meaning": "I'm sorry, forgive me (rough form of 申し訳ない)"
+      },
+      {
+        "word": "すまねえ",
+        "reading": "すまない",
+        "meaning": "I'm sorry (very rough masculine colloquial)"
+      },
+      {
+        "word": "もういい",
+        "reading": "もういい",
+        "meaning": "that's enough, it's fine, stop it"
+      },
+      {
+        "word": "〜って",
+        "reading": "〜って",
+        "meaning": "I said ~, you know ~ (colloquial emphatic quotative)"
+      }
+    ],
+    "grammar": "すまねえ is Jecht's rough apology. Tidus's もういいって uses the quotative って as an emphatic 'I'm telling you, that's enough.' A small but emotionally loaded exchange."
+  },
+  {
+    "start": "8:13:32",
+    "end": "8:13:34",
+    "text": "うだうだ言ってないでさ。",
+    "audio_file": "clip_020.mp3",
+    "translation": "Stop going on and on about it.",
+    "vocabulary": [
+      {
+        "word": "うだうだ",
+        "reading": "うだうだ",
+        "meaning": "going on and on, hemming and hawing, whining repetitively"
+      },
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      },
+      {
+        "word": "〜ないで",
+        "reading": "〜ないで",
+        "meaning": "without doing ~, don't do ~ (negative te-form)"
+      }
+    ],
+    "grammar": "うだうだ is a mimetic word (擬態語) meaning to go on and on pointlessly. 言ってないで = 'without saying / instead of saying.' Tidus is telling Jecht to stop apologizing."
+  },
+  {
+    "start": "8:13:35",
+    "end": "8:13:36",
+    "text": "だな。",
+    "audio_file": "clip_021.mp3",
+    "translation": "Yeah, you're right.",
+    "vocabulary": [
+      {
+        "word": "だな",
+        "reading": "だな",
+        "meaning": "yeah, that's right (masculine agreement)"
+      }
+    ],
+    "grammar": "A minimal acknowledgment — Jecht agreeing with Tidus's point."
+  },
+  {
+    "start": "8:13:51",
+    "end": "8:13:54",
+    "text": "자, 이처에 가볼까?",
+    "audio_file": "clip_022.mp3",
+    "translation": "(Korean subtitle — not Japanese dialogue. Likely: 'Well then, shall we go?')",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "8:17:10",
+    "end": "8:17:14",
+    "text": "泣くぞ / すぐ泣くぞ",
+    "audio_file": "clip_023.mp3",
+    "translation": "I'm going to cry. / I'm going to cry right away.",
+    "vocabulary": [
+      {
+        "word": "泣く",
+        "reading": "なく",
+        "meaning": "to cry, to weep"
+      },
+      {
+        "word": "ぞ",
+        "reading": "ぞ",
+        "meaning": "sentence-final particle: masculine assertion or warning"
+      },
+      {
+        "word": "すぐ",
+        "reading": "すぐ",
+        "meaning": "right away, immediately"
+      }
+    ],
+    "grammar": "泣くぞ here functions as a warning or self-prediction: 'I'm going to cry (so watch out).' The repeated lines build comic/emotional tension as Wakka and others struggle to hold back tears."
+  },
+  {
+    "start": "8:17:15",
+    "end": "8:17:18",
+    "text": "絶対泣くぞ / ほら泣くぞ",
+    "audio_file": "clip_024.mp3",
+    "translation": "I'm definitely going to cry. / See, I'm crying!",
+    "vocabulary": [
+      {
+        "word": "絶対",
+        "reading": "ぜったい",
+        "meaning": "definitely, absolutely"
+      },
+      {
+        "word": "ほら",
+        "reading": "ほら",
+        "meaning": "see!, look!, there you go"
+      }
+    ],
+    "grammar": "ほら泣くぞ uses ほら as a 'see, I told you so' exclamation — the speaker is now actually crying and pointing it out."
+  },
+  {
+    "start": "8:17:23",
+    "end": "8:17:28",
+    "text": "大嫌いだ",
+    "audio_file": "clip_025.mp3",
+    "translation": "I hate you. (Said with love — the iconic farewell to Tidus.)",
+    "vocabulary": [
+      {
+        "word": "大嫌い",
+        "reading": "だいきらい",
+        "meaning": "to really hate, to strongly dislike"
+      }
+    ],
+    "grammar": "大 intensifies 嫌い ('dislike') to 'really hate.' In context this is Yuna's paradoxical goodbye — saying 'I hate you' to express overwhelming love and grief. One of the most emotionally resonant lines in the game."
+  },
+  {
+    "start": "8:17:36",
+    "end": "8:17:40",
+    "text": "まだ早いぜ",
+    "audio_file": "clip_026.mp3",
+    "translation": "Not yet — it's too soon.",
+    "vocabulary": [
+      {
+        "word": "まだ",
+        "reading": "まだ",
+        "meaning": "still, not yet"
+      },
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "meaning": "early, too soon"
+      },
+      {
+        "word": "ぜ",
+        "reading": "ぜ",
+        "meaning": "masculine sentence-final assertion particle"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "8:17:40",
+    "end": "8:17:41",
+    "text": "全部",
+    "audio_file": "clip_027.mp3",
+    "translation": "Everything —",
+    "vocabulary": [
+      {
+        "word": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "everything, all of it"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "8:17:42",
+    "end": "8:17:45",
+    "text": "終わらせてからだよな",
+    "audio_file": "clip_028.mp3",
+    "translation": "...after we finish everything. Right?",
+    "vocabulary": [
+      {
+        "word": "終わらせる",
+        "reading": "おわらせる",
+        "meaning": "to finish, to bring to an end (causative of 終わる)"
+      },
+      {
+        "word": "〜てから",
+        "reading": "〜てから",
+        "meaning": "after doing ~"
+      },
+      {
+        "word": "だよな",
+        "reading": "だよな",
+        "meaning": "right?, isn't it (seeking agreement, casual)"
+      }
+    ],
+    "grammar": "終わらせてから: causative form 終わらせる + てから (after). Tidus tells himself/the group to hold off grief until after the mission is done. だよな seeks light confirmation."
+  },
+  {
+    "start": "8:17:48",
+    "end": "8:17:57",
+    "text": "わかってるじゃねえか / さすがチェクト様のガキだ",
+    "audio_file": "clip_029.mp3",
+    "translation": "You do understand! / Expected nothing less from Jecht's kid.",
+    "vocabulary": [
+      {
+        "word": "わかる",
+        "reading": "わかる",
+        "meaning": "to understand"
+      },
+      {
+        "word": "〜じゃねえか",
+        "reading": "〜じゃないか",
+        "meaning": "aren't you!, you are! (rough surprised/pleased exclamation)"
+      },
+      {
+        "word": "さすが",
+        "reading": "さすが",
+        "meaning": "as expected of, just like ~ (expressing admiration)"
+      },
+      {
+        "word": "様",
+        "reading": "さま",
+        "meaning": "honorific suffix (Mr./Lord ~)"
+      },
+      {
+        "word": "ガキ",
+        "reading": "がき",
+        "meaning": "brat, kid (rough/affectionate)"
+      }
+    ],
+    "grammar": "じゃねえか (rough form of じゃないか) expresses surprised approval. さすが～様 uses an honorific on Jecht (チェクト様) with rough ガキ — a typical Jecht-style mix of reverence and roughness."
+  },
+  {
+    "start": "8:17:57",
+    "end": "8:18:00",
+    "text": "初めて思った",
+    "audio_file": "clip_030.mp3",
+    "translation": "I thought that for the first time.",
+    "vocabulary": [
+      {
+        "word": "初めて",
+        "reading": "はじめて",
+        "meaning": "for the first time"
+      },
+      {
+        "word": "思う",
+        "reading": "おもう",
+        "meaning": "to think, to feel"
+      }
+    ],
+    "grammar": "The subject (俺) is omitted. Tidus is saying he thought, for the first time, that he's glad to be Jecht's son — which he expresses in the next two lines."
+  },
+  {
+    "start": "8:18:02",
+    "end": "8:18:04",
+    "text": "あんたの息子で",
+    "audio_file": "clip_031.mp3",
+    "translation": "That I am your son —",
+    "vocabulary": [
+      {
+        "word": "息子",
+        "reading": "むすこ",
+        "meaning": "son"
+      }
+    ],
+    "grammar": "で here is the te-form of だ, connecting to the following clause よかった: 'being your son was/is good.'"
+  },
+  {
+    "start": "8:18:05",
+    "end": "8:18:08",
+    "text": "よかった / ケッ",
+    "audio_file": "clip_032.mp3",
+    "translation": "I'm glad. / Hmph.",
+    "vocabulary": [
+      {
+        "word": "よかった",
+        "reading": "よかった",
+        "meaning": "I'm glad, that was good (past tense of いい)"
+      },
+      {
+        "word": "ケッ",
+        "reading": "けっ",
+        "meaning": "hmph, tsk (dismissive grunt, hiding emotion)"
+      }
+    ],
+    "grammar": "あんたの息子でよかった: 'it was good being your son / I'm glad I'm your son.' One of the most emotionally loaded short lines in the game. Jecht's ケッ is his way of deflecting the emotion."
+  },
+  {
+    "start": "8:18:09",
+    "end": "8:18:12",
+    "text": "チェクトさん / あの…",
+    "audio_file": "clip_033.mp3",
+    "translation": "Jecht — / Um...",
+    "vocabulary": [
+      {
+        "word": "あの",
+        "reading": "あの",
+        "meaning": "um, well (hesitation filler)"
+      }
+    ],
+    "grammar": "Yuna begins to address Jecht (チェクト is how his name is rendered in Japanese; she uses the polite さん). あの… is a common hesitation opener."
+  },
+  {
+    "start": "8:18:13",
+    "end": "8:18:15",
+    "text": "ダメだ / ユーナちゃん",
+    "audio_file": "clip_034.mp3",
+    "translation": "No good. / Yuna.",
+    "vocabulary": [
+      {
+        "word": "ダメ",
+        "reading": "だめ",
+        "meaning": "no good, useless, not allowed"
+      },
+      {
+        "word": "〜ちゃん",
+        "reading": "〜ちゃん",
+        "meaning": "diminutive/affectionate name suffix"
+      }
+    ],
+    "grammar": "Jecht cuts Yuna off — ダメだ meaning 'there's no time / don't start.' He calls her ユーナちゃん with the affectionate suffix, showing his fondness for her."
+  },
+  {
+    "start": "8:18:16",
+    "end": "8:18:18",
+    "text": "時間がねえ",
+    "audio_file": "clip_035.mp3",
+    "translation": "There's no time.",
+    "vocabulary": [
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      },
+      {
+        "word": "ねえ",
+        "reading": "ない",
+        "meaning": "there isn't (rough colloquial negation of ある)"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "8:18:21",
+    "end": "8:18:26",
+    "text": "邪魔するじゃねえ! / ユーナちゃん / わかってんな",
+    "audio_file": "clip_036.mp3",
+    "translation": "Don't interfere! / Yuna. / You understand, right?",
+    "vocabulary": [
+      {
+        "word": "邪魔する",
+        "reading": "じゃまする",
+        "meaning": "to interfere, to get in the way"
+      },
+      {
+        "word": "〜じゃねえ",
+        "reading": "〜じゃない",
+        "meaning": "don't ~ (rough prohibition; contraction of じゃないか used as command)"
+      },
+      {
+        "word": "わかる",
+        "reading": "わかる",
+        "meaning": "to understand"
+      },
+      {
+        "word": "〜てんな",
+        "reading": "〜ているな",
+        "meaning": "you do ~, right? (colloquial contraction)"
+      }
+    ],
+    "grammar": "邪魔するじゃねえ is a rough prohibition: 'don't interfere!' Jecht is addressing both the aeons and Yuna — they must not prevent the final battle. わかってんな seeks confirmation."
+  },
+  {
+    "start": "8:18:27",
+    "end": "8:18:32",
+    "text": "召喚獣を / 僕たちを",
+    "audio_file": "clip_037.mp3",
+    "translation": "The aeons — / us —",
+    "vocabulary": [
+      {
+        "word": "召喚獣",
+        "reading": "しょうかんじゅう",
+        "meaning": "summoned beast, aeon (the summoned creatures in FFX)"
+      }
+    ],
+    "grammar": "These are object markers (を) with no verb yet — the sentence continues in clip_038. Yuna/Tidus completing each other's thought: 'Call the aeons / call us.'"
+  },
+  {
+    "start": "8:18:33",
+    "end": "8:18:38",
+    "text": "呼ぶんだぞ / 呼ぶんだよ",
+    "audio_file": "clip_038.mp3",
+    "translation": "Call them, okay! / Call us, okay!",
+    "vocabulary": [
+      {
+        "word": "呼ぶ",
+        "reading": "よぶ",
+        "meaning": "to call, to summon"
+      },
+      {
+        "word": "〜んだぞ",
+        "reading": "〜んだぞ",
+        "meaning": "make sure to ~, you hear me! (emphatic instruction with masculine ぞ)"
+      },
+      {
+        "word": "〜んだよ",
+        "reading": "〜んだよ",
+        "meaning": "make sure to ~, okay! (emphatic instruction, slightly softer)"
+      }
+    ],
+    "grammar": "Jecht says 召喚獣を呼ぶんだぞ (call your aeons!); Tidus echoes with 僕たちを呼ぶんだよ (call us!). Both are strong exhortations using んだ for emphasis."
+  },
+  {
+    "start": "8:19:53",
+    "end": "8:19:55",
+    "text": "ユーラ!",
+    "audio_file": "clip_039.mp3",
+    "translation": "Yuna!",
+    "vocabulary": [],
+    "grammar": "ユーラ appears to be a transcription variant of ユウナ (Yuna), likely a mishearing or subtitle error. In context Tidus is calling out to Yuna during the battle."
+  },
+  {
+    "start": "8:23:05",
+    "end": "8:23:07",
+    "text": "みんな!",
+    "audio_file": "clip_040.mp3",
+    "translation": "Everyone!",
+    "vocabulary": [
+      {
+        "word": "みんな",
+        "reading": "みんな",
+        "meaning": "everyone, all of you"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "8:23:08",
+    "end": "8:23:13",
+    "text": "一緒に戦えるのは、これが最後だ!",
+    "audio_file": "clip_041.mp3",
+    "translation": "This is the last time we'll fight together!",
+    "vocabulary": [
+      {
+        "word": "一緒に",
+        "reading": "いっしょに",
+        "meaning": "together"
+      },
+      {
+        "word": "戦う",
+        "reading": "たたかう",
+        "meaning": "to fight, to battle"
+      },
+      {
+        "word": "〜えるのは",
+        "reading": "〜えるのは",
+        "meaning": "the fact that one can ~ (nominalizing potential form)"
+      },
+      {
+        "word": "最後",
+        "reading": "さいご",
+        "meaning": "the last, the end"
+      }
+    ],
+    "grammar": "一緒に戦える is the potential form of 戦う: 'can fight together.' Nominalized with のは and followed by これが最後だ: 'this [time] is the last.' Tidus rallying the party before the final battle."
+  },
+  {
+    "start": "8:23:14",
+    "end": "8:23:17",
+    "text": "よろしく!",
+    "audio_file": "clip_042.mp3",
+    "translation": "Let's do this! / I'm counting on you all!",
+    "vocabulary": [
+      {
+        "word": "よろしく",
+        "reading": "よろしく",
+        "meaning": "please (take care of things), I'm counting on you, let's go (versatile social phrase)"
+      }
+    ],
+    "grammar": "よろしく as a standalone exclamation before a fight means something like 'I'm in your hands' or 'let's do this together.'"
+  },
+  {
+    "start": "8:23:18",
+    "end": "8:23:22",
+    "text": "なんつったらいいかな",
+    "audio_file": "clip_043.mp3",
+    "translation": "I don't know how to put this...",
+    "vocabulary": [
+      {
+        "word": "なんと言う",
+        "reading": "なんという",
+        "meaning": "what to say"
+      },
+      {
+        "word": "〜たらいい",
+        "reading": "〜たらいい",
+        "meaning": "what would be good / how should I..."
+      },
+      {
+        "word": "かな",
+        "reading": "かな",
+        "meaning": "I wonder..., hmm (gentle self-questioning)"
+      }
+    ],
+    "grammar": "なんつったら is a colloquial contraction of なんといったら. The whole phrase なんつったらいいかな means 'what should I say, I wonder' — Tidus searching for words before his farewell announcement."
+  },
+  {
+    "start": "8:23:23",
+    "end": "8:23:25",
+    "text": "エボンジュを倒したら",
+    "audio_file": "clip_044.mp3",
+    "translation": "When we defeat Yu Yevon —",
+    "vocabulary": [
+      {
+        "word": "倒す",
+        "reading": "たおす",
+        "meaning": "to defeat, to bring down"
+      },
+      {
+        "word": "〜たら",
+        "reading": "〜たら",
+        "meaning": "when ~, if ~ (conditional)"
+      }
+    ],
+    "grammar": "〜たら here is a temporal conditional: 'when we defeat Yu Yevon' (not 'if'). The sentence continues in the next clip."
+  },
+  {
+    "start": "8:23:26",
+    "end": "8:23:28",
+    "text": "俺、消えっから",
+    "audio_file": "clip_045.mp3",
+    "translation": "I'm going to disappear.",
+    "vocabulary": [
+      {
+        "word": "消える",
+        "reading": "きえる",
+        "meaning": "to disappear, to vanish, to fade away"
+      },
+      {
+        "word": "〜っから",
+        "reading": "〜から",
+        "meaning": "because ~, so ~ (rough colloquial form of から)"
+      }
+    ],
+    "grammar": "消えっから is a rough contraction of 消えるから: 'I'm going to disappear, so...' Tidus tells his companions the truth about his fate for the first time."
+  },
+  {
+    "start": "8:23:29",
+    "end": "8:23:33",
+    "text": "あんた、何言ってんのよ",
+    "audio_file": "clip_046.mp3",
+    "translation": "What are you talking about?",
+    "vocabulary": [
+      {
+        "word": "あんた",
+        "reading": "あんた",
+        "meaning": "you (informal)"
+      },
+      {
+        "word": "何",
+        "reading": "なに",
+        "meaning": "what"
+      },
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      },
+      {
+        "word": "〜てんの",
+        "reading": "〜ているの",
+        "meaning": "are you doing ~ (colloquial contracted progressive)"
+      },
+      {
+        "word": "よ",
+        "reading": "よ",
+        "meaning": "sentence-final particle (feminine emphasis)"
+      }
+    ],
+    "grammar": "何言ってんのよ: 何 + 言っている (contracted to 言ってん) + のよ. The feminine のよ and tone indicate shock/disbelief — likely Rikku responding to Tidus's revelation."
+  },
+  {
+    "start": "8:23:56",
+    "end": "8:24:01",
+    "text": "さよならってこと! / そんな...",
+    "audio_file": "clip_047.mp3",
+    "translation": "It means goodbye! / No, that can't be...",
+    "vocabulary": [
+      {
+        "word": "さよなら",
+        "reading": "さよなら",
+        "meaning": "goodbye"
+      },
+      {
+        "word": "〜ってこと",
+        "reading": "〜ということ",
+        "meaning": "it means that ~, in other words ~"
+      },
+      {
+        "word": "そんな",
+        "reading": "そんな",
+        "meaning": "such a thing, that kind of thing (often trailing off in disbelief)"
+      }
+    ],
+    "grammar": "〜ってこと is a colloquial form of 〜ということ: 'it means/amounts to saying goodbye.' そんな… trailing off expresses stunned disbelief — a party member refusing to accept it."
+  },
+  {
+    "start": "8:24:02",
+    "end": "8:24:08",
+    "text": "勝手で悪いけどさ、これが俺の物語だ!",
+    "audio_file": "clip_048.mp3",
+    "translation": "Sorry for being selfish about it, but this is my story!",
+    "vocabulary": [
+      {
+        "word": "勝手",
+        "reading": "かって",
+        "meaning": "selfishness, doing as one pleases, acting unilaterally"
+      },
+      {
+        "word": "〜で悪い",
+        "reading": "〜でわるい",
+        "meaning": "sorry for being ~, bad that it's ~ (apologetic construction)"
+      },
+      {
+        "word": "けどさ",
+        "reading": "けどさ",
+        "meaning": "but, though (casual connective with さ softening)"
+      },
+      {
+        "word": "物語",
+        "reading": "ものがたり",
+        "meaning": "story, tale, narrative"
+      }
+    ],
+    "grammar": "勝手で悪いけど is an apologetic opening: 'I know it's selfish of me, but.' これが俺の物語だ is the definitive declaration — echoing the game's opening narration. A full-circle moment."
+  },
+  {
+    "start": "8:26:14",
+    "end": "8:26:16",
+    "text": "Субтитры создавал DimaTorzok",
+    "audio_file": "clip_049.mp3",
+    "translation": "(Russian subtitle watermark: 'Subtitles created by DimaTorzok' — not game dialogue)",
+    "vocabulary": [],
+    "grammar": null
+  },
+  {
+    "start": "8:29:36",
+    "end": "8:29:39",
+    "text": "続けろ / でも…",
+    "audio_file": "clip_050.mp3",
+    "translation": "Keep going. / But...",
+    "vocabulary": [
+      {
+        "word": "続ける",
+        "reading": "つづける",
+        "meaning": "to continue, to keep going"
+      },
+      {
+        "word": "続けろ",
+        "reading": "つづけろ",
+        "meaning": "keep going! (imperative form)"
+      }
+    ],
+    "grammar": "続けろ is the plain imperative of 続ける — a command to go on. でも… trails off in protest/hesitation. Context: after Yu Yevon is defeated, Tidus tells Yuna to continue the sending as he begins to fade."
+  },
+  {
+    "start": "8:29:44",
+    "end": "8:29:46",
+    "text": "これでいいぞ",
+    "audio_file": "clip_051.mp3",
+    "translation": "This is how it should be.",
+    "vocabulary": [
+      {
+        "word": "これでいい",
+        "reading": "これでいい",
+        "meaning": "this is fine, this is how it should be"
+      },
+      {
+        "word": "ぞ",
+        "reading": "ぞ",
+        "meaning": "masculine assertion particle"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "8:30:14",
+    "end": "8:30:18",
+    "text": "10年、待たせたからな",
+    "audio_file": "clip_052.mp3",
+    "translation": "I made you wait 10 years, after all.",
+    "vocabulary": [
+      {
+        "word": "待たせる",
+        "reading": "またせる",
+        "meaning": "to make someone wait (causative of 待つ)"
+      },
+      {
+        "word": "〜からな",
+        "reading": "〜からな",
+        "meaning": "because ~, after all ~ (masculine explanatory)"
+      }
+    ],
+    "grammar": "待たせた is the causative past of 待つ: 'I made (you) wait.' Auron speaks to Jecht here — they have been waiting 10 years for this moment, and now Auron can finally be sent."
+  },
+  {
+    "start": "8:30:33",
+    "end": "8:30:39",
+    "text": "もう、お前たちの時代だ",
+    "audio_file": "clip_053.mp3",
+    "translation": "Now it's your era — your time.",
+    "vocabulary": [
+      {
+        "word": "もう",
+        "reading": "もう",
+        "meaning": "now, already"
+      },
+      {
+        "word": "お前たち",
+        "reading": "おまえたち",
+        "meaning": "you all, you guys (rough plural)"
+      },
+      {
+        "word": "時代",
+        "reading": "じだい",
+        "meaning": "era, age, time period"
+      }
+    ],
+    "grammar": "Auron's final words before being sent — passing the torch to the younger generation. もう marks that the transition has arrived."
+  },
+  {
+    "start": "8:32:42",
+    "end": "8:32:45",
+    "text": "俺…帰らなくちゃ!",
+    "audio_file": "clip_054.mp3",
+    "translation": "I... have to go back!",
+    "vocabulary": [
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "meaning": "to return, to go home"
+      },
+      {
+        "word": "〜なくちゃ",
+        "reading": "〜なくてはいけない",
+        "meaning": "have to ~, must ~ (colloquial contraction)"
+      }
+    ],
+    "grammar": "帰らなくちゃ is a colloquial contraction of 帰らなくてはいけない: 'I have to go back.' Tidus is beginning to fade and runs toward the airship bow — the iconic farewell scene begins."
+  },
+  {
+    "start": "8:32:51",
+    "end": "8:32:54",
+    "text": "ザナルカウント案内できなくて、ごめんな!",
+    "audio_file": "clip_055.mp3",
+    "translation": "Sorry I couldn't show you Zanarkand!",
+    "vocabulary": [
+      {
+        "word": "案内する",
+        "reading": "あんないする",
+        "meaning": "to guide, to show around"
+      },
+      {
+        "word": "〜できなくて",
+        "reading": "〜できなくて",
+        "meaning": "not being able to ~ (te-form of できない, leading to apology)"
+      },
+      {
+        "word": "ごめんな",
+        "reading": "ごめんな",
+        "meaning": "sorry, forgive me (casual/masculine apology)"
+      }
+    ],
+    "grammar": "〜できなくて + ごめん is a natural pattern for apologizing for inability: 'sorry that I couldn't do X.' Tidus is apologizing to Wakka (or the group) for not fulfilling his promise to take them to Zanarkand. ザナルカウントは likely a subtitle variant of ザナルカンド."
+  },
+  {
+    "start": "8:33:02",
+    "end": "8:33:05",
+    "text": "じゃあな! / えっ?",
+    "audio_file": "clip_056.mp3",
+    "translation": "See ya! / Huh?",
+    "vocabulary": [
+      {
+        "word": "じゃあな",
+        "reading": "じゃあな",
+        "meaning": "see ya, later (casual masculine farewell)"
+      },
+      {
+        "word": "えっ",
+        "reading": "えっ",
+        "meaning": "huh?, what? (surprised interjection)"
+      }
+    ],
+    "grammar": "じゃあな is a classic casual masculine goodbye — Tidus bidding farewell as he runs past each party member."
+  },
+  {
+    "start": "8:33:06",
+    "end": "8:33:09",
+    "text": "また会えるんだよね? / ねえ?",
+    "audio_file": "clip_057.mp3",
+    "translation": "We'll meet again, right? / Right?",
+    "vocabulary": [
+      {
+        "word": "また",
+        "reading": "また",
+        "meaning": "again"
+      },
+      {
+        "word": "会う",
+        "reading": "あう",
+        "meaning": "to meet"
+      },
+      {
+        "word": "〜えるんだよね",
+        "reading": "〜えるんだよね",
+        "meaning": "we can ~, right? (potential + んだ + よね seeking confirmation)"
+      },
+      {
+        "word": "ねえ",
+        "reading": "ねえ",
+        "meaning": "right?, hey (seeking agreement/attention)"
+      }
+    ],
+    "grammar": "また会えるんだよね: potential form 会える + んだ (explanatory) + よね (seeking confirmation). The repeated ねえ? expresses desperate hope. This is Rikku calling after Tidus."
+  },
+  {
+    "start": "8:33:14",
+    "end": "8:33:15",
+    "text": "ユーノ! / 快",
+    "audio_file": "clip_058.mp3",
+    "translation": "Yuna! / (affirmative grunt)",
+    "vocabulary": [],
+    "grammar": "ユーノ appears to be a subtitle transcription variant of ユウナ. 快 (かい/こころよい) as a standalone character here may be a subtitle artifact or a short affirmation sound."
+  },
+  {
+    "start": "8:33:59",
+    "end": "8:34:02",
+    "text": "ありがとう",
+    "audio_file": "clip_059.mp3",
+    "translation": "Thank you.",
+    "vocabulary": [
+      {
+        "word": "ありがとう",
+        "reading": "ありがとう",
+        "meaning": "thank you"
+      }
+    ],
+    "grammar": "Said by Tidus to Yuna (or vice versa) at the moment of farewell. One of the simplest but most emotionally devastating lines of the ending."
+  },
+  {
+    "start": "8:35:33",
+    "end": "8:35:36",
+    "text": "言うな サラサラ",
+    "audio_file": "clip_060.mp3",
+    "translation": "(Don't say anything — just let it flow.) / [Possible subtitle artifact]",
+    "vocabulary": [
+      {
+        "word": "言う",
+        "reading": "いう",
+        "meaning": "to say"
+      },
+      {
+        "word": "言うな",
+        "reading": "いうな",
+        "meaning": "don't say (negative imperative)"
+      },
+      {
+        "word": "さらさら",
+        "reading": "さらさら",
+        "meaning": "flowing smoothly; also: not at all (in negative: さらさらない)"
+      }
+    ],
+    "grammar": "言うな is a direct negative imperative: 'don't say it.' サラサラ (or さらさら) may be part of song lyrics or a subtitle artifact. Context is Yuna's address to Spira."
+  },
+  {
+    "start": "8:36:03",
+    "end": "8:36:08",
+    "text": "多くの数え切れない犠牲がありました",
+    "audio_file": "clip_061.mp3",
+    "translation": "There were many, countless sacrifices.",
+    "vocabulary": [
+      {
+        "word": "多く",
+        "reading": "おおく",
+        "meaning": "many, much (adverbial form of 多い)"
+      },
+      {
+        "word": "数え切れない",
+        "reading": "かぞえきれない",
+        "meaning": "countless, too many to count (lit. cannot finish counting)"
+      },
+      {
+        "word": "犠牲",
+        "reading": "ぎせい",
+        "meaning": "sacrifice, victim"
+      },
+      {
+        "word": "ありました",
+        "reading": "ありました",
+        "meaning": "there were (polite past of ある)"
+      }
+    ],
+    "grammar": "数え切れない is a compound potential negative: 数える (to count) + 切れない (cannot finish). Yuna's public address uses polite ます/ました forms throughout, marking formal speech."
+  },
+  {
+    "start": "8:36:10",
+    "end": "8:36:17",
+    "text": "何をなくしたのかわからないくらいたくさん なくしました",
+    "audio_file": "clip_062.mp3",
+    "translation": "We lost so much that we don't even know what we lost.",
+    "vocabulary": [
+      {
+        "word": "なくす",
+        "reading": "なくす",
+        "meaning": "to lose (something)"
+      },
+      {
+        "word": "〜のか",
+        "reading": "〜のか",
+        "meaning": "whether ~, the fact that ~ (embedded question)"
+      },
+      {
+        "word": "わからない",
+        "reading": "わからない",
+        "meaning": "don't know, unclear"
+      },
+      {
+        "word": "〜くらい",
+        "reading": "〜くらい",
+        "meaning": "to the extent of ~, so much that ~"
+      },
+      {
+        "word": "たくさん",
+        "reading": "たくさん",
+        "meaning": "a lot, many"
+      }
+    ],
+    "grammar": "何をなくしたのかわからないくらい is a complex nominalized structure: 'to the extent that we don't know what we lost.' The repetition of なくす (lost) frames the enormity of the sacrifices."
+  },
+  {
+    "start": "8:36:20",
+    "end": "8:36:26",
+    "text": "その代わり もう / シンはいません",
+    "audio_file": "clip_063.mp3",
+    "translation": "But in exchange — Sin is gone now.",
+    "vocabulary": [
+      {
+        "word": "その代わり",
+        "reading": "そのかわり",
+        "meaning": "in exchange, but in return, however"
+      },
+      {
+        "word": "もう",
+        "reading": "もう",
+        "meaning": "no longer, now (with negative)"
+      },
+      {
+        "word": "いる",
+        "reading": "いる",
+        "meaning": "to exist, to be (for animate beings)"
+      },
+      {
+        "word": "いません",
+        "reading": "いません",
+        "meaning": "is not here, does not exist (polite negative of いる)"
+      }
+    ],
+    "grammar": "その代わり sets up a contrast: 'we lost so much, but in return — Sin no longer exists.' もう + negative (いません) = 'no longer.'"
+  },
+  {
+    "start": "8:36:28",
+    "end": "8:36:30",
+    "text": "もしません",
+    "audio_file": "clip_064.mp3",
+    "translation": "Nor will it ever again.",
+    "vocabulary": [
+      {
+        "word": "もする",
+        "reading": "もする",
+        "meaning": "to do ~ either/also (も + する)"
+      },
+      {
+        "word": "もしません",
+        "reading": "もしません",
+        "meaning": "will not do ~ either (emphatic negation, adding completeness)"
+      }
+    ],
+    "grammar": "もしません adds to シンはいません — 'Sin is not here and will not [return/act] either.' The も intensifies the negation, making it absolute."
+  },
+  {
+    "start": "8:36:34",
+    "end": "8:36:35",
+    "text": "これから",
+    "audio_file": "clip_065.mp3",
+    "translation": "From now on —",
+    "vocabulary": [
+      {
+        "word": "これから",
+        "reading": "これから",
+        "meaning": "from now on, henceforth"
+      }
+    ],
+    "grammar": null
+  },
+  {
+    "start": "8:36:37",
+    "end": "8:36:41",
+    "text": "これからは 私たちの時代",
+    "audio_file": "clip_066.mp3",
+    "translation": "From now on, it is our era.",
+    "vocabulary": [
+      {
+        "word": "これからは",
+        "reading": "これからは",
+        "meaning": "from now on (は emphasizes the temporal shift)"
+      },
+      {
+        "word": "私たち",
+        "reading": "わたしたち",
+        "meaning": "we, us"
+      },
+      {
+        "word": "時代",
+        "reading": "じだい",
+        "meaning": "era, age"
+      }
+    ],
+    "grammar": "The は in これからは is a topic marker highlighting the temporal contrast with the past age of Sin. Echoes Auron's earlier もうお前たちの時代だ."
+  },
+  {
+    "start": "8:36:42",
+    "end": "8:36:43",
+    "text": "だよね",
+    "audio_file": "clip_067.mp3",
+    "translation": "Right?",
+    "vocabulary": [
+      {
+        "word": "だよね",
+        "reading": "だよね",
+        "meaning": "right?, isn't it? (seeking agreement, warm/casual)"
+      }
+    ],
+    "grammar": "The shift from formal address to the informal だよね is touching — Yuna momentarily drops the public speaker register and speaks personally to the crowd."
+  },
+  {
+    "start": "8:36:46",
+    "end": "8:36:52",
+    "text": "いっぱいあるけど 時間もいっぱいあるから",
+    "audio_file": "clip_068.mp3",
+    "translation": "There's a lot [to deal with], but we also have a lot of time.",
+    "vocabulary": [
+      {
+        "word": "いっぱい",
+        "reading": "いっぱい",
+        "meaning": "a lot, full, plenty (colloquial)"
+      },
+      {
+        "word": "あるけど",
+        "reading": "あるけど",
+        "meaning": "there is ~ but (concessive)"
+      },
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "time"
+      }
+    ],
+    "grammar": "The subject of the first いっぱいある is implied from context — problems/things to do. The も in 時間もいっぱい adds 'time too / time also.' から here gives a soft causal/reassuring tone."
+  },
+  {
+    "start": "8:36:55",
+    "end": "8:36:58",
+    "text": "だから 大丈夫だよね",
+    "audio_file": "clip_069.mp3",
+    "translation": "So it'll be alright, right?",
+    "vocabulary": [
+      {
+        "word": "だから",
+        "reading": "だから",
+        "meaning": "so, therefore, that's why"
+      },
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "alright, okay, fine"
+      },
+      {
+        "word": "だよね",
+        "reading": "だよね",
+        "meaning": "right?, isn't it?"
+      }
+    ],
+    "grammar": "Yuna's reassurance is itself a question — she is not certain but choosing to believe it will be okay. The よね pulls the listener in to agree with her hope."
+  },
+  {
+    "start": "8:37:03",
+    "end": "8:37:08",
+    "text": "力を合わせて 一緒に歩けるよね",
+    "audio_file": "clip_070.mp3",
+    "translation": "We can combine our strength and walk forward together, right?",
+    "vocabulary": [
+      {
+        "word": "力を合わせる",
+        "reading": "ちからをあわせる",
+        "meaning": "to combine strength, to join forces"
+      },
+      {
+        "word": "一緒に",
+        "reading": "いっしょに",
+        "meaning": "together"
+      },
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "meaning": "to walk"
+      },
+      {
+        "word": "〜えるよね",
+        "reading": "〜えるよね",
+        "meaning": "we can ~, right? (potential + seeking confirmation)"
+      }
+    ],
+    "grammar": "力を合わせて is the te-form used as 'by combining our strength.' 歩ける is the potential of 歩く. よね again pulls for collective agreement."
+  },
+  {
+    "start": "8:37:22",
+    "end": "8:37:26",
+    "text": "一つだけお願いがあります",
+    "audio_file": "clip_071.mp3",
+    "translation": "There is just one thing I ask of you.",
+    "vocabulary": [
+      {
+        "word": "一つだけ",
+        "reading": "ひとつだけ",
+        "meaning": "just one, only one"
+      },
+      {
+        "word": "お願い",
+        "reading": "おねがい",
+        "meaning": "request, wish, plea"
+      },
+      {
+        "word": "あります",
+        "reading": "あります",
+        "meaning": "there is (polite)"
+      }
+    ],
+    "grammar": "A formal, polite request opening. Yuna returns to formal register (あります) for this important petition to the people of Spira."
+  },
+  {
+    "start": "8:37:28",
+    "end": "8:37:34",
+    "text": "いなくなってしまった人たちのこと",
+    "audio_file": "clip_072.mp3",
+    "translation": "The people who are no longer with us —",
+    "vocabulary": [
+      {
+        "word": "いなくなる",
+        "reading": "いなくなる",
+        "meaning": "to no longer be here, to disappear (of animate beings)"
+      },
+      {
+        "word": "〜てしまった",
+        "reading": "〜てしまった",
+        "meaning": "has (regrettably) ~ (completion with regret)"
+      },
+      {
+        "word": "人たち",
+        "reading": "ひとたち",
+        "meaning": "people (plural)"
+      },
+      {
+        "word": "〜のこと",
+        "reading": "〜のこと",
+        "meaning": "about ~, regarding ~ (topic marker)"
+      }
+    ],
+    "grammar": "いなくなってしまった人たち: those who have gone (including Tidus, Auron, Jecht, and all who died). のこと sets up the next clause's topic — 'about those people.'"
+  },
+  {
+    "start": "8:37:35",
+    "end": "8:37:39",
+    "text": "時々でいいから",
+    "audio_file": "clip_073.mp3",
+    "translation": "Just every now and then —",
+    "vocabulary": [
+      {
+        "word": "時々",
+        "reading": "ときどき",
+        "meaning": "sometimes, from time to time"
+      },
+      {
+        "word": "〜でいい",
+        "reading": "〜でいい",
+        "meaning": "it's fine just with ~, just ~ is enough"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "meaning": "because, so (here: soft 'just because it's enough' tone)"
+      }
+    ],
+    "grammar": "時々でいいから: 'it's fine just every now and then / just sometimes is enough.' A gentle, humble request — Yuna is not asking for constant remembrance, just occasional thought."
+  },
+  {
+    "start": "8:37:50",
+    "end": "8:37:53",
+    "text": "思い出してください",
+    "audio_file": "clip_074.mp3",
+    "translation": "Please remember them.",
+    "vocabulary": [
+      {
+        "word": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "to remember, to recall"
+      },
+      {
+        "word": "〜てください",
+        "reading": "〜てください",
+        "meaning": "please do ~ (polite request)"
+      }
+    ],
+    "grammar": "The culmination of Yuna's plea: 思い出してください — 'please remember (them).' This completes the sentence started at clip_072. A formal, heartfelt petition."
+  },
+  {
+    "start": "8:38:08",
+    "end": "8:38:15",
+    "text": "風が寄せた言葉に",
+    "audio_file": "clip_075.mp3",
+    "translation": "In the words carried on the wind,",
+    "vocabulary": [
+      {
+        "word": "風",
+        "reading": "かぜ",
+        "meaning": "wind"
+      },
+      {
+        "word": "寄せる",
+        "reading": "よせる",
+        "meaning": "to bring near, to carry (toward), to draw close"
+      },
+      {
+        "word": "言葉",
+        "reading": "ことば",
+        "meaning": "words, language"
+      }
+    ],
+    "grammar": "Song lyrics begin here (「素敵だね」). 風が寄せた言葉に: に marks 'in / upon the words that the wind carried.' 寄せた is the past attributive form modifying 言葉."
+  },
+  {
+    "start": "8:38:16",
+    "end": "8:38:21",
+    "text": "泳いだ心",
+    "audio_file": "clip_076.mp3",
+    "translation": "A heart that swam (was swept away).",
+    "vocabulary": [
+      {
+        "word": "泳ぐ",
+        "reading": "およぐ",
+        "meaning": "to swim; figuratively: to be swept away, to drift"
+      },
+      {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "heart, mind, spirit"
+      }
+    ],
+    "grammar": "泳いだ心: past attributive — 'a heart that swam/drifted.' 風が寄せた言葉に泳いだ心: 'a heart that swam in the words carried by the wind.' Lyrical, imagistic."
+  },
+  {
+    "start": "8:38:22",
+    "end": "8:38:35",
+    "text": "雲が運ぶ明日に 弾んだ声",
+    "audio_file": "clip_077.mp3",
+    "translation": "A voice that leapt with joy, toward a tomorrow that clouds carry.",
+    "vocabulary": [
+      {
+        "word": "雲",
+        "reading": "くも",
+        "meaning": "cloud"
+      },
+      {
+        "word": "運ぶ",
+        "reading": "はこぶ",
+        "meaning": "to carry, to transport"
+      },
+      {
+        "word": "明日",
+        "reading": "あした / あす",
+        "meaning": "tomorrow, the future"
+      },
+      {
+        "word": "弾む",
+        "reading": "はずむ",
+        "meaning": "to bounce, to be lively, to be buoyant with excitement"
+      },
+      {
+        "word": "声",
+        "reading": "こえ",
+        "meaning": "voice"
+      }
+    ],
+    "grammar": "雲が運ぶ明日に: 'toward a tomorrow that the clouds carry.' 弾んだ声: 'a voice that bounced/was buoyant.' Parallel structure to the previous line — natural image in/toward X + emotional response Y."
+  },
+  {
+    "start": "8:38:35",
+    "end": "8:38:49",
+    "text": "月が揺れる鏡に 震えた心",
+    "audio_file": "clip_078.mp3",
+    "translation": "A heart that trembled, in the mirror where the moon sways.",
+    "vocabulary": [
+      {
+        "word": "月",
+        "reading": "つき",
+        "meaning": "moon"
+      },
+      {
+        "word": "揺れる",
+        "reading": "ゆれる",
+        "meaning": "to sway, to rock, to waver"
+      },
+      {
+        "word": "鏡",
+        "reading": "かがみ",
+        "meaning": "mirror"
+      },
+      {
+        "word": "震える",
+        "reading": "ふるえる",
+        "meaning": "to tremble, to shake, to quiver"
+      }
+    ],
+    "grammar": "月が揺れる鏡: 'a mirror in which the moon sways' — a watery surface reflecting moonlight. に marks the location in which the trembling occurred. Another parallel imagistic structure."
+  },
+  {
+    "start": "8:38:50",
+    "end": "8:39:02",
+    "text": "星が流れこぼれた やわらかい涙",
+    "audio_file": "clip_079.mp3",
+    "translation": "Soft tears that flowed and spilled like falling stars.",
+    "vocabulary": [
+      {
+        "word": "星",
+        "reading": "ほし",
+        "meaning": "star"
+      },
+      {
+        "word": "流れる",
+        "reading": "ながれる",
+        "meaning": "to flow, to stream"
+      },
+      {
+        "word": "こぼれる",
+        "reading": "こぼれる",
+        "meaning": "to spill, to overflow"
+      },
+      {
+        "word": "やわらかい",
+        "reading": "やわらかい",
+        "meaning": "soft, gentle"
+      },
+      {
+        "word": "涙",
+        "reading": "なみだ",
+        "meaning": "tears"
+      }
+    ],
+    "grammar": "星が流れこぼれた is a compound verbal phrase: 流れる + こぼれる combined as one action — 'streamed and spilled over.' やわらかい涙 is the noun phrase it modifies."
+  },
+  {
+    "start": "8:39:04",
+    "end": "8:39:18",
+    "text": "素敵だね 二人手を取り歩けたなら",
+    "audio_file": "clip_080.mp3",
+    "translation": "How wonderful it would be, if the two of us could hold hands and walk together.",
+    "vocabulary": [
+      {
+        "word": "素敵",
+        "reading": "すてき",
+        "meaning": "wonderful, lovely, splendid"
+      },
+      {
+        "word": "だね",
+        "reading": "だね",
+        "meaning": "isn't it?, right? (seeking gentle agreement)"
+      },
+      {
+        "word": "二人",
+        "reading": "ふたり",
+        "meaning": "two people, the two of us"
+      },
+      {
+        "word": "手を取る",
+        "reading": "てをとる",
+        "meaning": "to take someone's hand, to hold hands"
+      },
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "meaning": "to walk"
+      },
+      {
+        "word": "〜たなら",
+        "reading": "〜たなら",
+        "meaning": "if ~ (counterfactual or aspirational conditional)"
+      }
+    ],
+    "grammar": "歩けたなら: potential past 歩けた + なら = 'if only we could walk.' The たなら structure often implies a wish or hypothetical ('if that were to happen / if only'). This is the chorus of 素敵だね, the FFX ending theme."
+  },
+  {
+    "start": "8:39:19",
+    "end": "8:39:33",
+    "text": "行きたいよ 君の街家 上の中",
+    "audio_file": "clip_081.mp3",
+    "translation": "I want to go — to your town, inside your heart. (Subtitle transcription may be imprecise)",
+    "vocabulary": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "to go"
+      },
+      {
+        "word": "〜たい",
+        "reading": "〜たい",
+        "meaning": "want to ~"
+      },
+      {
+        "word": "君",
+        "reading": "きみ",
+        "meaning": "you (intimate/poetic)"
+      },
+      {
+        "word": "街",
+        "reading": "まち",
+        "meaning": "town, city"
+      }
+    ],
+    "grammar": "行きたいよ is a heartfelt 'I want to go' with よ adding personal assertion. The rest of the lyric (君の街家 上の中) may be a subtitle transcription imprecision for 「君の街へ 夢の中」('to your town, inside a dream') — a common lyric in the song."
+  },
+  {
+    "start": "8:39:34",
+    "end": "8:39:45",
+    "text": "その胸 からだあつけ",
+    "audio_file": "clip_082.mp3",
+    "translation": "To your chest — pressed close to your body. (Likely: 「その胸 体あずけ」— entrusting my body to your chest)",
+    "vocabulary": [
+      {
+        "word": "胸",
+        "reading": "むね",
+        "meaning": "chest, breast, heart"
+      },
+      {
+        "word": "体",
+        "reading": "からだ",
+        "meaning": "body"
+      },
+      {
+        "word": "預ける",
+        "reading": "あずける",
+        "meaning": "to entrust, to leave in someone's care"
+      }
+    ],
+    "grammar": "Likely 体あずけ = 体を預け: 'entrusting my body (to you)' — a lyric about leaning into an embrace. The subtitle appears to have a transcription imprecision."
+  },
+  {
+    "start": "8:39:47",
+    "end": "8:40:01",
+    "text": "夜に庭切れ 夢見る",
+    "audio_file": "clip_083.mp3",
+    "translation": "Dreaming, lost in the night. (Likely: 「夜に紛れ 夢見る」— blending into the night, dreaming)",
+    "vocabulary": [
+      {
+        "word": "夜",
+        "reading": "よる",
+        "meaning": "night"
+      },
+      {
+        "word": "紛れる",
+        "reading": "まぎれる",
+        "meaning": "to be lost in, to blend into, to become indistinct within"
+      },
+      {
+        "word": "夢見る",
+        "reading": "ゆめみる",
+        "meaning": "to dream"
+      }
+    ],
+    "grammar": "夜に紛れ: 'blending into the night / lost in the night' (te-form of 紛れる). 夢見る: to dream. A lyric about disappearing into night and dreaming."
+  },
+  {
+    "start": "8:40:59",
+    "end": "8:41:11",
+    "text": "手は止まり言葉は やさしい幻",
+    "audio_file": "clip_084.mp3",
+    "translation": "Hands stop moving, and words become a gentle illusion.",
+    "vocabulary": [
+      {
+        "word": "手",
+        "reading": "て",
+        "meaning": "hand"
+      },
+      {
+        "word": "止まる",
+        "reading": "とまる",
+        "meaning": "to stop"
+      },
+      {
+        "word": "言葉",
+        "reading": "ことば",
+        "meaning": "words"
+      },
+      {
+        "word": "やさしい",
+        "reading": "やさしい",
+        "meaning": "gentle, kind, tender"
+      },
+      {
+        "word": "幻",
+        "reading": "まぼろし",
+        "meaning": "illusion, phantom, vision"
+      }
+    ],
+    "grammar": "手は止まり: は marks topic/contrast, まり is the te-form of 止まる. 言葉はやさしい幻: 'words are a gentle illusion.' The contrastive は (手は / 言葉は) creates parallel structure."
+  },
+  {
+    "start": "8:41:12",
+    "end": "8:41:24",
+    "text": "雲は破れ 明日は遠くも越え",
+    "audio_file": "clip_085.mp3",
+    "translation": "Clouds break apart, and tomorrow crosses even far distances.",
+    "vocabulary": [
+      {
+        "word": "破れる",
+        "reading": "やぶれる",
+        "meaning": "to tear, to break, to be torn apart"
+      },
+      {
+        "word": "遠く",
+        "reading": "とおく",
+        "meaning": "far away, a great distance"
+      },
+      {
+        "word": "越える",
+        "reading": "こえる",
+        "meaning": "to cross over, to surpass, to go beyond"
+      }
+    ],
+    "grammar": "雲は破れ: te-form (破れ) creating sequence. 明日は遠くも越え: 'tomorrow crosses even far distances' — も adds 'even.' The も emphasizes that even great distances are overcome."
+  },
+  {
+    "start": "8:41:25",
+    "end": "8:41:37",
+    "text": "月がにじむ鏡を 流れた心",
+    "audio_file": "clip_086.mp3",
+    "translation": "A heart that flowed through a mirror where the moon blurs.",
+    "vocabulary": [
+      {
+        "word": "にじむ",
+        "reading": "にじむ",
+        "meaning": "to blur, to bleed (of ink/color), to be hazy"
+      },
+      {
+        "word": "鏡",
+        "reading": "かがみ",
+        "meaning": "mirror"
+      },
+      {
+        "word": "流れる",
+        "reading": "ながれる",
+        "meaning": "to flow"
+      }
+    ],
+    "grammar": "月がにじむ鏡: 'a mirror in which the moon blurs' — moonlight on a rippling water surface. を marks the object/path of 流れた: 'flowed through/across.' A variation of the earlier 揺れる/震えた verse."
+  },
+  {
+    "start": "8:41:38",
+    "end": "8:41:53",
+    "text": "星が揺れてこぼれた 隠せない涙",
+    "audio_file": "clip_087.mp3",
+    "translation": "Tears that cannot be hidden, as stars wavered and spilled over.",
+    "vocabulary": [
+      {
+        "word": "揺れる",
+        "reading": "ゆれる",
+        "meaning": "to sway, to waver"
+      },
+      {
+        "word": "こぼれる",
+        "reading": "こぼれる",
+        "meaning": "to spill over, to overflow"
+      },
+      {
+        "word": "隠す",
+        "reading": "かくす",
+        "meaning": "to hide, to conceal"
+      },
+      {
+        "word": "隠せない",
+        "reading": "かくせない",
+        "meaning": "cannot hide (negative potential)"
+      },
+      {
+        "word": "涙",
+        "reading": "なみだ",
+        "meaning": "tears"
+      }
+    ],
+    "grammar": "星が揺れてこぼれた: te-form sequence — 'the stars wavered and spilled over.' 隠せない涙: 'tears that cannot be hidden' (negative potential as attributive). A variation of やわらかい涙 from the first verse."
+  },
+  {
+    "start": "8:41:54",
+    "end": "8:42:08",
+    "text": "素敵だね 二人手を取りあげたなら",
+    "audio_file": "clip_088.mp3",
+    "translation": "How wonderful it would be, if the two of us could raise our joined hands.",
+    "vocabulary": [
+      {
+        "word": "素敵",
+        "reading": "すてき",
+        "meaning": "wonderful, lovely"
+      },
+      {
+        "word": "二人",
+        "reading": "ふたり",
+        "meaning": "two people, the two of us"
+      },
+      {
+        "word": "手を取る",
+        "reading": "てをとる",
+        "meaning": "to take someone's hand"
+      },
+      {
+        "word": "〜あげる",
+        "reading": "〜あげる",
+        "meaning": "to raise up; to do (for someone's benefit)"
+      },
+      {
+        "word": "〜たなら",
+        "reading": "〜たなら",
+        "meaning": "if ~ (aspirational conditional)"
+      }
+    ],
+    "grammar": "取りあげた is a compound: 取る + 上げる = 'to take up / raise (hands together).' A variation of the first chorus line (歩けたなら → 取りあげたなら)."
+  },
+  {
+    "start": "8:42:09",
+    "end": "8:42:23",
+    "text": "生きたいよ 君の街へ 生んでこまる",
+    "audio_file": "clip_089.mp3",
+    "translation": "I want to live — toward your town... (subtitle transcription may be imprecise)",
+    "vocabulary": [
+      {
+        "word": "生きる",
+        "reading": "いきる",
+        "meaning": "to live"
+      },
+      {
+        "word": "〜たい",
+        "reading": "〜たい",
+        "meaning": "want to ~"
+      },
+      {
+        "word": "街",
+        "reading": "まち",
+        "meaning": "town"
+      }
+    ],
+    "grammar": "生きたいよ: 'I want to live' — a shift from 行きたいよ (want to go) in the first verse, deepening the emotional register. 生んでこまる may be a subtitle transcription error."
+  },
+  {
+    "start": "8:42:23",
+    "end": "8:42:50",
+    "text": "その顔 そっと触れて 朝に溶ける夢見る",
+    "audio_file": "clip_090.mp3",
+    "translation": "Gently touching that face, dreaming of a dream that melts into the morning.",
+    "vocabulary": [
+      {
+        "word": "顔",
+        "reading": "かお",
+        "meaning": "face"
+      },
+      {
+        "word": "そっと",
+        "reading": "そっと",
+        "meaning": "gently, softly, quietly"
+      },
+      {
+        "word": "触れる",
+        "reading": "ふれる",
+        "meaning": "to touch, to brush against"
+      },
+      {
+        "word": "朝",
+        "reading": "あさ",
+        "meaning": "morning"
+      },
+      {
+        "word": "溶ける",
+        "reading": "とける",
+        "meaning": "to melt, to dissolve"
+      },
+      {
+        "word": "夢見る",
+        "reading": "ゆめみる",
+        "meaning": "to dream"
+      }
+    ],
+    "grammar": "そっと触れて: te-form creating sequence — 'touching gently, and...' 朝に溶ける夢: 'a dream that melts into the morning' (溶ける as attributive modifying 夢). 夢見る: dreaming of that dream."
+  },
+  {
+    "start": "8:42:51",
+    "end": "8:43:05",
+    "text": "好きだね 二人手を取り歩けたなら",
+    "audio_file": "clip_091.mp3",
+    "translation": "I love you — how wonderful if the two of us could hold hands and walk together.",
+    "vocabulary": [
+      {
+        "word": "好き",
+        "reading": "すき",
+        "meaning": "to like, to love"
+      },
+      {
+        "word": "だね",
+        "reading": "だね",
+        "meaning": "isn't it?, right? (seeking agreement)"
+      },
+      {
+        "word": "二人",
+        "reading": "ふたり",
+        "meaning": "two people"
+      },
+      {
+        "word": "手を取る",
+        "reading": "てをとる",
+        "meaning": "to hold hands"
+      },
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "meaning": "to walk"
+      }
+    ],
+    "grammar": "好きだね shifts from 素敵だね (wonderful) to the direct 'I love you / I like you.' A more personal, intimate declaration. The chorus lyric returns with this emotional deepening."
+  },
+  {
+    "start": "8:43:06",
+    "end": "8:43:20",
+    "text": "生きたいよ 君の街家 腕を巻く",
+    "audio_file": "clip_092.mp3",
+    "translation": "I want to live — in your town, arms wrapped around you.",
+    "vocabulary": [
+      {
+        "word": "生きる",
+        "reading": "いきる",
+        "meaning": "to live"
+      },
+      {
+        "word": "腕",
+        "reading": "うで",
+        "meaning": "arm"
+      },
+      {
+        "word": "巻く",
+        "reading": "まく",
+        "meaning": "to wrap, to wind around"
+      }
+    ],
+    "grammar": "腕を巻く: 'wrapping arms (around you)' — an embrace. Builds on the earlier verse's imagery of physical closeness (体あずけ → 腕を巻く)."
+  },
+  {
+    "start": "8:43:21",
+    "end": "8:43:33",
+    "text": "その胸 体あつけ",
+    "audio_file": "clip_093.mp3",
+    "translation": "To your chest, entrusting my body. (Likely: 「その胸 体あずけ」)",
+    "vocabulary": [
+      {
+        "word": "胸",
+        "reading": "むね",
+        "meaning": "chest, heart"
+      },
+      {
+        "word": "体",
+        "reading": "からだ",
+        "meaning": "body"
+      },
+      {
+        "word": "預ける",
+        "reading": "あずける",
+        "meaning": "to entrust, to lean on"
+      }
+    ],
+    "grammar": "Repeat of clip_082 lyric — its place in the final chorus emphasizes the longing for closeness and rest."
+  },
+  {
+    "start": "8:43:34",
+    "end": "8:43:46",
+    "text": "夜に紛れ 夢に舞う",
+    "audio_file": "clip_094.mp3",
+    "translation": "Lost in the night, dancing in a dream.",
+    "vocabulary": [
+      {
+        "word": "夜",
+        "reading": "よる",
+        "meaning": "night"
+      },
+      {
+        "word": "紛れる",
+        "reading": "まぎれる",
+        "meaning": "to be lost in, to blend into"
+      },
+      {
+        "word": "夢",
+        "reading": "ゆめ",
+        "meaning": "dream"
+      },
+      {
+        "word": "舞う",
+        "reading": "まう",
+        "meaning": "to dance, to flutter, to soar"
+      }
+    ],
+    "grammar": "夜に紛れ: te-form of 紛れる — 'blending into the night.' 夢に舞う: 'dancing in a dream.' に marks location/medium for both actions. A beautiful final lyric closing the ending — Tidus (as a dream) dissolves into the night and dances in the dream world."
+  }
+]
