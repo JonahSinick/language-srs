@@ -75,14 +75,24 @@
             display: block;
         }
 
-        .reveal-hint {
-            text-align: center;
-            color: #888;
-            font-size: 13px;
-            margin-top: 12px;
+        .reveal-btn {
+            display: block;
+            width: 100%;
+            padding: 14px;
+            margin-top: 4px;
+            background: #1a5276;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background 0.2s;
         }
-        .reveal-hint.hidden {
-            display: none;
+        .reveal-btn:hover {
+            background: #14415e;
+        }
+        .reveal-btn:active {
+            background: #102f44;
         }
 
         .vocab-section {
@@ -412,14 +422,14 @@
             localStorage.setItem('p3_show_by_default', showByDefault);
 
             const translation = document.getElementById('translation');
-            const revealHint = document.getElementById('revealHint');
+            const revealBtn = document.getElementById('revealBtn');
             const vocabSection = document.getElementById('vocabSection');
             const grammarSection = document.getElementById('grammarSection');
 
             if (translation) {
                 revealed = showByDefault;
                 translation.classList.toggle('revealed', showByDefault);
-                if (revealHint) revealHint.classList.toggle('hidden', showByDefault);
+                if (revealBtn) revealBtn.textContent = showByDefault ? 'Hide translation' : 'Show translation';
                 if (vocabSection) vocabSection.classList.toggle('revealed', showByDefault);
                 if (grammarSection) grammarSection.classList.toggle('revealed', showByDefault);
             }
@@ -513,11 +523,11 @@
                     <audio id="cardAudio" controls src="${currentSection}_clips/${card.audio_file}"></audio>
                     <button class="replay-btn" onclick="replayAudio()">Replay Audio</button>
 
+                    <button class="reveal-btn" id="revealBtn" onclick="toggleReveal()">Show translation</button>
+
                     <div class="translation" id="translation">${translationText}</div>
                     ${vocabHtml}
                     ${grammarHtml}
-
-                    <div class="reveal-hint" id="revealHint">Press <kbd>Space</kbd> to reveal translation</div>
                 </div>
             `;
 
@@ -529,7 +539,7 @@
             if (showByDefault) {
                 revealed = true;
                 document.getElementById('translation').classList.add('revealed');
-                document.getElementById('revealHint').classList.add('hidden');
+                document.getElementById('revealBtn').textContent = 'Hide translation';
                 const vocabSection = document.getElementById('vocabSection');
                 const grammarSection = document.getElementById('grammarSection');
                 if (vocabSection) vocabSection.classList.add('revealed');
@@ -549,7 +559,8 @@
         function toggleReveal() {
             revealed = !revealed;
             document.getElementById('translation').classList.toggle('revealed', revealed);
-            document.getElementById('revealHint').classList.toggle('hidden', revealed);
+            const revealBtn = document.getElementById('revealBtn');
+            if (revealBtn) revealBtn.textContent = revealed ? 'Hide translation' : 'Show translation';
 
             const vocabSection = document.getElementById('vocabSection');
             const grammarSection = document.getElementById('grammarSection');
